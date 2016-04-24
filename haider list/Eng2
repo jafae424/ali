@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+<item>
+<title>syfy  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=1399&name=Syfy&hd=no</page>
+<referer>http://latino-webtv.com/SyFy-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
+
+<item>
+<title>HBO 2</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68358',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ABC Family/</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=30303',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>CBS/</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69956',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Amc</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68963',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Sky Scifi</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71731',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>StarZ HD</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73259',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX En  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://latino-webtv.com/embed/fox.html</page>
+<referer>http://latino-webtv.com/FOX-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
+<item>
+<title>Fox Movie</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=38449',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The HD Movie channel</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68358',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>National-geographic </title>
+<link>$doregex[getURL]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>getURL</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.stream4free.pro/national-geographic</page>
+<referer>http://www.stream4free.pro/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://www.stream4free.pro/national-geographic',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>History Channel</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70633',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>discovery Max</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/max.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://i.imgur.com/ST0nJb2.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+ 
+<item>
+<title>Discovery Channel</title>
+<sportsdevil>http://verdirectotv.com/tv/documentales/discovery.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://i.imgur.com/VEXxOky.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+ 
+<item>
+<title>National Geography</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision1/national.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://i.imgur.com/Co57iED.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+
+<streaminginfo>
+	<cname>world travel channel</cname>
+	<item>
+	<title>world travel channel</title> 
+	<link>$doregex[clean-url]</link> 
+<regex>
+	<name>clean-url</name>
+	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>"mediaUrl":"(.*?)"</expres>
+	<page>http://worldtravelchannel.web.tv/</page>
+</regex>
+</item>
+</streaminginfo
+
+###############
+<item>
+<title>bbc world news/</title>
+<link>$doregex[URL]|Referer=http://bbcworldnews.web.tv/&amp;User-Agent=iPhone</link>
+<regex>
+    <name>URL</name>
+    <expres>$pyFunction:'$doregex[getstream]'.replace('\/','/')</expres>
+    <page></page>
+</regex>
+<regex>
+    <name>getstream</name>
+    <expres>"src":"(.*?)"\}</expres>
+    <page>http://bbcworldnews.web.tv/embed/live/140402</page>
+    <referer>http://bbcworldnews.web.tv/</referer>
+    <agent>iPhone</agent>
+    <cookieJar></cookieJar>
+</regex>
+</item>
+<item>
+<title>history channel</title>
+<link>$doregex[max-cookie-referer]</link>
+
+<regex>
+<name>max-cookie-referer</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
+ import re
+ import requests
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source = requests.get(url, headers=headers)
+ maxi = re.findall('(http.*)', source.text)[0]
+ clean=maxi.replace('|','%7C')
+ cookie2 = source.cookies['_g']
+ return clean + '|Referer=http://tutvgratis.tv/&Cookie=_g=' + cookie2
+
+]]></expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>select_Url</name>
+<expres>file: "(.*?)"</expres>
+<page>$pyFunction: unCaptcha.performCaptcha('http://tutvgratis.tv/embed/tutv?chid=44',Cookie_Jar,returnpage=True)</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+</regex>
+</item>
+
+
+##############test
+<item>
+<title>Animal Planet</title>
+<link>$doregex[get-link]|User-Agent=iPhone</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>theater Descovery</title>
+<link>$doregex[max-cookie-referer]</link>
+
+<regex>
+<name>max-cookie-referer</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
+ import re
+ import requests
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source = requests.get(url, headers=headers)
+ maxi = re.findall('(http.*)', source.text)[0]
+ clean=maxi.replace('|','%7C')
+ cookie2 = source.cookies['_g']
+ return clean + '|Referer=http://tutvgratis.tv/&Cookie=_g=' + cookie2
+
+]]></expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>select_Url</name>
+<expres>file: "(.*?)"</expres>
+<page>$pyFunction: unCaptcha.performCaptcha('http://tutvgratis.tv/embed/tutv?chid=45',Cookie_Jar,returnpage=True)</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+</regex>
+</item>
+#############
+
+
+
+
+
+
+
+<item>
+<title>Cartoon network/</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+<name>rtmp-code</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71632',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>fox-turkiye</title>
+<link>$doregex[get-m3u8]</link>
+
+<regex>
+<name>get-m3u8</name>
+<expres>file:"(.*?)"</expres>
+<page>http://www.canlitvlive.tv/izle/fox-turkiye.html</page>
+</regex>
+</item>
+
+
+
+<item>
+<title>QVC UK HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/48/QVC.svg/948px-QVC.svg.png</thumbnail>
+</item>
+<item>
+<title>QVC PLUS HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/61KfxmW7caL.png</thumbnail>
+</item>
+
+<streaminginfo>
+<cname>IFilme ENG</cname>
+<item>
+<title>IFilme ENG</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=331</page>
+</regex>
+</item>
+</streaminginfo>
+
+<item>
+<title>MTV</title>
+<link>$doregex[getRtmp] playpath=$doregex[getPath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+
+<regex>
+<name>getRtmp</name>
+<expres>streamer="(.*?)";</expres>
+<referer>http://iptv-planet.com/mtv.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<regex>
+<name>getPath</name>
+<expres>'file'.*?[",'](.*?)[",']</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400</page>
+<referer>http://iptv-planet.com/mtv.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
+<item>
+<title>24/7 Simpsons</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8</link>
+<thumbnail>http://www.stream2watch.com/images/thumbs/Simpsons%20live%20stream.jpg</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/The-Simpsons-Pool-HD-Wallpapers.jpg</fanart>
+</item>
+
+
+
+item>
+<title>ontv</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[m3u]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>live\/(.*?)_.*">\s(.*?)<.*\n.*src="(.*?)"</expres>
+<page>http://ontv.al/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>m3u</name>
+<expres>file:'(http.*?)'</expres>
+<page>http://ontv.al/embed/[makelist.param1]</page>
+<cookiejar></cookiejar>
+<referer>http://ontv.al/live/</referer>
+</regex>
+</item>
+
+<streaminginfo>
+<cname>CCTV9 documentray</cname>
+<item>
+<title>CCTV9 documentray</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=161</page>
+</regex>
+</item>
+</streaminginfo>
+#################(oklivetv).com
+item>
+<title>tru tv-live </title>
+<thumbnail></thumbnail>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>streamURL.*?"(.*?)"</expres>
+	<page>$doregex[getmainPage]</page>
+</regex>
+<regex>
+	<name>getmainPage</name>
+	<expres>$pyFunction:get_unpacked(page_data,'player69.*?(eval.*)')</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar>$doregex[postcaptcha]</cookieJar>
+	<ignorecache/>
+</regex>
+<regex>
+<name>postcaptcha</name>
+	<expres></expres>
+	<page>$doregex[streampage]</page>
+	<post>$doregex[showcaptcha]</post>
+	<referer>$doregex[streampage]</referer>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>showcaptcha</name>
+	<expres>(.*)</expres>
+	<page>$pyFunction:getGoogleRecaptchaResponse('$doregex[captchaid]',Cookie_Jar,2)</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>captchaid</name>
+	<expres>challenge\?k=([^"]*)</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>streampage</name>
+	<expres>src='(.*?idds.*?)'</expres>
+	<page>http://oklivetv.com/trutv-live/</page>
+	<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+item>
+<title>tru tv-live </title>
+<thumbnail></thumbnail>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>streamURL.*?"(.*?)"</expres>
+	<page>$doregex[getmainPage]</page>
+</regex>
+<regex>
+	<name>getmainPage</name>
+	<expres>$pyFunction:get_unpacked(page_data,'player69.*?(eval.*)')</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar>$doregex[postcaptcha]</cookieJar>
+	<ignorecache/>
+</regex>
+<regex>
+<name>postcaptcha</name>
+	<expres></expres>
+	<page>$doregex[streampage]</page>
+	<post>$doregex[showcaptcha]</post>
+	<referer>$doregex[streampage]</referer>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>showcaptcha</name>
+	<expres>(.*)</expres>
+	<page>$pyFunction:getGoogleRecaptchaResponse('$doregex[captchaid]',Cookie_Jar,2)</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>captchaid</name>
+	<expres>challenge\?k=([^"]*)</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>streampage</name>
+	<expres>src='(.*?idds.*?)'</expres>
+	<page>http://oklivetv.com/trutv-live/</page>
+	<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+##################3
+<item>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue]BES-IPTV[/COLOR]|[COLOR deepskyblue]Channel:[/COLOR] [makelist.param2]</title>
+<link>[makelist.param3]</link>
+<link>[makelist.param1]|User-Agent=MXPlayer/1.7.37</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>http_stream': u'(.*?)'.*?cat_name': u'Sports'.*?channel_name': u'(.*?)'.*?rtmp_stream': u'(.*?)'</expres>
+<page>$doregex[get-json]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-json</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import urllib2
+ import requests
+ import json
+ headers = {'User-Agent': 'USER-AGENT-UKTVNOW-APP-V1'}
+ data = {'username':'saydinx'}
+ source = requests.post('https://app.uktvnow.net/v1/get_all_channels', headers=headers ,data=data)
+ jsondata=json.loads(source.text)
+ return jsondata
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+############
+
+
+

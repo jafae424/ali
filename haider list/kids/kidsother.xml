@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<streaminginfos>
+
+
+	
+<item>
+<title>Sindbad</title>
+<link>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/Arabiccartoons/Sindbad.xml</link>
+</item>	
+
+
+
+
+<item>
+<title> test 1</title>
+<link>$doregex[makelist]</link>
+<regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+        <thumbnail>https://yt3.ggpht.com/-VcKQJ2TNTyo/*********AI/*********AA/COXcX17vIe4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+    ]]></listrepeat>
+    <expres>data-sessionlink=.*?href=".*?v=(.*?)"&gt;(.+?)&lt;</expres>
+    <page>https://www.youtube.com/user/2MTV/videos</page>
+    <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-VcKQJ2TNTyo/*********AI/*********AA/COXcX17vIe4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-jKXrS0fGkcg/Vazs-1***zI/*********Os/SzsZV_XhGkI/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/youtube.jpg</fanart>
+</item>	
+
+
+
+
+
+
+</streaminginfos>

@@ -1,0 +1,436 @@
+
+
+###### from web.tv#######
+<streaminginfo>
+	<cname>Rai sport 2</cname>
+	<item>
+	<title>Rai sport 2</title> 
+	<link>$doregex[clean-url]</link> 
+<regex>
+	<name>clean-url</name>
+	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>"mediaUrl":"(.*?)"</expres>
+	<page>http://raisport2.web.tv/</page>
+</regex>
+</item>
+</streaminginfo>
+#########################
+
+
+<streaminginfo>
+        <cname>Zee Aflam</cname>
+        <item>
+            <title>High</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+
+########################
+
+<item>
+<title>Birmingham - Derby County (20:30)</title>
+<link>
+sublink:LISTNAME:[COLOR yellow]Sport 1 Voetbal[/COLOR] - [COLOR blue]720p[/COLOR] ::LISTSOURCE:http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Sport 1 Voetbal[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://195.154.227.38:1935/ive/skysports5lsh/playlist.m3u8 ::--#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+3333333333333
+
+
+
+<streaminginfo>
+		<cname>BBC Two</cname>
+		<item>
+			<title>giniko</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>file: "([^"]*)</expres>
+				<page>http://giniko.com/watch.php?id=190</page> تاخذ من
+				</regex>
+				</item>
+	</streaminginfo>
+
+-------------------------------
+<viewtype>list</viewtype>
+----------------------------
+عمل بلي لست من youtube 
+
+
+<item>
+<title>[COLOR red] Playlist[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt&order=[default]</link>
+</item>
+--------------------
+
+لست جيع ال
+
+<item>
+<title>22992</title>
+<link>http://Ignoreme</link>
+<externallink>http://178.33.231.219:88/get.php?username=22492&&amp;password=22492&amp;type=m3u&&amp;output=mpegts</externallink>
+</item>
+
+
+<item><title>Haider Arabic</title><link>Test</link><externallink>http://avatarhd.no-ip.biz:3030/get.php?username=2rami1&amp;password=2rami1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+
+---------------
+FIlmon addon
+<item>
+<title>Filmon</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/filmon.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
+</item>
+---------------------------
+#EXTINF:-1,الريان
+rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf/alrayyantv.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 <pageUrl>http://www.elahmad.com/tv/alrayyantv.php <objectEncoding>
+--------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR gold][B]تاخذ من[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt&mode=5</jsonrpc>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
+</item>
+----------------------------- from http://livestream.com-------------------------------------------------
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>ALFayha</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>43.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13964753/events/4352548/player?width=1080&amp;amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+---------------------------latino-webtv.com-------------------
+<item>
+<title>FOX En  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://embed.latino-webtv.com/fox.html</page>
+<referer>http://latino-webtv.com/FOX-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
+-----------------------------------www.speed9kick9.com-
+
+<item>
+<title>Bein sport 1 eng</title>
+<link>https://forums.tvaddons.ag/$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>app</name>
+<expres>file: ".*\/(.*?\/).*?",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: ".*\/(.*?)",</expres>
+<page>$doregex[page]</page>
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src='(.*?)'.*?width='100%</expres>
+<page>http://www.speed9kick9.com/BEINSport-179.html</page> ### change
+<referer>http://www.speed9kick9.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+###################http://web.tv
+<item>
+<title>http://elsharq.web.tv/</title>
+<link>$doregex[get-m3u8]</link>
+
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('https','http')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>jsonurl</name>
+<expres>"mediaUrl":"(.*?)"</expres>
+<page>http://elsharq.web.tv/</page>
+</regex>
+</item>
+#############################www.caston.tv
+<item>
+<title>Bein sport 2 </title>
+<link>$doregex[finalurl]</link>
+<regex>
+        <name>finalurl</name>
+        <expres>(http.*)</expres>
+        <page>$doregex[url]$doregex[auth]</page>
+        <cookieJar></cookieJar>
+        <agent>iPhone</agent>
+</regex>
+<regex>
+        <name>url</name>
+        <expres>file:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>auth</name>
+        <expres>\["(.*?)"</expres>
+        <page>http://www.caston.tv/$doregex[authurl]</page>
+        <referer>http://www.caston.tv</referer>
+        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
+        <x-req>XMLHttpRequest</x-req>
+        <agent>iPhone</agent>
+        <cookieJar>open[siteName.lwp]</cookieJar>
+</regex>
+<regex>
+        <name>token</name>
+        <expres>token:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>authurl</name>
+        <expres>url:'(.*?)'</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>decrypted</name>
+        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>encrypted</name>
+        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+        <page>http://www.caston.tv/player.php?id=13</page>
+        <referer>http://www.caston.tv</referer>
+        <agent>iPhone</agent>
+        <cookieJar></cookieJar>
+</regex>
+<regex>
+        <name>savecookie</name>
+        <expres></expres>
+        <page></page>
+        <cookieJar>save[siteName.lwp]</cookieJar>
+</regex>
+</item>
+#####################http://cricfree.tv/###############
+<item>
+  <title>At the Races Stream</title>
+  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+  
+  <regex>
+    <name>getSTREAM</name>
+    <expres>file:.*(http.*?)[",']</expres>
+    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
+    <referer>http://theactionlive.com/livegamecrnope.php?id=ch21d&width=640&height=460&stretching=</referer>
+	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+  </regex>
+</item>
+######################oklivetv.com############################
+<item>
+<title>Das Erste (oklivetv)</title>
+<thumbnail></thumbnail>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>streamURL.*?"(.*?)"</expres>
+	<page>$doregex[getmainPage]</page>
+</regex>
+<regex>
+	<name>getmainPage</name>
+	<expres>$pyFunction:get_unpacked(page_data,'player69.*?(eval.*)')</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar>$doregex[postcaptcha]</cookieJar>
+	<ignorecache/>
+</regex>
+<regex>
+<name>postcaptcha</name>
+	<expres></expres>
+	<page>$doregex[streampage]</page>
+	<post>$doregex[showcaptcha]</post>
+	<referer>$doregex[streampage]</referer>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>showcaptcha</name>
+	<expres>(.*)</expres>
+	<page>$pyFunction:getGoogleRecaptchaResponse('$doregex[captchaid]',Cookie_Jar,2)</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>captchaid</name>
+	<expres>challenge\?k=([^"]*)</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>streampage</name>
+	<expres>src='(.*?idds.*?)'</expres>
+	<page>http://oklivetv.com/das-erste-live/</page>
+	<cookieJar></cookieJar>
+</regex>
+</item>
+#############################http://www.elahmad.com
+<item>
+<title> hadramout-tv  حضر موت</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/hadramout-tv.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+#################333
+
+.m3u8|User-Agent=Mozilla/5.0
+################################http://www.20sat.com***********************
+<item>
+  <title>TEST | http://www.20sat.com/new/melodyA.htm</title>
+  <link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=http://yooanime.com/player/jwplayer.flash.swf live=1 pageUrl=http://yooanime.com/free/embed.php?channel=melody_aflam&W=550&H=325</link>
+
+<regex>
+  <name>get-rtmp</name>
+  <expres>var yoo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-path</name>
+  <expres>_popyo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-app</name>
+  <expres>xave.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+************************http://yooanime.com**********************
+
+<item>
+<title>Makelist | http://yooanime.com/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=$doregex[player].flash.swf live=1 pageUrl=http://yooanime.com[makelist.param1]</link>
+<thumbnail>[makelist.param2]</thumbnail>
+<regex>
+  <name>get-rtmp</name>
+  <expres>var yoo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com[makelist.param1]</page>
+  <referer>http://yooanime.com/</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+<regex>
+  <name>get-path</name>
+  <expres>_popyo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com[makelist.param1]</page>
+  <referer>http://yooanime.com/</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-app</name>
+  <expres>xave.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com[makelist.param1]</page>
+  <referer>http://yooanime.com/</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>player</name>
+  <expres>src="(http:\/\/.*?\/player\/jwplayer)</expres>
+  <page>http://yooanime.com[makelist.param1]</page>
+  <referer>http://yooanime.com/</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[a href="(.*?)".*?img src = "(.*?)".*?alt=".*?"[\d\D]>(.*?)<]]></expres>
+<page>http://yooanime.com/</page>
+<referer>http://yooanime.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+</item>
+
+

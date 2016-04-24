@@ -1,0 +1,45 @@
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime] Movies Cartoons [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/KidsMovies.xml</externallink> ##change haider
+   
+</channel>
+  </channels>
+
+https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/kidsother
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime] Other Movies Cartoons [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/kidsother.xml</externallink> ##change haider
+
+   
+</channel>
+  </channels>
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime] test [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/test.xml</externallink> ##change haider
+
+   
+</channel>
+  </channels>
+

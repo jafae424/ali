@@ -1,0 +1,2955 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+<streaminginfo>
+	<cname>Jafaer</cname>
+	<item>
+	<title>Jafaer-tv.com تمتع بمشاهدة جميع القنوات العربية مجانا</title>
+	<link>http://win15.yayin.com</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Jafaer</cname>
+	<item>
+	<title>بعض القنوات تحتاج الضغط اكثر من مره لكي تعمل</title>
+	<link>http://win15.yayin.com</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Jafaer</cname>
+	<item>
+	<title>Help us by donation to------ PayPal.Me/jafaertv------</title>
+	<link>http://win15.yayin.com</link>
+	</item>
+</streaminginfo>
+###############################################33
+
+
+<item>
+<title>mbc-1</title>
+<regex>
+<name>getkey2</name>
+<expres>key2=(.*?)&gt;</expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+</regex>
+<regex>
+<name>getheight</name>
+<expres>height2.*?\+\s(\d)\W</expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+</regex>
+</item>
+ 
+<item>
+<title>mbc_masr_2</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>(.*m3u8.*)</expres>
+<page>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr_2</page>
+<referer>http://www.elahmad.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ <item>
+  <title>MBC_MASR</title>
+  <link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr|User-Agent=iPhone&amp;Referer=http://www.elahmad.com/tv/mobiletv/glarb.php?id=166&amp;t=hd</link>
+  <referer>http://www.elahmad.com/tv/mobiletv/glarb.php?id=166&t=hd</referer>
+</item>
+
+<item>
+<title>MBC 1</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>(.*m3u8.*)</expres>
+<page>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1</page>
+<referer>http://www.elahmad.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MBC1</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+###################
+<item>
+<title>MBC Drama</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcdrama.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcdrama.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcdrama.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+
+<item>
+<title>mbc_drama</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>(.*m3u8.*)</expres>
+<page>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_drama</page>
+<referer>http://www.elahmad.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+00000000000000000000000000000000000000
+<item>
+<title>MBC 2</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+0000000000000000000000000000000
+
+<item>
+<title>MBC3</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc3.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc3.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc3.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+0000000000000000000000000000000
+
+<item>
+<title>MBC 4</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc4.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc4.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbc4.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+0000000000000000000000000000000
+<item>
+<title>MBC Action</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcaction.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcaction.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcaction.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+0000000000000000000000000000000
+
+0000000000000000000000000000000
+<item>
+<title>MBC Max</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcmax.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcmax.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/mbcmax.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+
+
+00000000000
+
+ 00000000000
+   <streaminginfo>
+        <cname>Art Aflam 1</cname>
+        <item>
+            <title>Art Aflam 1</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Art Aflam 2</cname>
+        <item>
+            <title>Art Aflam 2</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>ART Hekayat 2</cname>
+        <item>
+            <title>ART Hekayat 2</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>ART Hekayat</cname>
+        <item>
+            <title>ART Hekayat</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+#######################################3
+ 
+  
+<streaminginfo>
+<cname>Ahlulbayt</cname>
+<item>
+<title>Ahlulbayt</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=233</page>
+</regex>
+</item>
+</streaminginfo>
+
+	
+<streaminginfo>
+	<cname>Al Anwar 2</cname>	
+	<item>
+	<title>Al Anwar 2</title>
+	<link>$doregex[get-finalURL]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36</link>
+	<regex>
+	<name>get-url</name>
+	<expres>(http.*?)"</expres>
+	<page>http://rrr.sz.xlcdn.com/?account=anwartv2&amp;file=jazem&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8&amp;format=jsonp&amp;callback=jQuery21003127479157410562_1425573090144&amp;_=1425573090145</page>
+	<referer>http://rrr.sz.xlcdn.com/?account=anwartv2&amp;file=jazem&amp;type=live&amp;service=wowza&amp;output=player</referer>
+	<cookieJar></cookieJar>
+	<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36</agent>
+	</regex>
+	<regex>
+	<name>get-finalURL</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+	<page></page>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+<item>
+  <title>السراطassirat.tv</title>
+  <link>$doregex[sxrtmp] playpath=$doregex[sxpath] swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf live=1 timeout=10 pageUrl=http://www.assirat.tv/livestreaming.php</link>
+  <regex>
+    <name>sxrtmp</name>
+    <expres><![CDATA[value=.*?src=(.*?livepkgr.*?)\/]]></expres>
+    <page>http://www.assirat.tv/livestreaming.php</page>
+    <referer>http://www.assirat.tv/</referer>
+    <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>sxpath</name>
+    <expres><![CDATA[value=.*?src=.*?livepkgr.*?\/(.*?)&]]></expres>
+    <page>http://www.assirat.tv/livestreaming.php</page>
+    <referer>http://www.assirat.tv/</referer>
+    <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail></thumbnail>
+</item>
+
+
+
+ <item>
+ <title>Karbala</title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page>http://livestream.com/accounts/11436227/events/3998452</page>
+  <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+ 
+ 
+ <item>
+<title>الكوثر</title>
+<link>$doregex[get_m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>get_m3u8</name>
+<expres>video src="(.*?)" height="300"</expres>
+<page>$doregex[get_iframe]</page>
+<referer>http://www.alkawthartv.ir/</referer>
+</regex>
+<regex>
+<name>get_iframe</name>
+<expres>iframe align="middle".*?src="(.*?)" style="border:none"</expres>
+<page>http://www.alkawthartv.ir/en/livetv</page>
+<referer>http://www.alkawthartv.ir/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title> almanar المنار</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/almanartv.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<streaminginfo>
+	<cname>Alghad Alarabi</cname>
+	<item>
+	<title>Alghad Alarabi</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>43.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>http://livestream.com/accounts/2836938/events/2330953
+	<page>http://livestream.com/accounts/2836938/events/2330953/player?width=1080&amp;amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Syria</cname>
+	 <item>
+<title>Syria</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=145</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo><cname>Alahad</cname><item><title>العهد</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
+
+<streaminginfo>
+<cname>IFilme ENG</cname>
+<item>
+<title>Aljazeera ENG</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=2</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Qatar</cname>
+	 <item>
+<title>Qatar</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=11</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alqanat</cname>
+	<item>
+	<title>Alqanat</title>
+	<link>http://win15.yayin.com.tr/Alqanat/smil:Alqanat.smil/chunklist_w1370415133_b1191936_t64SEQ=.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Qatar Alyoum</cname>
+	<item>
+	<title>Qatar Alyoum</title>
+	<link>http://82.212.95.122:1935/live/qatar/gmswf.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Alwaka</cname>
+	<item>
+	<title>Alwaka</title>
+	<link>http://streaming.i-sat.tv:1935/live/alwaka.stream_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Khair</cname>
+	<item>
+	<title>Khair</title>
+	<link>http://5.9.102.245:1935/live/khaer/gmswf.m3u8</link>
+	</item>
+</streaminginfo> 
+
+
+
+
+
+    
+<streaminginfo>
+	<cname>First TV</cname>
+	<item>
+	<title>First TV</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/First-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Hanibal</cname>
+	<item>
+	<title>Hanibal</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Hannibal-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Janoubiya</cname>
+	<item>
+	<title>Al Janoubiya</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Janoubia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Maghreb24</cname>
+	<item>
+	<title>Maghreb24</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Maghreb-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TNN</cname>
+	<item>
+	<title>TNN</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/TNN</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tounesna</cname>
+	<item>
+	<title>Tounesna</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Tunisna-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Echorouk Tv</cname>
+        <item>
+            <title/>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=echourouk&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 1</cname>
+	<item>
+	<title>Tunisia national 1</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Watania-1</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 2</cname>
+	<item>
+	<title>Tunisia national 2</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Watania-2</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>M Tunisia</cname>
+	<item>
+	<title>M Tunisia</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24 FR</cname>
+	<item>
+	<title>France 24</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>France 24 Arabic</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24-Ar</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alinsen</cname>
+	<item>
+	<title>Alinsen</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Insen-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+
+<item>
+<title>Assadissa</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/assadissa.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/assadissa.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/assadissa.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+ 
+
+
+<streaminginfo>
+    <cname>KBC Algeria</cname>
+	<item>
+	<title>KBC Algeria</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://stream.kbcalgerie.tv/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</link>
+	</item>
+</streaminginfo
+
+
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>Alaraby</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>27.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13453801/events/4043174/player?width=960&amp;amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aldar</cname>
+	<item>
+    	<title>Aldar</title>
+    	<link>rtmp://live.wmncdn.net/aldartv/bbb19eae240ec100af921d511efc86a0.sdp swfUrl=http://player-emea-uk.webmobilive.com/jw/player.swf pageUrl=http://www.aldarmedia.ae/live live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+
+
+
+
+<item>
+<title>Egypt 1</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/adaloula.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/adaloula.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/adaloula.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+<streaminginfo>
+        <cname>Nile Cinema</cname>
+        <item>
+            <title>Nile Cinema</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Nile Comedy</cname>
+        <item>
+            <title>Nile Comedy</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Nile Culture</cname>
+        <item>
+            <title>Nile Culture</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Nile Drama</cname>
+        <item>
+            <title>Nile Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Nile Family</cname>
+        <item>
+            <title>Nile Family</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Nile Life</cname>
+        <item>
+            <title>Nile Life</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Nile Sport</cname>
+        <item>
+            <title>Nile Sport</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Oscar Drama</cname>
+        <item>
+            <title>Oscar Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Panorama Drama</cname>
+        <item>
+            <title>Panorama Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pd&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Panorama Drama 2</cname>
+        <item>
+            <title>Panorama Drama 2</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Panorama film</cname>
+        <item>
+            <title>Panorama film</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pf&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Rotana Clip</cname>
+        <item>
+            <title>Rotana Clip</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=rc&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=rc&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=rc&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+   
+
+
+ <streaminginfo>
+        <cname>Cairo Cinema</cname>
+        <item>
+            <title>Cairo Cinema</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cc&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Cairo Drama</cname>
+        <item>
+            <title>Cairo Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CBC</cname>
+        <item>
+            <title>CBC</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CBC 2</cname>
+        <item>
+            <title>CBC 2</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CBC Drama</cname>
+        <item>
+            <title>CBC Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CBC Extra</cname>
+        <item>
+            <title>CBC Extra</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CBC Sofra</cname>
+        <item>
+            <title>CBC Sofra</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Cima</cname>
+        <item>
+            <title>Cima</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cima&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Dream 2</cname>
+        <item>
+            <title>Dream 2/title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+
+
+   
+    
+   
+
+
+<streaminginfo><cname>Medi 1 Sat</cname><item><title>Medi 1</title><link>http://medi1stream.genious.net/live/myStream/playlist.m3u8</link></item></streaminginfo>
+
+
+
+
+
+
+
+
+<streaminginfo>
+	<cname>Alqseem</cname>
+	<item>
+	<title>ALqseem</title>
+	<link>http://streaming.i-sat.tv:1935/live/alqseem.stream_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rushd</cname>
+	<item>
+	<title>Rushd</title>
+	<link>http://streaming.i-sat.tv:1935/live/rushd/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Sanaa</cname>
+	<item>
+	<title>Sanaa</title>
+	<link>http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8</link>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+	<cname>Elmourabiton</cname>	<item>	<title>Elmourabiton</title>	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link></item>
+</streaminginfo> 
+
+
+
+
+
+<streaminginfo>
+<cname>DMM</cname>	<item>	<title>DMM</title>	<link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link></item>
+</streaminginfo> 
+
+
+
+
+<streaminginfo>
+        <cname>Al Hiwar Ettounsi</cname>
+        <item>
+            <title>Al Hiwar Ettounsi</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=at&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+   
+    
+   
+
+
+<streaminginfo>
+<item><title>Al Sharqiya News</title><link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link></item>
+</streaminginfo>
+
+
+<streaminginfo>
+<item><title>Libya 2</title><link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link></item>
+</streaminginfo>
+
+<streaminginfo>
+<item><title>SkyNewsArabia</title><link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8</link></item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+	<cname>Al Ghad </cname>
+	<item>
+	<title>Al Ghad </title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>43.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/2836938/events/2330953/player?width=1080&amp;amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<streaminginfo><item><title>Zaitouna</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
+
+
+<streaminginfo><item><title>MBC Bollywood</title><link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link></item></streaminginfo>
+
+
+<streaminginfo>
+	<cname>alkass</cname>
+	<item>
+	<title>alkass</title>
+	<link>http://137.135.64.32:1935/kas/kas/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>AL sahat</cname>
+	<item>
+	<title>AL sahat</title>
+	<link>$doregex[get-link]</link>
+	<regex>
+	<name>get-link</name>
+	<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17579613/streams/live/playlist.m3u8')</expres>
+	<page></page>
+	</regex>
+	</item>
+</streaminginfo>
+
+<item>
+<title> hadramout-tv  حضر موت</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/hadramout-tv.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+    
+    <streaminginfo>
+        <cname>Al oula Maroc</cname>
+        <item>
+            <title>Al oula Maroc</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Algeria 3</cname>
+        <item>
+            <title>Algeria 3</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+  <streaminginfo>
+        <cname>Attasi3a</cname>
+        <item>
+            <title>Attasi3a</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+<item>
+<title>elsharq</title>
+<link>$doregex[get-m3u8]</link>
+
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('https','http')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>jsonurl</name>
+<expres>"mediaUrl":"(.*?)"</expres>
+<page>http://elsharq.web.tv/</page>
+</regex>
+</item>
+
+
+
+    
+   <streaminginfo>
+        <cname>Al Majd</cname>
+        <item>
+            <title/>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+
+<item>
+<title>Iraq ALmostaqbal</title>
+<link>$doregex[get-m3u8]</link>
+<regex>
+<name>get-m3u8</name>
+<expres>m3u8_url":"(http.*?)"</expres>
+<page>http://livestream.com/accounts/16050840/events/4500047/player</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ALFayha</title>
+<link>$doregex[get-m3u8]</link>
+
+<regex>
+<name>get-m3u8</name>
+<expres>m3u8_url":"(http.*?)"</expres>
+<page>http://livestream.com/accounts/13964753/events/4352548/player</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<streaminginfo>
+		<cname>Al Baghdadia</cname>
+		<item>
+		<title>Al Baghdadia</title>
+		<link>http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8</link>
+		</item>
+</streaminginfo>
+
+<item>
+<title>Alghadeer الغدير</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;url=$doregex[getSTream]|User-Agent=iPhone&amp;Referer=http://www.alghadeer.tv/livetv/</link>
+<regex>
+  <name>getSTream</name>
+  <expres>flashvars="src=(http.*?)"</expres>
+  <page>http://www.alghadeer.tv/livetv/</page>
+  <referer>http://www.alghadeer.tv/livetv/</referer>
+</regex>
+<thumbnail>http://www.alghadeer.tv/static/images/logo.png</thumbnail>
+</item>
+<item>
+<title>العراقية</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=182</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ALIraqia</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8</link>
+</item>
+<streaminginfo>
+  <cname>Al Sumaria</cname>
+  <item>
+    <title>Al-Sumaria</title>
+    <link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=1 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Al Sharqiya</cname>
+  <item>
+    <title>Al-Sharqiya</title>
+    <link>rtmp://ns8.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=1 pageUrl=http://www.alsharqiyatv.com/</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+	<title>Al Sharqiya News</title>
+	<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al-hurra Iraq</cname>
+	<item>
+	<title>Al-hurra Iraq</title>
+	<link>http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sharjah</cname>
+	<item>
+	<title>Sharjah</title>
+	<link>rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aghani</cname>
+	<item>
+	<title>Aghani</title>
+	<link>http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>Al sahraa</cname><item><title>Al sahraa</title><link>plugin://plugin.video.youtube/play/?video_id=L9PPdNsCm-w</link></item></streaminginfo>
+
+
+<streaminginfo>
+		<cname>Maannews</cname>
+		<item>
+		<title>Maann</title>
+		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+     <cname>Qatar</cname>
+	 <item>
+<title>Qatar</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=11</page>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+     <cname>KSA 1</cname>
+	 <item>
+<title>KSA 1</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=3</page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<item>
+<title>Sharjah</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=183</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>DW Arabic</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+
+<regex>
+<name>get-playpath</name>
+<expres>"highest"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo><cname>Nilat</cname><item><title>Nilat</title><link>http://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>ANB</cname><item><title>ANB</title><link>http://82.212.95.122:1935/live/anb.stream_360p/hassuni.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Kaifa</cname><item><title>Kaifa</title><link>http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Aghanina</cname><item><title>Aghanina</title><link>http://82.212.95.122:1935/live/aghanina.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya Alrasmiya</cname><item><title>Libya Alrasmiya</title><link>http://82.212.95.122:1935/live/libyaalrasmya.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya One</cname><item><title>Libya One</title><link>http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya 24</cname><item><title>Libya 24</title><link>http://54.229.252.71:1935/live/myStream/shani.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Burhan</cname><item><title>Burhan</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
+
+
+<item>
+<title>[COLOR blue]El Sharq TV[/COLOR]</title>
+<link>$doregex[get-720url]</link>
+<regex>
+     <name>get-720url</name>
+     <expres>$pyFunction:'$doregex[get-url]'.replace('480','720')</expres>
+     <page></page>
+</regex> 
+<regex>
+     <name>get-url</name>
+     <expres>content=[",'](.*?\.mp4)[",']</expres>
+     <page>https://content.jwplatform.com/players/P02QUIGe.html</page>
+     <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+</regex>
+<thumbnail>https://assets-jpcust.jwpsrv.com/thumbs/P02QUIGe-720.jpg</thumbnail>
+ </item>
+
+
+
+
+
+<streaminginfo>
+     <cname>Oman</cname>
+	 <item>
+<title>Oman </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=184</page>
+</regex>
+<thumbnail>http://giniko.com/logos/190x110/184.jpg</thumbnail>
+</item>
+</streaminginfo>
+
+
+<item>
+<title>Sudan tv</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=187</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<streaminginfo>
+     <cname>Jordan</cname>
+	 <item>
+<title>Jordan </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=186</page>
+</regex>
+<thumbnail>http://giniko.com/logos/190x110/186.jpg</thumbnail>
+</item>
+</streaminginfo>
+<item>
+<title>Jordan</title>
+<link>$doregex[url]</link>
+
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=186</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>Aljazeera Doc</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>Mekamleen</cname>
+	<item>
+	<title>Mekamleen</title>
+	<link>rtmp://85.111.14.52/r_mekameleen?a2V5bGl2ZTY5LTE4MC0yNDYtMTA0MjAxNC0wNS0xNC0yMC01OS0wMQ==/live1</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>Quran TV ksa</cname>
+	<item>
+	<title>Quran TV ksa</title>
+	<link>http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo><cname>iFilm Arabic</cname><item><title>iFilm Eng</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fifilm&amp;mode=125&amp;name=iFilm&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F908%2Fextra_big_logo.png&amp;start=ifilm&amp;ch_fanart=908</link>
+</item></streaminginfo>  
+
+<streaminginfo><cname>Rotana Music</cname><item><title>Rotana Music</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana&amp;mode=125&amp;name=Rotana&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2600%2Fextra_big_logo.png&amp;start=rotana&amp;ch_fanart=2600</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Aflam</cname><item><title>Rotana Aflam</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-aflam&amp;mode=125&amp;name=Rotana+Aflam&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2618%2Fextra_big_logo.png&amp;start=rotana-aflam&amp;ch_fanart=2618</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Cinema</cname><item><title>Rotana Cinema</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-cinema&amp;mode=125&amp;name=Rotana+Cinema&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2615%2Fextra_big_logo.png&amp;start=rotana-cinema&amp;ch_fanart=2615</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Classic</cname><item><title>Rotana Classic</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Clip</cname><item><title>Rotana Clip</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-clip&amp;mode=125&amp;name=Rotana+Clip&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2603%2Fextra_big_logo.png&amp;start=rotana-clip&amp;ch_fanart=2603</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Khaligi</cname><item><title>Rotana Khaligi</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Masriya</cname><item><title>Rotana Masriya</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 1</cname><item><title>KSA 1</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-1&amp;mode=125&amp;name=Saudi+Arabian+TV+1&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1775%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-1&amp;ch_fanart=1775</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 2</cname><item><title>KSA 2</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-2&amp;mode=125&amp;name=Saudi+Arabian+TV+2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1778%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-2&amp;ch_fanart=1778</link></item></streaminginfo>
+
+<streaminginfo><cname>Saudia Sport</cname><item><title>Saudia Sport</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link></item></streaminginfo>
+
+
+<streaminginfo>
+  <cname>Dubai</cname>
+  <item>
+    <title>Dubai TV</title>
+    <link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Dubai Drama</cname>
+  <item>
+    <title>Dubai Drama</title>
+    <link>http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1549159313_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Dubai Zaman</cname>
+  <item>
+    <title>Dubai Zaman</title>
+    <link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Sama Dubai</cname>
+  <item>
+    <title>Sama Dubai</title>
+    <link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Dubai One</cname>
+  <item>
+    <title>Dubai One</title>
+    <link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b1800000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Tamazigh Algeria</cname>
+<item>
+<title>Tamazigh Algeria</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/tamazight-tv-4/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>AlGeria</cname>
+<item>
+<title>AlGeria</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-algerie/?bitrate=300&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<item>
+<title> Algeria 3.</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/algeria3.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elahmad.com/tv/images/algeria3.jpg</thumbnail>
+<fanart>http://www.elahmad.com/tv/images/algeria3.jpg</fanart>
+</item>
+
+<item>
+<title> Algeria 4</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/algeria4.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elahmad.com/tv/images/algeria4.jpg</thumbnail>
+<fanart>http://www.elahmad.com/tv/images/algeria4.jpg</fanart>
+</item>
+<item>
+<title> Algeria 5</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/algeria5.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elahmad.com/tv/images/algeria5.jpg</thumbnail>
+<fanart>http://www.elahmad.com/tv/images/algeria5.jpg</fanart>
+</item>
+
+
+
+
+ <streaminginfo>
+        <cname>Tunisia national 1</cname>
+        <item>
+            <title>Tunisia national 1</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=t1&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=t1&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=t1&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Tunisia national 2</cname>
+        <item>
+            <title>Tunisia national 2</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=t2&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=t2&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=t2&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+<item>
+<title>Tunisia AlJanoubiya TV</title>
+<link>$doregex[geturl]</link>
+<regex>
+    <name>geturl</name>
+    <expres>flashvars.src.*(http.*?)[',"]</expres>
+    <page>https://www.streaminghd.tn/embed/sHtrJxsG3JPU</page>
+	<referer>https://www.streaminghd.tn/</referer>
+    <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_janoubiya_tv_tn.png</thumbnail>
+</item>
+
+<streaminginfo>
+
+<streaminginfo>
+<cname>Russia Alyaum</cname>
+<item>
+<title>Russia Alyaum</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/russia-al-yaum/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>i24News</cname>
+<item>
+<title>i24News</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/i24-news-arabic/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+    <streaminginfo>
+        <cname>Zee Aflam</cname>
+        <item>
+            <title>Zee Aflam</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+</streamingInfos>
+
+
+
+
+<streaminginfo>
+<cname>France 24</cname>
+<item>
+<title>France 24</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/france-24-arabe/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Euro News Arabic</cname>
+<item>
+<title>Euro News Arabic</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/euronews-ar/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Medi 1 Sat</cname>
+<item>
+<title>Medi 1 Sat</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/medi-1-tv/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>2M</cname>
+        <item>
+            <title>2M</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=2m&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=2m&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=2m&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+<streaminginfo>
+<cname>2M</cname>
+<item>
+<title>2M</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/2m-maroc/?bitrate=300&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+<cname>Canal Atlas</cname>
+<item>
+<title>Canal Atlas</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-atlas/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+	
+<streaminginfo>
+  <cname>LBC EUROPE</cname>
+  <item>
+    <title>LBC Europe</title>
+    <link>$doregex[url]</link>
+    <regex>
+    <name>url</name>
+    <expres>file: "(http.*?)"</expres>
+    <page>http://www.lbcgroup.tv/live</page>
+    </regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>MTV</cname>
+        <item>
+            <title>MTV</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+<streaminginfo>
+  <cname>OTV Lebanon</cname>
+  <item>
+    <title>OTV Lebanon</title>
+    <link>rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://player.l1vetv.com/otvent/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/otvent/live2.php</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>Future TV</cname>
+        <item>
+            <title/>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=future&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+
+<streaminginfo>
+  <cname>Future TV</cname>
+  <item>
+    <title>Future TV</title>
+    <link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8</link>
+        </item>
+</streaminginfo>
+
+   <streaminginfo>
+        <cname>Aljadeed</cname>
+        <item>
+            <title>Aljadeed<title/>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+<streamingInfos>
+    
+<streaminginfo>
+        <cname>Dzair tv</cname>
+        <item>
+            <title>High</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>http://iptv-planet.com/dzair_tv.php
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/dzair_tv.php</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+</streaminginfo>
+    
+ 
+<item>
+  <title>ميلودي افلام</title>
+  <link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=http://yooanime.com/player/jwplayer.flash.swf live=1 pageUrl=http://yooanime.com/free/embed.php?channel=melody_aflam&W=550&H=325</link>
+
+<regex>
+  <name>get-rtmp</name>
+  <expres>var yoo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-path</name>
+  <expres>_popyo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-app</name>
+  <expres>xave.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+    
+  
+    <streaminginfo>
+        <cname>Alhayat 1</cname>
+        <item>
+            <title>Alhayat 1</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Alhayat Cinema</cname>
+        <item>
+            <title>Alhayat Cinema</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Alhayat Drama</cname>
+        <item>
+            <title>Alhayat Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Nahar</cname>
+        <item>
+            <title>Al Nahar</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al-Nahar Drama</cname>
+        <item>
+            <title>Al-Nahar Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Alriadia Sport</cname>
+        <item>
+            <title>Alriadia Sport</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+  
+    <streaminginfo>
+        <cname>Assadissa</cname>
+        <item>
+            <title>Assadissa</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Hiwar Ettounsi</cname>
+        <item>
+            <title>Al Hiwar Ettounsi</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=at&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Bein Sport News</cname>
+        <item>
+            <title>Bein Sport News</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+   
+    <streaminginfo>
+        <cname>Fox Movies</cname>
+        <item>
+            <title>Fox Movies</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=fm&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=fm&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=fm&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Hanibal</cname>
+        <item>
+            <title>Hanibal</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=h&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=h&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=h&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Iqra</cname>
+        <item>
+            <title>Iqra</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>LBC</cname>
+        <item>
+            <title>LBC</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>MBC Max</cname>
+        <item>
+            <title>MBC Max</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Mehwar 2</cname>
+        <item>
+            <title>Mehwar 2</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Mecca</cname>
+        <item>
+            <title>Mecca</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>National Geo Ad</cname>
+        <item>
+            <title>National Geo Ad</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    
+    <item>
+<title> aljazeera_documentary</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/aljazeera_documentary.php</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+    
+    
+    
+    
+    
+    <streaminginfo>
+        <cname>Nessma</cname>
+        <item>
+            <title>Nessma</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=n&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=n&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=n&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Toyor Al Janah</cname>
+        <item>
+            <title>Toyor Al Janah</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+   
+    <streaminginfo>
+        <cname>Zee Aflam</cname>
+        <item>
+            <title>High</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
+</streamingInfos>
+
+
+
+<item>
+<title>Sponge Bob</title>
+<link>plugin://plugin.video.veetle/?channel=50686cb1bbaa9</link>
+<thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/01/SPONGEBOB.jpg</thumbnail>
+</item> 
+<streaminginfo>
+<item>	<title>SM SM KIDS</title><link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link><item>
+</streaminginfo> 
+
+<item>
+<title>[COLOR=grey][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
+<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
+</item> 
+
+
+
+
+
+
+
+
+
+
+</streamingInfos>
+
+
+
+
+	
+
+
+
+
+
+
+

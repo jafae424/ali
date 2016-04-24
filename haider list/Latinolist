@@ -1,0 +1,346 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR yellow]--- MEXICO ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="azteca-trece.png" group-title="Variedades - Latinos",El Trece México
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#
+
+#EXTINF:-1,Azteca 7 Monterrey México
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Canal 2 Los Mochis México
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
+
+#EXTINF:-1,Capital 21 México
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1 tvg-id="SkyMX_I217.294819232.microsoft.com" tvg-name="MFOXLA217_MFOXLA217mundo_fox_latin_americanCable" tvg-logo="mundofox.png" group-title="Español",Mundo Fox
+http://66.55.92.79:1935/app/ana69s-channel/.m3u8
+
+#EXTINF:-1, TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1,Telemar Campeche México
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8?
+#EXTINF:-1 group-title="LATAM",MEXIQUENSE MEXICO
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1/mexiquense.m3u8
+#EXTINF:-1 group-title="LATAM",TELEMAR CAMPECHE MEXICO
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1 group-title="NEWS",AZTECA NOTICIAS MEXICO LATAM
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 group-title="Noticias",Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+
+
+#EXTINF:0, TV Chile 
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+
+#EXTINF:0, RPCTV (Panama) 
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+
+
+#EXTINF:-1,Lasexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1,RTV Andorra
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,3Cat
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8?DVR
+
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-b.m3u8
+
+#EXTINF:-1,SI TV
+http://hd.worldkast.com:1935/8436/8436/live.m3u8
+#EXTINF:-1,SMO TV
+http://199.217.118.90:1935/smotv/stream/live.m3u8
+
+#EXTINF:-1,TDC
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+
+
+
+
+
+#EXTINF:-1,TELE AMIGA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/live3/livestream.m3u8
+
+#EXTINF:-1,TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://edge.wms28.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECANAL
+http://movilstream.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/amlst:live/chunklist_b500000.m3u8
+#EXTINF:-1,TELEDUNAMIS
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/teledunamis/live.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-480/livestream.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELE MÚSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,TELE UNO TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/live.m3u8
+#EXTINF:-1,TELE VID
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VID
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:443/live/televida/livestream.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:1935/live/televida/livestream.m3u8
+#EXTINF:-1,TELEVITROLA
+http://186.155.200.118:1935/live/Televitrola/livestream.m3u8
+#EXTINF:-1,TELPIN HD
+http://201.219.100.30:1935/telpintv/ngrp:ttv.stream_all/live.m3u8
+#EXTINF:-1,TEVEO MIAMI
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIGO MUSIC
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1,TRAVEL TV
+http://87.106.219.140:1935/live/myStream_2/livestream.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" group-title="LATINO",TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ 
+
+
+ 
+
+TIONAL", TV 1000 Action (R/E)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8
+#EXTINF:-1 tvg-logo="Live/warner_tv.png"  group-title="INTERNATIONAL", WARNER TV (Brazil)
+rtmp://31.204.128.76/live/master22?
+#EXTINF:-1, Mex:AZTECA 7 HD By Compus1286
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+ 
+#EXTINF:-1,Mex:AZTECA 13 HD By Compus1286
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,Mex:TVMas HD By Compus1286
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Esp:EXTREMADURA TV 
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,Esp:Telemadrid By Soloman
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,Mex:EXA TV 
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8 
+#EXTINF:-1,Mex:INGENIO TV By Compus1286
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8 
+#EXTINF:-1,Esp:ANDALUCIA TV 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,Esp:TV GALICIA 
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
+
+
+#EXTINF:-1,BRASIL-TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+ 
+#EXTINF:-1,Mother and Child (BRASIL)
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+#EXTINF:-1,Brasil:TV MANA-1
+rtmp://195.22.19.179/manasat/manasat2 
+#EXTINF:-1,Brasil:Rede Minas 
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+ 
+#EXTINF:-1,Brasil:MANÁ 
+http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+
+#EXTINF:-1,Brasil:MANÁ Cordoba 
+http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
+ 
+#EXTINF:-1,Brasil:MANÁ SAT 
+http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8 
+#EXTINF:-1,Fashion (BRASIL)
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,YES! (Aprede Ingles) 
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8 
+#EXTINF:-1,Arg:Canal 12 Cordoba By Soloman
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+ 
+#EXTINF:-1,Arg:Quiero Musica mms By Compus1286
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Arg:C5N By Onill Mancebo
+rtmp://c5n.stweb.tv:1935/c5n/live 
+#EXTINF:-1,Chil:CANAL 9 HD By Onill Mancebo
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1,Chil:TVN By Compus1286
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,Chil:BIO BIO TV CONCEPCION By Onill Mancebo
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:-1,Per:AMERICA TV HD By Compus1286
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+ 
+#EXTINF:-1,cdn sport max 
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,Dom:TELEANTILLAS 2 HD By Onill Mancebo
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+ 
+#EXTINF:-1,Dom:Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:0,Nic:CANAL 13 
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Bolivia:Redadvenir 
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+#EXTINF:-1,Venezuela:ViveTV Venezuela 
+mmsh://difusion.cantv.net/vhost-covetel_live
+
+#EXTINF:-1 tvg-id="canal 9" tvg-name="canal_9" group-title="Argentina - ארגנטינה" tvg-logo="",canal 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" group-title="Argentina - ארגנטינה" tvg-logo="17a9e1732468973af9fd66a279306a78.jpg",C5N
+rtmp://c5n.stweb.tv/c5n/live
+
+#EXTINF:-1 tvg-id="LATINOS ARGENTINA:CANAL 10 ENTRE RIOS" tvg-name="LATINOS_ARGENTINA:CANAL_10_ENTRE_RIOS" group-title="Argentina - ארגנטינה" tvg-logo="",LATINOS ARGENTINA:CANAL 10 ENTRE RIOS
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal_13_HD" group-title="Argentina - ארגנטינה" tvg-logo="82a8f18d3d8e247a055e4b0bbfe39efd.jpg",Canal 13 HD
+rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo
+
+#EXTINF:-1 tvg-id="AMERICA 24" tvg-name="AMERICA_24" group-title="Argentina - ארגנטינה" tvg-logo="ce88f660d52969f6518bfff47a75c684.PNG",AMERICA 24
+http://localhost:65007/?url=https://www.youtube.com/watch?v=FtD4Wgh97MA
+
+#EXTINF:-1 tvg-id="AMERICA 24" tvg-name="AMERICA_24" group-title="Argentina - ארגנטינה" tvg-logo="ce88f660d52969f6518bfff47a75c684.PNG",AMERICA 24
+http://localhost:65007/?url=http://prepublish.f.qaotic.net/epb/ngrp:americatvlive-100056_all/manifest.f4m
+
+#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal_26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="TODO NOTICIAS" tvg-name="TODO_NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="38549c0bf63006fbf6df80b925f81893.jpg",TODO NOTICIAS
+rtmp://stream.tn.com.ar/live/tnhd2 playpath=tnhd2 swfUrl="http://tn.com.ar/sites/all/themes/dozer/swf/cplayer/player.swf" pageUrl="http://tn.com.ar/envivo/24hs/HD" swfVfy=true live=true
+
+#EXTINF:-1 tvg-id="360 TV" tvg-name="360_TV" group-title="Argentina - ארגנטינה" tvg-logo="",360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+
+#EXTINF:-1 tvg-id="Argentina - AM SPORTS ARGENTINA" tvg-name="Argentina_-_AM_SPORTS_ARGENTINA" group-title="Argentina - ארגנטינה" tvg-logo="",Argentina - AM SPORTS ARGENTINA
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="america sports" tvg-name="america_sports" group-title="Argentina - ארגנטינה" tvg-logo="058f23571de4447c5e0adea80b2a4322.PNG",america sports
+http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Argentina - VIVRA TV" tvg-name="Argentina_-_VIVRA_TV" group-title="Argentina - ארגנטינה" tvg-logo="",Argentina - VIVRA TV
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" group-title="Argentina - ארגנטינה" tvg-logo="b7389ac7ba597028ac0c0e3960e58d44.PNG",TVP
+http://localhost:65007/?url=http://ffahds-lh.akamaihd.net/z/c7hds_3@7396/manifest.f4m?hdcore=3.5.0
+
+#EXTINF:-1 tvg-id="Canal Encuentro" tvg-name="Canal_Encuentro" group-title="Argentina - ארגנטינה" tvg-logo="852accac3b85105c1561734e6db84cd9.jpg",Canal Encuentro
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/index_500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" group-title="Argentina - ארגנטינה" tvg-logo="",Magazine
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+
+#EXTINF:-1 tvg-id="ORBE 21" tvg-name="ORBE_21" group-title="Argentina - ארגנטינה" tvg-logo="",ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+#EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" group-title="Argentina - ארגנטינה" tvg-logo="",TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" group-title="Argentina - ארגנטינה" tvg-logo="",VIAJAR
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+
+#EXTINF:-1 tvg-id="TELEMAX" tvg-name="TELEMAX" group-title="Argentina - ארגנטינה" tvg-logo="",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UNIVERSIDAD LA PLATA" tvg-name="TV_UNIVERSIDAD_LA_PLATA" group-title="Argentina - ארגנטינה" tvg-logo="",TV UNIVERSIDAD LA PLATA
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+
+#EXTINF:-1 tvg-id="Quiero Musica" tvg-name="Quiero_Musica" group-title="Argentina - ארגנטינה" tvg-logo="",Quiero Musica
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1 tvg-id="PAKA PAKA" tvg-name="PAKA_PAKA" group-title="Argentina - ארגנטינה" tvg-logo="",PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+
+
+
+
+
+تجيك 
+
+
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0029.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0028.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 3[/COLOR]
+http://www.iptvsaga.com/play/tv3/0027.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Ãfrica[/COLOR]
+http://www.iptvsaga.com/play/tv3/0026.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Madeira[/COLOR]
+http://www.iptvsaga.com/play/tv3/0025.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Açores[/COLOR]
+http://www.iptvsaga.com/play/tv3/0024.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Memória[/COLOR]
+http://www.iptvsaga.com/play/tv3/0023.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP Internacional[/COLOR]
+http://www.iptvsaga.com/play/tv3/0022.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]TVI HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]TPA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0020.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 1 (La1)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0019.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 2 (La2)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0018.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TVE 24[/COLOR]
+http://www.iptvsaga.com/play/tv3/0017.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]MEGA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0016.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]LA RED EN VIVO HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0015.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]TV Galicia[/COLOR]
+http://www.iptvsaga.com/play/tv3/0014.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]LA SEXTA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0013.m3u8
+#EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Spanish” tvg-logo=”00000000.png”, [COLOR gold]ANTENA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0012.m3u8
+
+#EXTINF:-1 tvg-id=”rtp1.pt” tvg-logo=”RTP 1.png” group-title=”PORTUGAL”,[COLOR green] RTP1 [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=”rtp1.pt” tvg-logo=”RTP 1.png” group-title=”PORTUGAL”,[COLOR green] RTP1 [/COLOR]TDT
+http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id=”rtp1.pt” tvg-logo=”RTP 1.png” group-title=”PORTUGAL”,[COLOR green] RTP1 [/COLOR]
+http://wownet.ro/str/0500.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id=”rtp1.pt” tvg-logo=”RTP 1.png” group-title=”PORTUGAL”,[COLOR green] RTP1 [/COLOR](SD low)
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+
+#EXTINF:-1 tvg-id=”rtp2.pt” tvg-logo=”RTP 2.png” group-title=”PORTUGAL”,[COLOR green] RTP2 [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id=”rtp2.pt” tvg-logo=”RTP 2.png” group-title=”PORTUGAL”,[COLOR green] RTP2 [/COLOR]TDT
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/inspirationlinks.m3u8
+#EXTINF:-1 tvg-id=”rtp2.pt” tvg-logo=”RTP 2.png” group-title=”PORTUGAL”,[COLOR green] RTP2 [/COLOR]
+http://wownet.ro/str/0501.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id=”rtp2.pt” tvg-logo=”RTP 2.png” group-title=”PORTUGAL”,[COLOR green] RTP2 [/COLOR](SD low)
+http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
