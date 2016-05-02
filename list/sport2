@@ -131,6 +131,166 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 #####################
 
+
+<item>
+<title>BEIN 1</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item
+<item>
+<title> BEIN 2</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+<item>
+<title>BEIN 3</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33455&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33455&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33455&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>BEIN 4</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33456&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33456&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33456&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>BEIN fr 1</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33466&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33466&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33466&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>BEIN fr 2</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33467&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33467&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33467&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+
 <item>
 <title>beIN Sports 1</title>
 <link>$doregex[select_Url]</link>
@@ -520,7 +680,329 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <thumbnail>http://www.liveonlinetv247.info/images/beinsports2france.png</thumbnail>
 <fanart>https://goo.gl/3UKOHc</fanart>
 </item>
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 1 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
 
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 2 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 3 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 4 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 5 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 6 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 7 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 8 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 9 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 10 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 11 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 12 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BT SPORTS 1</title>
+<link>http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BT SPORTS 2</title>
+<link>http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] BT SPORTS EUROPE</title>
+<link>http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTH STADIUM 1</title>
+<link>http://27.254.64.105:1935/mobilelink/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTH STADIUM 2</title>
+<link>http://27.254.64.105:1935/mobilelink/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTH STADIUM 3</title>
+<link>http://27.254.64.105:1935/mobilelink/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTH STADIUM 4</title>
+<link>http://27.254.64.105:1935/mobilelink/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTH STADIUM 5</title>
+<link>http://27.254.64.105:1935/mobilelink/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI RACING (ARABIC)</title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubairacing_zpsjx8qjsau.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] EURO SPORT</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/eurosport_zpsoquxl9yz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] FIGHT SPORT</title>
+<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/fightsports_zpsyti4pl1i.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] FOX SPORTS 1 USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] FOX SPORTS 2 USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NBC GOLF</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/nbcgolf_zpscfntlrtf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] MIO SPORTS</title>
+<link>https://goo.gl/IEBP8D</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] REDBULL TV</title>
+<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/redbulltv_zps5fvwhmq9.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SKY SPORTS 1</title>
+<link>http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SKY SPORTS 2</title>
+<link>http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SKY SPORTS 3</title>
+<link>http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SKY SPORTS 4</title>
+<link>http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SKY SPORTS 5</title>
+<link>http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SKY SPORTS F1</title>
+<link>http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhaSG!!54754|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] VERSUS</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/versus_zpsnjka5dzi.png</thumbnail>
+</item>
 <item>
 <title>beIN Sports 3 France</title>
 <link>$doregex[select_Url]</link>
@@ -1420,88 +1902,8 @@ item>
 
 
 #########################33
-<item>
-<title>Bein sport 2 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=26</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
 
 
-<item>
-<title>TEST | BEIN SPORTS</title>        
-<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
-
-<regex>
-  <name>rtmp</name>
-  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-
-<regex>
-  <name>path</name>
-  <expres>'file'.*?[",'](.*?).flv',</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-
-<regex>
-  <name>swfurl</name>
-  <expres>'flash', src: '(.*?)'\W</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-</item>
 
 
 

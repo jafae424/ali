@@ -40,33 +40,36 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
-#EXTINF:-1,bein 1
-http://osltv.zackapps.com/app/zak/bein.php?id=1&type=.m3u8
-#EXTINF:-1,bein 2
-http://osltv.zackapps.com/app/zak/bein.php?id=2&type=.m3u8
-#EXTINF:-1,bein 3
-http://osltv.zackapps.com/app/zak/bein.php?id=3&type=.m3u8
-#EXTINF:-1,bein 4
-http://osltv.zackapps.com/app/zak/bein.php?id=4&type=.m3u8
-#EXTINF:-1,bein 5
-http://osltv.zackapps.com/app/zak/bein.php?id=5&type=.m3u8
-#EXTINF:-1,bein 6
-http://osltv.zackapps.com/app/zak/bein.php?id=6&type=.m3u8
-#EXTINF:-1,bein 7
-http://osltv.zackapps.com/app/zak/bein.php?id=7&type=.m3u8
-#EXTINF:-1,bein 8
-http://osltv.zackapps.com/app/zak/bein.php?id=8&type=.m3u8
-#EXTINF:-1,bein 9
-http://osltv.zackapps.com/app/zak/bein.php?id=9&type=.m3u8
-#EXTINF:-1,bein 10
-http://osltv.zackapps.com/app/zak/bein.php?id=10&type=.m3u8
-#EXTINF:-1,bein 11
-http://osltv.zackapps.com/app/zak/bein.php?id=11&type=.m3u8
-#EXTINF:-1,bein 12
-http://osltv.zackapps.com/app/zak/bein.php?id=12&type=.m3u8
-#EXTINF:-1,bein 13
-http://osltv.zackapps.com/app/zak/bein.php?id=13&type=.m3u8
-
+#EXTINF:-1,beIN_s1
+http://iptv33.us.to/ip441555/3136774336/1.ch
+#EXTINF:-1,beIN_s2
+http://iptv33.us.to/ip441555/3136774336/2.ch
+#EXTINF:-1,beIN_s3
+http://iptv33.us.to/ip441555/3136774336/3.ch
+#EXTINF:-1,beIN_s4
+http://iptv33.us.to/ip441555/3136774336/4.ch
+#EXTINF:-1,beIN_s5
+http://iptv33.us.to/ip441555/3136774336/5.ch
+#EXTINF:-1,beIN_s6
+http://iptv33.us.to/ip441555/3136774336/6.ch
+#EXTINF:-1,beIN_s7
+http://iptv33.us.to/ip441555/3136774336/7.ch
+#EXTINF:-1,beIN_s8
+http://iptv33.us.to/ip441555/3136774336/8.ch
+#EXTINF:-1,beIN_s9
+http://iptv33.us.to/ip441555/3136774336/9.ch
+#EXTINF:-1,beIN_s10
+http://iptv33.us.to/ip441555/3136774336/10.ch
+#EXTINF:-1,beIN_s11
+http://iptv33.us.to/ip441555/3136774336/11.ch
+#EXTINF:-1,beIN_s12
+http://iptv33.us.to/ip441555/3136774336/12.ch
+#EXTINF:-1,beIN_s13
+http://iptv33.us.to/ip441555/3136774336/13.ch
+#EXTINF:-1,beIN_s14
+http://iptv33.us.to/ip441555/3136774336/14.ch
+#EXTINF:-1,beIN_s15
+http://iptv33.us.to/ip441555/3136774336/15.ch
 
 
 
