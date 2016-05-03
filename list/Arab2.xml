@@ -28,16 +28,18 @@
 </streaminginfo>
 
 
-<item>
-<title>[COLOR red] هذه القنوات سوف تتوقف قريبا ولن تعمل الى من خلال الوزرد الخاص بنا [/COLOR]</title>
-<link>http://win15.yayin.com</link>
-</item>
+
 
 <item>
 <title>[COLOR red] حيدر ابو جعفر Louisville [/COLOR]</title>
 <link>http://win15.yayin.com</link>
 </item>
 ###############################################33
+
+
+
+
+
 <item>
 <title>http://aflam</title>
 <sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
@@ -60,20 +62,32 @@
 </regex>
 </item>
  
+<<<<<<< HEAD
  
  
  
  
  
  
+=======
+>>>>>>> origin/master
  <item>
 <title>mbc </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item>
+<<<<<<< HEAD
 <item>
 <title>mbc drama </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/673.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item>
+<item>
+<title>Mbc dram</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.48.19:1985/live/roberto/roberto/623.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+</item>
+
+
+
+
 <item>
 <title>MBC_Masr</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -92,6 +106,8 @@
 <title>MBC 4 HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/653.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item>
+=======
+>>>>>>> origin/master
 
  
 <item>
