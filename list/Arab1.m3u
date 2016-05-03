@@ -6,31 +6,16 @@
 #EXTINF:-1, [COLOR red] --  http://Jafaer-tv.com --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] --      الرجاء الذهاب الى صفحتنا على اليوتوب ولمعرفة التحديث مهم مهم --[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=qHEThib2uEk
-
-#EXTINF:-1,[COLOR red] التحديث الاول https://www.youtube.com/qHEThib2uEk  [/COLOR]
-
-
-#EXTINF:-1, اضغط هنا او اذاهب الى الموقع اعلاه 
-plugin://plugin.video.youtube/?action=play_video&videoid=qHEThib2uEk
-
-#EXTINF:-1,   www.youtube.com/UU5uMkNAn_M  اضغط هنا لتحديث القنوات او الذهاب ال اليو توب   
-plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
-
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
-#EXTINF:-1,  [COLOR red] هذه القنوات سوف تتوقف قريبا ولن تعمل الى من خلال الوزرد الخاص بنا [/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
+
 #EXTINF:-1,  [COLOR red]  حيدر ابو جعفر Louisville [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1, 1
-http://embed.iptv-planet.com/embed.php?id=artaflam1&width=591&height=402&key2=1114
 
 
 #EXTINF:-1,MBC 1
