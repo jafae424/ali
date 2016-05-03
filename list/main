@@ -17,7 +17,7 @@
 <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv Arabic 2 channels List [/COLOR]</name>
+      <name>[COLOR red]Jafaer-tv Arabic 2 tv List [/COLOR]</name>
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
@@ -92,16 +92,14 @@
    
 </channel>
   </channels>
-  <channel>
+ 
       <name>[COLOR red]Jafaer-tv France TV List[/COLOR]</name>
   <thumbnail>https://goo.gl/sg3rRq</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/francelist</externallink>   
-   
-</channel>
 
-<channels>
+
 
 <channel>
       <name>[COLOR red] Jafaer-tv Cartoons [/COLOR]</name>
