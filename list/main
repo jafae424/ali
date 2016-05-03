@@ -9,7 +9,7 @@
 <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Arabic%20list.m3u</externallink> ##change haider
+<externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Arab1.m3u</externallink> ##change haider
    
 </channel>
 </channels>
@@ -21,7 +21,7 @@
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/ara3.xml</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Arab2.xml</externallink> ##change haider
    
 </channel>
   </channels>
@@ -34,11 +34,11 @@
   <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv Sport TV List[/COLOR]</name>
+      <name>[COLOR red]Jafaer-tv Sport 1 [/COLOR]</name>
   <thumbnail>https://www.craftdirect.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/4/242862-alt2.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/sportlist</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/spo1</externallink> ##change haider
    
 </channel>
   </channels>
@@ -46,11 +46,11 @@
  <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv Sport 2 TV List[/COLOR]</name>
+      <name>[COLOR red]Jafaer-tv Sport 2 [/COLOR]</name>
   <thumbnail>https://www.craftdirect.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/4/242862-alt2.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/sport2</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/sport2</externallink> ##change haider
    
 </channel>
   </channels> 
@@ -61,7 +61,7 @@
   <thumbnail>http://www.ps4vpn.com/img/vpn-access-tv-channels-on-PS4.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Englishlist</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Eng1</externallink> ##change haider
    
 </channel>
   </channels>
@@ -75,7 +75,7 @@
   <thumbnail>http://www.ps4vpn.com/img/vpn-access-tv-channels-on-PS4.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Eng2</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Eng2</externallink> ##change haider
    
 </channel>
   </channels>
@@ -83,15 +83,15 @@
 
   <channels>
 
-<channel>
+
       <name>[COLOR red]Jafaer-tv latino TV List[/COLOR]</name>
   <thumbnail>http://goo.gl/HJn2sR</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Latinolist</externallink>   
    
-</channel>
-  </channels>
+
+  
  
       <name>[COLOR red]Jafaer-tv France TV List[/COLOR]</name>
   <thumbnail>https://goo.gl/sg3rRq</thumbnail>
@@ -106,7 +106,7 @@
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/kids.xml</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/kids/kids.xml</externallink> ##change haider
    
 </channel>
   </channels>
@@ -118,7 +118,7 @@
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Arabic%20movies.m3u</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Arabic%20movies.m3u</externallink> ##change haider
    
 </channel>
   </channels>
@@ -130,16 +130,16 @@
 
 
 
+<channels>
 
-
-      <name>[COLOR lime]Arabic  Test List [/COLOR]</name>
+      <name>[COLOR lime] Test List [/COLOR]</name>
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/ali.xml</externallink> ##change haider
+   <externallink></externallink> ##change haider
    
 </channel>
-  </channels>
+ 
 
 
 
