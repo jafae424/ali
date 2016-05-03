@@ -16,6 +16,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
+#EXTINF:-1,Mbc dram
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.48.19:1985/live/roberto/roberto/623.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
 #EXTINF:-1,MBC 1
@@ -481,6 +483,8 @@ http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
 http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
 #EXTINF:-1, QURAN TV ksa
 http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
+#EXTINF:-1, Ayaat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.48.19:1985/live/roberto/roberto/3006.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
 
