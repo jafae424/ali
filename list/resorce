@@ -432,5 +432,16 @@ rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
 </regex>
 </item>
+==========================
+#EXTINF:-1,MBC 1
+http://teledunet.tv:8888/mbc_1.m3u8?idu=ali96kashawi_65437810200 swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ 
+#EXTINF:-1,MBC drama
+rtmp://teledunet.tv:1936/live playpath=mbc_drama swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ <objectEncoding>
 
+#EXTINF:-1,MBC masr
+rtmp://teledunet.tv:1936/live playpath=mbc_masr swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ <objectEncoding>
+#EXTINF:-1,MBC masr 2
+rtmp://teledunet.tv:1936/live playpath=mbc_masr_2 swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ <objectEncoding>
+
+================================================================
 
