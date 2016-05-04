@@ -673,45 +673,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 ############
-<item>
-<title>https://sastatv.com/</title>
-<link>https://forums.tvaddons.ag/$doregex[makelist]</link>
-<regex>
-   <name>makelist</name>
-   <listrepeat><=!=[=C=D=A=T=A=[ 
-      <title> [makelist.param1]</title>
-      <link>https://forums.tvaddons.ag/$doregex[makelist2]</link>
-      <thumbnail>https://sastatv.com/website/img/logo.png</thumbnail>
-   ]=]=></listrepeat>
-   <expres><=!=[=C=D=A=T=A=[aria-expanded="false">\n\W*(.*?)\W*<\/(?s)(.*?)dropdown closed">]=]=></expres>
-   <page>https://sastatv.com/demo/</page>
-   <cookieJar></cookieJar>
-</regex>
-<regex>
-   <name>makelist2</name>
-   <listrepeat><=!=[=C=D=A=T=A=[ 
-      <title> [makelist2.param2]</title>
-      <link>https://forums.tvaddons.ag/$doregex[finalurl]</link>
-      <thumbnail>https://sastatv.com/website/img/logo.png</thumbnail>
-   ]=]=></listrepeat>
-   <expres><=!=[=C=D=A=T=A=[dropdown-item" href="([^"]+)">(.*?)<\/]=]=></expres>
-   <page>[makelist.param2]</page>
-</regex>
-<regex>
-<name>finalurl</name>
-<expres><=!=[=C=D=A=T=A=[#$pyFunction
-import requests, re, xbmcgui, xbmc
-def GetLSProData(page_data,Cookie_Jar,m,url = 'https://sastatv.com/demo/[makelist2.param1]'):
- session = requests.Session()
- session.cookies = Cookie_Jar
- source = session.get(url)
- m3u8 = re.findall('file.*?[",\'](http.*m3u8.*?)[",\']', source.text)[0]
- return m3u8 + '|User-Agent=iPhone'
-]=]=></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://sastatv.com/website/img/logo.png</thumbnail>
-</item>
+
 
 
