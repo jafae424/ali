@@ -48,16 +48,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-#EXTINF:-1,MBC 1
-http://teledunet.tv:8888/mbc_1.m3u8?idu=ali96kashawi_65437810200 swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ 
-#EXTINF:-1,MBC drama
-rtmp://teledunet.tv:1936/live playpath=mbc_drama swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ <objectEncoding>
-
-#EXTINF:-1,MBC masr
-rtmp://teledunet.tv:1936/live playpath=mbc_masr swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ <objectEncoding>
-#EXTINF:-1,MBC masr 2
-rtmp://teledunet.tv:1936/live playpath=mbc_masr_2 swfUrl=http://alwhdat.net/jwp7/jwplayer-7.0.0/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/mbc_1/ <objectEncoding>
-
 
 
 
