@@ -18,6 +18,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 #EXTINF:-1,Mbc dram
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.48.19:1985/live/roberto/roberto/623.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,MBC-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans85/mans85/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Arabic:MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
