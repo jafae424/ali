@@ -21,15 +21,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.9
 
 #EXTINF:-1,MBC DRAMA
 http://149.11.90.99:4022/udp/238.21.13.31:5004
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.13.31:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,MBC MASR
+http://149.11.90.99:4022/udp/238.21.11.80:5004
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.11.80:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,MBC Masr 2
 http://149.11.90.99:4022/udp/238.21.13.1:5004
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.13.1:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,MBC 3
 http://149.11.90.99:4022/udp/238.21.13.28:5004
