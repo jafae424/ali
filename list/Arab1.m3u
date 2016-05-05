@@ -15,6 +15,27 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+#EXTINF:-1,MBC 1
+http://149.11.90.99:4022/udp/238.21.13.25:5004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.13.25:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,MBC DRAMA
+http://149.11.90.99:4022/udp/238.21.13.31:5004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.13.31:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.11.80:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,MBC Masr 2
+http://149.11.90.99:4022/udp/238.21.13.1:5004
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.13.1:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,MBC 3
+http://149.11.90.99:4022/udp/238.21.13.28:5004
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.13.28:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 
 #EXTINF:-1,Mbc dram
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.48.19:1985/live/roberto/roberto/623.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
