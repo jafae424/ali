@@ -106,7 +106,8 @@ rtmp://66.23.237.233:1935/alkout/alkout
 rtmp://msr1tv.flashmediacast.com:2071/live/livestream
 #EXTINF:-1,Al Masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.11.2:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
+#EXTINF:-1,ANNAJAF النجف
+http://149.11.90.99:4022/udp/238.21.15.65:5004
 #EXTINF:-1, الصراط Elssaraat
 rtmp://166.62.41.132:1935/livepkgr playpath=livestream2 swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf pageUrl=http://www.assirat.tv/livestreaming.php objectEncoding=
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",المعارف
