@@ -46,7 +46,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
+#EXTINF:-1,bein Movies 1
+http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
+#EXTINF:-1,OSN Movies Action
+http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
+#EXTINF:-1,OSN Movies
+http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
 
 
 
