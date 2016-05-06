@@ -75,19 +75,30 @@
 
 
 
-
-
-
-
-
 <item>
-<title>MBC MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/672.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+<title>MBC 1 </title>
+<link>$doregex[final_m3u8]|User-Agent: iPhone</link>
+<regex>
+<name>final_m3u8</name>
+<expres>$pyFunction:'$doregex[get_m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_m3u8</name>
+<expres>src=\\[",'](.*m3u8.*?).{3}[",']</expres>
+<page>https://www.arablive-tv.com/video/mbc-1-live-streaming-en-direct/</page>
+<agent>iPhone</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-<item>
-<title>MBC 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/653.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item>
+
+
+
+
+
+
 
 <title>MBC_Masr2</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/675.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -282,6 +293,11 @@
 
 0000000000000000000000000000000
 
+
+<item>
+<title>MBC 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/653.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+</item>
 <item>
 <title>MBC 4</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=591&amp;height=402 live=1 swfVfy=1</link>
@@ -365,7 +381,10 @@
 </regex>
 </item>
 
-
+<item>
+<title>MBC MAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/672.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+</item>
 
 00000000000
 
