@@ -275,7 +275,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?to
 #EXTINF:-1,Almanar Channel البث جديد
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 #EXTINF:-1,Al Manar المنار
-rtmp://162.244.80.108:1935/liveorigin/livestream_480p
+http://live.mediaforall.net:1935/liveorigin/livestream_360p/playlist.m3u8
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,mtv_lebanon
