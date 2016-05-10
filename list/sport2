@@ -133,7 +133,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>BEIN 1 لا تعمل حالبا</title>        
+<title>BEIN 1 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -158,7 +158,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </regex>
 </item
 <item>
-<title> BEIN 2  لا تعمل حالبا</title>        
+<title> BEIN 2  ا</title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -183,7 +183,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </regex>
 </item>
 <item>
-<title>BEIN 3 لا تعمل حالبا</title>        
+<title>BEIN 3 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -210,7 +210,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>BEIN 4 لا تعمل حالبا</title>        
+<title>BEIN 4 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -237,7 +237,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>BEIN fr 1 لا تعمل حالبا</title>        
+<title>BEIN fr 1 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -264,7 +264,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>BEIN fr 2 لا تعمل حالبا</title>        
+<title>BEIN fr 2 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
