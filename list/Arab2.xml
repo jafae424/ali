@@ -799,156 +799,7 @@
 	</regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Tounesna</cname>
-	<item>
-	<title>Tounesna</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Tunisna-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
 
-
-        <item>
-            <title>Echorouk Tvالشروق</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=echourouk&amp;width=591&amp;height=402 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=591&amp;height=402</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=591&amp;height=402</page>
-            </regex>
-        </item>
-   
-<streaminginfo>
-	<cname>Tunisia national 1</cname>
-	<item>
-	<title>Tunisia national 1</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Watania-1</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Tunisia national 2</cname>
-	<item>
-	<title>Tunisia national 2</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Watania-2</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>M Tunisia</cname>
-	<item>
-	<title>M Tunisia</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>France 24 FR</cname>
-	<item>
-	<title>France 24</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/France-24</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>France 24</cname>
-	<item>
-	<title>France 24 Arabic</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/France-24-Ar</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Alinsen</cname>
-	<item>
-	<title>Alinsen</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Insen-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-
-
-
-<item>
-<title>Assadissa</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402 live=1 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402</page>
-<referer>http://iptv-planet.com/assadissa.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402</page>
-<referer>http://iptv-planet.com/assadissa.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402</page>
-<referer>http://iptv-planet.com/assadissa.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-</item>
-
- 
-
-
-<streaminginfo>
-    <cname>KBC Algeria</cname>
-	<item>
-	<title>KBC Algeria</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://stream.kbcalgerie.tv/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</link>
-	</item>
-</streaminginfo
 
 
 <streaminginfo>
@@ -1634,6 +1485,33 @@
             </regex>
         </item>
     </streaminginfo>
+    
+    <item>
+<title>التاسعة Attasi3a</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_attassia&amp;width=591&amp;height=402 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_attassia&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/attassia.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_attassia&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/attassia.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_attassia&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/attassia.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
     <streaminginfo>
         <cname>Algeria 3</cname>
         <item>
@@ -1653,25 +1531,7 @@
             </regex>
         </item>
     </streaminginfo>
-  <streaminginfo>
-        <cname>Attasi3a</cname>
-        <item>
-            <title>Attasi3a</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=591&amp;height=402 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=591&amp;height=402</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=591&amp;height=402</page>
-            </regex>
-        </item>
-    </streaminginfo>
+ 
 
 <item>
 <title>elsharq</title>
@@ -1691,7 +1551,165 @@
 </item>
 
 
+<streaminginfo>
+	<cname>Tounesna</cname>
+	<item>
+	<title>Tounesna</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Tunisna-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
 
+
+<item>
+<title>echourouk الشروق</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_echourouk&amp;width=591&amp;height=402 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_echourouk&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/echourouk.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_echourouk&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/echourouk.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_echourouk&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/echourouk.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+<streaminginfo>
+	<cname>Tunisia national 1</cname>
+	<item>
+	<title>Tunisia national 1</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Watania-1</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 2</cname>
+	<item>
+	<title>Tunisia national 2</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Watania-2</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>M Tunisia</cname>
+	<item>
+	<title>M Tunisia</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24 FR</cname>
+	<item>
+	<title>France 24</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>France 24 Arabic</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24-Ar</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alinsen</cname>
+	<item>
+	<title>Alinsen</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Insen-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+
+<item>
+<title>Assadissa</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/assadissa.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/assadissa.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=591&amp;height=402</page>
+<referer>http://iptv-planet.com/assadissa.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+
+ 
+
+
+<streaminginfo>
+    <cname>KBC Algeria</cname>
+	<item>
+	<title>KBC Algeria</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://stream.kbcalgerie.tv/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</link>
+	</item>
+</streaminginfo
     
    <streaminginfo>
         <cname>Al Majd</cname>
