@@ -46,6 +46,104 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 
+
+#EXTINF:-1,AR: OSN Ya Hala
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1225.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN YH Shabab HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1209.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Ya Hala Drama HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1210.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1213.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Premiere HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1212.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Premiere +2
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1231.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Action HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1216.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Action +2 HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1217.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Festival HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1224.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN First Comedy HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1214.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Star Movie HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1227.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Comedy
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1215.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies Kids HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1211.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies +2
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1218.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Cinema 1
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1220.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Cinema 2
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1221.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Movies AMC HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1226.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN First
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1219.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN TFC philippines
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1230.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Disney Junior HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1222.ts.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: Cinema Pro
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/857.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Nat Geo HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1223.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: Fatafeat
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/858.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Nat Geo People HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1228.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: OSN Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1232.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 #EXTINF:-1,AR: OSN Movies Box Office 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1234.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
