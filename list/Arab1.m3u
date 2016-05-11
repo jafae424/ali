@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1,  [COLOR red]  حيدر ابو جعفر Louisville [/COLOR]
+#EXTINF:-1,  [COLOR red]  بعض القنوات تحتاج الضغط اكثر من مره واحده لكي تعمل[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
