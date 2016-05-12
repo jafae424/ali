@@ -3189,7 +3189,18 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>Test http://tellymov.com</title>
+<link>$doregex[m3u8]</link>
+<regex>
+    <name>getm3u8</name>
+    <expres></expres>
+    <page>http://tellymov.com/embed-8shcj5yf226u.html</page>
+	<referer>http://tellymov.com</referer>
+    <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
 </streamingInfos>
 
 
