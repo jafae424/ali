@@ -117,9 +117,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-me
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1219.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1,AR: OSN TFC philippines
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1230.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,AR: OSN Disney Junior HD
 
