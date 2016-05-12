@@ -3188,7 +3188,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-em>
+<item>
 <title>Test</title>
 <link>$doregex[m3u8]</link>
 <page>http://tellymov.com/embed-8shcj5yf226u.html</page>
