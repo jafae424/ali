@@ -16,10 +16,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1,mbc 1
+EXTINF:-1,mbc 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1,MBC-1
+EXTINF:-1,MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans85/mans85/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Arabic:MBC 1
@@ -44,19 +44,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
-
-
-#EXTINF:-1,AR: OSN Ya Hala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1225.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR: OSN YH Shabab HD
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1209.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR: OSN Ya Hala Drama HD
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1210.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,AR: OSN Movies HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/luanda75/satlover.com/1213.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
