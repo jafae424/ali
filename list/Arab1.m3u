@@ -51,42 +51,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/oman/oman/1886.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-#EXTINF:-1,AR : BeIN_Movies_1HD*
-http://62.210.190.12:80/live/arab176/547922016/2264.ts
-#EXTINF:-1,AR : BeIN_Movies_2HD*
-http://62.210.190.12:80/live/arab176/547922016/2281.ts
-#EXTINF:-1,AR : OSN box office 1*
-http://62.210.190.12:80/live/arab176/547922016/2270.ts
-#EXTINF:-1,AR : OSN box office 2*
-http://62.210.190.12:80/live/arab176/547922016/2266.ts
-#EXTINF:-1,AR : OSN box office 3*
-http://62.210.190.12:80/live/arab176/547922016/2272.ts
-#EXTINF:-1,AR : OSN Cinema2*
-http://62.210.190.12:80/live/arab176/547922016/2275.ts
-#EXTINF:-1,AR : OSN FANN*
-http://62.210.190.12:80/live/arab176/547922016/2279.ts
-#EXTINF:-1,AR : OSN MOVIE ACTION 2*
-http://62.210.190.12:80/live/arab176/547922016/2268.ts
-#EXTINF:-1,AR : OSN MOVIE PREMIERE*
-http://62.210.190.12:80/live/arab176/547922016/2271.ts
-#EXTINF:-1,AR : OSN ON Demande 1*
-http://62.210.190.12:80/live/arab176/547922016/2265.ts
-#EXTINF:-1,AR : OSN ON Demande 2*
-http://62.210.190.12:80/live/arab176/547922016/2278.ts
-#EXTINF:-1,AR : OSN ON Demande 3*
-http://62.210.190.12:80/live/arab176/547922016/2274.ts
-#EXTINF:-1,AR : OSN YA HALA DRAMA*
-http://62.210.190.12:80/live/arab176/547922016/2282.ts
-#EXTINF:-1,AR : OSN YA HALA SHABAB*
-http://62.210.190.12:80/live/arab176/547922016/2269.ts
-#EXTINF:-1,AR : OSN YAHALA*
-http://62.210.190.12:80/live/arab176/547922016/2267.ts
-#EXTINF:-1,AR : OSN_Al_youm*
-http://62.210.190.12:80/live/arab176/547922016/2277.ts
-#EXTINF:-1,AR : OSN_MOVIES HD*
-http://62.210.190.12:80/live/arab176/547922016/2276.ts
-#EXTINF:-1,AR : hala tv*
-http://62.210.190.12:80/live/arab176/547922016/2273.ts
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
