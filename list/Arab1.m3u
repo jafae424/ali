@@ -28,8 +28,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:0,AR: MBC MASR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/oman/oman/1908.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Arabic:MBC 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2233.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -74,12 +72,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.9
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
-#EXTINF:-1,Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8mGe7t",Al Kawthar (تعمل)
-rtmp://fms.1830A.phicdn.net/201830A/alkawtharInstance/AlkawtharHLS
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
