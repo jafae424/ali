@@ -48,6 +48,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/oman/oman/1886.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
+#EXTINF:0,AR OSN YA HALA DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.198.114:8000/play/arosnyahaladrama|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 
 
 #EXTINF:-1,MBC 2
