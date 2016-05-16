@@ -60,10 +60,43 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://149.11.90.99:4022/udp/238.21.13.37:5004
 #EXTINF:-1, Cinema هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
-#EXTINF:-1,Imagine Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.11.43:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
+#EXTINF:-1,AR : BeIN_Movies_1HD*
+http://62.210.190.12:80/live/arab179/45574112016/2264.ts
+#EXTINF:-1,AR : BeIN_Movies_2HD*
+http://62.210.190.12:80/live/arab179/45574112016/2281.ts
+#EXTINF:-1,AR : OSN box office 1*
+http://62.210.190.12:80/live/arab179/45574112016/2270.ts
+#EXTINF:-1,AR : OSN box office 2*
+http://62.210.190.12:80/live/arab179/45574112016/2266.ts
+#EXTINF:-1,AR : OSN box office 3*
+http://62.210.190.12:80/live/arab179/45574112016/2272.ts
+#EXTINF:-1,AR : OSN Cinema2*
+http://62.210.190.12:80/live/arab179/45574112016/2275.ts
+#EXTINF:-1,AR : OSN FANN*
+http://62.210.190.12:80/live/arab179/45574112016/2279.ts
+#EXTINF:-1,AR : OSN MOVIE ACTION 2*
+http://62.210.190.12:80/live/arab179/45574112016/2268.ts
+#EXTINF:-1,AR : OSN MOVIE PREMIERE*
+http://62.210.190.12:80/live/arab179/45574112016/2271.ts
+#EXTINF:-1,AR : OSN ON Demande 1*
+http://62.210.190.12:80/live/arab179/45574112016/2265.ts
+#EXTINF:-1,AR : OSN ON Demande 2*
+http://62.210.190.12:80/live/arab179/45574112016/2278.ts
+#EXTINF:-1,AR : OSN ON Demande 3*
+http://62.210.190.12:80/live/arab179/45574112016/2274.ts
+#EXTINF:-1,AR : OSN YA HALA DRAMA*
+http://62.210.190.12:80/live/arab179/45574112016/2282.ts
+#EXTINF:-1,AR : OSN YA HALA SHABAB*
+http://62.210.190.12:80/live/arab179/45574112016/2269.ts
+#EXTINF:-1,AR : OSN YAHALA*
+http://62.210.190.12:80/live/arab179/45574112016/2267.ts
+#EXTINF:-1,AR : OSN_Al_youm*
+http://62.210.190.12:80/live/arab179/45574112016/2277.ts
+#EXTINF:-1,AR : OSN_MOVIES HD*
+http://62.210.190.12:80/live/arab179/45574112016/2276.ts
+#EXTINF:-1,AR : hala tv*
+http://62.210.190.12:80/live/arab179/45574112016/2273.ts
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
