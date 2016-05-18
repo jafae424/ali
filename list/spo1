@@ -34,7 +34,36 @@ http://alkass-i.akamaihd.net/hls/live/205534/1/live_33s.m3u8|User-Agent=Mozilla/
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
 
-
+#EXTINF:-1,beIN_s1
+http://iptv33.us.to/ip441555/3136774336/1.ch
+#EXTINF:-1,beIN_s2
+http://iptv33.us.to/ip441555/3136774336/2.ch
+#EXTINF:-1,beIN_s3
+http://iptv33.us.to/ip441555/3136774336/3.ch
+#EXTINF:-1,beIN_s4
+http://iptv33.us.to/ip441555/3136774336/4.ch
+#EXTINF:-1,beIN_s5
+http://iptv33.us.to/ip441555/3136774336/5.ch
+#EXTINF:-1,beIN_s6
+http://iptv33.us.to/ip441555/3136774336/6.ch
+#EXTINF:-1,beIN_s7
+http://iptv33.us.to/ip441555/3136774336/7.ch
+#EXTINF:-1,beIN_s8
+http://iptv33.us.to/ip441555/3136774336/8.ch
+#EXTINF:-1,beIN_s9
+http://iptv33.us.to/ip441555/3136774336/9.ch
+#EXTINF:-1,beIN_s10
+http://iptv33.us.to/ip441555/3136774336/10.ch
+#EXTINF:-1,beIN_s11
+http://iptv33.us.to/ip441555/3136774336/11.ch
+#EXTINF:-1,beIN_s12
+http://iptv33.us.to/ip441555/3136774336/12.ch
+#EXTINF:-1,beIN_s13
+http://iptv33.us.to/ip441555/3136774336/13.ch
+#EXTINF:-1,beIN_s14
+http://iptv33.us.to/ip441555/3136774336/14.ch
+#EXTINF:-1,beIN_s15
+http://iptv33.us.to/ip441555/3136774336/15.ch
 
 
 #EXTINF:-1, Bein Sport AR
