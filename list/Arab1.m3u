@@ -177,8 +177,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.9
 http://149.11.90.99:4022/udp/238.21.15.65:5004
 #EXTINF:-1, الصراط Elssaraat
 rtmp://166.62.41.132:1935/livepkgr playpath=livestream2 swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf pageUrl=http://www.assirat.tv/livestreaming.php objectEncoding=
-#EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",المعارف
-rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nver/jwplayer/jwplayer.flash.swf pageUrl=http://www.almaareftv.com/nver/#
 #EXTINF:-1 tvg-logo="http://vb.top-new.net/image/14/02/images_kwes.jpg",السلام 
 http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
@@ -191,8 +189,8 @@ rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",2 قناة الامام الحسين ع
 http://ca.live.imamhussein.tv:1935/live/ih202/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref
-rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nver/jwplayer/jwplayer.flash.swf pageUrl=http://www.almaareftv.com/nver/index.php <objectEncoding>
+#EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref المعارف
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 #EXTINF:-1, العقيلة
 http://144.76.218.235/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -200,6 +198,8 @@ http://144.76.218.235/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 rtmp://5.79.86.21/live/ih 
 #EXTINF:-1,السفير
 http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
+#EXTINF:-1,safeer2 TV
+http://server.kijoki.net:1935/live/safeer2/chunklist_w1089996885.m3u8
 #EXTINF:-1,Anwar TV 2 الانوار
 http://149.11.90.99:4022/udp/238.21.15.17:5004
 #EXTINF:-1,قناة فدك
@@ -737,8 +737,7 @@ rtmp://38.96.148.147:1935/live?gmswf=1499330773 playpath=livestream swfUrl=http:
 http://m.live.net.sa:1935/m/chm7/chunklist.m3u8
 #EXTINF:-1,Zaitouna
 http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8
-#EXTINF:-1,تيلات
-ttp://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8
+
 #EXTINF:-1, كيف KIF TV
 http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8
 
