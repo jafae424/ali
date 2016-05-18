@@ -61,6 +61,13 @@ http://149.11.90.99:4022/udp/238.21.13.37:5004
 #EXTINF:-1, Cinema هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
+#EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.
+
+#EXTINF:0,AR-BeIN_Movies_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.198.114:8000/play/arbeinmovie2hd|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+
 #EXTINF:-1,AR : BeIN_Movies_1HD*
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2264.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
