@@ -774,7 +774,10 @@ rtmp://82.212.95.122:1935/live/ playpath=semsem swfUrl=http://alwhdat.net/jwplay
 http://38.99.146.69:7777/ModyKids_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=8a00c1c4e4fb2ec6c23bf5c32e462893763a4e3d56267a8758c19a735dcbf088a299017ce29bf1aa
 
 
-
+#EXTINF:-1,قناة طيور بيبي
+plugin://plugin.video.youtube/?action=play_video&videoid=BpcQzVGPTLM
+#EXTINF:-1,طيور الجنة
+plugin://plugin.video.youtube/?action=play_video&videoid=dMmeVXHprRg
 
 
 
