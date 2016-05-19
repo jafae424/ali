@@ -40,31 +40,9 @@
 
 
 
-<item>
-<title>http://aflam</title>
-<sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
-<referer>http://aflam4you.tv</referer>
-</item>
 
-<item>
-<title>mbc-1</title>
-<regex>
-<name>getkey2</name>
-<expres>key2=(.*?)&gt;</expres>
-<page>http://embed.iptv-planet.com/embedPlayer.js</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-</regex>
-<regex>
-<name>getheight</name>
-<expres>height2.*?\+\s(\d)\W</expres>
-<page>http://embed.iptv-planet.com/embedPlayer.js</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-</regex>
-</item>
  
-<<<<<<< HEAD
- 
- 
+
  
  
  
@@ -119,13 +97,15 @@
 
 
 
-<title>MBC_Masr2</title> 
+<title>MBC Masr 2</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/675.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item> 
+
 <item>
 <title>MBC_Masr2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/675.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item>
+
 <item>
 <title>mbc_masr_2</title>
 <link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
