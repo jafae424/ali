@@ -3,32 +3,61 @@
 <streaminginfos>
 
 
-	
 <item>
-<title>Sindbad</title>
-<link>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/Arabiccartoons/Sindbad.xml</link>
-</item>	
-
-
-
+<title>Donald Duck, Mickey Mouse, Pluto, Goofy Cartoons : 5 HOURS NON-STOP!</title>
+<link>plugin://plugin.video.youtube/play/?video_id=c-KpzND4be0</link>
+<thumbnail>http://images.clipartpanda.com/mickey-mouse-and-friends-clipart-di7eb7b9T.jpeg</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
 
 <item>
-<title> test 1</title>
-<link>$doregex[makelist]</link>
-<regex>
-    <name>makelist</name>
-    <listrepeat><![CDATA[
-        <title>[makelist.param2]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-        <thumbnail>https://yt3.ggpht.com/-VcKQJ2TNTyo/*********AI/*********AA/COXcX17vIe4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
-    ]]></listrepeat>
-    <expres>data-sessionlink=.*?href=".*?v=(.*?)"&gt;(.+?)&lt;</expres>
-    <page>https://www.youtube.com/user/2MTV/videos</page>
-    <cookieJar></cookieJar>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-VcKQJ2TNTyo/*********AI/*********AA/COXcX17vIe4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://yt3.ggpht.com/-jKXrS0fGkcg/Vazs-1***zI/*********Os/SzsZV_XhGkI/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/youtube.jpg</fanart>
-</item>	
+<title>My Pet Dinosaur - My Magic Pet Morphle</title>
+<link>plugin://plugin.video.youtube/play/?video_id=u8QEGElcMlQ</link>
+<thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s500-c-k-no/photo.jpg</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
+
+<item>
+<title>50 x Donald Duck Cartoons</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GhBf4ClJwoY</link>
+<thumbnail>http://img.lum.dolimg.com/v1/images/character_mickeymouse_donaldduck_d79720c3.jpeg</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
+
+<item>
+<title>Mr Bean Cartoon Series</title>
+<link>plugin://plugin.video.youtube/play/?video_id==h6rcqPnpcBQ</link>
+<thumbnail>http://www.harveyvoices.co.uk/wp-content/uploads/2015/02/mr-bean-animated01-320x298.jpg</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
+
+<item>
+<title>My Red Racecar - My Magic Pet Morphle</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DUHVxtjAcXs</link>
+<thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s500-c-k-no/photo.jpg</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
+
+<item>
+<title>Chip and dale & Donald Duck Cartoons</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xVAatZMg74s</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/disney/images/c/ca/Chip-and-dale-4.jpg/revision/latest?cb=20141014093301</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
+
+<item>
+<title>Popeye the Sailor Man</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YvM9myyWGRw</link>
+<thumbnail>http://www.snarfdog.com/popeye308.gif</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
+
+<item>
+<title>Curious George Full Episodes</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Pb3nR9YLi5M</link>
+<thumbnail>https://i.ytimg.com/sh/yEsgHgup4fE/showposter.jpg?v=53ed23dd</thumbnail>
+<fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
+</item>
 
 
 
