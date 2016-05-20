@@ -687,33 +687,9 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 	</regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-     <cname>Syria</cname>
-	 <item>
-<title>Syria</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=145</page>
-</regex>
-</item>
-</streaminginfo>
 
 <streaminginfo><cname>Alahad</cname><item><title>العهد</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
-<streaminginfo>
-<cname>IFilme ENG</cname>
-<item>
-<title>Aljazeera ENG</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=2</page>
-</regex>
-</item>
-</streaminginfo>
 
 <streaminginfo>
      <cname>Qatar</cname>
@@ -1727,7 +1703,36 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </regex>
 </item>
 
- 
+ <item>
+<title>المغربية 5 Moroco</title>
+<link>$doregex[LoginAndCookie]$doregex[get-media]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</link>
+<regex>
+<name>get-media</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-url]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>LoginAndCookie</name>
+<expres></expres>
+<page>http://www.giniko.com/signin.php</page>
+<referer>http://www.giniko.com/watch.php?id=386</referer>
+<x-req>XMLHttpRequest</x-req>
+<rawpost>email=hai82der@yahoo.com&amp;password=123456789&amp;submit= LOGIN</rawpost>
+<accept> */*</accept>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>iframe src="(http://www.giniko.com/.*?)&lt;</expres>
+<page>http://www.giniko.com/watch.php?id=386</page>
+<referer>http://www.giniko.com/country.php?id=386</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 <streaminginfo>
@@ -1738,25 +1743,7 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 	</item>
 </streaminginfo
     
-   <streaminginfo>
-        <cname>Al Majd</cname>
-        <item>
-            <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=592&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=592&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=592&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
 
 
 <item>
@@ -1805,15 +1792,33 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </item>
 <item>
 <title>العراقية</title>
-<link>$doregex[url]</link>
+<link>$doregex[LoginAndCookie]$doregex[get-media]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</link>
 <regex>
-<name>url</name>
-<expres>src.*(http.*m3u8.*)[',"]</expres>
-<page>http://www.giniko.com/watch.php?id=182</page>
-<referer>http://www.giniko.com/</referer>
+<name>get-media</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-url]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
 <cookieJar></cookieJar>
 </regex>
-</item>
+<regex>
+<name>LoginAndCookie</name>
+<expres></expres>
+<page>http://www.giniko.com/signin.php</page>
+<referer>http://www.giniko.com/watch.php?id=182</referer>
+<x-req>XMLHttpRequest</x-req>
+<rawpost>email=hai82der@yahoo.com&amp;password=123456789&amp;submit= LOGIN</rawpost>
+<accept> */*</accept>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>iframe src="(http://www.giniko.com/.*?)&lt;</expres>
+<page>http://www.giniko.com/watch.php?id=182</page>
+<referer>http://www.giniko.com/country.php?id=182</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
 
 <item>
 <title>ALIraqia</title>
@@ -2006,17 +2011,6 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </streaminginfo>
 
 
-<item>
-<title>Sudan tv</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>src.*(http.*m3u8.*)[',"]</expres>
-<page>http://www.giniko.com/watch.php?id=187</page>
-<referer>http://www.giniko.com/</referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 
 
@@ -2045,7 +2039,36 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </streaminginfo>
 
 
-
+<item>
+<title>GEM Kurd</title>
+<link>$doregex[LoginAndCookie]$doregex[get-media]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</link>
+<regex>
+<name>get-media</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-url]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>LoginAndCookie</name>
+<expres></expres>
+<page>http://www.giniko.com/signin.php</page>
+<referer>http://www.giniko.com/watch.php?id=360</referer>
+<x-req>XMLHttpRequest</x-req>
+<rawpost>email=hai82der@yahoo.com&amp;password=123456789&amp;submit= LOGIN</rawpost>
+<accept> */*</accept>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>iframe src="(http://www.giniko.com/.*?)&lt;</expres>
+<page>http://www.giniko.com/watch.php?id=360</page>
+<referer>http://www.giniko.com/country.php?id=360</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 <streaminginfo><cname>iFilm Arabic</cname><item><title>iFilm Eng</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fifilm&amp;mode=125&amp;name=iFilm&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F908%2Fextra_big_logo.png&amp;start=ifilm&amp;ch_fanart=908</link>
@@ -2832,7 +2855,37 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 
 
 00000000000000000000000000000000	
-	assadissa
+
+<item>
+<title>Aljazeera ENG</title>
+<link>$doregex[LoginAndCookie]$doregex[get-media]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</link>
+<regex>
+<name>get-media</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-url]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>LoginAndCookie</name>
+<expres></expres>
+<page>http://www.giniko.com/signin.php</page>
+<referer>http://www.giniko.com/watch.php?id=2</referer>
+<x-req>XMLHttpRequest</x-req>
+<rawpost>email=hai82der@yahoo.com&amp;password=123456789&amp;submit= LOGIN</rawpost>
+<accept> */*</accept>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>iframe src="(http://www.giniko.com/.*?)&lt;</expres>
+<page>http://www.giniko.com/watch.php?id=2</page>
+<referer>http://www.giniko.com/country.php?id=2</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
     <streaminginfo>
@@ -3146,24 +3199,6 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 <cookieJar></cookieJar>
 </regex>
 <thumbnail></thumbnail>
-</item>
-
-
-
-
-<item>
-<title>Algeria4 RegEx **http://www.elahmad.com/tv/algeria4.php**</title>
-<link>$doregex[file]</link>
-<regex>
-<name>file</name>
-<expres>var hd="(.*?)"</expres>
-<page>http://www.elahmad.com/tv/result/fr_result.php?id=tamazight</page>
-<referer>http://www.elahmad.com/tv/fr_tv10.php?id=tamazight</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-<x-req>XMLHttpRequest</x-req>
-<rawpost>id=</rawpost>
-<cookieJar></cookieJar>
-</regex>
 </item>
 </streamingInfos>
 
