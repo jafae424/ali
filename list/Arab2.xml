@@ -3147,6 +3147,24 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </regex>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
+<item>
+<title>Algeria4 RegEx **http://www.elahmad.com/tv/algeria4.php**</title>
+<link>$doregex[file]</link>
+<regex>
+<name>file</name>
+<expres>var hd="(.*?)"</expres>
+<page>http://www.elahmad.com/tv/result/fr_result.php?id=tamazight</page>
+<referer>http://www.elahmad.com/tv/fr_tv10.php?id=tamazight</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<x-req>XMLHttpRequest</x-req>
+<rawpost>id=</rawpost>
+<cookieJar></cookieJar>
+</regex>
+</item>
 </streamingInfos>
 
 
