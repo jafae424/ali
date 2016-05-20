@@ -2020,43 +2020,10 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 
 
 
-<streaminginfo>
-     <cname>Jordan</cname>
-	 <item>
-<title>Jordan </title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://giniko.com/watch.php?id=186</page>
-</regex>
-<thumbnail>http://giniko.com/logos/190x110/186.jpg</thumbnail>
-</item>
-</streaminginfo>
-<item>
-<title>Jordan</title>
-<link>$doregex[url]</link>
-
-<regex>
-<name>url</name>
-<expres>src.*(http.*m3u8.*)[',"]</expres>
-<page>http://www.giniko.com/watch.php?id=186</page>
-<referer>http://www.giniko.com/</referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 
 
 
-
-<streaminginfo>
-        <cname>Aljazeera Doc</cname>
-	<item>
-	<title>Aljazeera Doc</title>
-	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
-	</item>
-</streaminginfo>
 
 
 <streaminginfo>
@@ -2221,7 +2188,7 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </item>
 
 <item>
-<title> Algeria 4</title>
+<title> Algeria 4 </title>
 <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
 <name>get-initsesion</name>
@@ -2239,7 +2206,7 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 </regex>
 <regex>
 <name>iframe</name>
-<expres>iframe src=[",']([^"]+)[",']</expres>
+<expres>embed src=[",']([^"]+)[",']</expres>
 <page>http://www.elahmad.com/tv/algeria4.php</page>
 <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
 <cookieJar></cookieJar>
@@ -2953,33 +2920,16 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
         </item>
     </streaminginfo>
     
-    <item>
-<title> aljazeera_documentary</title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-initsesion</name>
-<expres></expres>
-<page>$doregex[get-page]</page>
-<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>$doregex[iframe]</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>iframe</name>
-<expres>iframe src=[",']([^"]+)[",']</expres>
-<page>http://www.elahmad.com/tv/aljazeera_documentary.php</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+ 
+
+
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>Aljazeera Doc</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
     
     
     
@@ -3122,6 +3072,50 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 
 </item>
 
+
+<item>
+<title>Sudan tv</title>
+<link>$doregex[LoginAndCookie]$doregex[get-media]|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</link>
+<regex>
+<name>get-media</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-url]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>LoginAndCookie</name>
+<expres></expres>
+<page>http://www.giniko.com/signin.php</page>
+<referer>http://www.giniko.com/watch.php?id=187</referer>
+<x-req>XMLHttpRequest</x-req>
+<rawpost>email=hai82der@yahoo.com&amp;password=123456789&amp;submit= LOGIN</rawpost>
+<accept> */*</accept>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>iframe src="(http://www.giniko.com/.*?)&lt;</expres>
+<page>http://www.giniko.com/watch.php?id=187</page>
+<referer>http://www.giniko.com/country.php?id=187</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>Samira</title>
 <link>$doregex[final_m3u8]|User-Agent: iPhone</link>
@@ -3152,37 +3146,6 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 <cookieJar></cookieJar>
 </regex>
 <thumbnail></thumbnail>
-</item>
-
-
-
-
-<item>
-<title>  4 </title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-initsesion</name>
-<expres></expres>
-<page>$doregex[get-page]</page>
-<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>$doregex[iframe]</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>iframe</name>
-<expres>embed src=[",']([^"]+")</expres>
-<page>http://www.elahmad.com/tv/algeria4.php</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.elahmad.com/tv/images/algeria4.jpg</thumbnail>
-<fanart>http://www.elahmad.com/tv/images/algeria4.jpg</fanart>
 </item>
 </streamingInfos>
 
