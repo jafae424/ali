@@ -637,8 +637,7 @@ http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
 
 #EXTINF:-1, الشروق Echorouk Tv
-rtmp://live.metacdn.com/2050C7/bnhtsirgq playpath=echorouk-news_396 swfUrl=https://secure.metacdn.com/flowplayer/3.2.18/flowplayer.unlimited-3.2.18.swf pageUrl=https://play.streamshark.io/r/l/bnhtsirgq/echorouk-news/embed <objectEncoding>
-
+rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
 #EXTINF:-1,Talaqie
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
 
