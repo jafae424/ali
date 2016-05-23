@@ -635,7 +635,6 @@ http://de.live.net.sa:1935/live/alj/playlist.m3u8
 http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 #EXTINF:-1, البلاد الجزائرية
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
-
 #EXTINF:-1, الشروق Echorouk Tv
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396|user-agent Mozilla/5.0
 #EXTINF:-1,Talaqie
