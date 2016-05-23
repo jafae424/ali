@@ -102,6 +102,9 @@ http://iptv33.us.to/ip441555/3136774336/29.ch
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
+#EXTINF:-1, النعيم	
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a04w|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 #EXTINF:-1,Al Maaref
 http://109.70.218.70:8900/play/a0cq
 #EXTINF:-1,AL KAWTHAR
