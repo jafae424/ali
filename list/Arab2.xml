@@ -3140,6 +3140,32 @@ src=[",'].*([".'])
 </regex>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
+
+<item>
+<title>mbc2</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=mbc2</link>
+<regex>
+<name>file</name>
+<expres>video  src="([^"]+)</expres>
+<page>http://hls.alwhdat.net/ios-smil/mbc2.smil?$doregex[get-epoc]</page>
+<referer>http://alwhdat.net/</referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>meta base="([^"]+)</expres>
+<page>http://hls.alwhdat.net/ios-smil/mbc2.smil?$doregex[get-epoc]</page>
+<referer>http://alwhdat.net/</referer>
+</regex>
+<regex>
+  <name>get-epoc</name>
+  <expres>$epoctime$</expres>
+  <page></page>
+</regex>
+</item>
 </streamingInfos>
 
 
