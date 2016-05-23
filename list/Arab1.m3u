@@ -96,75 +96,20 @@ http://iptv33.us.to/ip441555/3136774336/27.ch
 http://iptv33.us.to/ip441555/3136774336/28.ch
 #EXTINF:-1,Star_Movies
 http://iptv33.us.to/ip441555/3136774336/29.ch
-#EXTINF:0,AR-BeIN_Movies_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.198.114:8000/play/arbeinmovie2hd|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
-#EXTINF:-1,AR : BeIN_Movies_1HD*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2264.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : BeIN_Movies_2HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2281.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN box office 1*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2270.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN box office 2*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2266.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN box office 3*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2272.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN Cinema2*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2275.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN FANN*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2279.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN MOVIE ACTION 2*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2268.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN MOVIE PREMIERE*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2271.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN ON Demande 1*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2265.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN ON Demande 2*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2278.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN ON Demande 3*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2274.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN YA HALA DRAMA*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2282.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN YA HALA SHABAB*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2269.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN YAHALA*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2267.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN_Al_youm*
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.190.12:80/live/arab179/45574112016/2277.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AR : OSN_MOVIES HD*
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
-
+#EXTINF:-1,Al Kawthar
+http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
+#EXTINF:-1,Al Maaref
+http://109.70.218.70:8900/play/a0cq
+#EXTINF:-1,AL KAWTHAR
+http://109.70.218.70:8900/play/a06v
+#EXTINF:-1,Nebras TV
+http://109.70.218.70:8900/play/a02r
+#EXTINF:-1,SAWT ALITRA TV
+http://109.70.218.70:8900/play/a0bw
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
