@@ -64,7 +64,8 @@ http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 group-title=”Arab”,MBC MAX
-http://149.11.90.99:4022/udp/238.21.13.37:5004
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+
 #EXTINF:-1, Cinema هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
