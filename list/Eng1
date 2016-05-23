@@ -11,13 +11,60 @@ http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
 
+#EXTINF:-1,Sky_Action_UK
+http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/863.ch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/654.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Comedy_UK
+http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/862.ch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/654.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Thriller
+http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/856.ch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/856.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Disney_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/854.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_DramaRom_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/857.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Family_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/860.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Greats_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/858.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Prem+1_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/855.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Monsters_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/861.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,Sky2_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/890.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Sky_Thriller_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/885.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,UMP_Movies_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/886.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Universal+1_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/887.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,H2_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/888.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,ITV+1_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/891.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Syfy+1_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/889.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1,RT US
 http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
-#EXTINF:-1,Fox 59
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="thailand - תאילנד" tvg-logo="",FOX
 http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
@@ -42,29 +89,21 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL217/PROFILE05.m3u8?totalplay=
 
 ##############################
 
+#EXTINF:-1,Planete+_Thalassa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/654.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,PLANETE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/582.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,PLANETE+_A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/586.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,National_Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/649.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1 tvg-id="NatGeoWILD",Nat Geo Wild
-http://5.135.139.145:80/Nat_Geo_Wild/mono.m3u8
-#EXTINF:-1 tvg-id="NatGeo",Nat Geo
-http://5.135.139.145:80/Nat_Geo/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryShowcase”,Discovery Showcase
-http://5.135.139.145:80/Discovery_Showcase_HD/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery",Discovery
-http://5.135.139.145:80/Discovery_World/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld”,Discovery World
-http://5.135.139.145:80/Discovery_Channel/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience”,Discovery Science
-http://5.135.139.145:80/Discovery_Science/mono.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
-http://5.135.139.145:80/Animal_Planet/mono.m3u8
+#EXTINF:-1,Discovery_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/649.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 #EXTINF:-1 tvg-id=“History”,History
 http://over.ddns.net:65205
-#EXTINF:-1 tvg-id=“HistoryHD”,History HD
-http://5.135.139.145:80/History_HD/mono.m3u8
-#EXTINF:-1 tvg-id=“ViasatHistory”,Viasat History
-http://5.135.139.145:80/Viasat_History/mono.m3u8
-#EXTINF:-1 tvg-id=“ViasatExplore”,Viasat Explore
-http://5.135.139.145:80/Viasat_Explore/mono.m3u8
+
 #EXTINF:-1 tvg-id=“RTDocumentary”,RT Documentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC2",MBC2
@@ -77,20 +116,7 @@ http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 tvg-id=“LondonLive”,Greek Music Hits
 mmsh://wpso.com:200/music
-#EXTINF:-1 tvg-id=“Showtime”,USA Cinema 1
-http://over.ddns.net:65301/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 2
-http://over.ddns.net:65302/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 3
-http://over.ddns.net:65303/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 4
-http://over.ddns.net:65304/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 5
-http://over.ddns.net:65305/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 6
-http://over.ddns.net:65306/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 7
-http://over.ddns.net:65307/
+
 
 
 
@@ -125,22 +151,6 @@ http://app.pakistanvision.tv:1935/live/8090/player.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Animal Plant 
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
-http://cp.dmbshare.net:8000/live/burgess/burgess/2793.m3u8
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
-http://cp.dmbshare.net:8000/live/burgess/burgess/2792.m3u8
-#EXTINF:-1,Planete+_Thalassa
-http://37.187.24.177:80/slim/slim/654.ch
-#EXTINF:-1,PLANETE+
-http://37.187.24.177:80/slim/slim/582.ch
-#EXTINF:-1,PLANETE+_A&E
-http://37.187.24.177:80/slim/slim/586.ch
-#EXTINF:-1,National_Geographic
-http://37.187.24.177:80/slim/slim/653.ch
-#EXTINF:-1,Discovery_Channel
-http://37.187.24.177:80/slim/slim/649.ch
-#EXTINF:-1,AD-NatGeo
-http://37.187.24.177:80/slim/slim/736.ch
 
 
 #EXTINF:-1,True tv
