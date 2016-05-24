@@ -1934,51 +1934,6 @@ src=[",'].*([".'])
 
 
 
-<item>
-<title>LBC</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=lbc swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=lbc</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=lbc</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=lbc</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
-
-
-<item>
-<title>aljadeed</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=aljadeed swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=aljadeed</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=aljadeed</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=aljadeed</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
-
-<item>
-<title>otv_lebanon</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=otv_lebanon swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=otv_lebanon</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=otv_lebanon</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=otv_lebanon</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
-
-
-
 
 
 
@@ -2624,6 +2579,51 @@ src=[",'].*([".'])
     <link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8</link>
         </item>
 </streaminginfo>
+
+<item>
+<title>LBC</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=lbc swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=lbc</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=lbc</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=lbc</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
+
+
+<item>
+<title>aljadeed</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=aljadeed swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=aljadeed</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=aljadeed</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=aljadeed</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
+
+<item>
+<title>otv_lebanon</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=otv_lebanon swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=otv_lebanon</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=otv_lebanon</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=otv_lebanon</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
+
+
 
    <streaminginfo>
         <cname>Aljadeed</cname>
