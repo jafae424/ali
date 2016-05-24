@@ -322,8 +322,9 @@ http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1, ابو ظبي Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?alwhdat.net
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,AD-DRAMA ابو ظبي دراما
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/731.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
 
@@ -623,7 +624,7 @@ http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 #EXTINF:0,SEDU
 http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
 #EXTINF:-1, الشروق Echorouk Tv
-rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396|user-agent Mozilla/5.0
+rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396|user-agent-VLC
 #EXTINF:-1,Star2000
 http://iphone-streaming.ustream.tv/ustreamVideo/10538511/streams/live/playlist.m3u8
 #EXTINF:-1, citruss tv
