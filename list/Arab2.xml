@@ -3188,6 +3188,21 @@ src=[",'].*([".'])
   <page></page>
 </regex>
 </item>
+
+
+<item>
+<title>TEST | LBC</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=lbc swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=lbc</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=lbc</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=lbc</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
 </streamingInfos>
 
 
