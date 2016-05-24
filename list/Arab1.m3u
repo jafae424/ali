@@ -399,8 +399,7 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 plugin://plugin.video.youtube/?action=play_video&videoid=7vOKKinCqn0
 #EXTINF:-1,القاهرة و الناس 2
 plugin://plugin.video.youtube/?action=play_video&videoid=ZrfmWqzPhrw
-#EXTINF:-1,Alkahera wa AlNas2
-http://2.109.65.143/masa/14306.m3u8?v=1176025225
+
  
 #EXTINF:-1, CBC Extra
 plugin://plugin.video.youtube/?action=play_video&videoid=r7ammFV2blg
@@ -443,37 +442,7 @@ http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 
 #EXTINF:-1,النهار
 http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
-#EXTINF:-1,Alahly
-http://2.109.65.143/masa/14302.m3u8?v=1176025225
- 
-#EXTINF:0,Darbaka Aflam
-http://2.109.65.247/masa/24708.m3u8?v=1279345274
- 
- 
-#EXTINF:0,Bolika TV
-http://2.109.65.247/masa/24711.m3u8?v=1279345274
- 
 
- 
-#EXTINF:0,Cairo drama
-http://2.109.65.142/masa/14207.m3u8?v=1279345274
- 
-#EXTINF:0,Zee alwan
-http://2.109.65.142/masa/14209.m3u8?v=1279345274
- 
-#EXTINF:0,Zee Aflam
-http://2.109.65.142/masa/14210.m3u8?v=1279345274
-
-
- 
-#EXTINF:0,Time cinema
-http://2.109.65.142/masa/14223.m3u8?v=1279345274
- 
-#EXTINF:0,Time Aflam
-http://2.109.65.142/masa/14230.m3u8
- 
-#EXTINF:0,Cinema 
-http://2.109.65.142/masa/14202.m3u8
 #EXTINF:0,Melody aflam
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
 #EXTINF:-1,Melody Drama
@@ -482,22 +451,11 @@ http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m
 #EXTINF:-1,Melody Classic
 http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8
 
-#EXTINF:0,Cima Ali baba Aflam 
-http://2.109.65.247/masa/24706.m3u8
-#EXTINF:0,Time comedy
-http://2.109.65.142/masa/14201.m3u8?v=117603230T
- 
-#EXTINF:0,Cairo Drama
-http://2.109.65.142/masa/14207.m3u8?v=1279345274
+
 #EXTINF:-1,Cairo-Mosalsalat القاهرة مسلاسلات
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/722.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
- 
-#EXTINF:0,Cinema PRO
-http://2.109.65.247/masa/24703.m3u8?v=1279345274
- 
-#EXTINF:0,AlNahar alyoum
-http://2.109.65.142/masa/14221.m3u8?v=1279345274
+
  
 #EXTINF:0,AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
@@ -526,10 +484,7 @@ http://jafaer-tv.com
 
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
-#EXTINF:-1,AL-JAZEERA
-http://37.187.24.177:80/slim/slim/765.ch
-#EXTINF:-1,Al-Jazeera-Mubasher
-http://37.187.24.177:80/slim/slim/980.ch
+
 
 #EXTINF:-1,العربية 
 plugin://plugin.video.youtube/?action=play_video&videoid=rlvfffhWo2A
@@ -565,20 +520,6 @@ http://46.245.160.224/mekke/mekke/gmswf.m3u8
 
 #EXTINF:-1,Quran TV
 rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:-1,Quran tv
-http://46.245.160.224/mekke/mekke/gmswf.m3u8
-#EXTINF:-1,Radio Quran Qatar
-rtmp://AgendaStreamer1.qna.org.qa/qrn//qrn
-#EXTINF:-1,KSA Quran Radio
-http://broadcastquran.ism3na.com:8332/;stream.mp3
-#EXTINF:-1,Quran
-http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
-#EXTINF:-1,Iqraatv
-http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
-#EXTINF:-1, QURAN TV ksa
-http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
-#EXTINF:-1, Ayaat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.48.19:1985/live/roberto/roberto/3006.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
 
@@ -637,9 +578,6 @@ http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 #EXTINF:-1, البلاد الجزائرية
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
 
-#EXTINF:-1,Talaqie
-rtmp://82.137.248.20/Talaqie/TalaqieLive2
-
 
 #EXTINF:-1,Maannews
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
@@ -668,21 +606,13 @@ http://212.35.75.130/3330/HasBahCa.m3u8?email=tac@umniah.com&password=2acc51f15b
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 #EXTINF:-1,alkarmatv
 http://flash.alkarmatv.com:1935/karmatv_na/karmatv_na1/playlist.m3u8
-#EXTINF:-1,AL Yawm اليوم
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
-#EXTINF:-1,Echorouk (Algeria)
-http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1,Royatv
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 #EXTINF:-1,Maan معا
 http://vstream2.hadara.ps:1935/maan/maan_1/chunklist_w981189018.m3u8
 #EXTINF:-1,Orient او رينت
 http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
-#EXTINF:-1, El Aqtasadya الاقتصادية 
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/stream1.m3u8
-#EXTINF:-1, الثقافية
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live/stream2.m3u8
 
 
 #EXTINF:-1,salamtv
@@ -694,7 +624,7 @@ http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8?hghpl=1499330
 #EXTINF:0,Lybia ALhorra
 rtmp://173.224.120.161:1935/live playpath=myStream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.3arablive.com/libya-tv-live
 #EXTINF:0,Lybia TV
-rtmp://173.224.120.161:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://freetv247.com/content/libya-tv-channel
+http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8?hghpl=1499330773
 #EXTINF:0,PBC PALESTINE
 rtmp://vstream2.hadara.ps/pbc/pbc_1
 #EXTINF:-0,Al_Fath
