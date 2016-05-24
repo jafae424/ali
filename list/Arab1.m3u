@@ -117,15 +117,26 @@ http://iptv33.us.to/ip441555/3136774336/29.ch
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 
 #EXTINF:-1,Al Maaref
-http://109.70.218.70:8900/play/a0cq
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a0cq|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 #EXTINF:-1,AL KAWTHAR
-http://109.70.218.70:8900/play/a06v
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a06v|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 #EXTINF:-1,Nebras TV
-http://109.70.218.70:8900/play/a02r
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a02r|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,SAWT ALITRA TV
-http://109.70.218.70:8900/play/a0bw
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a0bw|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,Al Naeem TV
-http://109.70.218.70:8900/play/a04w
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a04w|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,ALSIRAT 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.70.218.70:8900/play/a08r|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
