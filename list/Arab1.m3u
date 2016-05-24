@@ -244,8 +244,6 @@ http://jafaer-tv.com
 
 
 #EXTINF:-1,الميادين
-http://63.237.48.23/ios/ALMAYADEEN/ALMAYADEEN.m3u8
-#EXTINF:-1,الميادين
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
 #EXTINF:-1,العالم
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20160125x2h5fruwen3Pateth
@@ -256,18 +254,12 @@ rtmp://162.244.80.103:1935/liveorigin playpath=livestream_360p swfUrl=http://alw
 
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-#EXTINF:-1,mtv_lebanon
-http://37.187.24.177:80/slim/slim/836.ch
 
-
-#EXTINF:-1,BEIRUT_CINEMA
-http://37.187.24.177:80/slim/slim/947.ch
 #EXTINF:-1,aljadeed الجديد
-https://svs.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
+https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1464102062&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1464094866&mech9waktahash=Gs6QCQh0mWWKyvEgQw88w25rakrdHEJFEEjcGl1JO5Y=
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
-#EXTINF:-1,Sama Syria 
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
 #EXTINF:-1,Syria drama
 http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
 #EXTINF:-1,Syria news 
@@ -291,20 +283,10 @@ http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1,Alrayi
 http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8
 
-
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
-
-#EXTINF:-1,Syria Aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Nour
-http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/DB9Fhk", ٍٍٍٍٍSama tv
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,قناة تلاقي الفضائية
-plugin://plugin.video.youtube/?action=play_video&videoid=l5hASDATpao
+rtmpt://82.137.248.20:1935/Talaqie playpath=TalaqieLive2 swfUrl=http://82.137.248.21/flash/lib/StrobeMediaPlayback2.swf pageUrl=http://82.137.248.21/talaqie2.aspx?MQ=1 <objectEncoding>
 
 #EXTINF:-1,OTV
 rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://player.l1vetv.com/otvent/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/otvent/live2.php
