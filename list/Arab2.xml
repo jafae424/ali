@@ -3325,7 +3325,8 @@ src=[",'].*([".'])
 
 
 <item>
-<title>mbc2</title>
+<item>
+<title>cid=mbc2</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=mbc2</link>
 <regex>
 <name>file</name>
