@@ -2946,6 +2946,27 @@ src=[",'].*([".'])
 </regex>
 </item>
 
+<item>
+<title> Aljazeera Eng</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=jcsen</link>
+<regex>
+<name>file</name>
+<expres>video  src="([^"]+)</expres>
+<page>http://hls.alwhdat.net/ios-smil/jcsen.smil?$doregex[get-epoc]</page>
+<referer>http://alwhdat.net/</referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>meta base="([^"]+)</expres>
+<page>http://hls.alwhdat.net/ios-smil/jcsen.smil?$doregex[get-epoc]</page>
+<referer>http://alwhdat.net/</referer>
+</regex>
+<regex>
+  <name>get-epoc</name>
+  <expres>$epoctime$</expres>
+  <page></page>
+</regex>
+</item>
 
 <item>
 <title>Aljazeera عربي</title>
