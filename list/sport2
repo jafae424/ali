@@ -1943,6 +1943,20 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 
+<item>
+<title>iraqia_sport</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=iraqia_sport swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=iraqia_sport</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=iraqia_sport</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=iraqia_sport</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
+
 
 
 
