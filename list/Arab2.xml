@@ -426,7 +426,20 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
             </regex>
         </item>
     </streaminginfo>
-    
+
+ <item>
+<title>mbc_max</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=mbc_max swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=mbc_max</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=mbc_max</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=mbc_max</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>  
 <item>
 <title>MBC MAX</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/672.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
