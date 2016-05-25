@@ -16,6 +16,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
+
+#EXTINF:-1, 3D
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/cima
+
+
 #EXTINF:-1,mbc 1
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 
