@@ -17,8 +17,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
-#EXTINF:-1, 3
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/cima
+#EXTINF:-1, test
+rtmp://63.237.48.28:1935/live playpath=honabgdad swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=honabgdad
+
 
 
 #EXTINF:-1,mbc 1
