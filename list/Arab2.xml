@@ -890,7 +890,19 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
 	</item>
 </streaminginfo>
 
-
+<item>
+<title>Abu_dhabi_drama</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=abu_dhabi_drama swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=abu_dhabi_drama</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=abu_dhabi_drama</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=abu_dhabi_drama</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
 
 
 <item>
@@ -1200,6 +1212,20 @@ rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates
             </regex>
         </item>
     </streaminginfo>
+    
+    <item>
+<title>cima</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=cima swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=cima</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=cima</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=cima</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
     <streaminginfo>
         <cname>CBC 2</cname>
         <item>
