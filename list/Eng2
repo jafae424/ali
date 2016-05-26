@@ -158,8 +158,10 @@
 
 <item>
 <title>BBC1</title>
-<link>http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/playlist.m3u8</link>
-<link>http://195.154.207.145:8000/play/ukbbcone</link>
+<link>
+sublink:http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/playlist.m3u8#
+sublink:http://195.154.207.145:8000/play/ukbbcone#
+</link>
 <thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20CI.png</thumbnail>
 </item>
 
@@ -187,23 +189,29 @@
 
 <item>
 <title>ITV 1</title>
-<link>http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/playlist.m3u8</link>
-<link>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8</link>
-<link>http://37.187.24.177:80/2001/2001/869.ch</link>
+<link>
+sublink:http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/playlist.m3u8#
+sublink:http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8#
+sublink:http://37.187.24.177:80/2001/2001/869.ch#
+</link>
 <thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ITV.png</thumbnail>
 </item>
 
 <item>
 <title>ITVBe</title>
-<link>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8</link>
-<link>http://37.187.24.177:80/2001/2001/872.ch</link>
+<link>
+sublink:http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8#
+sublink:http://37.187.24.177:80/2001/2001/872.ch#
+</link>
 <thumbnail>http://www.satandpcguy.com/blog/wp-content/uploads/2014/09/ckfFu0IF-6VAcMoDejSTafBi1-sJgBXyZA1tY4iQmws.bmp</thumbnail>
 </item>
 
 <item>
 <title>ITV2</title>
-<link>http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8</link>
-<link>http://37.187.24.177:80/2001/2001/870.ch</link>
+<link>
+sublink:http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8#
+sublink:http://37.187.24.177:80/2001/2001/870.ch#
+</link>
 <thumbnail>http://static1.squarespace.com/static/55b3e67ae4b06a14d457be75/t/56c1f90045bf21dc54304967/1455552769395/</thumbnail>
 </item>
 
