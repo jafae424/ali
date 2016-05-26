@@ -17,9 +17,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
-#EXTINF:-1, test
-rtmp://63.237.48.28:1935/live playpath=honabgdad swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=honabgdad
-
 
 
 #EXTINF:-1,mbc 1
@@ -791,3 +788,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 #EXTINF:-1,Syfy+1_UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/889.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
+#EXTINF:-1,Echorouk-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/844.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
