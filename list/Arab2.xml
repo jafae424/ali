@@ -3370,19 +3370,21 @@ src=[",'].*([".'])
 </item>
 
 
+
+
 <item>
 <title>Honabgdad</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=honabgdad</link>
 <regex>
 <name>file</name>
 <expres>video  src="([^"]+)</expres>
-<page>http://hls.alwhdat.net/ios-smil/mbc2.smil?$doregex[get-epoc]</page>
+<page>http://hls.alwhdat.net/ios-smil/honabgdad.smil?$doregex[get-epoc]</page>
 <referer>http://alwhdat.net/</referer>
 </regex>
 <regex>
 <name>rtmp</name>
 <expres>meta base="([^"]+)</expres>
-<page>http://hls.alwhdat.net/ios-smil/mbc2.smil?$doregex[get-epoc]</page>
+<page>http://hls.alwhdat.net/ios-smil/honabgdad.smil?$doregex[get-epoc]</page>
 <referer>http://alwhdat.net/</referer>
 </regex>
 <regex>
@@ -3391,46 +3393,6 @@ src=[",'].*([".'])
   <page></page>
 </regex>
 </item>
-<item>
-<title>semsem</title>
-<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=semsem</link>
-<regex>
-<name>file</name>
-<expres>video  src="([^"]+)</expres>
-<page>http://alwhdat.net/abcdef12/semsem/ </page>
-<referer>http://alwhdat.net/</referer>
-</regex>
-<regex>
-<name>rtmp</name>
-<expres>meta base="([^"]+)</expres>
-<page>http://alwhdat.net/abcdef12/semsem/ </page>
-<referer>http://alwhdat.net/</referer>
-</regex>
-<regex>
-  <name>get-epoc</name>
-  <expres>$epoctime$</expres>
-  <page></page>
-</regex>
-</item>
-
-<item>
-<title>TEST | playlist?list=PLfKY7***** | YouTube</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>data-video-id=[",']([^<]*)[",']\sdata-title=[",'](.*?Movie)\s.*[",']\W</expres>
-<page>https://www.youtube.com/playlist?list=PLfKY7zLnODDWyZv6Y1OcqESFr5E1wRmOe</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
 
 
 </streamingInfos>
