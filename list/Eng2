@@ -1003,6 +1003,453 @@ item>
 <cookieJar></cookieJar>
 </item>
 
+
+
+
+
+
+HTTP/1.1 200 OK
+Date: Thu, 26 May 2016 03:11:33 GMT
+Content-Type: application/xml
+Connection: close
+Set-Cookie: __cfduid=d310334891e07ead270d266513a80ba701464232293; expires=Fri, 26-May-17 03:11:33 GMT; path=/; domain=.offshorepastebin.com; HttpOnly
+Last-Modified: Sun, 13 Mar 2016 00:17:22 GMT
+ETag: W/"3474-52de31682b546-gzip"
+Vary: Accept-Encoding
+CF-Cache-Status: HIT
+Expires: Thu, 26 May 2016 03:41:33 GMT
+Cache-Control: public, max-age=1800
+
+
+<item>
+<title>ABC</title>
+<link>
+<sublink>http://www.ustvnow.com/?stream_code=ABC</sublink>
+<sublink>http://www.streamlive.to/view/68969/ABC</sublink>
+<sublink>http://www.ibrod.tv/abc-tv-online.html</sublink>
+<sublink>http://zerocast.tv/embed.php?a=1</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
+</item>
+
+<item>
+<title>CBS</title>
+<link>
+<sublink>http://www.ustvnow.com/?stream_code=CBS</sublink>
+<sublink>http://www.streamlive.to/view/69956/CBS</sublink>
+<sublink>http://www.ibrod.tv/cbs-tv-online.html</sublink>
+<sublink>http://zerocast.tv/embed.php?a=2902</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/512px-CBS_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CW</title>
+<link>
+<sublink>http://www.ustvnow.com/?stream_code=CW</sublink>
+<sublink>http://www.streamlive.to/view/52510/CW</sublink>
+<sublink>http://www.ibrod.tv/cw-tv-online.html</sublink>
+<sublink>http://zerocast.tv/embed.php?a=8</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/300px-The_CW.svg.png</thumbnail>
+</item>
+
+<item>
+<title>FOX</title>
+<link>
+<sublink>http://www.ustvnow.com/?stream_code=FOX</sublink>
+<sublink>http://www.streamlive.to/view/70048/Fox_Network</sublink>
+<sublink>http://www.ibrod.tv/fox-tv-online.html</sublink>
+<sublink>http://zerocast.tv/embed.php?a=305</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_global.png</thumbnail>
+</item>
+
+<item>
+<title>NBC</title>
+<link>
+<sublink>http://www.ustvnow.com/?stream_code=NBC</sublink>
+<sublink>http://www.streamlive.to/view/69116/NBC</sublink>
+<sublink>http://www.ibrod.tv/nbc-tv-online.html</sublink>
+<sublink>http://zerocast.tv/embed.php?a=2732</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_us_east.png</thumbnail>
+</item>
+
+<item>
+<title>MYTV</title>
+<link>http://www.ustvnow.com/?stream_code=My9</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6f/My_Network_TV_Logo_3D.png</thumbnail>
+</item>
+
+<item>
+<title>PBS</title>
+<link>http://www.ustvnow.com/?stream_code=PBS</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pbs.png</thumbnail>
+</item>
+
+<item>
+<title>CTV Edmonton</title>
+<link>http://www.filmon.com/channel/cfrn-ctv-edmonton</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/ctv.png</thumbnail>
+</item>
+
+<item>
+<title>CTV Regina</title>
+<link>http://www.filmon.com/channel/ckck-ctv-regina</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/ctv.png</thumbnail>
+</item>
+
+<item>
+<title>CTV Lethbridge</title>
+<link>http://www.filmon.com/channel/cfcn-5-ctv-lethbridge</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/ctv.png</thumbnail>
+</item>
+
+<item>
+<title>CTV Yorkton</title>
+<link>http://www.filmon.com/channel/cicc-ctv-yorkton</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/ctv.png</thumbnail>
+</item>
+
+<item>
+<title>BBC One</title>
+<link>http://www.filmon.com/channel/bbc-one</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one.png</thumbnail>
+</item>
+
+<item>
+<title>BBC One Wales</title>
+<link>http://www.filmon.com/channel/bbc-1-wales</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one.png</thumbnail>
+</item>
+
+<item>
+<title>BBC One North Ireland</title>
+<link>http://www.filmon.com/channel/bbc-1-north-ireland</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one.png</thumbnail>
+</item>
+
+<item>
+<title>BBC One Scotland</title>
+<link>http://www.filmon.com/channel/bbc-1-scotland</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Two</title>
+<link>http://www.filmon.com/channel/bbc-two</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_two_uk.png</thumbnail>
+</item>
+
+<item>
+<title>ITV</title>
+<link>http://www.filmon.com/channel/itv1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Channel 4</title>
+<link>http://www.filmon.com/channel/channel-4</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel4_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Channel 5</title>
+<link>http://www.filmon.com/channel/channel-5</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_5_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Dave</title>
+<link>http://www.filmon.com/channel/dave</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dave_uktv.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Three</title>
+<link>http://www.filmon.com/channel/bbc-three</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_three.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Four</title>
+<link>http://www.filmon.com/channel/cbeebiesbbc-four</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_four_uk.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 2</title>
+<link>http://www.filmon.com/channel/itv2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv2.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 3</title>
+<link>http://www.filmon.com/channel/itv3</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv3.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 4</title>
+<link>http://www.filmon.com/channel/itv4</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv4.png</thumbnail>
+</item>
+
+<item>
+<title>ITV +1</title>
+<link>http://www.filmon.com/channel/itv-plus-1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>E4</title>
+<link>http://www.filmon.com/channel/e4</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/e4_uk.png</thumbnail>
+</item>
+
+<item>
+<title>More4</title>
+<link>http://www.filmon.com/channel/more4</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel4_more4_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Quest</title>
+<link>http://www.filmon.com/channel/quest</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/qq/quest_us.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Reality</title>
+<link>http://www.filmon.com/channel/cbs-reality</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs_reality_uk.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Reality +1</title>
+<link>http://www.filmon.com/channel/cbs-reality1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs_reality_uk_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Action</title>
+<link>http://www.filmon.com/channel/cbs-action</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs_action_uk.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Drama</title>
+<link>http://www.filmon.com/channel/cbs-drama</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs_drama_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Pick</title>
+<link>http://www.filmon.com/channel/pick-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pick_tv_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Really</title>
+<link>http://www.filmon.com/channel/really</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/really_uktv.png</thumbnail>
+</item>
+
+<item>
+<title>5 USA</title>
+<link>http://www.filmon.com/channel/5usa</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_5_uk_usa.png</thumbnail>
+</item>
+
+<item>
+<title>5 Star</title>
+<link>http://www.filmon.com/channel/5-star</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_5_uk_star.png</thumbnail>
+</item>
+
+<item>
+<title>ITV Be.</title>
+<link>http://www.filmon.com/channel/itvbe</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk_be.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 2 +1</title>
+<link>http://www.filmon.com/channel/itv2-plus-1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv2_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 3 +1</title>
+<link>http://www.filmon.com/channel/itv3-plus-1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv3_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 4 +1</title>
+<link>http://www.filmon.com/channel/itv4-plus-1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv4_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>Tru TV</title>
+<link>http://www.filmon.com/channel/tru-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tru_tv_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Travel Channel</title>
+<link>http://www.filmon.com/channel/travel-channel1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/travel_channel_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Food Network</title>
+<link>http://www.filmon.com/channel/food-network</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/food_network_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Food Network +1</title>
+<link>http://www.filmon.com/channel/food-network-plus-1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/food_network_uk_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>Fashion TV HD</title>
+<link>http://www.dailymotion.com/video/x1kwday</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fashion_tv_fr_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Fashion TV</title>
+<link>http://www.filmon.com/channel/fashion-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fashion_tv_fr.png</thumbnail>
+</item>
+
+<item>
+<title>NASA TV HD</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<item>
+<title>NASA TV</title>
+<link>http://www.filmon.com/channel/nasa-hd</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<item>
+<title>Yesterday</title>
+<link>http://www.filmon.com/channel/yesterday</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/yy/yesterday_uktv.png</thumbnail>
+</item>
+
+<item>
+<title>H2</title>
+<link>http://www.streamlive.to/view/73421/History_2_UK_(HD)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/history_2_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Shed</title>
+<link>http://www.streamlive.to/view/73424/Discovery_SHED_(HD)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_shed.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Atlantic</title>
+<link>
+<sublink>http://www.streamlive.to/view/72136/Sky_Atlantic_(HD)</sublink>
+<sublink>http://www.finecast.tv/embed4.php?u=skyatlantic&vw=640&vh=450&referer=http://livetvweb.net/</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_atlantic.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Living</title>
+<link>http://www.finecast.tv/embed4.php?u=skyliving&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_living.png</thumbnail>
+</item>
+
+<item>
+<title>Sky 2</title>
+<link>http://www.finecast.tv/embed4.php?u=sky2uk&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_2.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Arts</title>
+<link>http://www.finecast.tv/embed4.php?u=skyarts1&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_arts1.png</thumbnail>
+</item>
+
+<item>
+<title>Alibi</title>
+<link>http://www.finecast.tv/embed4.php?u=alibi&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/alibi_uktv_uk.png</thumbnail>
+</item>
+
+<item>
+<title>DMAX</title>
+<link>http://www.finecast.tv/embed4.php?u=dmax4&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dmax_uk.png</thumbnail>
+</item>
+
+<item>
+<title>E!</title>
+<link>http://www.finecast.tv/embed4.php?u=ee34&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/e_eu.png</thumbnail>
+</item>
+
+<item>
+<title>Challenge</title>
+<link>http://www.finecast.tv/embed4.php?u=skyarts2&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/challenge_tv_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<link>http://www.finecast.tv/embed4.php?u=cc698&vw=640&vh=450&referer=http://livetvweb.net/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png</thumbnail>
+</item>
+
+<item>
+<title>National Geograpic</title>
+<link>http://www.finecast.tv/embed4.php?u=natgeo&vw=640&vh=450&referer=http://www.247tvstream.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo WILD</title>
+<link>http://www.finecast.tv/embed4.php?u=natgeohd&vw=640&vh=450&referer=http://www.247tvstream.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link>http://www.finecast.tv/embed4.php?u=discoverys&vw=640&vh=450&referer=http://www.247tvstream.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_science_global.png</thumbnail>
+</item>
+
+<item>
+<title>Investigation Discovery</title>
+<link>http://www.finecast.tv/embed4.php?u=discoveryi&vw=640&vh=450&referer=http://www.247tvstream.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/investigation_discovery_us.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>http://www.finecast.tv/embed4.php?u=animal&vw=640&vh=450&referer=http://www.247tvstream.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_us.png</thumbnail>
+</item>
+
+
+
+
+
+
 <item>
 <title>Fox Live</title>
 <link>http://cdn.sstream.pw/live/foxlive_au8xxzz/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
