@@ -163,23 +163,9 @@
 <thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20CI.png</thumbnail>
 </item>
 
-item>
-<title>BBC1 Ireland HD (Maybe Geo-Blocked)</title>
-<link>http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_northern_ireland_hd/bbc_one_northern_ireland_hd.isml/bbc_one_northern_ireland_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
-<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20NI%20HD.png</thumbnail>
-</item>
 
-item>
-<title>BBC1 Wales HD (Maybe Geo-Blocked)</title>
-<link>http://vs-hds-uk-live.edgesuite.net/pool_3/live/bbc_one_wales_hd/bbc_one_wales_hd.isml/bbc_one_wales_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
-<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20Wales%20HD.png</thumbnail>
-</item>
 
-item>
-<title>BBC2 HD (Maybe Geo-Blocked)</title>
-<link>http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3%3d96000-video%3d5070000.m3u8|x-forwarded-for=88.110.425.44</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20TWO%20HD.png</thumbnail>
-</item>
+
 
 <item>
 <title>BBC2</title>
