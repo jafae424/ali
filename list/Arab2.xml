@@ -3413,6 +3413,26 @@ src=[",'].*([".'])
 </regex>
 </item>
 
+<item>
+<title>TEST | playlist?list=PLfKY7***** | YouTube</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>data-video-id=[",']([^<]*)[",']\sdata-title=[",'](.*?Movie)\s.*[",']\W</expres>
+<page>https://www.youtube.com/playlist?list=PLfKY7zLnODDWyZv6Y1OcqESFr5E1wRmOe</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
 </streamingInfos>
 
 
