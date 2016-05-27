@@ -316,7 +316,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
-
+</item>
 <item>
 <title>TEST | bein_sport_2</title>
 <link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
@@ -338,6 +338,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
+</item>
 
 <item>
 <title>TEST | bein_sport_3</title>
@@ -360,6 +361,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
+</item>
 
 <item>
 <title>TEST | bein_sport_4</title>
@@ -382,6 +384,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
+</item>
 
 <item>
 <title>TEST | bein_sport_5</title>
