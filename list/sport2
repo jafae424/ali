@@ -296,86 +296,155 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>bein_sport_1</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_1</link>
+<title>TEST | bein_sport_1</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
 <rawpost>id=bein_sport_1</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_1</referer>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
-</item>
-
-
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_1</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
 
 <item>
-<title>bein_sport_2</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_2</link>
+<title>TEST | bein_sport_2</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
 <rawpost>id=bein_sport_2</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_2</referer>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
-</item>
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_2</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
 
 <item>
-<title>bein_sport_3</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_3</link>
+<title>TEST | bein_sport_3</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
 <rawpost>id=bein_sport_3</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_3</referer>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
-</item>
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_3</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
 
 <item>
-<title>bein_sport_4</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_4</link>
+<title>TEST | bein_sport_4</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
 <rawpost>id=bein_sport_4</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_4</referer>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
-</item>
-
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_4</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
 
 <item>
-<title>bein_sport_5</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_5 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_5</link>
+<title>TEST | bein_sport_5</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
 <rawpost>id=bein_sport_5</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_5</referer>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_5</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
 </item>
 <item>
-<title>bein_sport_6</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_6 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_6</link>
+<title>TEST | bein_sport_6</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
 <rawpost>id=bein_sport_6</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_6</referer>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_6</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+</item>
+<item>
+<title>TEST | bein_sport_7</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
+<regex>
+<name>idupath</name>
+<expres>idu=([^"]+)\/</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_7</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_7</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
@@ -383,14 +452,23 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>bein_sport_7</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_7</link>
+<title>TEST | bein_sport_8</title>
+<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=$doregex[p+path] swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=$doregex[p+path]</link>
 <regex>
 <name>idupath</name>
 <expres>idu=([^"]+)\/</expres>
 <page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=bein_sport_7</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_7</referer>
+<rawpost>id=bein_sport_8</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+<regex>
+<name>p+path</name>
+<expres>idu=[^"]+\/([^"]+)[",\']</expres>
+<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
+<rawpost>id=bein_sport_8</rawpost>
+<referer>http://www.watcharab.com/tv/teledunet.php?file=</referer>
 <x-req>XMLHttpRequest</x-req>
 <accept>*/*</accept>
 </regex>
