@@ -16,6 +16,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
+#EXTINF:-1,المعارف 
+
+rtmp://www.almaareftv.com:1935/live/ playpath=mp4:11 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live/ <objectEncoding>
 
 
 
