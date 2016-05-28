@@ -101,6 +101,99 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
+#EXTINF:-1,AR: OSN YA Shabab HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2259.ts
+#EXTINF:-1,AR: OSN travel channel hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2280.ts
+#EXTINF:-1,AR: OSN STAR WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2275.ts
+#EXTINF:-1,AR: OSN SPORTS2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2281.ts
+#EXTINF:-1,AR: OSN Premier2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2270.ts
+#EXTINF:-1,AR: OSN ONDEMAND1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2271.ts
+#EXTINF:-1,AR: OSN ONDEMAND EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2262.ts
+#EXTINF:-1,AR: OSN On-Deman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2263.ts
+#EXTINF:-1,AR: OSN ON DEMAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2261.ts
+#EXTINF:-1,AR: OSN Movies star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2264.ts
+#EXTINF:-1,AR: OSN Movies Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2265.ts
+#EXTINF:-1,AR: OSN MOVIES FESTIVAL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2269.ts
+#EXTINF:-1,AR: OSN Movies Festilval HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2268.ts
+#EXTINF:-1,AR: OSN Movies Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2266.ts
+#EXTINF:-1,AR: OSN Movies Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2267.ts
+#EXTINF:-1,AR: OSN HAHALA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2260.ts
+#EXTINF:-1,AR: OSN FIRST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2274.ts
+#EXTINF:-1,AR: OSN FIRST COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2273.ts
+#EXTINF:-1,AR: OSN fann
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2258.ts
+#EXTINF:-1,AR: OSN DISNEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2276.ts
+#EXTINF:-1,AR: OSN Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2279.ts
+#EXTINF:-1,AR: OSN cinma1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2282.ts
+#EXTINF:-1,AR: OSN cbc reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2277.ts
+#EXTINF:-1,AR: OSN amc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2278.ts
+#EXTINF:-1,AR: OSN  AR: OSN Movies2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2272.ts
+#EXTINF:-1,AR: OSN_Yahala_Shabab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1401.ts
+#EXTINF:-1,AR: bein movie1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1397.ts
+#EXTINF:-1,AR: Bein-Movies-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1389.ts
+#EXTINF:-1,AR: bein movie4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1402.ts
+#EXTINF:-1,AR: OSN_Yahala_Drama_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1403.ts
+
+
+#EXTINF:-1,AR: OSN_NAT_GEO_WILD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1390.ts
+#EXTINF:-1,AR: OSN_Movies_Premiere_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1404.ts
+#EXTINF:-1,AR: OSN_Movies_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1405.ts
+#EXTINF:-1,AR: MBC Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1391.ts
+#EXTINF:-1,AR: OSN_Movies_Box_Office_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1410.ts
+#EXTINF:-1,AR: OSN_Movies_Box_Office_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1411.ts
+#EXTINF:-1,AR: OSN_Movies_Box_Office_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1412.ts
+#EXTINF:-1,AR: OSN_Movies_Action_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1406.ts
+#EXTINF:-1,AR: OSN_Movies_Action_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1407.ts
+#EXTINF:-1,AR: OSN_MBC_Drama_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1408.ts
+#EXTINF:-1,AR: OSN_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1400.ts
+#EXTINF:-1,AR: OSN_Cinema_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1398.ts
+#EXTINF:-1,AR: OSN_Cinema_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1399.ts
+#EXTINF:-1,AR: OSN_ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1392.ts
+#EXTINF:-1,AR: OSN_Al_youm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/1409.ts
+
 
 
 
@@ -837,4 +930,69 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 
 #EXTINF:-1,Syfy+1_UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/889.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,AR: Libya_Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2343.ts
+#EXTINF:-1,AR: Kbc_Algérie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2311.ts
+#EXTINF:-1,AR: First_TV_TUNISIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2344.ts
+#EXTINF:-1,AR: Ennahar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2314.ts
+#EXTINF:-1,AR: El_Heddaf_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2345.ts
+#EXTINF:-1,AR: Echourouk_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2360.ts
+#EXTINF:-1,AR: Echourouk_benna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2312.ts
+#EXTINF:-1,AR: Echourouk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2313.ts
+#EXTINF:-1,AR: Dzair_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2361.ts
+#EXTINF:-1,AR: Dzair_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2346.ts
+#EXTINF:-1,AR: Dzair_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2347.ts
+#EXTINF:-1,AR: Dzaier_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2315.ts
+
+#EXTINF:-1,AR: Arrabiaa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2305.ts
+#EXTINF:-1,AR: ANN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2363.ts
+#EXTINF:-1,AR: Al_Rayyan_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2357.ts
+#EXTINF:-1,AR: Al_Maghribia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2306.ts
+#EXTINF:-1,AR: Al_Magharibia_Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2358.ts
+#EXTINF:-1,AR: Al_Magharibia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2359.ts
+#EXTINF:-1,AR: Al_Ghad_Al_Arabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2367.ts
+#EXTINF:-1,AR: Al_Araby_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2368.ts
+#EXTINF:-1,AR: Al_Arabiya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2284.ts
+#EXTINF:-1,AR: Al_Aoula_Inter_L
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2303.ts
+#EXTINF:-1,AR: Al_AOULA_Inter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2302.ts
+#EXTINF:-1,AR: Al_Anis_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2369.ts
+
+
+
+
+#EXTINF:-1,AR: ART_Hikeyet_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2339.ts
+#EXTINF:-1,AR: ART_Hikeyet_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2338.ts
+#EXTINF:-1,AR: ART_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2340.ts
+#EXTINF:-1,AR: ART_AFLAM_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2342.ts
+#EXTINF:-1,AR: ART_AFLAM_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2341.ts
+
 
