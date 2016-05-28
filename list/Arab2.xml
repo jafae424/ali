@@ -3409,6 +3409,23 @@ src=[",'].*([".'])
 </item>
 
 
+
+<item>
+<title>test</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2]&amp;mode=12</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*?,(.*?)\n(.*)</expres>
+<page>http://pastebin.com/raw/aVxiZiwV file</page>
+<agent></agent>
+</regex>
+</item>
+
 </streamingInfos>
 
 
