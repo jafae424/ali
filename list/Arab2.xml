@@ -1565,7 +1565,6 @@ src=[",'].*([".'])
 
 <item>
 <title>echourouk الشروق</title>
-<item>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_alchourouk&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
