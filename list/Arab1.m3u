@@ -913,7 +913,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 #EXTINF:-1,AR: Al_Anis_TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2369.ts
 
-
+#EXTINF:-1,Tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1269102975.m3u8
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
 
@@ -950,6 +951,18 @@ http://jafaer-tv.com
 
 
 
+#EXTINF:-1,MAJD-KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doorfixer.dyndns.org:8000/live/kingoo/AR20/262.ts
+#EXTINF:-1,Fatafeat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doorfixer.dyndns.org:8000/live/kingoo/AR20/292.ts
+#EXTINF:-1,Toyor-AlJanah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts
+#EXTINF:-1,Jeem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/119.ts
+#EXTINF:-1,Spacetoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/80.ts
+#EXTINF:-1,CN-ARABIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/68.ts
 
 
 #EXTINF:-1,taha
@@ -969,6 +982,15 @@ plugin://plugin.video.youtube/?action=play_video&videoid=dMmeVXHprRg
 
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1,KIDS-MOVIE1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/627.ts
+#EXTINF:-1,KIDS-MOVIE2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/639.ts
+#EXTINF:-1,KIDS-MOVIE3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/640.ts
+#EXTINF:-1,KIDS-MOVIE4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/641.ts
+
 
 
 ######
@@ -1057,3 +1079,58 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/889.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
+
+#EXTINF:-1,AR.movie-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/592.ts
+#EXTINF:-1,AR.MOVIE-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/424.ts
+#EXTINF:-1,AR.MOVIE-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/423.ts
+#EXTINF:-1,AR.MOVIE-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/608.ts
+#EXTINF:-1,AR.MOVIE-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/609.ts
+#EXTINF:-1,AR.MOVIE-6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/610.ts
+#EXTINF:-1,AR.MOVIE-7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/611.ts
+#EXTINF:-1,Eng.movie-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/583.ts
+#EXTINF:-1,Eng.movie-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/584.ts
+#EXTINF:-1,Eng.movie-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/585.ts
+#EXTINF:-1,Eng.movie-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/586.ts
+#EXTINF:-1,Eng.movie-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/587.ts
+#EXTINF:-1,Eng.movie-6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/588.ts
+#EXTINF:-1,Eng.movie-7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/589.ts
+#EXTINF:-1,Eng.movie-8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/590.ts
+#EXTINF:-1,Eng.movie-9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/591.ts
+#EXTINF:-1,Eng.movie-10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/599.ts
+#EXTINF:-1,Eng.movie-11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/613.ts
+#EXTINF:-1,Eng.movie-12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/614.ts
+#EXTINF:-1,Eng.movie-13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/615.ts
+#EXTINF:-1,Eng.movie-14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/616.ts
+#EXTINF:-1,Eng.movie-15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/617.ts
+#EXTINF:-1,Eng.movie-16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/618.ts
+#EXTINF:-1,Eng.movie-17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/619.ts
+#EXTINF:-1,Eng.movie-18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/620.ts
+#EXTINF:-1,Eng.movie-19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/621.ts
+#EXTINF:-1,Eng.movie-20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/622.ts
