@@ -63,13 +63,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
+#EXTINF:-1,MBC-DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
+#EXTINF:-1,MBC-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts
+#EXTINF:-1,MBC-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/47.ts
+#EXTINF:-1,MBC-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/46.ts
+#EXTINF:-1,MBC-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/45.ts
+#EXTINF:-1,MBC-MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/43.ts
 
-#EXTINF:-1,Arabic:MBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2233.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
-#EXTINF:-1,Arabic:Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2224.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
 
@@ -681,6 +688,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 #EXTINF:-1,Hekayat_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/681.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
+#EXTINF:-1,LCD-Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/440.ts
+#EXTINF:-1,ADTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/419.ts
+#EXTINF:-1,Russia-Today
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/442.ts
+
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
@@ -963,6 +977,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/80.ts
 #EXTINF:-1,CN-ARABIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/68.ts
+#EXTINF:-1,Arabic:Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2224.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+
+#EXTINF:-1,Arabic:MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2233.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
 #EXTINF:-1,taha
@@ -1001,13 +1020,47 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
 #EXTINF:-1,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:-1,Hawacom لاتعمل حاليا
-http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 #EXTINF:0,MARINA FM
 rtmp://38.96.175.16/live/MarinaFM2
-
+#EXTINF:-1,Radio-Yahala
+http://198.178.123.11:8164
+#EXTINF:-1,Radio-TaksimFM
+http://95.211.162.32:8006
+#EXTINF:-1,Radio-Sama-Leb
+http://listen.radionomy.com:80/Samaleb-radio
+#EXTINF:-1,Radio-ArabicMood
+http://listen.radionomy.com/arabicmood
+#EXTINF:-1,Radio-Angamy
+http://192.184.9.79:8194
+#EXTINF:-1,Radio-Middle-East
+http://198.178.123.5:7386
+#EXTINF:-1,Radio-Lebanon
+http://198.105.220.12:4166/Live
+#EXTINF:-1,Radio-Rotana
+http://188.247.86.67:8002
+#EXTINF:-1,Radio-Fann
+http://188.247.86.67:8000
+#EXTINF:-1,Radio-Hawana
+http://listen.radionomy.com/Radio-Hawana
+#EXTINF:-1,Radio-kulthum
+http://184.107.202.178:8122/
+#EXTINF:-1,Radio-Haleem
+http://184.107.202.178:8120/
+#EXTINF:-1,Radio-Zaman
+http://184.107.202.178:8146/
+#EXTINF:-1,Radio-Fairoz
+http://184.107.202.178:8118/
+#EXTINF:-1,Radio-Hayat-FM
+http://213.239.218.99:7166/live?1459935102187.mp3
+#EXTINF:-1,Radio-Yaqeen
+http://188.247.86.67:8004
+#EXTINF:-1,Radio-Quran-nablus
+http://108.61.26.35:8002
+#EXTINF:-1,Radio-Quran
+http://92.222.103.14:8005
 
 
 
