@@ -114,12 +114,8 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 #EXTINF:-1,AR: OSN YA Shabab HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2259.ts
-#EXTINF:-1,AR: OSN travel channel hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2280.ts
-#EXTINF:-1,AR: OSN STAR WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2275.ts
-#EXTINF:-1,AR: OSN SPORTS2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2281.ts
+
+
 #EXTINF:-1,AR: OSN Premier2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2270.ts
 #EXTINF:-1,AR: OSN ONDEMAND1
