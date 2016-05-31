@@ -60,6 +60,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 #EXTINF:-1,MBC_Masr2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
+#EXTINF:-1,mbc masar 2
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/223.ts
+
 
 #EXTINF:-1,MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
@@ -292,7 +295,8 @@ rtmp://msr1tv.flashmediacast.com:2071/live/livestream
 
 #EXTINF:-1 tvg-logo="http://vb.top-new.net/image/14/02/images_kwes.jpg",السلام 
 http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
-
+#EXTINF:-1, الانوار 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/325.ts
 #EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
 
@@ -470,7 +474,8 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1, ابو ظبي Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?alwhdat.net
-
+#EXTINF:-1, ابو ظبي دراما
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/327.ts
 #EXTINF:-1,AD-DRAMA ابو ظبي دراما
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/731.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,AD-DRAMA
@@ -953,6 +958,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 
 #EXTINF:-1,Discovery_Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/649.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,National geo Abu Dhabi
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/322.ts
 
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
@@ -1005,7 +1012,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 #EXTINF:-1,KIDS-MOVIE4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/641.ts
 #EXTINF:-1,Majid Kids
-http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/323.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/323.ts
 
 
 ######
