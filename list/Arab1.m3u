@@ -1004,7 +1004,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/640.ts
 #EXTINF:-1,KIDS-MOVIE4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/641.ts
-
+#EXTINF:-1,Majid Kids
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/323.ts
 
 
 ######
