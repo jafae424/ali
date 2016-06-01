@@ -20,9 +20,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 #EXTINF:-1,mbc 1
-http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
-
-
+<link>
+sublink:http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans70/mans70/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+sublink:
+sublink:
+</link>
 #EXTINF:-1,Arabic:MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,MBC-1
