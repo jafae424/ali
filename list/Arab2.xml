@@ -1821,8 +1821,8 @@ src=[",'].*([".'])
 </streaminginfo>
 
 <item>
-<title>افاق Afaaq</title>
-<link>https://forums.tvaddons.ag/$doregex[rtmp] playpath=$doregex[path] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://afaq.tv/live</link>
+<title> Afaaq</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;url=$doregex/$doregex[rtmp] playpath=$doregex[path] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://afaq.tv/live</link>
 <regex>
 <name>rtmp</name>
 <expres>file:\s"(.*?)livestream</expres>
