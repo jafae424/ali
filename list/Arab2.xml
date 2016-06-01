@@ -1783,7 +1783,43 @@ src=[",'].*([".'])
 <cookieJar></cookieJar>
 </regex>
 </item>
-
+<item>
+<title>http://almadatv.com/livestream.html</title>
+<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link>
+<regex>
+<name>get-Clean-token</name>
+<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://services.dacast.com/token/i/b/$doregex[get=id]</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex>
+<regex>
+<name>get-Clean-M3U8</name>
+<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-M3U8</name>
+<expres>"hls":"(.*?)"</expres>
+<page>http://json.dacast.com/b/$doregex[get=id]</page>
+</regex>
+<regex>
+<name>get=id</name>
+<expres>$pyFunction:'$doregex[get+id]'.replace('_','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get+id</name>
+<expres>id="([^\"]+)"</expres>
+<page>http://almadatv.com/livestream.html</page>
+<referer>http://almadatv.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
 <streaminginfo>
 		<cname>Al Baghdadia</cname>
 		<item>
@@ -1793,10 +1829,9 @@ src=[",'].*([".'])
 </streaminginfo>
 <item>
 <title> أفاق</title>
-<link>
-rtmp://live.afaq.tv/live/afaqtv/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://afaq.tv/live <objectEncoding>
-</link>
+<link>rtmp://live.afaq.tv/live/afaqtv/livestream|User-Agent=VLC</link>
 </item>
+
 <item>
 <title>Alghadeer الغدير</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;url=$doregex[getSTream]|User-Agent=iPhone&amp;Referer=http://www.alghadeer.tv/livetv/</link>
