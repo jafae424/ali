@@ -1688,29 +1688,27 @@ src=[",'].*([".'])
 	</item>
 </streaminginfo>
 
-
-
 <item>
 <title>Assadissa</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=594&amp;height=404</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=594&amp;height=404</page>
 <referer>http://iptv-planet.com/assadissa.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getAPP</name>
 <expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=594&amp;height=404</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=594&amp;height=404</page>
 <referer>http://iptv-planet.com/assadissa.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_assadissa&amp;width=594&amp;height=404</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=594&amp;height=404</page>
 <referer>http://iptv-planet.com/assadissa.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
@@ -1748,13 +1746,7 @@ src=[",'].*([".'])
 </item>
 
 
-<streaminginfo>
-    <cname>KBC Algeria</cname>
-	<item>
-	<title>KBC Algeria</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://stream.kbcalgerie.tv/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</link>
-	</item>
-</streaminginfo
+
     
 
 
@@ -1827,9 +1819,22 @@ src=[",'].*([".'])
 		<link>http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8</link>
 		</item>
 </streaminginfo>
+
 <item>
-<title> أفاق</title>
-<link>rtmp://live.afaq.tv/live/afaqtv/livestream|User-Agent=VLC</link>
+<title>افاق Afaaq</title>
+<link>https://forums.tvaddons.ag/$doregex[rtmp] playpath=$doregex[path] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://afaq.tv/live</link>
+<regex>
+<name>rtmp</name>
+<expres>file:\s"(.*?)livestream</expres>
+<page>http://afaq.tv/live</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>file:\s".*?\/afaqtv\/(.*?)",</expres>
+<page>http://afaq.tv/live</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
