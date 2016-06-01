@@ -1229,9 +1229,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/621.ts
 #EXTINF:-1,Eng.movie-20
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/622.ts
-#EXTINF:-1,Afaq Tv
-http://5.196.86.70:8888/afaq_tv.m3u8?idu=ukselim_85646860650
-#EXTINF:-1,Dijlah Tv
-http://5.196.86.70:8888/dijlah_tv.m3u8?idu=ukselim_85646860650
-#EXTINF:-1,Safa Tv
-http://5.196.86.70:8888/safa_tv.m3u8?idu=ukselim_85646860650
+#EXTINF:-1, mbc drama
+http://37.187.24.177:80/10500/10500/673.ch
+
