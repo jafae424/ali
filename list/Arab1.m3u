@@ -356,6 +356,9 @@ rtmp://streamer11.elementssys.com:1935/demo/?hghpl=1250132868/AL_Hadath
 rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.asiasat.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1 <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
 https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/playlist.m3u8?lalpasswendtime=1464818189&lalpasswwowzastarttime=0&lalpasswwowzastcustom=1464810993&lalpasswhash=3sNdwdwvUXuUgySJK4ZiGH98V-DBHqMfaE_6tzOBO3w=
+#EXTINF:-1,Al sumaria TV
+rtsp://livestreaming2.itworkscdn.net/sumarialive/live_360p
+
 #EXTINF:-1 tvg-logo="http://goo.gl/JDbJgS", البغدادية 
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream 
 #EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
@@ -411,7 +414,8 @@ rtmp://162.244.80.103:1935/liveorigin playpath=livestream_360p swfUrl=http://alw
 
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-
+#EXTINF:-1,Al Thabat TV
+rtmp://118.139.182.134:1935/livepkgr/livestream
 #EXTINF:-1,aljadeed الجديد
 https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1464102062&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1464094866&mech9waktahash=Gs6QCQh0mWWKyvEgQw88w25rakrdHEJFEEjcGl1JO5Y=
 #EXTINF:-1,Nabaa
@@ -500,6 +504,8 @@ http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1, Dubai Sports 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
+#EXTINF:-1,Aldafrah tv
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
 
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
