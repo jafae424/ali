@@ -416,6 +416,11 @@ rtmp://162.244.80.103:1935/liveorigin playpath=livestream_360p swfUrl=http://alw
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
 rtmp://118.139.182.134:1935/livepkgr/livestream
+
+#EXTINF:-1,Musawa
+http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
+
+
 #EXTINF:-1,aljadeed الجديد
 https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1464102062&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1464094866&mech9waktahash=Gs6QCQh0mWWKyvEgQw88w25rakrdHEJFEEjcGl1JO5Y=
 #EXTINF:-1,Nabaa
