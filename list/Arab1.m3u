@@ -38,6 +38,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.2
 
 #EXTINF:-1,MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1, mbc masar
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
 
 
 #EXTINF:-1,MBC_Masr2
@@ -688,6 +690,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 #EXTINF:-1,ADTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/419.ts
 
+#EXTINF:-1, panorama derama
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/436.ts
+#EXTINF:-1, panorama derama 2
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/437.ts
+
+#EXTINF:-1, panorama film 
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/438.ts
+#EXTINF:-1, panorama Food
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/439.ts
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
@@ -929,6 +940,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 
 #EXTINF:-1,Tayba
 http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1269102975.m3u8
+
+#EXTINF:-1,Al 8 moroco
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/226.ts
+#EXTINF:-1,Al 4 moroco
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/227.ts
+#EXTINF:-1,2m 
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/228.ts
+#EXTINF:-1,الجزائر 
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/230.ts
+#EXTINF:-1,الجزائرية
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/231.ts
+
+#EXTINF:-1, المستقلة
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/221.ts
+
+
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
 
@@ -1013,7 +1040,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/641.ts
 #EXTINF:-1,Majid Kids
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/323.ts
-
+#EXTINF:-1, spice toon
+http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/441.ts
 
 ######
 
