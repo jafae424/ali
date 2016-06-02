@@ -327,8 +327,6 @@ rtmp://5.79.86.21/live/ih
 #EXTINF:-1,السفير safeer TV
 http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
 
-#EXTINF:-1,قناة فدك
-plugin://plugin.video.youtube/?action=play_video&videoid=zlWgdnYYGWo
 
 #EXTINF:-1, Aletejah الاتجاه
 
@@ -341,14 +339,11 @@ rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alfor
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,الفيحاء
 http://api.new.livestream.com/accounts/13964753/events/4352548/videos/124522900.f4m?g=HMFVFDHNCADL&hdcore=3.6.0
-#EXTINF:-1,Iraqia
-http://149.11.90.99:4022/udp/238.21.14.53:5004
+
 #EXTINF:-1,anb العراقية
 http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
-#EXTINF:-1,Iraqia
-http://212.7.205.5:1935/Iraqia/live/Zona-Live-TV.m3u8
 
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:1935/demo/?hghpl=1250132868/AL_Hadath
