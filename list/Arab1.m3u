@@ -346,7 +346,9 @@ http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=41156
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 
 #EXTINF:-1, قناة الحدث
-rtmp://streamer11.elementssys.com:1935/demo/?hghpl=1250132868/AL_Hadath
+rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
+
+streamer11.elementssys.com:8080/demo/Hadath/manifest
 #EXTINF:-1,قناة اسيا
 rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.asiasat.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1 <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
