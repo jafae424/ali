@@ -4,7 +4,7 @@
 
 <channel>
 <name>[COLOR red]Jafaer-tv Arabic 1 TV List [/COLOR]</name>
-<thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<thumbnail>http://jafaer-tv.com/images/kodi/icon.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Arabic%20list.m3u</externallink> ##change haider
@@ -16,7 +16,7 @@
 
 <channel>
       <name>[COLOR red]Jafaer-tv Arabic 2 channels List [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+  <thumbnail>http://jafaer-tv.com/images/kodi/icon.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/ara3.xml</externallink> ##change haider
@@ -103,7 +103,7 @@
 
 <channel>
       <name>[COLOR red] Jafaer-tv Cartoons [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+  <thumbnail>http://jafaer-tv.com/images/kodi/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/kids.xml</externallink> ##change haider
@@ -115,7 +115,7 @@
 
 <channel>
       <name>[COLOR red]Jafaer-tv Arabic Movies [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+  <thumbnail>http://jafaer-tv.com/images/kodi/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Arabic%20movies.m3u</externallink> ##change haider
@@ -133,7 +133,7 @@
 
 
       <name>[COLOR lime]Arabic  Test List [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+  <thumbnail>http://jafaer-tv.com/images/kodi/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/ali.xml</externallink> ##change haider
