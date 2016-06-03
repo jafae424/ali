@@ -371,7 +371,8 @@ http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3
 #EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/pMkYji",  افاق Afaaq  
-rtmp://live.afaq.tv/live/afaqtv?v=1250132868 playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=afaqtv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm objectEncoding=
+rtmp://$OPT:rtmp-raw=rtmp://208.43.70.75/live/afaqtv/livestream playpath=afaq swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.afaq.tv/newsite/live
+
 #EXTINF:-1,Iraq Now
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.15.93:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
