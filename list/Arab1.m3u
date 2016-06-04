@@ -16,6 +16,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
+#EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO", mbc
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/13.ts
@@ -23,8 +25,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans70/mans70/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
@@ -41,20 +41,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans70/mans70/673.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBCDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/673.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans70/mans70/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",MBC_Masr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/675.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",MBC_Masr2
@@ -495,12 +486,11 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1, ابو ظبي Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?alwhdat.net
-#EXTINF:-1, ابو ظبي دراما
-http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/327.ts
+
 #EXTINF:-1,AD-DRAMA ابو ظبي دراما
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/731.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,AD-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/731.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/327.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
@@ -644,51 +634,29 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 #EXTINF:-1,Aflam_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/678.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/348.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Aflam_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/679.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/349.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,ART_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/677.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/352.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/680.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/350.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Hekayat_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/681.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/351.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
-#EXTINF:-1,time_cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/835.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/948.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,BEIRUT_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/947.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,DREAM1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/949.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,Panorama-FOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/944.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/439.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1,Medi1_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/939.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Nile_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/937.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,Rotana_Cinema_KSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/686.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Cairo-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/720.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Cairo-cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/718.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Cairo-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/723.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/418.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Aflam_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/678.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -875,16 +843,10 @@ http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/838.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Dzair_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/843.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/243.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,EL-DJAZAIRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/849.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/231.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1,EL-WATANDZ
-http://37.187.24.177:80/2001/2001/845.ch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/845.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Ennahar-Laki
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/841.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Star2000
 http://iphone-streaming.ustream.tv/ustreamVideo/10538511/streams/live/playlist.m3u8
@@ -899,12 +861,11 @@ http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 #EXTINF:-1, البلاد الجزائرية
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
 #EXTINF:-1,Echorouk-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/844.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,Echorouk-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/1118.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
+rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
+#EXTINF:-1, الشروق Echorouk tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/239.ts
 #EXTINF:-1,Echourouk-BENNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2001/2001/1142.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/234.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
 #EXTINF:-1,Maannews
