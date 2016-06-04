@@ -3473,10 +3473,21 @@ src=[",'].*([".'])
 
 
 <item>
-<title>El Thabaat </title>
-<link>rtmp://118.139.182.134:1935/livepkgr/livestream</link>
+<title>m3u8 to xml</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<agent>Mozilla/5.0</agent>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://pastebin.com/7DTzhbuL</page>
+<agent></agent>
+</regex>
 </item>
-
 
 </streamingInfos>
 
