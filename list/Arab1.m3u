@@ -177,10 +177,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0100dyndns.tv:7879/live/rezq/22548856/425.ts
 #EXTINF:-1,Bein-Movies1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/387.ts
-#EXTINF:-1,Bein-Movies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/343.ts
-#EXTINF:-1,OSN-Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/404.ts
+
+
 #EXTINF:-1,OSN-movie-kids
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/624.ts
 #EXTINF:-1,OSN-NATGEOWILD
@@ -210,22 +208,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 
 #EXTINF:-1,AR: OSN YA Shabab HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2259.ts
-#EXTINF:-1,AR: OSN Premier2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2270.ts
-#EXTINF:-1,AR: OSN ONDEMAND1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2271.ts
+
 #EXTINF:-1,AR: OSN ONDEMAND EXTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2262.ts
-#EXTINF:-1,AR: OSN On-Deman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2263.ts
+
 #EXTINF:-1,AR: OSN ON DEMAND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2261.ts
-#EXTINF:-1,AR: OSN Movies star HD
+#EXTINF:-1,AR: OSN mbc drama HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2264.ts
 #EXTINF:-1,AR: OSN Movies Kids HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2265.ts
-#EXTINF:-1,AR: OSN MOVIES FESTIVAL2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2269.ts
+
 #EXTINF:-1,AR: OSN Movies Festilval HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2268.ts
 #EXTINF:-1,AR: OSN Movies Drama
