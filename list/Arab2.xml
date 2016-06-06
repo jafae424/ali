@@ -2021,7 +2021,25 @@ src=[",'].*([".'])
 </item>
 </streaminginfo>
 
-
+<streaminginfo>
+<cname>NBN</cname>
+<item>
+<title>NBN</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "(http.*?)"</expres>
+<page>http://player.l1vetv.com/nbn</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Eman</cname>
+	<item>
+	<title>Low</title>
+	<link>http://liven.alimantv.com/liveimn.isml/manifest(format=m3u8-aapl).m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo><cname>Nilat</cname><item><title>Nilat</title><link>http://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>ANB</cname><item><title>ANB</title><link>http://82.212.95.122:1935/live/anb.stream_360p/hassuni.m3u8</link></item></streaminginfo>
