@@ -291,6 +291,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
+#EXTINF:-1,KARBALA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/463.ts
+
+#EXTINF:-1,Anwar-TV-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/461.ts
+#EXTINF:-1,AL-MADA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/468.ts
+#EXTINF:-1,AL-ASRAR-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/469.ts
+#EXTINF:-1,Al-AqilaT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/422.ts
+#EXTINF:-1,Al-Naeem-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/348.ts
+#EXTINF:-1,Al-Ghadeer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/417.ts
+#EXTINF:-1,AL-SALAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/413.ts
+#EXTINF:-1,Al-Ahd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/424.ts
+#EXTINF:-1,Al-Noujaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/345.ts
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
@@ -371,6 +392,13 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/8Gtauc",ALSharqia News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,Al-taghier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/411.ts
+#EXTINF:-1,Afak
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/425.ts
+
+#EXTINF:-1,Al-itejah-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/416.ts
 #EXTINF:0, alghadeer
 rtmp://$OPT:rtmp-raw=rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
 #EXTINF:0, alghadeer الغدير
@@ -391,6 +419,26 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.9
 rtmp://stream.joinvisions.net/dij//dij
 #EXTINF:-1,AL Hurra Iraq
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.11.50:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:-1,Iraqia-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/408.ts
+#EXTINF:-1,ASIA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/410.ts
+
+#EXTINF:-1,Al-Sumaria-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/412.ts
+
+#EXTINF:-1,Al-Rasheed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/414.ts
+#EXTINF:-1,Al-Rafiden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/415.ts
+
+
+#EXTINF:-1,Al-Fayhaa-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/418.ts
+#EXTINF:-1,AL-Diyar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/419.ts
+#EXTINF:-1,AL-Anbar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/423.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
