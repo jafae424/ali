@@ -25,21 +25,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans70/mans70/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/667.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:0,MBC-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/200.ts
 
 
-#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF", mbc drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/10500/10500/673.ch
+
 
 #EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBCDRAMA
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans70/mans70/673.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
@@ -58,8 +54,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/286.ts
 #EXTINF:0,MBC-Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/206.ts
-#EXTINF:0,MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/200.ts
 
 #EXTINF:0,MBC-4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/203.ts
