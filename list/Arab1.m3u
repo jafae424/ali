@@ -30,25 +30,34 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.
 #EXTINF:-1,MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/ff/ff/200.ts
 
+
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/667.ch
+
+
 #EXTINF:0,MBC-Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/206.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
-#EXTINF:-1,MBC Drama 
+#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/ff/ff/206.ts
-
-
+#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/673.ch
 
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,MBC Masar 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/ff/ff/286.ts
-
+#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/673.ch
 #EXTINF:-1,MBC Masar 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/ff/ff/207.ts
+#EXTINF:0,MBC-Maser
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/207.ts
+
+#EXTINF:-1,MBC Masar 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/ff/ff/286.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -56,12 +65,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",mbc masar 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/223.ts
-#EXTINF:0,MBC-Maser
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/207.ts
 #EXTINF:0,MBC-Masr-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/286.ts
-#EXTINF:0,MBC-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/206.ts
 
 #EXTINF:0,MBC-4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/203.ts
@@ -975,9 +980,12 @@ http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunk
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
 #EXTINF:-1, الشروق Echorouk tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/239.ts
+#EXTINF:-1, الشروق Echorouk tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/668.ch
 #EXTINF:-1,Echourouk-BENNA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/234.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
+#EXTINF:-1,NESMA-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/662.ch
 #EXTINF:-1,Dzair-24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/628.ts
 #EXTINF:-1,ZAYTOONA
