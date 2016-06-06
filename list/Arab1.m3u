@@ -374,7 +374,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
 
-streamer11.elementssys.com:8080/demo/Hadath/manifest
+
 #EXTINF:-1,قناة اسيا
 rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.asiasat.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1 <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
@@ -389,7 +389,7 @@ rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 #EXTINF:-1, المدئ
-http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/672.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/672.ts
 
 
 #EXTINF:-1 tvg-logo="http://channelsfrequencies.com/files/images/14931.jpg",الشرقية 
@@ -400,24 +400,22 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,Al-taghier
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/411.ts
-#EXTINF:-1,Afak
+#EXTINF:-1 tvg-logo="https://goo.gl/pMkYji",  افاق Afaaq  
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/425.ts
-
 #EXTINF:-1,Al-itejah-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/416.ts
-#EXTINF:0, alghadeer
+#EXTINF:0, alghadeer الغدير
 rtmp://$OPT:rtmp-raw=rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
 #EXTINF:0, alghadeer الغدير
 rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
 #EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
-http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1,Al-taghier التغير
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/411.ts
+
+
 #EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/pMkYji",  افاق Afaaq  
-rtmp://$OPT:rtmp-raw=rtmp://208.43.70.75/live/afaqtv/livestream playpath=afaq swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.afaq.tv/newsite/live
-#EXTINF:0, Afaq
-rtmp://208.43.70.75/live/afaqtv//livestream swfUrl=http://www.afaq.tv/newsite/live/player/player-licensed.swf live=1 pageUrl=http://www.afaq.tv/
 #EXTINF:-1,Iraq Now
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.15.93:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
