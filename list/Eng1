@@ -5,7 +5,11 @@
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,Sky News
 plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
+#EXTINF:-1,Al-Jazeera-English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/982.ts
 
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/221.ts
 #EXTINF:-1,CNN link 1
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1, CNN
@@ -84,7 +88,168 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL215/PROFILE05.m3u8?totalplay=
 #EXTINF:-1 tvg-id="Total-MX_I217.34626.tutvguia.com" tvg-name="217_CMDHD217CMDHDComedy_Central_HDTV_(Latin_America_-_North)" tvg-logo="comedy-central-hd.png" group-title="Latino",Comedy Central HD
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL217/PROFILE05.m3u8?totalplay=%2F.ts
 
-
+#EXTINF:-1,UK-AMC-from-BT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1039.ts
+#EXTINF:-1,UK-Setanta-Sports-Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1019.ts
+#EXTINF:-1,UK-Sony-Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1023.ts
+#EXTINF:-1,UK-Movies-4-Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1020.ts
+#EXTINF:-1,UK-Comedy-Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/708.ts
+#EXTINF:-1,UK-Comedy-Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/709.ts
+#EXTINF:-1,UK-Comedy-Central+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/710.ts
+#EXTINF:-1,UK-Sky-Movies-Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/691.ts
+#EXTINF:-1,UK-Sky-Movies-Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/692.ts
+#EXTINF:-1,UK-Sky-Movies-Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/695.ts
+#EXTINF:-1,UK-Sky-Movies-Disney.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/696.ts
+#EXTINF:-1,UK-Sky-Movies-Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1360.ts
+#EXTINF:-1,UK-Sky-movies-Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/688.ts
+#EXTINF:-1,UK-Sky-Movies-Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/697.ts
+#EXTINF:-1,UK-Sky-Movies -Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/693.ts
+#EXTINF:-1,UK-Sky-Movies-Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/690.ts
+#EXTINF:-1,UK-Investigation-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/715.ts
+#EXTINF:-1,UK-Animal-Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/723.ts
+#EXTINF:-1,UK-Nat-Geo-Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/675.ts
+#EXTINF:-1,UK-National-Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/676.ts
+#EXTINF:-1,UK-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/719.ts
+#EXTINF:-1,UK-Discovery-Shed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/718.ts
+#EXTINF:-1,UK-Discovery-Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/720.ts
+#EXTINF:-1,UK-Discovery-History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/722.ts
+#EXTINF:-1,UK-Discovery-Home-&Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/716.ts
+#EXTINF:-1,UK-BBC.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1531.ts
+#EXTINF:-1,UK-BBC.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1530.ts
+#EXTINF:-1,UK-BBC.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1529.ts
+#EXTINF:-1,UK-BBC.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1528.ts
+#EXTINF:-1,UK-More-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1359.ts
+#EXTINF:-1,UK-History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/680.ts
+#EXTINF:-1,UK-History-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/679.ts
+#EXTINF:-1,UK-History-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/678.ts
+#EXTINF:-1,UK-Nick-Jr+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/704.ts
+#EXTINF:-1,UK-Nick-Jr-Too
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/703.ts
+#EXTINF:-1,UK-Nicktoons-Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/702.ts
+#EXTINF:-1,UK-Disney-XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/705.ts
+#EXTINF:-1,UK-Disney-Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/706.ts
+#EXTINF:-1,UK-Disney-Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/707.ts
+#EXTINF:-1,UK-Sky-Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/694.ts
+#EXTINF:-1,UK-UTV-Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/673.ts
+#EXTINF:-1,UK-ITV1*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/758.ts
+#EXTINF:-1,UK-ITV2*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/757.ts
+#EXTINF:-1,UK-ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/509.ts
+#EXTINF:-1,UK-ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/814.ts
+#EXTINF:-1,UK-FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/698.ts
+#EXTINF:-1,UK-Sky-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/700.ts
+#EXTINF:-1,UK-Sky-12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/701.ts
+#EXTINF:-1,UK-Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1021.ts
+#EXTINF:-1,UK-Sky-Arts1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/699.ts
+#EXTINF:-1,UK-Real-Lives
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/674.ts
+#EXTINF:-1,UK-QUEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/724.ts
+#EXTINF:-1,UK-DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/717.ts
+#EXTINF:-1,UK-MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/677.ts
+#EXTINF:-1,UK-TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/712.ts
+#EXTINF:-1,UK-BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/711.ts
+#EXTINF:-1,UK-TLC-IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/713.ts
+#EXTINF:-1,UK-At-The-Races
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/683.ts
+#EXTINF:-1,UK-Fox-News-Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/681.ts
+#EXTINF:-1,UK-Crime&Investigation-Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/682.ts
+#EXTINF:-1,UK-True Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1210.ts
+#EXTINF:-1,UK-True Movies 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1209.ts
+#EXTINF:-1,UK-Tiny Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1211.ts
+#EXTINF:-1,UK-SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1212.ts
+#EXTINF:-1,UK-RTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1207.ts
+#EXTINF:-1,UK-RTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1206.ts
+#EXTINF:-1,UK-Really
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1208.ts
+#EXTINF:-1,UK-Movies 4 Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1213.ts
+#EXTINF:-1,UK-LiverPool TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1214.ts
+#EXTINF:-1,UK-Good Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1215.ts
+#EXTINF:-1,UK-Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1216.ts
+#EXTINF:-1,UK-Film 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1217.ts
+#EXTINF:-1,UK-EuroSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1219.ts
+#EXTINF:-1,UK-EuroSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1218.ts
+#EXTINF:-1,UK-ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1220.ts
+#EXTINF:-1,UK-E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1221.ts
+#EXTINF:-1,UK-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1222.ts
+#EXTINF:-1,UK-CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1223.ts
+#EXTINF:-1,UK-CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1224.ts
+#EXTINF:-1,UK-CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1225.ts
+#EXTINF:-1,UK-CBS Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1226.ts
 
 
 #EXTINF:-1,Eng.movie-1
