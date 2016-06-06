@@ -206,6 +206,33 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.
 
 
 
+#EXTINF:-1,UK-BT-Sport-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/519.ts
+#EXTINF:-1,UK-BT-Sport-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/520.ts
+#EXTINF:-1,UK-Sky-Sports-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/684.ts
+#EXTINF:-1,UK-Sky-Sports-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/685.ts
+#EXTINF:-1,UK-Sky-Sports-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/686.ts
+#EXTINF:-1,UK-Sky-Sports-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/714.ts
+#EXTINF:-1,UK-Sky-Sports-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/687.ts
+#EXTINF:-1,UK-Premier-Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1022.ts
+#EXTINF:-1,UK-Setanta-Sport-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1018.ts
+#EXTINF:-1,UK-BT-Sport/ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1044.ts
+#EXTINF:-1,UK-BT-Sport-Mosaic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1041.ts
+#EXTINF:-1,UK-BT-Sport-Extra-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1043.ts
+#EXTINF:-1,UK-BT-Sport-Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1042.ts
+
 
 
 
