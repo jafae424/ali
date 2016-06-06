@@ -28,13 +28,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 #EXTINF:0,MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/200.ts
 
+#EXTINF:0,MBC-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/206.ts
 
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBCDRAMA
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
