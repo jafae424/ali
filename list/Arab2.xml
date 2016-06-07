@@ -107,18 +107,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/675.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item>
 
-<item>
-<title>mbc_masr_2</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>(.*m3u8.*)</expres>
-<page>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr_2</page>
-<referer>http://www.elahmad.com/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 <title>MBC_Masr</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -127,11 +116,7 @@
 <title>MBC_Masr</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 </item>
- <item>
-  <title>MBC_MASR</title>
-  <link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr|User-Agent=iPhone&amp;Referer=http://www.elahmad.com/tv/mobiletv/glarb.php?id=166&amp;t=hd</link>
-  <referer>http://www.elahmad.com/tv/mobiletv/glarb.php?id=166&t=hd</referer>
-</item>
+
 
 <title>MBC Drama</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/673.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
