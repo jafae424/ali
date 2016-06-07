@@ -115,13 +115,7 @@
 <item>
 <title>MBC_Masr</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item>
 
-
-<title>MBC Drama</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/673.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item> 
-rtmp://web3.iptv-planet.com:1937/live2<playpath>mbcdramanotallowedinunitedstates?hashedkey=070114105032077097121032050048032048054042051051 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=mbcdramanotallowedinunitedstates&width=594&height=404&key2=1115 <objectEncoding>
 
 <item>
 <title>MBC-Drama</title>
