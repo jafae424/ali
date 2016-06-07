@@ -1244,7 +1244,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
   <thumbnail>http://cdn.top4top.co/p_20bl8f1.png</thumbnail>
 </item>
 
-<item>
+
 <title>sky sport 1</title>
 <link>$doregex[get-decode]</link>
 <regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
@@ -1252,9 +1252,9 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <page>http://miplayer.net/embedplayer.php?id=ibrodtv21</page></regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
 
-<item>
+
+
 <title>sky sport 3</title>
 <link>$doregex[get-decode]</link>
 <regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
@@ -1264,7 +1264,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>sky sport 4</title>
 <link>$doregex[get-decode]</link>
 <regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
@@ -1272,11 +1272,11 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <page>http://miplayer.net/embedplayer.php?id=ibrodtv24</page></regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
 
 
 
-<item>
+
+
 <title>sky sport 5</title>
 <link>$doregex[get-decode]</link>
 <regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
@@ -1285,7 +1285,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <thumbnail></thumbnail>
 <fanart>https://goo.gl/3UKOHc</fanart>
 </item>
-<item>
+
 
 <item>
 <title>Fox Sports 1</title>
@@ -2039,7 +2039,42 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 </item>
 
 
+<item>
+<title>http://www.streamgaroo.com/streams/10/23</title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-states/bein-sports-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
 
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-states/bein-sports-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+
+<regex>
+<name>hrawpost</name>
+<expres>title="BEIN SPORTS".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-states/bein-sports-live-stream</page>
+</regex>
+</item>
 
 
 ##################http://cricfree.tv/###############33
