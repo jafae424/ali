@@ -1339,52 +1339,10 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <fanart>https://goo.gl/3UKOHc</fanart>
 </item>
 
-<item>
-<title>Sky Sport MotoGP</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysportmotogp.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysportmotogp.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.liveonlinetv247.info/images/skysportmotogp.png</thumbnail>
-<fanart>https://goo.gl/3UKOHc</fanart>
-</item>
 
 
 
-<item>
-<title>[COLOR red]SKY 1[/COLOR]</title>
-<link>$doregex[get-m3u8]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>get-m3u8</name>
-<expres>file: "(.*?)"</expres>
-<page>http://biggestplayer.me/streamcr.php?id=$doregex[get-id]&amp;width=640&amp;height=460</page>
-<referer>http://theactionlive.com/livegamecr2.php?id=sky1&width=640&height=460&stretching=</referer>
-</regex>
-<regex>
-<name>get-id</name>
-<expres>id='(.*?)'</expres>
-<page>http://theactionlive.com/livegamecr2.php?id=sky1&amp;width=640&amp;height=460&amp;stretching=</page>
-<referer>http://cricfree.sx/update/skys1.php</referer>
-</regex>
-<thumbnail>http://www.premiershiprugby.com/images/content/Premiership-Content-Partner-Sky.gif</thumbnail>
-<fanart>https://e33311a1-a-62cb3a1a-s-sites.googlegroups.com/site/kodilista/bad-boy-hd-wallpapers.jpg</fanart>
-</item>
+
 
 
 <item>
@@ -1573,31 +1531,9 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>TEST | ekostreams.co - combate.php | m3u8</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>file</name>
-<expres>.{0,6}[',"](.*?=)[',"],</expres>
-<page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf&amp;referrer=http://ekostreams.co/ch/combate.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
  
-<item>
-<title>UFC</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>file</name>
-<expres>.{0,6}[',"](.*?=)[',"],</expres>
-<page>http://pxstream.tv/embed.php?file=5e546e62cbd01a9db-sportvhd34&amp;referrer=http://ekostreams.co/ch/sportvhd.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>Idman HD </title>
@@ -1608,30 +1544,10 @@ sublink:http://188.72.131.226/idman.m3u8#
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>SkyNet Sports</title>
-<link>
-sublink:rtmp://199.189.110.20/as99/chSport1hd#
-sublink:http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8#
-</link>
-<thumbnail</thumbnail>
-</item>
 
-<item>
-<title>SkyNet Sports 2 </title>
-<link>
-sublink:rtmp://216.185.103.158/live2//chSport2hd#
-sublink:http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8#
-</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Kaz Sport</title>
-<link>
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8</link>
-<thumbnail></thumbnail>
-</item>
+
+
 
 <item>
 <title>Turkmen Sport </title>
@@ -1643,45 +1559,13 @@ sublink:rtmp://217.174.227.20/webtv/ch004_sd#</link>
 
 
 
-<item>
-<title>CDN Sportsmax </title>
-<link>
-sublink:rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/#
-sublink:http://bit.ly/1TSw4Si#
-</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
 
-<item>
-<title>M4 Sport</title>
-<link>http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Star Sports 1 </title>
-<link>http://80.243.189.26:8889/sprtXStpp/starsport1/index.m3u8</link>
-<thumbnail>g</thumbnail>
-</item>
 
-<item>
-<title>Ten Sports </title>
-<link>http://80.243.189.26:8889/sprtXStpp/tensports/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
-<
-<item>
-<title>Premier Sports</title>
-<link>
-sublink:rtmp://31.220.2.149:80/live/ playpath=premier token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co#
-sublink:rtmp://31.220.2.149:80/live playpath=premier swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=premier&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z#
-</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>British Eurosport </title>
@@ -1719,23 +1603,6 @@ sublink:http://80.243.189.26:8889/sprtXStpp/nfl/index.m3u8#
 </item>
 
 
-<item>
-<title>ESPN U.S</title>
-<link>
-sublink:rtmp://31.220.2.149:80/live/ playpath=espnusa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co#
-sublink:rtmp://185.63.255.60:80/live playpath=espnusa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=espnusa&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z#
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ESPN 2 America</title>
-<link>
-sublink:rtmp://31.220.2.149:80/live/ playpath=espn2usa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co#
-sublink:http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=7C6DAA5C9259DEC9D5692533D1714D3DE4316187&profile=pass#
-</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
@@ -1748,42 +1615,13 @@ sublink:http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=
 </item>
 
 
-item>
-<title>Sky Sport DE</title>
-<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/11.ts</link>
-<thumbnail>g</thumbnail>
-</item>
-
-item>
-<title>Sky Sport 2 DE </title>
-<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/15.ts</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
 
 
-<item>
-<title>Canal Plus Futbol </title>
-<link>
-sublink:rtmp://31.220.0.139/privatestream/futbolplus56 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf#
-sublink:rtmp://31.220.0.139/privatestream playpath=futbolplus56?keys=4-DLFKU_ncLc9GqoxNxiUg&keyt=1448248367 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf#
-<thumbnail></thumbnail>
-</item>
 
-<item>
-  <title>At the Races Stream</title>
-  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
-  
-  <regex>
-    <name>getSTREAM</name>
-    <expres>file:.*(http.*?)[",']</expres>
-    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
-    <referer>http://theactionlive.com/livegamecrnope.php?id=ch21d&width=640&height=460&stretching=</referer>
-	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-  </regex>
-</item>
+
 
 ####################################3
 <item>
@@ -1845,11 +1683,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 </item>
 
 
-<item>
-<title>TVA Sports </title>
-<link>rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://sky1cast.com/player/Playersec.swf pageUrl=http://sky1cast.com/channel/tva.php?n=event1@9756&vw=853&vh=480</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPs_NMRBKsBXAuolJYIfy2BXucoHGGvg60One2f0Aih7fX9gs0PoNYw </thumbnail>
-</item>
+
 
 
 <item>
@@ -1936,23 +1770,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/06/DeporTV-logo.jpg</thumbnail>
 </item>
 
-<item>
-<title>A Spor </title>
-<link>http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-YH5sETI69hA/VCPWQeouEAI/AAAAAAAAanE/SnuYqYmK1c0/s1600/a%2Bspor.png</thumbnail>
-</item>
 
-<item>
-<title>Fanatik TV</title>
-<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
-<thumbnail>http://tv.fanatik.com.tr/Content/images/fanatik_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Sports TV</title>
-<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3</link>
-<thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
-</item>
 
 <item>
 <title>Bursaspor TV</title>
@@ -1966,36 +1784,9 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <thumbnail>http://www.khunkao.com/oldsite/images/mmatv_logo.jpg</thumbnail>
 </item>
 
-<item>
-<title>Dubai Racing Channel </title>
-<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-XhU5Qk4wlFQ/T-DZ26I7tzI/AAAAAAAAAA4/DKqvNC67O1s/s1600/dubai_racing.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>Rai Sport 1 </title>
-<link>mmsh://212.162.68.163:80/raisport+</link>
-<thumbnail>http://www.solosalerno.it/wp-content/uploads/2011/06/Rai_Sport_1.png</thumbnail>
-</item>
 
-<item>
-<title>Rai Sport 2</title>
-<link>mmsh://212.162.68.163:80/raisport2</link>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/09/Rai-Sport-2-Italy-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sportitalia</title>
-<link>http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/f/f9/Sportitalia_24_2011.jpg/260px-Sportitalia_24_2011.jpg</thumbnail>
-</item>
-
-<item>
-<title>CDN Sportsmax</title>
-<link>rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/</link>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf.jpeg</thumbnail>
-</item>
 
 <item>
 <title>TVM 1 Malta </title>
@@ -2024,57 +1815,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 
-<item>
-<title>iraqia_sport</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=iraqia_sport swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=iraqia_sport</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=iraqia_sport</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=iraqia_sport</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
 
-
-<item>
-<title>http://www.streamgaroo.com/streams/10/23</title>
-<link>$doregex[m3u8]|User-Agent=iPhone</link>
-<regex>
-<name>m3u8</name>
-<expres>hls.+?(http[^\']+)</expres>
-<page>$doregex[getpage]</page>
-<referer>http://www.streamgaroo.com/live-television/united-states/bein-sports-live-stream</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-  
-<regex>
-<name>getpage</name>
-<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get_xpage</name>
-<expres>["'](http[^'"]*)["']</expres>
-<page>http://www.streamgaroo.com/calls/get/source</page>
-<rawpost>h=$doregex[hrawpost]</rawpost>
-<referer>http://www.streamgaroo.com/live-television/united-states/bein-sports-live-stream</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-
-<regex>
-<name>hrawpost</name>
-<expres>title="BEIN SPORTS".+?data-sh="(.*?)"</expres>
-<page>http://www.streamgaroo.com/live-television/united-states/bein-sports-live-stream</page>
-</regex>
-</item>
 
 
 ##################http://cricfree.tv/###############33
@@ -2087,64 +1828,6 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 ################test aera 
 
-item>
-<title> 40 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=40</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-
-
-#############################3
 
 
 
