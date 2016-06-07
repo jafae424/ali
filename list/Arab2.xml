@@ -144,18 +144,7 @@
 </regex>
 </item>
 
-<item>
-<title>MBC 1</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>(.*m3u8.*)</expres>
-<page>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1</page>
-<referer>http://www.elahmad.com/</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>MBC1</title>
@@ -218,7 +207,7 @@
 </item>
 
 
-<item>
+item>
 <title>mbc_drama</title>
 <link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -229,7 +218,7 @@
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+
 
 <item>
 <title>mbc drama </title>
