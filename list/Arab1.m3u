@@ -116,7 +116,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2342.ts
 #EXTINF:-1,AR: ART_AFLAM_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2341.ts
-
+#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBCDRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/673.ch
+#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBCMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/672.ch
+#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/674.ch
+#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBC_Masr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/675.ch
 
 #EXTINF:-1, Cinema هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
