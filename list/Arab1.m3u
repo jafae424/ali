@@ -15,6 +15,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+
+#EXTINF:-1,AR:MBC Drama
+http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1486.m3u8
 #EXTINF:-1,AR:MBC_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/106.ts
 #EXTINF:-1,AR:MBC1
