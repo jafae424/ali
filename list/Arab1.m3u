@@ -19,7 +19,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
  #EXTINF:-1,mbc masr
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts|User-Agent=vlc
+ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts
  #EXTINF:-1,MBC MASR2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/2068.ts|User-Agent=vlc
  #EXTINF:-1,mbc max
