@@ -19,13 +19,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
  #EXTINF:-1,mbc masr
- http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts|User-Agent=vlc
+ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts|User-Agent=vlc
  #EXTINF:-1,MBC MASR2
- http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/2068.ts|User-Agent=vlc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/2068.ts|User-Agent=vlc
  #EXTINF:-1,mbc max
- http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1485.ts|User-Agent=vlc
+ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1485.ts|User-Agent=vlc
  #EXTINF:-1,mbc drama
- http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1486.ts|User-Agent=vlc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1486.ts|User-Agent=vlc
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
