@@ -15,6 +15,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+#EXTINF:-1,AR:MBC_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/106.ts
+#EXTINF:-1,AR:MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/2933.ts
+
+#EXTINF:-1,AR:MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/113.ts
+#EXTINF:-1,AR:MBC_MASAR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/114.ts
+#EXTINF:-1,AR:MBC_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/111.ts
 
 #EXTINF:-1,MBC-Maser
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/wael/wael/207.ts
@@ -521,7 +532,26 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.
 https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1464102062&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1464094866&mech9waktahash=Gs6QCQh0mWWKyvEgQw88w25rakrdHEJFEEjcGl1JO5Y=
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
-
+#EXTINF:-1,AR:LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/159.ts
+#EXTINF:-1,AR:LDC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/1935.ts
+#EXTINF:-1,AR:TELE_LIBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/2030.ts
+#EXTINF:-1,AR:FUTURE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/160.ts
+#EXTINF:-1,AR:OTV_LEBANON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/1858.ts
+#EXTINF:-1,AR:ALMAYADEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/99.ts
+#EXTINF:-1,AR:NBN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/1990.ts
+#EXTINF:-1,AR:MTV_LEBNANON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/863.ts
+#EXTINF:-1,AR:ALMANAR_LEB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/1991.ts
+#EXTINF:-1,AR:ALJADID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/667.ts
 #EXTINF:-1,Syria drama
 http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
 #EXTINF:-1,Syria news 
