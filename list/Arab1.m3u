@@ -19,7 +19,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/106.ts
 #EXTINF:-1,AR:MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/2933.ts
-
+#EXTINF:0,AR: MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/282.ts
 #EXTINF:-1,AR:MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/113.ts
 #EXTINF:-1,AR:MBC_MASAR2
@@ -29,7 +30,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipr
 
 #EXTINF:-1,OSN-MBC+DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
-
+#EXTINF:0,AR: OSN MBC Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/123.ts
 #EXTINF:-1,mbc masr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts
 #EXTINF:-1,MBC MASR2
@@ -56,7 +58,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
-
+#EXTINF:0,AR: MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/313.ts
+#EXTINF:0,AR: MBC Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/314.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
