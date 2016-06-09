@@ -27,14 +27,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipr
 #EXTINF:-1,AR:MBC_DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/111.ts
 
-#EXTINF:-1,MBC-Maser
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/wael/wael/207.ts
-#EXTINF:-1,MBC-Masr-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/wael/wael/286.ts
-#EXTINF:-1,MBC-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/wael/wael/206.ts
-#EXTINF:-1,MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/wael/wael/200.ts
+#EXTINF:-1,OSN-MBC+DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
+
 #EXTINF:-1,mbc masr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts
 #EXTINF:-1,MBC MASR2
@@ -52,60 +47,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts
-#EXTINF:0,MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/200.ts
 
-#EXTINF:-1,MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/667.ch
-#EXTINF:-1,MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/667.ch
 
-#EXTINF:0,MBC-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/206.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
 
-#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/673.ch
-#EXTINF:-1,MBCDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/673.ch
+
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/673.ch
 
-#EXTINF:0,MBC-Maser
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/207.ts
-#EXTINF:-1,MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http:http://37.187.24.177:80/2089/2089/674.ch
-#EXTINF:-1,MBC_Masr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http:http://37.187.24.177:80/2089/2089/675.ch
 
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",MBC_Masr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/674.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",mbc masar 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/223.ts
-#EXTINF:0,MBC-Masr-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/286.ts
-
-#EXTINF:0,MBC-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/203.ts
-#EXTINF:0,MBC-MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/205.ts
-
-#EXTINF:0,MBC-SPORTS1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/209.ts
-#EXTINF:0,MBC-SPORTS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/210.ts
-#EXTINF:0,MBC-SPORTS3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/211.ts
-
-
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
@@ -145,28 +101,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2342.ts
 #EXTINF:-1,AR: ART_AFLAM_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2341.ts
-#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBCDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/673.ch
-#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBCMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/672.ch
-#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/674.ch
-#EXTINF:-1 tvg-logo="neox.png" group-title="Arabe",MBC_Masr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/mans37/mans37/675.ch
+
 
 #EXTINF:-1, Cinema هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
-#EXTINF:-1,BEINSPORT.MAX.1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1874.ts
-#EXTINF:-1,BEINSPORT.MAX.2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1875.ts
-#EXTINF:-1,BEINSPORT.MAX.1SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1880.ts
-#EXTINF:-1,BEINSPORT.MAX.2SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1881.ts
+
 #EXTINF:-1, bein 1 Movies
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/391.ts
@@ -431,10 +373,7 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,Al-taghier
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/411.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/pMkYji",  افاق Afaaq  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/425.ts
-#EXTINF:-1,Al-itejah-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/416.ts
+
 #EXTINF:0, alghadeer الغدير
 rtmp://$OPT:rtmp-raw=rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
 #EXTINF:0, alghadeer الغدير
@@ -454,35 +393,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.9
 rtmp://stream.joinvisions.net/dij//dij
 #EXTINF:-1,AL Hurra Iraq
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.11.90.99:4022/udp/238.21.11.50:5004|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,SAMARRA-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1006.ts
 
-#EXTINF:-1,AL-Hurra-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/466.ts
-
-
-
-
-#EXTINF:-1,Iraqia-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/408.ts
-#EXTINF:-1,ASIA-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/410.ts
-
-#EXTINF:-1,Al-Sumaria-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/412.ts
-
-#EXTINF:-1,Al-Rasheed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/414.ts
-#EXTINF:-1,Al-Rafiden
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/415.ts
-
-
-#EXTINF:-1,Al-Fayhaa-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/418.ts
-#EXTINF:-1,AL-Diyar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/419.ts
-#EXTINF:-1,AL-Anbar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/423.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
@@ -813,75 +724,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/438.ts
 #EXTINF:-1, panorama Food
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/439.ts
-#EXTINF:0,ONTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/1080.ts
-#EXTINF:0,ONTV-LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/284.ts
-#EXTINF:0,TIME-TAXI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/403.ts
-#EXTINF:0,TIME-FILM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/404.ts
-#EXTINF:0,TIME-Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/1010.ts
-#EXTINF:0,TIME-TURKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/274.ts
-#EXTINF:0,TIME-CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/339.ts
-#EXTINF:0,TIME-COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/275.ts
-#EXTINF:0,TIME-SHA3BEYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/338.ts
-#EXTINF:0,Alhayat-Egypt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/863.ts
-#EXTINF:0,Al-Hayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/219.ts
-#EXTINF:0,Alhayat-Muslsalat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/297.ts
-#EXTINF:0,SOUT-MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/1008.ts
-#EXTINF:0,Sada-ElBalad-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/964.ts
-#EXTINF:0,MASR-AL-HAYAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/1003.ts
-#EXTINF:0,FANKOSH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/1009.ts
-#EXTINF:0,CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/257.ts
-#EXTINF:0,CBC+2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/446.ts
-#EXTINF:0,CBC-Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/255.ts
-#EXTINF:0,CBC-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/256.ts
-#EXTINF:0,CBC-Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/222.ts
-#EXTINF:0,FATAFEAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/290.ts
-#EXTINF:0,Samira-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/220.ts
-#EXTINF:0,Al-Nahar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/454.ts
-#EXTINF:0,Al-Nahar-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/451.ts
 
-#EXTINF:0,Al-Nahar-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/990.ts
-#EXTINF:0,AL-Nahar-Alyawm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/259.ts
-#EXTINF:0,AL-NAHAR_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/1460.ts
-#EXTINF:0,Al-Kahera-WalNas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/453.ts
-#EXTINF:0,Al-Kahera-WalNas-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.197.37:8000/live/amr123/amr123/450.ts
-#EXTINF:-1,TokTok-Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/301.ts
-#EXTINF:-1,ABC-CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/992.ts
-#EXTINF:-1,Dolly-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/962.ts
-#EXTINF:-1,CNE-CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/998.ts
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -911,36 +754,6 @@ http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1 group-title=”ARABIC”,AL HADATH الحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,ANN-Arab-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/582.ts
-#EXTINF:-1,France-24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/245.ts
-#EXTINF:-1,EuroNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/247.ts
-#EXTINF:-1,Al-Arabiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/266.ts
-#EXTINF:-1,AL-Hadath
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/264.ts
-#EXTINF:-1,BBC-Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/344.ts
-#EXTINF:-1,Sky-News-Arabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/229.ts
-#EXTINF:-1,UNRWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1013.ts
-#EXTINF:-1,Top-News-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/975.ts
-#EXTINF:-1,Al-Jazeera-English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/982.ts
-
-#EXTINF:-1,CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/221.ts
-#EXTINF:-1,Aljazeera-Mubasher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1149.ts
-#EXTINF:-1,Aljazeera2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1150.ts
-#EXTINF:-1,ALJAZEERA-DOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1571.ts
 
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
@@ -1029,71 +842,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/668.ch
 #EXTINF:-1,Echourouk-BENNA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/234.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,NESMA-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/ramzi/ramzi/662.ch
-#EXTINF:-1,Dzair-24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/628.ts
-#EXTINF:-1,ZAYTOONA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/227.ts
-#EXTINF:-1,BZAF-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/186.ts
-#EXTINF:-1,DZair-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/470.ts
-#EXTINF:-1,ALG:Bzaf..Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/187.ts
-#EXTINF:-1,EL-BILAD-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/471.ts
-#EXTINF:-1,ENNAHAR-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/622.ts
-#EXTINF:-1,El-Fadjr-TV-DZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/248.ts
-#EXTINF:-1,Echorouk-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/961.ts
-#EXTINF:-1,Dzair-21-PUB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1001.ts
-#EXTINF:-1,El-Heddaf.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1783.ts
-#EXTINF:-1,DZAIR.NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1784.ts
-#EXTINF:-1,Echorouk-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/625.ts
-#EXTINF:-1,Sahara-TV-Algeria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/231.ts
-#EXTINF:-1,ELKHABARKBC-Algeria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/623.ts
-#EXTINF:-1,ALG:ENTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1799.ts
-#EXTINF:-1,ALG:BEUR_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1800.ts
-#EXTINF:-1,bzaf_music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1803.ts
-#EXTINF:-1,DJAZAIRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1786.ts
-#EXTINF:-1,ALG:Moutawaset
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1796.ts
-#EXTINF:-1,ALG:Kbc.AlgÃ©rie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1798.ts
-#EXTINF:-1,ALG:CANAL_ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1785.ts
-#EXTINF:-1,ALG:Echourouk.benna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1797.ts
-#EXTINF:-1,ALG:ALGERIAN_amazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1801.ts
-#EXTINF:-1,Arriadia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/184.ts
-#EXTINF:-1,Arrabiaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/185.ts
-#EXTINF:-1,AL-Oula_Maroc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/181.ts
-#EXTINF:-1,2M-Maroc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/182.ts
-#EXTINF:-1,Al-Maghribia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/183.ts
-#EXTINF:-1,MAR:Al-Magharibia-Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/587.ts
-#EXTINF:-1,MAR:Tamazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1802.ts
-
 
 #EXTINF:-1,Maannews
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
@@ -1205,14 +953,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2302.ts
 #EXTINF:-1,AR: Al_Anis_TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2369.ts
-#EXTINF:-1,SudanTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1762.ts
-#EXTINF:-1,AshrooqTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1763.ts
-#EXTINF:-1,Dabanga.Sudan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1764.ts
-#EXTINF:-1,Blue.nile.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1862.ts
+
 
 
 
@@ -1256,14 +997,6 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 rtmp://cp135357.live.edgefcs.net/live/
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1,Planete+_Thalassa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/654.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,PLANETE+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/582.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,PLANETE+_A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/586.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,National_Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/649.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 #EXTINF:-1,Discovery_Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/649.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -1276,10 +1009,6 @@ http://jafaer-tv.com
 
 
 
-#EXTINF:-1,MAJD-KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doorfixer.dyndns.org:8000/live/kingoo/AR20/262.ts
-#EXTINF:-1,Fatafeat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://doorfixer.dyndns.org:8000/live/kingoo/AR20/292.ts
 #EXTINF:-1,Toyor-AlJanah
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts
 #EXTINF:-1,Jeem
@@ -1309,30 +1038,6 @@ http://38.99.146.69:7777/ModyKids_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=
 plugin://plugin.video.youtube/?action=play_video&videoid=BpcQzVGPTLM
 #EXTINF:-1,طيور الجنة
 plugin://plugin.video.youtube/?action=play_video&videoid=dMmeVXHprRg
-
-
-#EXTINF:-1,IKIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/618.ts
-#EXTINF:-1,Bara3im
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1766.ts
-#EXTINF:-1,KIDZINIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/617.ts
-#EXTINF:-1,NOON_TV_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1789.ts
-#EXTINF:-1,karamesh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1148.ts
-#EXTINF:-1,KOKKY-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/455.ts
-#EXTINF:-1,MODY-KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/342.ts
-#EXTINF:-1,TOYOR-AL-JANAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/223.ts
-#EXTINF:-1,MICKEY-CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/611.ts
-#EXTINF:-1,SPACE-TOON-ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/349.ts
-#EXTINF:-1,TAHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/974.ts
 
 
 #EXTINF:-1,Smile Of a Child
@@ -1421,53 +1126,6 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
-#EXTINF:-1,Sky_Action_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/654.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Comedy_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/654.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/856.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Disney_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/854.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_DramaRom_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/857.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Family_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/860.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Greats_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/858.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Prem+1_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/855.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Monsters_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/861.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,Sky2_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/890.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Sky_Thriller_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/885.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,UMP_Movies_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/886.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Universal+1_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/887.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,H2_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/888.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,ITV+1_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/891.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
-#EXTINF:-1,Syfy+1_UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/889.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
 
 
 #EXTINF:-1,AR.movie-1
