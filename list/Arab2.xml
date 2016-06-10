@@ -3485,7 +3485,32 @@ src=[",'].*([".'])
 
 
 
-
+<item>
+<title>http://ramadanahla.com/category/2016</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+      <title>[COLOR white][makelist.param2][/COLOR]</title>
+      <link>http://cdn00.vidyomani.com/$doregex[path]/$doregex[path2]-240p.mp4|User-Agent=iPhone</link>
+      <thumbnail>[makelist.param3]</thumbnail>
+  ]]></listrepeat>
+  <expres><![CDATA[(?s)thumb-wrap"><a  href="(.*?)".*?title="(.*?)".*?src="(.*?)"]]></expres>
+  <page><![CDATA[http://ramadanahla.com/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2016]]></page>
+  <referer>http://ramadanahla.com/category/</referer>
+  <ignorecache/>
+</regex>
+<regex>
+  <name>path</name>
+  <expres>src='.*cdn.*?\/(.*)\/.*?index.html</expres>
+  <page>[makelist.param1]</page>
+</regex>
+<regex>
+  <name>path2</name>
+  <expres>src='.*cdn.*?\/.*?\/.*?\/.*?\/.*?\/(.*?)\/</expres>
+  <page>[makelist.param1]</page>
+</regex>
+</item>
 
 
 
