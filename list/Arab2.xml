@@ -3513,7 +3513,21 @@ src=[",'].*([".'])
 </item>
 
 
-
+<item>
+<title>TEST </title>
+<link>https://forums.tvaddons.ag/$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+  <name>m3u8</name>
+  <expres>x-mpegURL.+?src="([^\"]+)</expres>
+  <page>http://www.elahmad.com/tv/swf/alsharqiya.swf?&autostart=true&amp</page>
+  <rawpost>id=</rawpost>
+  <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+  <referer>http://www.elahmad.com/tv/swf/alsharqiya.swf?&autostart=true&amp</referer>
+  <accept>text/html, */*; q=0.01</accept>
+  <x-req>XMLHttpRequest</x-req>
+  <cookieJar></cookieJar>
+</regex>
+</item>
 
 
 
