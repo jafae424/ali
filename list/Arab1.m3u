@@ -14,7 +14,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+#EXTINF:-1,MBC 1
+http://38.99.146.38:7777/MBC1_HD.m3u8
 
+
+#EXTINF:-1,MBC Drama
+http://38.99.146.38:7777/MBCDrama_HD.m3u8
+#EXTINF:-1,MBC Masr
+http://38.99.146.38:7777/MBCMaser_HD.m3u8
+
+#EXTINF:-1,MBCMasrPlus2
+http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
 #EXTINF:-1,AR:MBC_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/32upp/xyg64356/106.ts
 #EXTINF:-1,AR:MBC1
@@ -62,6 +72,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,MBC 2
+http://38.99.146.38:7777/MBC2_HD.m3u8
+#EXTINF:-1,MBC 3
+http://38.99.146.38:7777/MBC3_HD.m3u8
+#EXTINF:-1,MBC 4
+http://38.99.146.38:7777/MBC4_HD.m3u8
+#EXTINF:-1,MBC Action
+http://38.99.146.38:7777/MBCAction_HD.m3u8
 #EXTINF:-1,AR: MBC_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2286.ts
 #EXTINF:-1,MBC-2
@@ -78,6 +96,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
 http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,MBC Max
+http://38.99.146.38:7777/MBCMax_HD.m3u8
 #EXTINF:-1 group-title=”Arab”,MBC MAX
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC-MAX
@@ -270,6 +290,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
+#EXTINF:-1,Al Forat
+http://38.99.146.38:7777/AlForat_HD.m3u8
+#EXTINF:-1,Al Anwar
+http://38.99.146.38:7777/AlAnwar_HD.m3u8
+#EXTINF:-1,Al Manar
+http://38.99.146.38:7777/AlManar_HD.m3u8
+#EXTINF:-1,Al Masar
+http://38.99.146.38:7777/AlMasar_HD.m3u8
+
+
+
 #EXTINF:-1,KARBALA-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/463.ts
 
@@ -347,7 +378,34 @@ http://api.new.livestream.com/accounts/13964753/events/4352548/videos/124522900.
 http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
-
+#EXTINF:-1,Aliraqia 2
+http://38.99.146.38:7777/AlIraqia2_HD.m3u8
+#EXTINF:-1,Aliraqiya
+http://38.99.146.38:7777/AlIraqiya_HD.m3u8
+#EXTINF:-1,Al Baghdadia
+http://38.99.146.38:7777/AlBaghdadia_HD.m3u8
+#EXTINF:-1,Al Baghdadia 2
+http://38.99.146.38:7777/AlBaghdadia2_HD.m3u8
+#EXTINF:-1,Al Sumaria
+http://38.99.146.38:7777/Alsumaria_HD.m3u8
+#EXTINF:-1,Al Iraqiya Documentary
+http://38.99.146.38:7777/AlIraqAlTarbawiyah_HD.m3u8
+#EXTINF:-1,Al Sharqiya
+http://38.99.146.38:7777/AlSharqiya_HD.m3u8
+#EXTINF:-1,Al Sharqiya News
+http://38.99.146.38:7777/AlsharqiyaNews_HD.m3u8
+#EXTINF:-1,AlBabeleyia
+http://38.99.146.38:7777/AlBabeleyia_HD.m3u8
+#EXTINF:-1,Beladi
+http://38.99.146.38:7777/Beladi_HD.m3u8
+#EXTINF:-1,Aldiyar
+http://38.99.146.38:7777/AldiyarSat_HD.m3u8
+#EXTINF:-1,Dejlah
+http://38.99.146.38:7777/Dejlah_HD.m3u8
+#EXTINF:-1,Al-hurra Iraq
+http://38.99.146.38:7777/AlhurraIraq_HD.m3u8
+#EXTINF:-1,Al Fayhaa
+http://38.99.146.38:7777/AlFayhaa_HD.m3u8
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
 
@@ -407,6 +465,9 @@ http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sl
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
 
+#EXTINF:-1,Al mayaden
+http://38.99.146.38:7777/AlMayadeen_HD.m3u8
+
 
 #EXTINF:-1,الميادين
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
@@ -427,6 +488,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
 rtmp://118.139.182.134:1935/livepkgr/livestream
+#EXTINF:-1,Al Lubnania
+http://38.99.146.38:7777/AlLubnania_HD.m3u8
+#EXTINF:-1,Aljadeed
+http://38.99.146.38:7777/AlJadeed_HD.m3u8
+#EXTINF:-1,Alan
+http://38.99.146.38:7777/AlAan_HD.m3u8
+#EXTINF:-1,ANB
+http://38.99.146.38:7777/ANB_HD.m3u8
+#EXTINF:-1,ANN
+http://38.99.146.38:7777/ANN_HD.m3u8
+#EXTINF:-1,Funoon
+http://38.99.146.38:7777/Funoon_HD.m3u8
+#EXTINF:-1,Future News
+http://38.99.146.38:7777/FutureNews_HD.m3u8
+#EXTINF:-1,Future TV
+http://38.99.146.38:7777/Future_HD.m3u8
+#EXTINF:-1,FutureUSA
+http://38.99.146.38:7777/FutureUSA_HD.m3u8
+#EXTINF:-1,Lbc Europe
+http://38.99.146.38:7777/LBC_HD.m3u8
+
 
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
@@ -669,6 +751,85 @@ http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b240000
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/Hamadil1xa130/Hamadil1xa130/722.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
+
+#EXTINF:-1,Al Nahar
+http://38.99.146.38:7777/AlNahar_HD.m3u8
+#EXTINF:-1,Al Nahar 2
+http://38.99.146.38:7777/AlNaharMovies_HD.m3u8
+#EXTINF:-1,Al Nahar Sport
+http://38.99.146.38:7777/AlNaharSport_HD.m3u8
+#EXTINF:-1,Algharam Cinema
+http://38.99.146.38:7777/AlTet_HD.m3u8
+#EXTINF:-1,Alhayat 1
+http://38.99.146.38:7777/Hayat_HD.m3u8
+#EXTINF:-1,AlHayat Sport
+http://38.99.146.38:7777/AlHayatSport_HD.m3u8
+#EXTINF:-1,AlHayat_Christian
+http://38.99.146.38:7777/ALhayat_HD.m3u8
+#EXTINF:-1,Alhayat2
+http://38.99.146.38:7777/Alhayat2_HD.m3u8
+#EXTINF:-1,Alhayat-Series
+http://38.99.146.38:7777/AlHayatMousalsalat_HD.m3u8
+#EXTINF:-1,Al Masriyah
+http://38.99.146.38:7777/AlMasriyah_HD.m3u8
+#EXTINF:-1,Albait Baitak Cinema
+http://38.99.146.38:7777/AlbaitBaitakCinema_HD.m3u8
+#EXTINF:-1,Egypt 2
+http://38.99.146.38:7777/AlThanya_HD.m3u8
+
+#EXTINF:-1,AlKahera
+http://38.99.146.38:7777/AlKahera_HD.m3u8
+#EXTINF:-1,Alkarama_Christian
+http://38.99.146.38:7777/AlKarma_HD.m3u8
+
+#EXTINF:-1,AlMalakot
+http://38.99.146.38:7777/AlMalakot_HD.m3u8
+#EXTINF:-1,Almas
+http://38.99.146.38:7777/AlMas_HD.m3u8
+#EXTINF:-1,AlMasrawia
+http://38.99.146.38:7777/AlMasrawia_HD.m3u8
+
+#EXTINF:-1,Alnahar Alyoum
+http://38.99.146.38:7777/AlNahar2_HD.m3u8
+#EXTINF:-1,Al-Nahar Drama
+http://38.99.146.38:7777/AlNaharDrama_HD.m3u8
+#EXTINF:-1,AlQahera W Elnas
+http://38.99.146.38:7777/AlKaheraWalNas_HD.m3u8
+#EXTINF:-1,AlQahera W Elnas 2
+http://38.99.146.38:7777/AlKaheraWalNas2_HD.m3u8
+#EXTINF:-1,Cairo Cinema
+http://38.99.146.38:7777/CairoCinema_HD.m3u8
+#EXTINF:-1,Cairo Cinema 2
+http://38.99.146.38:7777/Mosar3_HD.m3u8
+#EXTINF:-1,Cairo Comedy
+http://38.99.146.38:7777/CairoComedy_HD.m3u8
+#EXTINF:-1,Cairo Drama
+http://38.99.146.38:7777/CairoDrama_HD.m3u8
+
+#EXTINF:-1,CBC
+http://38.99.146.38:7777/CBC_HD.m3u8
+#EXTINF:-1,CBC Drama
+http://38.99.146.38:7777/CBCDrama_HD.m3u8
+#EXTINF:-1,CBC Extra
+http://38.99.146.38:7777/CBC2_HD.m3u8
+#EXTINF:-1,CBC Sofra
+http://38.99.146.38:7777/CBCSofra_HD.m3u8
+#EXTINF:-1,CCTV Arabic
+http://38.99.146.38:7777/CCTVArabia_HD.m3u8
+#EXTINF:-1,Chabab
+http://38.99.146.38:7777/Chabab_HD.m3u8
+#EXTINF:-1,Chobra Cima
+http://38.99.146.38:7777/LayaliCinema_HD.m3u8
+#EXTINF:-1,Cima
+http://38.99.146.38:7777/Cima_HD.m3u8
+#EXTINF:-1,Cine Majesti
+http://38.99.146.38:7777/MajesticCinema_HD.m3u8
+#EXTINF:-1,Coptic_Christian
+http://38.99.146.38:7777/CTVEgypt_HD.m3u8
+#EXTINF:-1,Dream 1
+http://38.99.146.38:7777/Dream1_HD.m3u8
+#EXTINF:-1,Dream 2
+http://38.99.146.38:7777/Dream2_HD.m3u8
  
 #EXTINF:0,AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
@@ -732,7 +893,29 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
+#EXTINF:-1,Al mayaden
+http://38.99.146.38:7777/AlMayadeen_HD.m3u8
 
+#EXTINF:-1,SkyNewsArabia
+http://38.99.146.38:7777/SkyNews_HD.m3u8
+#EXTINF:-1,Alarabiya
+http://38.99.146.38:7777/AlArabiya_HD.m3u8
+#EXTINF:-1,Alarabiya Ahdas
+http://38.99.146.38:7777/AlArabiyaHadath_HD.m3u8
+#EXTINF:-1,AlJazeera
+http://38.99.146.38:7777/AlJazeera_HD.m3u8
+#EXTINF:-1,Aljazeera Children
+http://38.99.146.38:7777/AlJazeeraKid_HD.m3u8
+#EXTINF:-1,Aljazeera Doc
+http://38.99.146.38:7777/AlJazeeraDocument_HD.m3u8
+#EXTINF:-1,Aljazeera En
+http://38.99.146.38:7777/AlJazeeraEnglish_HD.m3u8
+#EXTINF:-1,Aljazeera Mubasher
+http://38.99.146.38:7777/AlJazeeraLive_HD.m3u8
+#EXTINF:-1,Aljazeera Mubasher Masr
+http://38.99.146.38:7777/JSCLiveMisr_HD.m3u8
+#EXTINF:-1,Aljazeera US
+http://38.99.146.38:7777/AlJazeeraInt_HD.m3u8
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
 
@@ -1012,7 +1195,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-s
 http://jafaer-tv.com
 
 
+#EXTINF:-1,Cartoon Network
+http://38.99.146.38:7777/CNArabia_HD.m3u8
+#EXTINF:-1,Atfal wa Mawaheb
+http://38.99.146.38:7777/AtfalwaMawaheb_HD.m3u8
+#EXTINF:-1,Baraem
+http://38.99.146.38:7777/Baraem_HD.m3u8
+#EXTINF:-1,HodHod
+http://38.99.146.38:7777/HodHod_HD.m3u8
 
+#EXTINF:-1,SM SM KIDS
+http://38.99.146.38:7777/Semsem_HD.m3u8
+#EXTINF:-1,Space Power
+http://38.99.146.38:7777/SpacePower_HD.m3u8
+#EXTINF:-1,Spacetoon
+http://38.99.146.38:7777/SpaceToonArabic_HD.m3u8
+#EXTINF:-1,Taha
+http://38.99.146.38:7777/Taha_HD.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://38.99.146.38:7777/ToyorAlJanah_HD.m3u8
 #EXTINF:-1,Toyor-AlJanah
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts
 #EXTINF:-1,Jeem
