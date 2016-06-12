@@ -32,14 +32,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
 #EXTINF:0,AR: OSN MBC Drama HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/123.ts
-#EXTINF:-1,mbc masr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1487.ts
-#EXTINF:-1,MBC MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/2068.ts|User-Agent=vlc
-#EXTINF:-1,mbc max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1485.ts|User-Agent=vlc
-#EXTINF:-1,mbc drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://xtreamip.dynns.com:8000/live/ipanddr/5asf045sdg0/1486.ts|User-Agent=vlc
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
@@ -108,7 +100,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2341.ts
 
 
-#EXTINF:-1, Cinema هذه القناة تنقل لعبات مباشر
+#EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
@@ -117,7 +109,14 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 #EXTINF:-1, bein 1 Movies
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/391.ts
-
+#EXTINF:0,beIN MOVIES 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.191:5890/live/brahim1/brahim1/840.ts
+#EXTINF:0,beIN MOVIES 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.191:5890/live/brahim1/brahim1/839.ts
+#EXTINF:0,beIN MOVIES 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.191:5890/live/brahim1/brahim1/1458.ts
+#EXTINF:0,beIN MOVIES 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.191:5890/live/brahim1/brahim1/1477.ts
 #EXTINF:-1,AR: OSN YA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/395.ts
 
