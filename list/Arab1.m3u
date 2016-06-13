@@ -25,7 +25,13 @@ http://38.99.146.38:7777/MBCMaser_HD.m3u8
 
 #EXTINF:-1,MBCMasrPlus2
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
+#EXTINF:-1,MBC
+http://htp.brasilia.me/iptv/ch30?code=460011131604165
+#EXTINF:-1,mbc drama
+http://htp.brasilia.me/iptv/ch36?code=460011131604165
 
+#EXTINF:-1,MBC Masr
+http://htp.brasilia.me/iptv/ch37?code=460011131604165
 
 #EXTINF:-1,OSN-MBC+DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
