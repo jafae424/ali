@@ -17,7 +17,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 #EXTINF:-1,MBC 1
 http://38.99.146.38:7777/MBC1_HD.m3u8
 
-
 #EXTINF:-1,MBC Drama
 http://38.99.146.38:7777/MBCDrama_HD.m3u8
 #EXTINF:-1,MBC Masr
@@ -32,6 +31,8 @@ http://htp.brasilia.me/iptv/ch36?code=460011131604165
 
 #EXTINF:-1,MBC Masr
 http://htp.brasilia.me/iptv/ch37?code=460011131604165
+#EXTINF:-1,mbc 1
+http://195.12.170.154:8002/play/armbc1hd
 
 #EXTINF:-1,OSN-MBC+DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
@@ -411,6 +412,8 @@ rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8
+#EXTINF:-1,iFilm Arabic
+http://38.99.146.38:7777/iFilm_HD.m3u8
 #EXTINF:-1,IFILM eng
 http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sleng.m3u8
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
@@ -453,8 +456,16 @@ http://38.99.146.38:7777/Future_HD.m3u8
 http://38.99.146.38:7777/FutureUSA_HD.m3u8
 #EXTINF:-1,Lbc Europe
 http://38.99.146.38:7777/LBC_HD.m3u8
-
-
+#EXTINF:-1,Lbc
+http://htp.brasilia.me/iptv/ch28?code=460011131604165
+#EXTINF:-1, MTV Lebanon
+http://195.12.170.154:8002/play/armtvlebanon
+#EXTINF:-1,MTV
+http://38.99.146.38:7777/MTVLebanon_HD.m3u8
+#EXTINF:-1,OTV Lebanon
+http://38.99.146.38:7777/OTV_HD.m3u8
+#EXTINF:-1,Tele Liban
+http://38.99.146.38:7777/TeleLiban_HD.m3u8
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 
@@ -527,7 +538,16 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1, ابو ظبي Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?alwhdat.net
-
+#EXTINF:-1,Abu Dhabi
+http://38.99.146.38:7777/ADAlOula_HD.m3u8
+#EXTINF:-1,Abu Dhabi Drama
+http://38.99.146.38:7777/ADDrama_HD.m3u8
+#EXTINF:-1,Abu Dhabi Emirates
+http://38.99.146.38:7777/ADEmirates_HD.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1
+http://38.99.146.38:7777/ADSport_HD.m3u8
+#EXTINF:-1,Aden
+http://38.99.146.38:7777/Aden_HD.m3u8
 
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
@@ -881,6 +901,8 @@ http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunk
 #EXTINF:-1,Echorouk-News
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
 
+#EXTINF:-1,Echorouk الشروق
+http://htp.brasilia.me/iptv/ch719?code=460011131604165
 #EXTINF:-1,Maannews
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 
@@ -965,16 +987,7 @@ http://38.99.146.38:7777/AAAMusic_HD.m3u8
 http://38.99.146.38:7777/ABN_HD.m3u8
 
 
-#EXTINF:-1,Abu Dhabi
-http://38.99.146.38:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://38.99.146.38:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Abu Dhabi Emirates
-http://38.99.146.38:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
-http://38.99.146.38:7777/ADSport_HD.m3u8
-#EXTINF:-1,Aden
-http://38.99.146.38:7777/Aden_HD.m3u8
+
 
 
 #EXTINF:-1,Aghanina
@@ -1136,8 +1149,7 @@ http://38.99.146.38:7777/FoxMovies_HD.m3u8
 #EXTINF:-1,France 24
 http://38.99.146.38:7777/France24Arabic_HD.m3u8
 
-#EXTINF:-1,Fx Arabia
-http://38.99.146.38:7777/Fox_HD.m3u8
+
 #EXTINF:-1,GearOne
 http://38.99.146.38:7777/GearOne_HD.m3u8
 #EXTINF:-1,Gladiator
@@ -1146,11 +1158,12 @@ http://38.99.146.38:7777/Gladiator_HD.m3u8
 http://38.99.146.38:7777/GoanTV_HD.m3u8
 #EXTINF:-1,Hanibal
 http://38.99.146.38:7777/Hannibal_HD.m3u8
+#EXTINF:-1,Hanibal
+http://htp.brasilia.me/iptv/ch6?code=460011131604165
 
 #EXTINF:-1,Huda
 http://38.99.146.38:7777/Huda_HD.m3u8
-#EXTINF:-1,iFilm Arabic
-http://38.99.146.38:7777/iFilm_HD.m3u8
+
 #EXTINF:-1,Imagines Movies
 http://38.99.146.38:7777/ImagineMovies_HD.m3u8
 #EXTINF:-1,Iqra
@@ -1242,8 +1255,7 @@ http://38.99.146.38:7777/MehwarPlus2_HD.m3u8
 http://38.99.146.38:7777/Miracle_HD.m3u8
 #EXTINF:-1,Moga Comedy
 http://38.99.146.38:7777/MogaComedy_HD.m3u8
-#EXTINF:-1,MTV
-http://38.99.146.38:7777/MTVLebanon_HD.m3u8
+
 #EXTINF:-1,MTV Arabia
 http://38.99.146.38:7777/MTVArabia_HD.m3u8
 #EXTINF:-1,Music+
@@ -1308,8 +1320,7 @@ http://38.99.146.38:7777/ORTM_HD.m3u8
 http://38.99.146.38:7777/OscarDrama_HD.m3u8
 #EXTINF:-1,Oscar Drama 2
 http://38.99.146.38:7777/OscarDrama2_HD.m3u8
-#EXTINF:-1,OTV Lebanon
-http://38.99.146.38:7777/OTV_HD.m3u8
+
 #EXTINF:-1,Oyoun Jeddah
 http://38.99.146.38:7777/OyounJeddah_HD.m3u8
 #EXTINF:-1,Palestine
@@ -1366,8 +1377,7 @@ http://38.99.146.38:7777/SamaDubai_HD.m3u8
 http://38.99.146.38:7777/SamaTV_HD.m3u8
 #EXTINF:-1,Samira TV
 http://38.99.146.38:7777/SamiraTV_HD.m3u8
-#EXTINF:-1,Sat7 Kid
-http://38.99.146.38:7777/Sat7Kid_HD.m3u8
+
 #EXTINF:-1,Saudia Sport
 http://8.21.48.19:7777/AlRiyadiah1_HD.m3u8
 #EXTINF:-1,Saudia Sport
@@ -1378,7 +1388,8 @@ http://38.99.146.38:7777/ScopeTV_HD.m3u8
 http://38.99.146.38:7777/SharjahTV_HD.m3u8
 #EXTINF:-1,Sheba
 http://38.99.146.38:7777/Sheba_HD.m3u8
-
+#EXTINF:-1,Zweina Bladna
+http://38.99.146.38:7777/ZweinaBaladna_HD.m3u8
 #EXTINF:-1,SNTV
 http://38.99.146.38:7777/SNTV_HD.m3u8
 
@@ -1411,8 +1422,7 @@ http://38.99.146.38:7777/Tamazight_HD.m3u8
 http://38.99.146.38:7777/TimeTiatro_HD.m3u8
 #EXTINF:-1,Tayba
 http://38.99.146.38:7777/Tayba_HD.m3u8
-#EXTINF:-1,Tele Liban
-http://38.99.146.38:7777/TeleLiban_HD.m3u8
+
 #EXTINF:-1,Time Cinema
 http://38.99.146.38:7777/TimeCinema_HD.m3u8
 #EXTINF:-1,Time Drama
@@ -1438,8 +1448,7 @@ http://38.99.146.38:7777/Yemen_HD.m3u8
 http://38.99.146.38:7777/ZeeAflam_HD.m3u8
 #EXTINF:-1,Zee Alwan
 http://38.99.146.38:7777/ZeeAlwan_HD.m3u8
-#EXTINF:-1,Zweina Bladna
-http://38.99.146.38:7777/ZweinaBaladna_HD.m3u8
+
 
 
 
@@ -1535,7 +1544,8 @@ http://38.99.146.38:7777/AtfalwaMawaheb_HD.m3u8
 http://38.99.146.38:7777/Baraem_HD.m3u8
 #EXTINF:-1,HodHod
 http://38.99.146.38:7777/HodHod_HD.m3u8
-
+#EXTINF:-1,Sat7 Kid
+http://38.99.146.38:7777/Sat7Kid_HD.m3u8
 #EXTINF:-1,SM SM KIDS
 http://38.99.146.38:7777/Semsem_HD.m3u8
 #EXTINF:-1,Space Power
