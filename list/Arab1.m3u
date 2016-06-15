@@ -325,7 +325,8 @@ http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
 
 #EXTINF:-1, Aletejah الاتجاه
 http://162.244.81.186:1935/aletejahtv/aletejahtv/playlist.m3u8
-
+#EXTINF:-1,Taghier التغير
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
 
 #EXTINF:-1,العهد
@@ -345,6 +346,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m
 http://38.99.146.38:7777/AlIraqia2_HD.m3u8
 #EXTINF:-1,Aliraqiya
 http://38.99.146.38:7777/AlIraqiya_HD.m3u8
+#EXTINF:-1,Iraqia Amma (Iraq)
+http://iphone-streaming.ustream.tv/ustreamVideo/22169553/streams/live/playlist.m3u8
 #EXTINF:-1,Al Baghdadia
 http://38.99.146.38:7777/AlBaghdadia_HD.m3u8
 #EXTINF:-1,Al Baghdadia 2
@@ -456,6 +459,8 @@ http://38.99.146.38:7777/Future_HD.m3u8
 http://38.99.146.38:7777/FutureUSA_HD.m3u8
 #EXTINF:-1,Lbc Europe
 http://38.99.146.38:7777/LBC_HD.m3u8
+#EXTINF:-1,LBC Europe (Lebanon)
+http://osltv.zackapps.com/apps/best/labenon.php?id=osltv
 #EXTINF:-1,Lbc
 http://htp.brasilia.me/iptv/ch28?code=460011131604165
 #EXTINF:-1, MTV Lebanon
@@ -469,7 +474,8 @@ http://38.99.146.38:7777/TeleLiban_HD.m3u8
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 
-
+#EXTINF:-1,Future TV (Lebanon) 
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
 #EXTINF:-1,aljadeed الجديد
 https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1464102062&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1464094866&mech9waktahash=Gs6QCQh0mWWKyvEgQw88w25rakrdHEJFEEjcGl1JO5Y=
@@ -615,7 +621,14 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
 #EXTINF:-1,kuwait_sport plus
 http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
-
+#EXTINF:-1,Al Kass 1 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_23s20.m3u8
+#EXTINF:-1,Al Kass 2 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_23s20.m3u8
+#EXTINF:-1,Al Kass 4 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/4/live_30s20.m3u8
+#EXTINF:-1,Al Kass 5 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
 ###############################################################
 
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
@@ -905,8 +918,12 @@ rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
 http://htp.brasilia.me/iptv/ch719?code=460011131604165
 #EXTINF:-1,Maannews
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
-
-
+#EXTINF:-1,CNA (Algeria)
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+#EXTINF:-1,Ennahar TV (Algeria)
+http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8
+#EXTINF:-1,El Bilad TV (Algeria)
+http://elbilad.streamakaci.com/elbilad/elbilad.stream/playlist.m3u8
 #EXTINF:-1, 2m maroco
 http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8
 
