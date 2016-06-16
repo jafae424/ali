@@ -156,6 +156,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 
+#EXTINF:-1,NL:Fox.Sports.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1407.ts
+#EXTINF:-1,NL:Fox.Sports.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1406.ts
+#EXTINF:-1,NL:Fox.Sports.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1405.ts
+#EXTINF:-1,NL:Fox.Sports.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1404.ts
+#EXTINF:-1,NL:Fox.Sports.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1403.ts
+#EXTINF:-1,NL:Fox.Sports.6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1441.ts
 
 
 
