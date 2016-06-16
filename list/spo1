@@ -20,14 +20,6 @@ http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
 #EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
-#EXTINF:-1,BEINSPORT.MAX.1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1874.ts
-#EXTINF:-1,BEINSPORT.MAX.2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1875.ts
-#EXTINF:-1,BEINSPORT.MAX.1SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1880.ts
-#EXTINF:-1,BEINSPORT.MAX.2SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1881.ts
 
 #EXTINF:-1,beIN_s1
 http://iptv33.us.to/ip441555/3136774336/1.ch
@@ -149,30 +141,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,AR:beIN SPORT 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/158.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-#EXTINF:-1,BeinSport-1SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/48.ts
-#EXTINF:-1,BeinSport-2SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/47.ts
-#EXTINF:-1,BeinSport-3SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/46.ts
-#EXTINF:-1,BeinSport-4SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/45.ts
-#EXTINF:-1,BeinSport-5SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/44.ts
-#EXTINF:-1,BeinSport-6SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/43.ts
-#EXTINF:-1,BeinSport-7SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/41.ts
-#EXTINF:-1,BeinSport-8SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/40.ts
-#EXTINF:-1,BeinSport-9SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/39.ts
-#EXTINF:-1,BeinSport-10SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/42.ts
-#EXTINF:-1,BeinSport-11SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1064.ts
-#EXTINF:-1,BeinSport-12SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1065.ts
 #EXTINF:-1,UK | Sky Sport 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/6.ts
 
@@ -189,49 +157,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 
-#EXTINF:-1,DE:EuroSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1110.ts
-#EXTINF:-1,DE-Sky-Sport-1HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/872.ts
-#EXTINF:-1,DE-Sky-Sport-2HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/873.ts
-#EXTINF:-1,DE:Arena-Sport-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1107.ts
-#EXTINF:-1,DE:Arena-Sport-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1106.ts
-#EXTINF:-1,DE:Arena-Sport-3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1105.ts
-#EXTINF:-1,DE:Arena-Sport-4-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1104.ts
-
 
 
 #EXTINF:-1,UK-BT-Sport-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/519.ts
-#EXTINF:-1,UK-BT-Sport-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/520.ts
-#EXTINF:-1,UK-Sky-Sports-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/684.ts
-#EXTINF:-1,UK-Sky-Sports-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/685.ts
-#EXTINF:-1,UK-Sky-Sports-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/686.ts
-#EXTINF:-1,UK-Sky-Sports-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/714.ts
-#EXTINF:-1,UK-Sky-Sports-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/687.ts
-#EXTINF:-1,UK-Premier-Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1022.ts
-#EXTINF:-1,UK-Setanta-Sport-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1018.ts
-#EXTINF:-1,UK-BT-Sport/ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1044.ts
-#EXTINF:-1,UK-BT-Sport-Mosaic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1041.ts
-#EXTINF:-1,UK-BT-Sport-Extra-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1043.ts
-#EXTINF:-1,UK-BT-Sport-Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/1042.ts
 
 
 
