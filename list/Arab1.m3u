@@ -34,16 +34,13 @@ http://htp.brasilia.me/iptv/ch37?code=460011131604165
 #EXTINF:-1,mbc 1
 http://195.12.170.154:8002/play/armbc1hd
 
-#EXTINF:-1,OSN-MBC+DRAMA
+#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",OSN-MBC+DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
-#EXTINF:0,AR: OSN MBC Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/123.ts
+
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-#EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",mbc 1
-http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts
 
