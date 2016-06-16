@@ -94,24 +94,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1449.ts
 #EXTINF:-1,NL-Investigation_Discovery
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1435.ts
-#EXTINF:-1,GR:NATGEO
-http://over.ddns.net:65203/
-#EXTINF:-1,GR:DISCOVERY
-http://over.ddns.net:65204/
-#EXTINF:–1,GR:HISTORY
-http://over.ddns.net:65205/
-#EXTINF:-1,GR:FOX
-http://over.ddns.net:65206/
-#EXTINF:-1,GR:FOXLIFE
-http://over.ddns.net:65207/
-#EXTINF:-1,GR:IDX
-http://over.ddns.net:65208/
-#EXTINF:-1,GR:Mad
-http://over.ddns.net:65209/
-#EXTINF:-1,GR:Animal Planet
-http://over.ddns.net:65210/
-#EXTINF:-1,GR:Nat geo Wild
-http://over.ddns.net:65211/
+
 #EXTINF:-1,Eng.movie-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/583.ts
 #EXTINF:-1,Eng.movie-2
