@@ -263,79 +263,63 @@ item>
 
 0000000000000000000000000000000
 <item>
-<title>MBC Action</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<title>[COLOR red]mbc action [/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcaction.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
-
 <regex>
 <name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcaction.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
+
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcaction.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 </item>
+
 0000000000000000000000000000000
 
 0000000000000000000000000000000
+ 
 <item>
-<title>MBC Max</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<title>[COLOR red]mbc max[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcmax.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 
 <regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcmax.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcmax.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 </item>
- <streaminginfo>
-        <cname>MBC Max</cname>
-        <item>
-            <title>MBC Max</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
 
  <item>
 <title>mbc_max</title>
@@ -358,26 +342,33 @@ item>
 00000000000
 
  00000000000
-   <streaminginfo>
-        <cname>Art Aflam 1</cname>
-        <item>
-            <title>Art Aflam 1</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    
+   <item>
+<title>[COLOR red]art aflam 1[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+</item>
+
     
 <item>
 <title>art_aflam_1</title>
@@ -410,65 +401,87 @@ item>
     
     
     
-    
-    <streaminginfo>
-        <cname>Art Aflam 2</cname>
-        <item>
-            <title>Art Aflam 2</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>ART Hekayat 2</cname>
-        <item>
-            <title>ART Hekayat 2</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>ART Hekayat</cname>
-        <item>
-            <title>ART Hekayat</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
+   <item>
+<title>[COLOR red]art aflam 2[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
 
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR red]art hikeyet[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red]art cinema[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+</item>
 #######################################3
  
   
