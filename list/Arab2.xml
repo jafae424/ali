@@ -334,15 +334,12 @@ item>
 <accept>*/*</accept>
 </regex>
 </item>  
-<item>
-<title>MBC MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/672.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item>
+
 
 00000000000
 
  00000000000
-   <item>
+  <item>
 <title>[COLOR red]art aflam 1[/COLOR] </color></title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
@@ -370,20 +367,6 @@ item>
 </item>
 
     
-<item>
-<title>art_aflam_1</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=art_aflam_1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=art_aflam_1</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=art_aflam_1</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=art_aflam_1</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
-
 
 <item>
 <title>Art_aflam_2</title>
