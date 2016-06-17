@@ -80,7 +80,31 @@
 
 
 
-
+<item>
+<title>MBC 2</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=594&amp;height=404</page>
+<referer>http://iptv-planet.com/mbc2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=594&amp;height=404</page>
+<referer>http://iptv-planet.com/mbc2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=594&amp;height=404</page>
+<referer>http://iptv-planet.com/mbc2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
 
 
 
