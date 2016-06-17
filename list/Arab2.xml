@@ -346,14 +346,14 @@ item>
 <name>getRTMP</name>
 <expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
 <page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
 <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 <regex>
 <name>getAPP</name>
 <expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
 <page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
 <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 
@@ -361,7 +361,7 @@ item>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
 <page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
 <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 </item>
@@ -391,14 +391,14 @@ item>
 <name>getRTMP</name>
 <expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
 <page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
 <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 <regex>
 <name>getAPP</name>
 <expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
 <page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
 <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 
@@ -406,7 +406,7 @@ item>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
 <page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
 <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 </item>
@@ -3469,12 +3469,6 @@ src=[",'].*([".'])
 
 
 
-<item>
-<title>youtube test</title>
-<utube>PLiBi9LVIrC-fVelw2-I2r-yrEk6SpXfO8</utube>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 </streamingInfos>
