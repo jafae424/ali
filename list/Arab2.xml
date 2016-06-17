@@ -80,7 +80,7 @@
 
 
 <item>
-<title>mbc drama I</title>
+<title>mbc drama (works in some countray)I</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcdramanotallowedinunitedstates&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
@@ -238,35 +238,33 @@ item>
 
 
 <item>
-<title>MBC 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.24.177:80/2089/2089/653.ch|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item>
-<item>
-<title>MBC 4</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<title><color red> mbc4 </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbc4.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 
 <regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbc4.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbc4.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbc4&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 </item>
+
+
 0000000000000000000000000000000
 <item>
 <title>MBC Action</title>
