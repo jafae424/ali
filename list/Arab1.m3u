@@ -14,6 +14,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+
+#EXTINF:0, MBC Masr 1
+rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
 #EXTINF:-1,MBC 1
 http://38.99.146.38:7777/MBC1_HD.m3u8
 
@@ -24,13 +27,7 @@ http://38.99.146.38:7777/MBCMaser_HD.m3u8
 
 #EXTINF:-1,MBCMasrPlus2
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
-#EXTINF:-1,MBC
-http://htp.brasilia.me/iptv/ch30?code=460011131604165
-#EXTINF:-1,mbc drama
-http://htp.brasilia.me/iptv/ch36?code=460011131604165
 
-#EXTINF:-1,MBC Masr
-http://htp.brasilia.me/iptv/ch37?code=460011131604165
 #EXTINF:-1,mbc 1
 http://195.12.170.154:8002/play/armbc1hd
 
@@ -52,10 +49,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
-#EXTINF:0,AR: MBC Masr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/313.ts
-#EXTINF:0,AR: MBC Masr 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://internext.zapto.org:8000/live/ahmed/ahmed/314.ts
+
 
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
