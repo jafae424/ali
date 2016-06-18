@@ -15,8 +15,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:0, MBC Masr 1
-rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
+
+
 #EXTINF:-1,MBC 1
 http://38.99.146.38:7777/MBC1_HD.m3u8
 
@@ -30,7 +30,24 @@ http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
 
 #EXTINF:-1,mbc 1
 http://195.12.170.154:8002/play/armbc1hd
-
+#EXTINF:-1,AR: Mbc 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
+#EXTINF:-1,AR: Mbc Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/46.ts
+#EXTINF:-1,AR: Mbc Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/45.ts
+#EXTINF:-1,AR: Mbc Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/42.ts
+#EXTINF:-1,AR: Osn MBC+ Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/172.ts
+#EXTINF:-1,AR: Osn FNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1185.ts
+#EXTINF:-1,AR: Osn Yahla
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1186.ts
+#EXTINF:-1,AR: Osn Yahla Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1194.ts
+#EXTINF:-1,AR: Osn Yahla Shabab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1197.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",OSN-MBC+DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
 
