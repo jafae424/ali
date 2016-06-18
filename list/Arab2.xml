@@ -349,7 +349,7 @@ item>
 def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPlayer.js'):
  import requests, re
  
- headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://iptv-planet.com/artaflam1.html', 'Connection': 'keep-alive', 'Accept': '*/*'}
+ headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://iptv-planet.com/artaflem1.html', 'Connection': 'keep-alive', 'Accept': '*/*'}
  source = requests.get(url,headers = headers)
  key2 = re.findall('key2=(.*?)>', source.text)[0]
  url2 = 'http://embed.iptv-pla.net/embed.php?id=artaflam1&amp;width=594&amp;height=404&amp;key2=' + key2
@@ -364,6 +364,35 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPl
 </regex>
 <thumbnail>http://iptv-planet.com/images/logo.png</thumbnail>
  </item> 
+ 
+ 
+ 
+ <item>
+<title>aljadeed</title> 
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPlayer.js'):
+ import requests, re
+ 
+ headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://iptv-planet.com/aljadeed.html', 'Connection': 'keep-alive', 'Accept': '*/*'}
+ source = requests.get(url,headers = headers)
+ key2 = re.findall('key2=(.*?)>', source.text)[0]
+ url2 = 'http://embed.iptv-pla.net/embed.php?id=aljadeed&amp;width=594&amp;height=404&amp;key2=' + key2
+ source = requests.get(url2,headers = headers)
+ swf = re.findall('var.+?myPlayer="(.*?)"', source.text)[0]
+ rtmp = re.findall('var.+?streamer="(.*?)"', source.text)[0]
+ hash = re.findall("hashedkey=(.*?)'", source.text)[0]
+ return rtmp + ' playpath=aljadeed?hashedkey=' + hash + ' swfUrl=http://embed.iptv-pla.net/' + swf + ' live=1 timeout=15 swfVfy=1 pageUrl=' + url2
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/logo.png</thumbnail>
+ </item>
+ 
+ 
  
   <item>
 <title>[COLOR red]art aflam 1[/COLOR] </color></title>
