@@ -960,123 +960,156 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPl
    
    
 <item>
-<title>Nile Culture</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<title>[COLOR red]nile culture[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcaction.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 
 <regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcaction.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/mbcaction.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_nileculture&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
    
-   
-  
 <item>
-<title>Nile Drama</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
+<title>[COLOR red]nile drama[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/niledrama.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
 
 <regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/niledrama.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>  
+
+ 
+ 
+ 
+ 
+ <item>
+<title>[COLOR red]nile life[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=594&amp;height=404</page>
-<referer>http://iptv-planet.com/niledrama.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
 </regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>  
+ 
+   
+ 
+  <item>
+<title>[COLOR red]Panorama Drama 1[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item> 
    
+  <item>
+<title>[COLOR red]Panorama Drama 2[/COLOR] </color></title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118</page>
+<referer>http://iptv-planet.com/nilefamily.html</referer>
+<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
    
-   
-   
-    <streaminginfo>
-        <cname>Nile Life</cname>
-        <item>
-            <title>Nile Life</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-  
-   
-    <streaminginfo>
-        <cname>Panorama Drama</cname>
-        <item>
-            <title>Panorama Drama</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pd&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Panorama Drama 2</cname>
-        <item>
-            <title>Panorama Drama 2</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
     <streaminginfo>
         <cname>Panorama film</cname>
         <item>
@@ -1095,7 +1128,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPl
                 <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=594&amp;height=404</page>
             </regex>
         </item>
-    </streaminginfo>
+    
+    
+    
     <streaminginfo>
         <cname>Rotana Clip</cname>
         <item>
