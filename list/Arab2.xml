@@ -339,6 +339,32 @@ item>
 00000000000
 
  00000000000
+ 
+<item>
+<title> [COLOR red]art aflam 1[/COLOR]</title> 
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPlayer.js'):
+ import requests, re
+ 
+ headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://iptv-planet.com/artaflam1.html', 'Connection': 'keep-alive', 'Accept': '*/*'}
+ source = requests.get(url,headers = headers)
+ key2 = re.findall('key2=(.*?)>', source.text)[0]
+ url2 = 'http://embed.iptv-pla.net/embed.php?id=artaflam1&amp;width=594&amp;height=404&amp;key2=' + key2
+ source = requests.get(url2,headers = headers)
+ swf = re.findall('var.+?myPlayer="(.*?)"', source.text)[0]
+ rtmp = re.findall('var.+?streamer="(.*?)"', source.text)[0]
+ hash = re.findall("hashedkey=(.*?)'", source.text)[0]
+ return rtmp + ' playpath=artaflam1?hashedkey=' + hash + ' swfUrl=http://embed.iptv-pla.net/' + swf + ' live=1 timeout=15 swfVfy=1 pageUrl=' + url2
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/logo.png</thumbnail>
+ </item> 
+ 
   <item>
 <title>[COLOR red]art aflam 1[/COLOR] </color></title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
