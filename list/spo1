@@ -22,15 +22,15 @@ http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
 #EXTINF:-1,beIN_s1
-http://iptv33.us.to/ip441555/3136774336/1.ch
+http://iptv33.us.to/ip441555/3136774336/1.ch|User-Agent=VLC
 #EXTINF:-1,beIN_s2
-http://iptv33.us.to/ip441555/3136774336/2.ch
+http://iptv33.us.to/ip441555/3136774336/2.ch|User-Agent=VLC
 #EXTINF:-1,beIN_s3
-http://iptv33.us.to/ip441555/3136774336/3.ch
+http://iptv33.us.to/ip441555/3136774336/3.ch|User-Agent=VLC
 #EXTINF:-1,beIN_s4
-http://iptv33.us.to/ip441555/3136774336/4.ch
+http://iptv33.us.to/ip441555/3136774336/4.ch|User-Agent=VLC
 #EXTINF:-1,beIN_s5
-http://iptv33.us.to/ip441555/3136774336/5.ch
+http://iptv33.us.to/ip441555/3136774336/5.ch|User-Agent=VLC
 #EXTINF:-1,beIN_s6
 http://iptv33.us.to/ip441555/3136774336/6.ch
 #EXTINF:-1,beIN_s7
