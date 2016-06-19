@@ -639,7 +639,10 @@ rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_360p swfUrl=http:/
 
 #EXTINF:-1,الريان
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8
-
+#EXTINF:-1,Oman tv 3
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1,Oman tv 4
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
@@ -880,7 +883,21 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
 #EXTINF:-1,France 24 AR
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 
-
+#EXTINF:-1,Aljazeera News (Qatar)
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8 
+#EXTINF:-1,Euronews Arabic (Qatar)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8 
+#EXTINF:-1,RT Arabic (Qatar)
+http://rt-a.akamaihd.net/ch_03@325607/master.m3u8
+#EXTINF:-1,BBC Arabic (Qatar)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+ 
+#EXTINF:-1,DW Arabic (Qatar)
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,Aljazeera Doc (Qatar)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Mubasher (Qatar)
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
 
 
 #EXTINF:-1,*********[COLOR red]  Islamic دينيه[/COLOR]**********
