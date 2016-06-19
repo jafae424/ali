@@ -15,8 +15,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1,MBC DRAMA
-http://htp.qhdtv.tn/iptv/ch36?code=170003306191452
+
 
 #EXTINF:-1,MBC 1
 http://38.99.146.38:7777/MBC1_HD.m3u8
