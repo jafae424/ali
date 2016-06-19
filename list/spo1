@@ -169,8 +169,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.
 #EXTINF:-1,NL:Fox.Sports.6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1441.ts
 
-
-
+#EXTINF:-1,Al Kass 1 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_23s20.m3u8
+#EXTINF:-1,Al Kass 2 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_23s20.m3u8
+#EXTINF:-1,Al Kass 4 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/4/live_30s20.m3u8
+#EXTINF:-1,Al Kass 5 HD (Qatar)
+http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
+#EXTINF:-1,Saudi Sport 1 (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
 #EXTINF:-1,UK-BT-Sport-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/519.ts
 
