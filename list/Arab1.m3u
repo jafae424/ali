@@ -400,7 +400,8 @@ rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12
 https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/playlist.m3u8?lalpasswendtime=1464818189&lalpasswwowzastarttime=0&lalpasswwowzastcustom=1464810993&lalpasswhash=3sNdwdwvUXuUgySJK4ZiGH98V-DBHqMfaE_6tzOBO3w=
 #EXTINF:-1,Al sumaria TV
 rtsp://livestreaming2.itworkscdn.net/sumarialive/live_360p
-
+#EXTINF:-1,Al Sumariya (Iraq)
+http://osltv.zackapps.com/apps/best/alsumaria.php?id=osltv
 #EXTINF:-1 tvg-logo="http://goo.gl/JDbJgS", البغدادية 
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream 
 #EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
@@ -422,7 +423,6 @@ rtmp://$OPT:rtmp-raw=rtmp://live.alghadeer.tv/live/alghadeer//livestream playpat
 rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
 #EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
@@ -452,7 +452,8 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?to
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 #EXTINF:-1,Al Manar المنار
 rtmp://162.244.80.103:1935/liveorigin playpath=livestream_360p swfUrl=http://alwhdat.net/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/almanar/ <objectEncoding>
-
+#EXTINF:-1,Almanar TV (Lebanon) 
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
@@ -988,7 +989,18 @@ http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=
 
 #EXTINF:-1, العيون المغربية
 http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=1130000-Seg1-Frag21767563.m3u8
-
+#EXTINF:-1,Al Maghribya (Morocco)
+http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
+#EXTINF:-1,Al Aoula Int. (Morocco)
+http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=350000.m3u8
+#EXTINF:-1,Arriadia TV3 (Morocco)
+http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1130000.m3u8 
+#EXTINF:-1,Arrabiaa TV4 (Morocco)
+http://arrabiaa-tv.scdn.arkena.com/arrabiaa.isml/MOROCCOPES.m3u8
+#EXTINF:-1,Tamazight TV8 (Morocco)
+http://tamazight-tv.scdn.arkena.com/tamazight.isml/MOROCCOPES.m3u8
+#EXTINF:-1,Assadissa (Morocco)
+http://assadissa-tv.scdn.arkena.com/assadissa.isml/MOROCCOPES.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL MAGHRIBYA
 http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL NABA
