@@ -17,15 +17,15 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-#EXTINF:-1,MBC 1
+#EXTINF:-1,[COLOR red]MBC 1[/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
 
-#EXTINF:-1,MBC Drama
+#EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
 http://38.99.146.38:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,MBC Masr
+#EXTINF:-1,[COLOR red]MBC Masr[/COLOR]
 http://38.99.146.38:7777/MBCMaser_HD.m3u8
 
-#EXTINF:-1,MBCMasrPlus2
+#EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
 
 #EXTINF:-1,mbc 1
