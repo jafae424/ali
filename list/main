@@ -6,7 +6,7 @@
 
 <channel>
 <name>[COLOR green]Jafaer-tv Arabic 1 TV List [/COLOR]</name>
-<thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<thumbnail>http://jafaer-tv.com/images/kodi/Arabic1logo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Arab1.m3u</externallink> ##change haider
@@ -18,7 +18,7 @@
 
 <channel>
       <name>[COLOR green]Jafaer-tv Arabic 2 tv List [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+  <thumbnail>http://jafaer-tv.com/images/kodi/Arabic2logo.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Arab2.xml</externallink> ##change haider
@@ -115,7 +115,7 @@
 
 <channel>
       <name>[COLOR green]Jafaer-tv Arabic Movies [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+  <thumbnail>http://jafaer-tv.com/images/kodi/Aflam%20Arabi.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/Arabic%20movies.m3u</externallink> ##change haider
