@@ -15,9 +15,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-
-
 #EXTINF:-1,[COLOR red]MBC1 تعمل [/COLOR]
+http://216.66.42.84:7777/MBC1_High.flv
+#EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
 #EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
 http://38.99.146.38:7777/MBCDrama_HD.m3u8
@@ -26,10 +26,10 @@ http://38.99.146.38:7777/MBCMaser_HD.m3u8
 
 #EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
-
-
-
-
+#EXTINF:-1, MBCMasrPlus1
+http://38.99.146.38:7777/MBCMaser_High.flv
+#EXTINF:-1,MBCMasrPlus2
+http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
 #EXTINF:-1,mbc 1
 http://195.12.170.154:8002/play/armbc1hd
