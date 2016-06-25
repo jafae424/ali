@@ -16,7 +16,7 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b12000
 #EXTINF:-1,Al-Kass
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
-
+rtmp://216.185.103.158/live2//chthaipremier11
 
 #EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
