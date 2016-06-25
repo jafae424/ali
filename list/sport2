@@ -150,11 +150,11 @@ sublink:http://149.202.198.114:8000/play/beinshd2#</link>
 
 
 <item>
-<title>multilink_test</title>
+<title>multilink test</title>
 <multilink>
-<link>http://149.202.207.8:8080/bein-12-20616/local/index.m3u8</link>
-<link>http://149.202.198.114:8000/play/beinshd2</link>
-<link>https://forums.tvaddons.ag/link 3</link>
+<link>http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts</link>
+<link>http://iptv33.us.to/ip441555/3136774336/1.ch</link>
+<link>http://iptv33.us.to/ip441555/3136774336/3.ch</link>
 </multilink>
 </item>
 
