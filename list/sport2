@@ -147,6 +147,18 @@ sublink:http://149.202.198.114:8000/play/beinshd2#</link>
 <thumbnail></thumbnail>
 </item>
 
+
+
+<item>
+<title>multilink_test</title>
+<multilink>
+<link>http://149.202.207.8:8080/bein-12-20616/local/index.m3u8</link>
+<link>http://149.202.198.114:8000/play/beinshd2</link>
+<link>https://forums.tvaddons.ag/link 3</link>
+</multilink>
+</item>
+
+
 <item>
 <title>Bein Sport 3 </title>
 <link>
