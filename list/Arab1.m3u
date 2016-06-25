@@ -345,6 +345,8 @@ http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
 
 #EXTINF:-1, Aletejah الاتجاه
 http://162.244.81.186:1935/aletejahtv/aletejahtv/playlist.m3u8
+#EXTINF:-1, Aletejah
+rtmp://162.244.81.186:1935/aletejahtv
 #EXTINF:-1,Taghier التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
