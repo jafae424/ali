@@ -33,6 +33,27 @@ http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
 #EXTINF:-1,mbc 1
 http://195.12.170.154:8002/play/armbc1hd
+
+
+#EXTINF:-1,MBC 1 HD (test)
+http://158.69.200.246:1200/live/4all/star7arab/505.ts
+#EXTINF:-1,AR: MBC 1
+http://158.69.200.246:1200/live/4all/star7arab/3.ts
+#EXTINF:-1,AR: MBC 2
+http://158.69.200.246:1200/live/4all/star7arab/4.ts
+#EXTINF:-1,AR: MBC 3
+http://158.69.200.246:1200/live/4all/star7arab/5.ts
+#EXTINF:-1,AR : MBC 4
+http://158.69.200.246:1200/live/4all/star7arab/6.ts
+#EXTINF:-1,AR : MBC MASR
+http://158.69.200.246:1200/live/4all/star7arab/10.ts
+#EXTINF:-1,MBC_MASR 2
+http://158.69.200.246:1200/live/4all/star7arab/262.ts
+#EXTINF:-1,AR: MBC Drama
+http://158.69.200.246:1200/live/4all/star7arab/7.ts
+
+
+
 #EXTINF:-1,AR: Mbc 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
 #EXTINF:-1,AR: Mbc Masr
@@ -136,6 +157,46 @@ http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
 http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
 #EXTINF:-1,OSN Movies
 http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
+#EXTINF:-1,AR_OSN ALYOUM HD
+http://158.69.200.246:1200/live/4all/star7arab/305.ts
+#EXTINF:-1,AR_OSN CINEMA 1 HD
+http://158.69.200.246:1200/live/4all/star7arab/306.ts
+#EXTINF:-1,AR_OSN CINEMA 2 HD
+http://158.69.200.246:1200/live/4all/star7arab/307.ts
+#EXTINF:-1,AR_OSN YAHALA HD
+http://158.69.200.246:1200/live/4all/star7arab/531.ts
+#EXTINF:-1,AR_OSN YAHALA DRAMA HD
+http://158.69.200.246:1200/live/4all/star7arab/302.ts
+#EXTINF:-1,AR_OSN YAHALA SHABAB HD
+http://158.69.200.246:1200/live/4all/star7arab/301.ts
+#EXTINF:-1,AR_OSN FIRST HD
+http://158.69.200.246:1200/live/4all/star7arab/304.ts
+#EXTINF:-1,AR_OSN MOVIES HD
+http://158.69.200.246:1200/live/4all/star7arab/300.ts
+#EXTINF:-1,AR_OSN MOVIES ACTION HD
+http://158.69.200.246:1200/live/4all/star7arab/502.ts
+#EXTINF:-1,AR_OSN MOVIES DRAMA HD
+http://158.69.200.246:1200/live/4all/star7arab/532.ts
+#EXTINF:-1,AR_OSN MOVIES PREMIERE HD
+http://158.69.200.246:1200/live/4all/star7arab/530.ts
+#EXTINF:-1,AR_OSN MOVIES FESTIVAL HD
+http://158.69.200.246:1200/live/4all/star7arab/533.ts
+#EXTINF:-1,AR_OSN ANIMAL PLANET HD
+http://158.69.200.246:1200/live/4all/star7arab/303.ts
+#EXTINF:-1,AR_BeinHD_Movies1
+http://158.69.200.246:1200/live/4all/star7arab/493.ts
+#EXTINF:-1,AR_BeinHD_Movies2
+http://158.69.200.246:1200/live/4all/star7arab/494.ts
+#EXTINF:-1,AR_BeinHD_Movies3
+http://158.69.200.246:1200/live/4all/star7arab/495.ts
+#EXTINF:-1,SAUDI QURAN
+http://158.69.200.246:1200/live/4all/star7arab/281.ts
+#EXTINF:-1,ONTV
+http://158.69.200.246:1200/live/4all/star7arab/504.ts
+#EXTINF:-1,Abu Dhabi TV
+http://158.69.200.246:1200/live/4all/star7arab/518.ts
+#EXTINF:-1,AD NAT GEO HD
+http://158.69.200.246:1200/live/4all/star7arab/515.ts
 #EXTINF:-1, bein 1 Movies
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/391.ts
