@@ -19,64 +19,6 @@ http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
 #EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
-#EXTINF:-1,AR: BeINMax 1 HD
-http://158.69.200.246:1200/live/4all/star7arab/58.ts|User-Agent=VLC
-#EXTINF:-1,AR: BeINMax 2 HD
-http://158.69.200.246:1200/live/4all/star7arab/59.ts|User-Agent=VLC
-#EXTINF:-1,AR: BEINMAX 1 HQ
-http://158.69.200.246:1200/live/4all/star7arab/308.ts|User-Agent=VLC
-#EXTINF:-1,AR: BEINMAX 2 HQ
-http://158.69.200.246:1200/live/4all/star7arab/280.ts|User-Agent=VLC
-#EXTINF:-1,AR: beINMax 1 LQ
-http://158.69.200.246:1200/live/4all/star7arab/243.ts|User-Agent=VLC
-#EXTINF:-1,AR: beINMax 2 LQ
-http://158.69.200.246:1200/live/4all/star7arab/61.ts|User-Agent=VLC
-#EXTINF:-1,AL FAJER TV HD EURO 2016 COPA
-http://158.69.200.246:1200/live/4all/star7arab/503.ts|User-Agent=VLC
-#EXTINF:-1,RTS 2 HD EURO 2016
-http://158.69.200.246:1200/live/4all/star7arab/519.ts|User-Agent=VLC
-#EXTINF:-1,Super Sport 2 HD EURO 2016 COPA
-http://158.69.200.246:1200/live/4all/star7arab/497.ts|User-Agent=VLC
-#EXTINF:-1,TRT 1 EURO 2016
-http://158.69.200.246:1200/live/4all/star7arab/279.ts|User-Agent=VLC
-#EXTINF:-1,TF1 HD
-http://158.69.200.246:1200/live/4all/star7arab/215.ts|User-Agent=VLC
-#EXTINF:-1,M6
-http://158.69.200.246:1200/live/4all/star7arab/496.ts|User-Agent=VLC
-#EXTINF:-1,ZDF
-http://158.69.200.246:1200/live/4all/star7arab/224.ts|User-Agent=VLC
-#EXTINF:-1,*****BEIN SPORTS*****
-http://158.69.200.246:1200/live/4all/star7arab/200.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORTS FullHD
-http://158.69.200.246:1200/live/4all/star7arab/500.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORTS_NEWS FullHD
-http://158.69.200.246:1200/live/4all/star7arab/501.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_1HD
-http://158.69.200.246:1200/live/4all/star7arab/62.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_2HD
-http://158.69.200.246:1200/live/4all/star7arab/63.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_3HD
-http://158.69.200.246:1200/live/4all/star7arab/64.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_4HD
-http://158.69.200.246:1200/live/4all/star7arab/65.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_5HD
-http://158.69.200.246:1200/live/4all/star7arab/66.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_6HD
-http://158.69.200.246:1200/live/4all/star7arab/67.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_7HD
-http://158.69.200.246:1200/live/4all/star7arab/68.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_8HD
-http://158.69.200.246:1200/live/4all/star7arab/69.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_9HD
-http://158.69.200.246:1200/live/4all/star7arab/70.ts|User-Agent=VLC
-#EXTINF:-1,BEIN_SPORT_10HD
-http://158.69.200.246:1200/live/4all/star7arab/71.ts|User-Agent=VLC
-#EXTINF:-1,BEINSPORTS_1HD FR
-http://158.69.200.246:1200/live/4all/star7arab/81.ts|User-Agent=VLC
-#EXTINF:-1,BEINSPORTS_2HD FR
-http://158.69.200.246:1200/live/4all/star7arab/82.ts|User-Agent=VLC
-#EXTINF:-1,BEINSPORTS_3HD FR
-http://158.69.200.246:1200/live/4all/star7arab/83.ts|User-Agent=VLC
 
 
 
