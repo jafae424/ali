@@ -44,12 +44,7 @@ http://195.12.170.154:8002/play/armbcdrama
 
 
 
-#EXTINF:-1,AR-Otv
-http://195.12.170.154:8002/play/arotv
-#EXTINF:-1,AR-NBN
-http://195.12.170.154:8002/play/arnbn
-#EXTINF:-1,AR-Mtv-lebanon
-http://195.12.170.154:8002/play/armtvlebanon
+
 
 #EXTINF:-1,AR-Tamazight alg4
 http://195.12.170.154:8002/play/artamazightalg4
@@ -134,14 +129,14 @@ http://195.12.170.154:8002/play/armbc4hd
 http://195.12.170.154:8002/play/armbc2hd
 #EXTINF:-1,AR-MBC-3 HD
 http://195.12.170.154:8002/play/armbc3hd
-#EXTINF:-1,AR: MBC_2
+EXTINF:-1,AR: MBC_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/XLt6goifA2/HiH2tcLGox/2286.ts
-#EXTINF:-1,MBC-2
+EXTINF:-1,MBC-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/47.ts
 
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC-3
+EXTINF:-1,MBC-3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/46.ts
 #EXTINF:-1,MBC 4 HD
 http://195.12.170.154:8002/play/armbc4hd
@@ -529,6 +524,13 @@ http://38.99.146.38:7777/Future_HD.m3u8
 http://38.99.146.38:7777/FutureUSA_HD.m3u8
 #EXTINF:-1,Lbc Europe
 http://38.99.146.38:7777/LBC_HD.m3u8
+
+#EXTINF:-1,AR-Otv
+http://195.12.170.154:8002/play/arotv
+#EXTINF:-1,AR-NBN
+http://195.12.170.154:8002/play/arnbn
+#EXTINF:-1,AR-Mtv-lebanon
+http://195.12.170.154:8002/play/armtvlebanon
 #EXTINF:-1,LBC Europe (Lebanon)
 http://osltv.zackapps.com/apps/best/labenon.php?id=osltv
 #EXTINF:-1,Lbc
@@ -645,7 +647,10 @@ http://38.99.146.38:7777/ADEmirates_HD.m3u8
 http://38.99.146.38:7777/ADSport_HD.m3u8
 #EXTINF:-1,Aden
 http://38.99.146.38:7777/Aden_HD.m3u8
-
+#EXTINF:-1,Dubai
+http://38.99.146.38:7777/DubaiEurope_HD.m3u8
+#EXTINF:-1,Dubai One
+http://38.99.146.38:7777/DubaiOne_HD.m3u8
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
 
@@ -696,6 +701,15 @@ http://38.96.148.30:1935/live/omantv3/playlist.m3u8
 #EXTINF:-1,Oman tv 4
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
+
+
+
+#EXTINF:-1,Dubai Sport 3
+http://38.99.146.38:7777/DubaiSports_HD.m3u8
+#EXTINF:-1,Dubai Sport HD2
+http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+#EXTINF:-1,Dubai Sport HD2
+http://38.99.146.38:7777/DubaiSport2_HD.m3u8
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
@@ -866,6 +880,48 @@ http://38.99.146.38:7777/CTVEgypt_HD.m3u8
 http://38.99.146.38:7777/Dream1_HD.m3u8
 #EXTINF:-1,Dream 2
 http://38.99.146.38:7777/Dream2_HD.m3u8
+11111111111111111111111111
+
+
+#EXTINF:-1,Nessma
+http://38.99.146.38:7777/NessmaAlKhadra_HD.m3u8
+#EXTINF:-1,Nessma
+http://8.21.48.19:7777/NessmaAlKhadra_HD.m3u8
+#EXTINF:-1,Nile Cinema
+http://38.99.146.38:7777/NileCinema_HD.m3u8
+#EXTINF:-1,Nile Comedy
+http://38.99.146.38:7777/NileComedy_HD.m3u8
+#EXTINF:-1,Nile Culture
+http://38.99.146.38:7777/NileCulture_HD.m3u8
+#EXTINF:-1,Nile Drama
+http://38.99.146.38:7777/NileDrama_HD.m3u8
+#EXTINF:-1,Nile Drama 2
+http://38.99.146.38:7777/NileDrama2_HD.m3u8
+#EXTINF:-1,Nile Family
+http://38.99.146.38:7777/NileFamily_HD.m3u8
+#EXTINF:-1,Nile Life
+http://38.99.146.38:7777/NileLife_HD.m3u8
+#EXTINF:-1,Nile News
+http://38.99.146.38:7777/NileNews_HD.m3u8
+#EXTINF:-1,Nile Sport
+http://38.99.146.38:7777/NileSport_HD.m3u8
+#EXTINF:-1,Nile Tv
+http://38.99.146.38:7777/NileInt_HD.m3u8
+#EXTINF:-1,Mea
+http://38.99.146.38:7777/MeaTV_HD.m3u8
+#EXTINF:-1,Medi 1 Sat
+http://38.99.146.38:7777/Medi1_HD.m3u8
+#EXTINF:-1,Mehwar
+http://8.21.48.19:7777/MehwarPlus2_HD.m3u8
+#EXTINF:-1,Mehwar
+http://38.99.146.38:7777/MehwarPlus2_HD.m3u8
+#EXTINF:-1,Miracle
+http://38.99.146.38:7777/Miracle_HD.m3u8
+#EXTINF:-1,Moga Comedy
+http://38.99.146.38:7777/MogaComedy_HD.m3u8
+
+
+11111111111111111111111111111111111
 #EXTINF:-1,AR-Nile-Comedy
 http://195.12.170.154:8002/play/arnilecomedy
 #EXTINF:-1,AR-Rotana-Aflem
@@ -1301,16 +1357,7 @@ http://38.99.146.38:7777/RTD_HD.m3u8
 #EXTINF:-1,DM
 http://38.99.146.38:7777/DM_HD.m3u8
 
-#EXTINF:-1,Dubai
-http://38.99.146.38:7777/DubaiEurope_HD.m3u8
-#EXTINF:-1,Dubai One
-http://38.99.146.38:7777/DubaiOne_HD.m3u8
-#EXTINF:-1,Dubai Sport 3
-http://38.99.146.38:7777/DubaiSports_HD.m3u8
-#EXTINF:-1,Dubai Sport HD2
-http://8.21.48.19:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1,Dubai Sport HD2
-http://38.99.146.38:7777/DubaiSport2_HD.m3u8
+
 #EXTINF:-1,DW Arabic
 http://38.99.146.38:7777/DWTVArabia_HD.m3u8
 
@@ -1398,40 +1445,6 @@ http://38.99.146.38:7777/Massaya_HD.m3u8
 #EXTINF:-1,Mauritanie
 http://38.99.146.38:7777/MauritaniaTV_HD.m3u8
 
-
-#EXTINF:-1,MBC 1
-http://38.99.146.38:7777/MBC1_HD.m3u8
-#EXTINF:-1,MBC 2
-http://38.99.146.38:7777/MBC2_HD.m3u8
-#EXTINF:-1,MBC 3
-http://38.99.146.38:7777/MBC3_HD.m3u8
-#EXTINF:-1,MBC 4
-http://38.99.146.38:7777/MBC4_HD.m3u8
-#EXTINF:-1,MBC Action
-http://38.99.146.38:7777/MBCAction_HD.m3u8
-#EXTINF:-1,MBC Bollywood
-http://38.99.146.38:7777/MBCBollywood_HD.m3u8
-#EXTINF:-1,MBC Drama
-http://38.99.146.38:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,MBC Masr
-http://38.99.146.38:7777/MBCMaser_HD.m3u8
-#EXTINF:-1,MBC Max
-http://38.99.146.38:7777/MBCMax_HD.m3u8
-#EXTINF:-1,MBCMasrPlus2
-http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
-#EXTINF:-1,Mea
-http://38.99.146.38:7777/MeaTV_HD.m3u8
-#EXTINF:-1,Medi 1 Sat
-http://38.99.146.38:7777/Medi1_HD.m3u8
-#EXTINF:-1,Mehwar
-http://8.21.48.19:7777/MehwarPlus2_HD.m3u8
-#EXTINF:-1,Mehwar
-http://38.99.146.38:7777/MehwarPlus2_HD.m3u8
-#EXTINF:-1,Miracle
-http://38.99.146.38:7777/Miracle_HD.m3u8
-#EXTINF:-1,Moga Comedy
-http://38.99.146.38:7777/MogaComedy_HD.m3u8
-
 #EXTINF:-1,MTV Arabia
 http://38.99.146.38:7777/MTVArabia_HD.m3u8
 #EXTINF:-1,Music+
@@ -1443,30 +1456,7 @@ http://38.99.146.38:7777/Nart_HD.m3u8
 http://38.99.146.38:7777/NBNLebanon_HD.m3u8
 #EXTINF:-1,Neelain Sport
 http://38.99.146.38:7777/NeelainSport_HD.m3u8
-#EXTINF:-1,Nessma
-http://38.99.146.38:7777/NessmaAlKhadra_HD.m3u8
-#EXTINF:-1,Nessma
-http://8.21.48.19:7777/NessmaAlKhadra_HD.m3u8
-#EXTINF:-1,Nile Cinema
-http://38.99.146.38:7777/NileCinema_HD.m3u8
-#EXTINF:-1,Nile Comedy
-http://38.99.146.38:7777/NileComedy_HD.m3u8
-#EXTINF:-1,Nile Culture
-http://38.99.146.38:7777/NileCulture_HD.m3u8
-#EXTINF:-1,Nile Drama
-http://38.99.146.38:7777/NileDrama_HD.m3u8
-#EXTINF:-1,Nile Drama 2
-http://38.99.146.38:7777/NileDrama2_HD.m3u8
-#EXTINF:-1,Nile Family
-http://38.99.146.38:7777/NileFamily_HD.m3u8
-#EXTINF:-1,Nile Life
-http://38.99.146.38:7777/NileLife_HD.m3u8
-#EXTINF:-1,Nile News
-http://38.99.146.38:7777/NileNews_HD.m3u8
-#EXTINF:-1,Nile Sport
-http://38.99.146.38:7777/NileSport_HD.m3u8
-#EXTINF:-1,Nile Tv
-http://38.99.146.38:7777/NileInt_HD.m3u8
+
 #EXTINF:-1,Nojoom1
 http://38.99.146.38:7777/Nojoom1_HD.m3u8
 #EXTINF:-1,Noon Kids
@@ -1838,7 +1828,7 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup
 #EXTINF:0,Alaan fm
 http://audiostreaming.itworkscdn.com:9078/;*.nsv
 
-#EXTINF:0,Rotana amman
+#EXTINF:0,Rotana zamman
 http://188.247.86.67:8002/2
 
 #EXTINF:0,Sawa iraq
@@ -1849,60 +1839,4 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
-
-
-#EXTINF:-1,AR.movie-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/592.ts
-#EXTINF:-1,AR.MOVIE-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/424.ts
-#EXTINF:-1,AR.MOVIE-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/423.ts
-#EXTINF:-1,AR.MOVIE-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/608.ts
-#EXTINF:-1,AR.MOVIE-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/609.ts
-#EXTINF:-1,AR.MOVIE-6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/610.ts
-#EXTINF:-1,AR.MOVIE-7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/611.ts
-#EXTINF:-1,Eng.movie-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/583.ts
-#EXTINF:-1,Eng.movie-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/584.ts
-#EXTINF:-1,Eng.movie-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/585.ts
-#EXTINF:-1,Eng.movie-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/586.ts
-#EXTINF:-1,Eng.movie-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/587.ts
-#EXTINF:-1,Eng.movie-6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/588.ts
-#EXTINF:-1,Eng.movie-7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/589.ts
-#EXTINF:-1,Eng.movie-8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/590.ts
-#EXTINF:-1,Eng.movie-9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/591.ts
-#EXTINF:-1,Eng.movie-10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/599.ts
-#EXTINF:-1,Eng.movie-11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/613.ts
-#EXTINF:-1,Eng.movie-12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/614.ts
-#EXTINF:-1,Eng.movie-13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/615.ts
-#EXTINF:-1,Eng.movie-14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/616.ts
-#EXTINF:-1,Eng.movie-15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/617.ts
-#EXTINF:-1,Eng.movie-16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/618.ts
-#EXTINF:-1,Eng.movie-17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/619.ts
-#EXTINF:-1,Eng.movie-18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/620.ts
-#EXTINF:-1,Eng.movie-19
-http://iptv.am000.tv:8000/live/hakam/hakam/621.ts
-#EXTINF:-1,Eng.movie-20
-http://iptv.am000.tv:8000/live/hakam/hakam/622.ts
 
