@@ -328,14 +328,14 @@ rtmp://msr1tv.flashmediacast.com:2071/live/livestream
 #EXTINF:-1 tvg-logo="http://vb.top-new.net/image/14/02/images_kwes.jpg",السلام 
 http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
-#EXTINF:-1,اهل البيت
+EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
 
-#EXTINF:-1, الامام الحسن ع
+EXTINF:-1, الامام الحسن ع
 rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1
-#EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
+EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
-#EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",2 قناة الامام الحسين ع
+EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",2 قناة الامام الحسين ع
 http://ca.live.imamhussein.tv:1935/live/ih202/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref المعارف
 rtmp://www.almaareftv.com:1935/live/ playpath=mp4:11 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live/ <objectEncoding>
@@ -349,15 +349,14 @@ http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
 
 
 #EXTINF:-1, Aletejah الاتجاه
-http://162.244.81.186:1935/aletejahtv/aletejahtv/playlist.m3u8
-#EXTINF:-1, Aletejah1
-rtmp://162.244.81.186:1935/aletejahtv|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+http://185.105.4.137:1935/aletejahtv/aletejahtv/playlist.m3u8
 #EXTINF:-1,Taghier التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
 
 #EXTINF:-1,العهد
-rtmp://alahadlive.nanocdn.com:1935/live/alahad256
+rtmp://176.241.91.122:1935/live/ playpath=alahad swfUrl=http://ssl.p.jwpcdn.com/player/v/7.4.4/jwplayer.flash.swf pageUrl=http://www.alahad.tv.iq/?m=live <objectEncoding>
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Y9g6gK",الفرات
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
