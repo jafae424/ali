@@ -40,37 +40,6 @@ http://195.12.170.154:8002/play/armbcdrama
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,AR-Tamazight alg4
-http://195.12.170.154:8002/play/artamazightalg4
-#EXTINF:-1,AR-algerya4
-http://195.12.170.154:8002/play/aralgerya4
-
-
-
-
-#EXTINF:-1,AR-toyour-aljennah
-http://195.12.170.154:8002/play/artoyouraljennah
-
-
-#EXTINF:-1,AR-AlJazeera-Mubasher
-http://195.12.170.154:8002/play/araljazeeramubasher
-
-#EXTINF:-1,AR-Samira-Tv
-http://195.12.170.154:8002/play/arsamiratv
-
-
-
-
-
-
-
-
 EXTINF:-1,AR: Mbc 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
 EXTINF:-1,AR: Mbc Masr
@@ -1001,6 +970,8 @@ http://38.99.146.38:7777/AlJazeeraEnglish_HD.m3u8
 http://38.99.146.38:7777/AlJazeeraLive_HD.m3u8
 #EXTINF:-1,Aljazeera Mubasher Masr
 http://38.99.146.38:7777/JSCLiveMisr_HD.m3u8
+#EXTINF:-1,AR-AlJazeera-Mubasher
+http://195.12.170.154:8002/play/araljazeeramubasher 
 #EXTINF:-1,Aljazeera US
 http://38.99.146.38:7777/AlJazeeraInt_HD.m3u8
 #EXTINF:-1,Aljazeera Mubashar
@@ -1042,8 +1013,12 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 http://rt-a.akamaihd.net/ch_03@325607/master.m3u8
 #EXTINF:-1,BBC Arabic (Qatar)
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
- 
-#EXTINF:-1,DW Arabic (Qatar)
+#EXTINF:-1,France 24
+http://38.99.146.38:7777/France24Arabic_HD.m3u8
+#EXTINF:-1,Euro News Arabic
+http://38.99.146.38:7777/EuroNews_HD.m3u8
+
+#EXTINF:-1,DW Arabic 
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Aljazeera Doc (Qatar)
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
@@ -1131,6 +1106,15 @@ http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
 http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8
 #EXTINF:-1,El Bilad TV (Algeria)
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/playlist.m3u8
+
+#EXTINF:-1,AR-Tamazight alg4
+http://195.12.170.154:8002/play/artamazightalg4
+#EXTINF:-1,AR-algerya4
+http://195.12.170.154:8002/play/aralgerya4
+
+
+#EXTINF:-1,AR-Samira-Tv
+http://195.12.170.154:8002/play/arsamiratv
 #EXTINF:-1, 2m maroco
 http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8
 
@@ -1366,14 +1350,11 @@ http://38.99.146.38:7777/DWTVArabia_HD.m3u8
 http://38.99.146.38:7777/AlAtlas_HD.m3u8
 #EXTINF:-1,ETV1
 http://38.99.146.38:7777/ETV1_HD.m3u8
-#EXTINF:-1,Euro News Arabic
-http://38.99.146.38:7777/EuroNews_HD.m3u8
+
 #EXTINF:-1,Fatafeat
 http://38.99.146.38:7777/Fatafeat_HD.m3u8
 #EXTINF:-1,Fox Movies
 http://38.99.146.38:7777/FoxMovies_HD.m3u8
-#EXTINF:-1,France 24
-http://38.99.146.38:7777/France24Arabic_HD.m3u8
 
 
 #EXTINF:-1,GearOne
@@ -1726,6 +1707,13 @@ http://38.99.146.38:7777/ToyorAlJanah_HD.m3u8
 http://38.99.146.38:7777/Karameesh_HD.m3u8
 #EXTINF:-1,Koky Kids
 http://38.99.146.38:7777/Koky_HD.m3u8
+
+
+#EXTINF:-1,AR-toyour-aljennah
+http://195.12.170.154:8002/play/artoyouraljennah
+
+
+
 #EXTINF:-1,Toyor-AlJanah
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts
 #EXTINF:-1,Jeem
