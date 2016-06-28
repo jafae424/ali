@@ -45,7 +45,11 @@ http://195.12.170.154:8002/play/armbc1hd
 http://195.12.170.154:8002/play/armbcdrama
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawmDxfcmFoZNTOLTImpVcgUNEosgQdC8bFKlQnur8_0WxNebXew",MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/27.ts
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfuJQ0GzBhYiOPq2_dxwsCjS6FRx4MzxhHxnYkA2d9J9qnJ6p",MBC MASR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/28.ts
 
 
 #EXTINF:-1,AR: Mbc 1
