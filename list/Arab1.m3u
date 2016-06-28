@@ -21,20 +21,22 @@ rtmp://5.189.130.147:1935/live/mbc1
 
 #EXTINF:-1, MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr1
-#EXTINF:-1,[COLOR red]MBC1 تعمل [/COLOR]
+
+
+EXTINF:-1,[COLOR red]MBC1 تعمل [/COLOR]
 http://216.66.42.84:7777/MBC1_High.flv
-#EXTINF:-1,[COLOR red]MBC1 [/COLOR]
+EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
-#EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
+EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
 http://38.99.146.38:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,[COLOR red]MBCMasrPlus1[/COLOR]
+EXTINF:-1,[COLOR red]MBCMasrPlus1[/COLOR]
 http://38.99.146.38:7777/MBCMaser_HD.m3u8
 
-#EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
+EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
-#EXTINF:-1, MBCMasrPlus1
+EXTINF:-1, MBCMasrPlus1
 http://38.99.146.38:7777/MBCMaser_High.flv
-#EXTINF:-1,MBCMasrPlus2
+EXTINF:-1,MBCMasrPlus2
 http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
 #EXTINF:-1,AR-MBC1 HD
