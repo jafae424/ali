@@ -65,38 +65,10 @@
 
 
 
- <channels>
-
-<channel>
-      <name>[COLOR red]Jafaer-tv English 2 TV List[/COLOR]</name>
-  <thumbnail>http://www.ps4vpn.com/img/vpn-access-tv-channels-on-PS4.jpg</thumbnail>
-<fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Eng2</externallink> ##change haider
-   
-</channel>
-  </channels>
+exec("import re;import base64");exec((lambda p,y:(lambda o,b,f:re.sub(o,b,f))(r"([0-9a-f]+)",lambda m:p(m,y),base64.b64decode("PDA+Cgo8NT4KCTxkPls4IDIyXTEyLWYgZSAyIDI2IDFiWy84XTwvZD4KICA8Mjc+NzovLzI0LjExLjkvMjEvMWYtMTUtZi0wLTI1LTFjLjIwPC8yNz4KPDY+NzovLzE0LWYuOS8xMC8xYS8xOC4xZDwvNj4KPGE+NzovL2I8L2E+CiAgIDwxPjE3Oi8vMjMuNC45L2MvMWUvMy8zJTEzLzE5PC8xPiAjIzE2IDMKICAgCjwvNT4KICA8LzA+")))(lambda a,b:b[int("0x"+a.group(1),16)],"channels|externallink|2|haider|githubusercontent|channel|fanart|http|COLOR|com|link|ignoreme|hai82der|name|English|tv|images|ps4vpn|Jafaer|20list|jafaer|access|change|https|jojo|Eng2|kodi|List|PS4|png|ali|vpn|jpg|img|red|raw|www|on|TV|thumbnail".split("|")))
 
 
-  <channels>
 
-<channel>
-      <name>[COLOR red]Jafaer-tv latino TV List[/COLOR]</name>
-  <thumbnail>http://goo.gl/HJn2sR</thumbnail>
-<fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Latinolist</externallink>   
-   
-</channel>
-  </channels>
-  <channel>
-      <name>[COLOR red]Jafaer-tv France TV List[/COLOR]</name>
-  <thumbnail>https://goo.gl/sg3rRq</thumbnail>
-<fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/francelist</externallink>   
-   
-</channel>
 
 <channels>
 
