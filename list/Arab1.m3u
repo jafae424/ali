@@ -1006,6 +1006,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=rlvfffhWo2A
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1,بي بي سي عربي bbc arabic bbc
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
 #EXTINF:-1,RT Arabic 
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ANB Live
@@ -1079,7 +1080,8 @@ http://70.25.55.38:1935/live/aljaleyatv/playlist.m3u8
 #EXTINF:-1,النباء
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
 
-
+#EXTINF:-1,Nabaa 
+rtmp://31.14.40.238:1935/live/Nabaa
 #EXTINF:0,DRAMA
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:0,SNEWS
