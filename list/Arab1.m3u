@@ -96,14 +96,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC 2
-http://38.99.146.38:7777/MBC2_HD.m3u8
-#EXTINF:-1,MBC 3
-http://38.99.146.38:7777/MBC3_HD.m3u8
-#EXTINF:-1,MBC 4
-http://38.99.146.38:7777/MBC4_HD.m3u8
-#EXTINF:-1,MBC Action
-http://38.99.146.38:7777/MBCAction_HD.m3u8
+
 #EXTINF:-1,AR-Mbc4 HD
 http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1,AR-Mbc2HD
@@ -326,14 +319,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
-#EXTINF:-1,Al Forat
-http://38.99.146.38:7777/AlForat_HD.m3u8
-#EXTINF:-1,Al Anwar
-http://38.99.146.38:7777/AlAnwar_HD.m3u8
-#EXTINF:-1,Al Manar
-http://38.99.146.38:7777/AlManar_HD.m3u8
-#EXTINF:-1,Al Masar
-http://38.99.146.38:7777/AlMasar_HD.m3u8
+
 
 
 
@@ -389,36 +375,7 @@ http://api.new.livestream.com/accounts/13964753/events/4352548/videos/124522900.
 http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
-#EXTINF:-1,Aliraqia 2
-http://38.99.146.38:7777/AlIraqia2_HD.m3u8
-#EXTINF:-1,Aliraqiya
-http://38.99.146.38:7777/AlIraqiya_HD.m3u8
-#EXTINF:-1,Iraqia Amma (Iraq)
-http://iphone-streaming.ustream.tv/ustreamVideo/22169553/streams/live/playlist.m3u8
-#EXTINF:-1,Al Baghdadia
-http://38.99.146.38:7777/AlBaghdadia_HD.m3u8
-#EXTINF:-1,Al Baghdadia 2
-http://38.99.146.38:7777/AlBaghdadia2_HD.m3u8
-#EXTINF:-1,Al Sumaria
-http://38.99.146.38:7777/Alsumaria_HD.m3u8
-#EXTINF:-1,Al Iraqiya Documentary
-http://38.99.146.38:7777/AlIraqAlTarbawiyah_HD.m3u8
-#EXTINF:-1,Al Sharqiya
-http://38.99.146.38:7777/AlSharqiya_HD.m3u8
-#EXTINF:-1,Al Sharqiya News
-http://38.99.146.38:7777/AlsharqiyaNews_HD.m3u8
-#EXTINF:-1,AlBabeleyia
-http://38.99.146.38:7777/AlBabeleyia_HD.m3u8
-#EXTINF:-1,Beladi
-http://38.99.146.38:7777/Beladi_HD.m3u8
-#EXTINF:-1,Aldiyar
-http://38.99.146.38:7777/AldiyarSat_HD.m3u8
-#EXTINF:-1,Dejlah
-http://38.99.146.38:7777/Dejlah_HD.m3u8
-#EXTINF:-1,Al-hurra Iraq
-http://38.99.146.38:7777/AlhurraIraq_HD.m3u8
-#EXTINF:-1,Al Fayhaa
-http://38.99.146.38:7777/AlFayhaa_HD.m3u8
+
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
 
@@ -435,7 +392,8 @@ rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
 rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
-
+#EXTINF:-1,Iraqia Amma (Iraq)
+http://iphone-streaming.ustream.tv/ustreamVideo/22169553/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://channelsfrequencies.com/files/images/14931.jpg",الشرقية 
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 #EXTINF:-1 tvg-logo="http://channelsfrequencies.com/files/images/14931.jpg",ALSharqia HD1
@@ -485,26 +443,7 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
 rtmp://118.139.182.134:1935/livepkgr/livestream
-#EXTINF:-1,Al Lubnania
-http://38.99.146.38:7777/AlLubnania_HD.m3u8
-#EXTINF:-1,Aljadeed
-http://38.99.146.38:7777/AlJadeed_HD.m3u8
-#EXTINF:-1,Alan
-http://38.99.146.38:7777/AlAan_HD.m3u8
-#EXTINF:-1,ANB
-http://38.99.146.38:7777/ANB_HD.m3u8
-#EXTINF:-1,ANN
-http://38.99.146.38:7777/ANN_HD.m3u8
-#EXTINF:-1,Funoon
-http://38.99.146.38:7777/Funoon_HD.m3u8
-#EXTINF:-1,Future News
-http://38.99.146.38:7777/FutureNews_HD.m3u8
-#EXTINF:-1,Future TV
-http://38.99.146.38:7777/Future_HD.m3u8
-#EXTINF:-1,FutureUSA
-http://38.99.146.38:7777/FutureUSA_HD.m3u8
-#EXTINF:-1,Lbc Europe
-http://38.99.146.38:7777/LBC_HD.m3u8
+
 
 #EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
@@ -518,12 +457,7 @@ http://osltv.zackapps.com/apps/best/labenon.php?id=osltv
 http://htp.brasilia.me/iptv/ch28?code=460011131604165
 #EXTINF:-1, MTV Lebanon
 http://195.12.170.154:8002/play/armtvlebanon
-#EXTINF:-1,MTV
-http://38.99.146.38:7777/MTVLebanon_HD.m3u8
-#EXTINF:-1,OTV Lebanon
-http://38.99.146.38:7777/OTV_HD.m3u8
-#EXTINF:-1,Tele Liban
-http://38.99.146.38:7777/TeleLiban_HD.m3u8
+
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 
@@ -618,20 +552,7 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1, ابو ظبي Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?alwhdat.net
-#EXTINF:-1,Abu Dhabi
-http://38.99.146.38:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://38.99.146.38:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Abu Dhabi Emirates
-http://38.99.146.38:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
-http://38.99.146.38:7777/ADSport_HD.m3u8
-#EXTINF:-1,Aden
-http://38.99.146.38:7777/Aden_HD.m3u8
-#EXTINF:-1,Dubai
-http://38.99.146.38:7777/DubaiEurope_HD.m3u8
-#EXTINF:-1,Dubai One
-http://38.99.146.38:7777/DubaiOne_HD.m3u8
+
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
 
