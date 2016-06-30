@@ -3516,33 +3516,6 @@ src=[",'].*([".'])
 
 
 
-<item>
-<title>http://ramadanahla.com/category/2016</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-      <title>[COLOR white][makelist.param2][/COLOR]</title>
-      <link>http://cdn00.vidyomani.com/$doregex[path]/$doregex[path2]-240p.mp4|User-Agent=iPhone</link>
-      <thumbnail>[makelist.param3]</thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[(?s)thumb-wrap"><a  href="(.*?)".*?title="(.*?)".*?src="(.*?)"]]></expres>
-  <page><![CDATA[http://ramadanahla.com/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2016]]></page>
-  <referer>http://ramadanahla.com/category/</referer>
-  <ignorecache/>
-</regex>
-<regex>
-  <name>path</name>
-  <expres>src='.*cdn.*?\/(.*)\/.*?index.html</expres>
-  <page>[makelist.param1]</page>
-</regex>
-<regex>
-  <name>path2</name>
-  <expres>src='.*cdn.*?\/.*?\/.*?\/.*?\/.*?\/(.*?)\/</expres>
-  <page>[makelist.param1]</page>
-</regex>
-</item>
-
 
 <item>
 <title>TEST </title>
@@ -3562,7 +3535,63 @@ src=[",'].*([".'])
 
 
 
+<item>
+<title>[COLOR yellow] Arabic Songs [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+     <title>[COLOR yellow] Artist Name begins with letter "[makelist.param2]"[/COLOR]</title>
+     <link>$doregex[makelist2]</link>
+     <thumbnail>http://arabsong.net/images/banners/75dbe91d-5e74-47c0-ab26-ba4cf590257f.jpg</thumbnail>
+  ]]></listrepeat>
+  <expres><![CDATA[href="([^"]+)">(.)<]]></expres>
+  <page>http://arabsong.net/homepage</page>
+  <cookieJar></cookieJar>
+</regex>
 
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+     <title>[COLOR skyblue] [makelist2.param3][/COLOR]</title>
+     <link>$doregex[makelist3]</link>
+     <thumbnail>[makelist2.param1]</thumbnail>
+  ]]></listrepeat>
+  <expres><![CDATA[small" src="([^"]+)"[\w\W\s]*?href="([^"]+)">(.*?)<]]></expres>
+  <page>[makelist.param1]</page>
+  <referer>http://arabsong.net/homepage</referer>
+  <cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+     <title>[COLOR yellow] [makelist3.param2][/COLOR]</title>
+     <link>$doregex[finalUrl]</link>
+     <thumbnail>[makelist2.param1]</thumbnail>
+  ]]></listrepeat>
+  <expres><![CDATA[(?:href="([^"]+)">(.*?)<.*\n.*\n.*id="dl")]]></expres>
+  <!--<expres><![CDATA[href="([^"]+)">(.*?)<.*\n.*\n.*id="dl"]]></expres>-->
+  <page>[makelist2.param2]</page>
+  <referer>http://arabsong.net/homepage</referer>
+  <cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>finalUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests, re
+ mp3 = re.findall('"(.+?mp3)"', page_data)[0].replace(' ','%20')
+ return mp3
+]]></expres>
+<page>[makelist3.param1]</page>
+<referer>http://arabsong.net/homepage</referer>
+<agent>iPad</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://arabsong.net/images/banners/75dbe91d-5e74-47c0-ab26-ba4cf590257f.jpg</thumbnail>
+</item>
 
 
 
