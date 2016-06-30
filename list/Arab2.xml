@@ -3594,6 +3594,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>Alsumaria</title>
+<link>$doregex[final_m3u8]</link>
+<name>get_m3u8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.alsumaria.tv/watch-Alsumaria-Live</page>
+<referer>http://www.alsumaria.tv</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 </streamingInfos>
 
