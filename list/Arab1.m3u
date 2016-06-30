@@ -1727,8 +1727,8 @@ http://38.99.146.38:7777/Koky_HD.m3u8
 rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/baraem.php live=true timeout=15
 #EXTINF:-1,AR-toyour-aljennah
 http://195.12.170.154:8002/play/artoyouraljennah
-
-
+#EXTINF:-1,Looney Tunes 
+rtmp://lb.miplayer.net:1935/goLive/_definst_/looney_jqy5j25e
 
 #EXTINF:-1,Toyor-AlJanah
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts
