@@ -22,10 +22,17 @@ rtmp://5.189.130.147:1935/live/mbc1
 #EXTINF:-1, MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr1
 
+#EXTINF:-1,AR: Mbc 1 test
+http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
+#EXTINF:-1,AR: Mbc Masr test
+http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/46.ts
+#EXTINF:-1,AR: Mbc Masr 2 test 
+http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/45.ts
+#EXTINF:-1,AR: Mbc Drama test 
+http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/42.ts
 
 
-
-EXTINF:-1,[COLOR red]MBC1 تعمل [/COLOR]
+EXTINF:-1,[COLOR red]MBC1  [/COLOR]
 http://216.66.42.84:7777/MBC1_High.flv
 #EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
