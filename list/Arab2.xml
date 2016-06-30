@@ -3564,6 +3564,18 @@ src=[",'].*([".'])
 
 
 
+<item>
+<title>http://www2.live.irib.ir/</title>
+<link>$doregex[getrtmp] src=http://www2.live.irib.ir/templates/total/player/jwplayer.js </link>
+ <regex>
+ <name>getrtmp</name>
+ <expres>streamer="(.*?)";</expres>
+ <referer>http://www2.live.irib.ir/</referer>
+ <page>http://www2.live.irib.ir/#alkosar</page>
+ </regex><thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 </streamingInfos>
 
 
