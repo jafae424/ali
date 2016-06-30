@@ -16,7 +16,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 #EXTINF:-1, MBC 1
-rtmp://5.189.130.147:1935/live/mbcmasr11
+rtmp://5.189.130.147:1935/live/mbc11
 #EXTINF:-1, MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
 
