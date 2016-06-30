@@ -3596,7 +3596,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Alsumaria</title>
-<link>$doregex[final_m3u8]</link>
+<link>$pyFunction ['m3u8_url']</link>
 <name>get_m3u8</name>
 <expres>file: "(.*?)"</expres>
 <page>http://www.alsumaria.tv/watch-Alsumaria-Live</page>
@@ -3607,11 +3607,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-title>High</title>
-<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_360p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
-</item>
 
 
 
