@@ -147,6 +147,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2221.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+#EXTINF:0,MBC MAX HD
+http://178.18.29.202:9001/1450/slot_6450.m3u8
+
+#EXTINF:0,MBC MAX
+http://178.18.29.202:9001/390/slot_5390.m3u8
+
+
+#EXTINF:0,HD
+http://178.18.29.202:9001/1447/slot_6447.m3u8
+#EXTINF:0,HD
+http://178.18.29.202:9001/1449/slot_6449.m3u8
 
 
 
@@ -244,6 +255,48 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
 
+#EXTINF:0,الانوار 2
+http://178.18.29.202:9001/1338/slot_6338.m3u8
+#EXTINF:0,المهدي 
+http://178.18.29.202:9001/500/slot_5500.m3u8
+#EXTINF:0,الكوثر
+http://178.18.29.202:9001/168/slot_5168.m3u8
+#EXTINF:0, المعارف
+http://178.18.29.202:9001/238/slot_5238.m3u8
+#EXTINF:0,المنار
+http://178.18.29.202:9001/2053/slot_7053.m3u8
+#EXTINF:0,المسلة
+http://178.18.29.202:9001/1814/slot_6814.m3u8
+#EXTINF:0,النجباء
+http://178.18.29.202:9001/2031/slot_7031.m3u8
+#EXTINF:0,الشعائر
+http://178.18.29.202:9001/786/slot_5786.m3u8
+#EXTINF:0,القمر
+http://178.18.29.202:9001/1247/slot_6247.m3u8
+#EXTINF:0,قناة ابو الفضل
+http://178.18.29.202:9001/1715/slot_6715.m3u8
+#EXTINF:0,اهل البيت فارسي
+http://178.18.29.202:9001/830/slot_5830.m3u8
+#EXTINF:0,اهل البيت
+http://178.18.29.202:9001/1593/slot_6593.m3u8
+#EXTINF:0,2 قناة العهد
+http://178.18.29.202:9001/556/slot_5556.m3u8
+#EXTINF:0,الاباء
+http://178.18.29.202:9001/1479/slot_6479.m3u8
+#EXTINF:0,الايمان
+http://178.18.29.202:9001/1836/slot_6836.m3u8
+#EXTINF:0,الفرات 2
+http://178.18.29.202:9001/804/slot_5804.m3u8
+#EXTINF:0,الغدير 2
+http://178.18.29.202:9001/1518/slot_6518.m3u8
+#EXTINF:0,الحجة
+http://178.18.29.202:9001/2331/slot_7331.m3u8 
+#EXTINF:0,الاهواز 
+http://178.18.29.202:9001/2329/slot_7329.m3u8
+#EXTINF:0,المسار 1
+http://178.18.29.202:9001/2507/slot_7507.m3u8 
+
+
 
 
 #EXTINF:-1,Al Kawthar
@@ -337,7 +390,13 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
+#EXTINF:0,قناة البصرة
+http://178.18.29.202:9001/2335/slot_7335.m3u8
+#EXTINF:0,الموصلية
+http://178.18.29.202:9001/1279/slot_6279.m3u8
 
+#EXTINF:0,الرشيد
+http://178.18.29.202:9001/1193/slot_6193.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8
@@ -351,7 +410,10 @@ http://jafaer-tv.com
 #EXTINF:-1,Al mayaden
 http://38.99.146.38:7777/AlMayadeen_HD.m3u8
 
-
+#EXTINF:0,الميادين
+http://178.18.29.202:9001/459/slot_5459.m3u8
+#EXTINF:0,الميادين
+http://178.18.29.202:9001/157/slot_5157.m3u8
 #EXTINF:-1,الميادين
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
 #EXTINF:-1,العالم
