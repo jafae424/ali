@@ -303,6 +303,8 @@ http://178.18.29.202:9001/298/slot_5298.m3u8
 http://178.18.29.202:9001/511/slot_5511.m3u8
 #EXTINF:0,الولاء
 http://178.18.29.202:9001/1799/slot_6799.m3u8
+#EXTINF:0,بينات
+http://178.18.29.202:9001/1705/slot_6705.m3u8
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
@@ -401,6 +403,8 @@ http://178.18.29.202:9001/2335/slot_7335.m3u8
 http://178.18.29.202:9001/1279/slot_6279.m3u8
 #EXTINF:0,الرافدين
 http://178.18.29.202:9001/1505/slot_6505.m3u8
+#EXTINF:0,بغداد
+http://178.18.29.202:9001/163/slot_5163.m3u8
 #EXTINF:0,الرشيد
 http://178.18.29.202:9001/1193/slot_6193.m3u8
 #EXTINF:0,الشرقية hd
@@ -409,7 +413,8 @@ http://178.18.29.202:9001/2565/slot_7565.m3u8
 http://178.18.29.202:9001/2179/slot_7179.m3u8
 #EXTINF:0,السومرية
 http://178.18.29.202:9001/2077/slot_7077.m3u8
-
+#EXTINF:0,دجلة
+http://178.18.29.202:9001/29/slot_5029.m3u8
 
 
 
@@ -605,7 +610,16 @@ http://38.96.148.30:1935/live/omantv3/playlist.m3u8
 #EXTINF:-1,Oman tv 4
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
+#EXTINF:0,ِAbu Dhubi HD
+http://178.18.29.202:9001/2562/slot_7562.m3u8
+#EXTINF:0,الامارات
+http://178.18.29.202:9001/2563/slot_7563.m3u8
 
+
+#EXTINF:0,National Geo Abu Dhabi 
+http://178.18.29.202:9001/2559/slot_7559.m3u8
+#EXTINF:0,Abu Dhabi Drama HD
+http://178.18.29.202:9001/3/slot_5003.m3u8
 
 
 #EXTINF:-1,Dubai Sport 3
@@ -646,6 +660,30 @@ http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,Art Aflam 1
+http://178.18.29.202:9001/1418/slot_6418.m3u8
+#EXTINF:0,Art aflam 2
+http://178.18.29.202:9001/1417/slot_6417.m3u8
+#EXTINF:0,Art cinema
+http://178.18.29.202:9001/1422/slot_6422.m3u8
+#EXTINF:0,art حكايات
+http://178.18.29.202:9001/1421/slot_6421.m3u8
+#EXTINF:0,art حكايات 2
+http://178.18.29.202:9001/1420/slot_6420.m3u8
+#EXTINF:0,Rotana Aflam افلام
+http://178.18.29.202:9001/1471/slot_6471.m3u8
+#EXTINF:0,Rotana cinema
+http://178.18.29.202:9001/1791/slot_6791.m3u8
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,القاهرة و الناس 1 
@@ -667,6 +705,64 @@ plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
 plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
+
+
+
+#EXTINF:0,القاهرة
+http://178.18.29.202:9001/347/slot_5347.m3u8
+#EXTINF:0,مصر
+http://178.18.29.202:9001/1056/slot_6056.m3u8
+#EXTINF:0,مصر 3
+http://178.18.29.202:9001/331/slot_5331.m3u8
+#EXTINF:0,النهار 1
+http://178.18.29.202:9001/305/slot_5305.m3u8
+#EXTINF:0,النهار دراما
+http://178.18.29.202:9001/308/slot_5308.m3u8
+#EXTINF:0,النهار
+http://178.18.29.202:9001/2449/slot_7449.m3u8
+#EXTINF:0,النهار +2
+http://178.18.29.202:9001/399/slot_5399.m3u8
+#EXTINF:0,النهار الرياضية
+http://178.18.29.202:9001/69/slot_5069.m3u8
+#EXTINF:0,الاسكندرية
+http://178.18.29.202:9001/270/slot_5270.m3u8
+#EXTINF:0,كايرو فلم 
+http://178.18.29.202:9001/1363/slot_6363.m3u8
+
+#EXTINF:0,كايرو دراما
+http://178.18.29.202:9001/410/slot_5410.m3u8
+#EXTINF:0,كت افلام
+http://178.18.29.202:9001/596/slot_5596.m3u8
+#EXTINF:0,البهية bahaia tv
+http://178.18.29.202:9001/237/slot_5237.m3u8
+#EXTINF:0,الحياة
+http://178.18.29.202:9001/572/slot_5572.m3u8
+#EXTINF:0,الحياة 2
+http://178.18.29.202:9001/613/slot_5613.m3u8
+#EXTINF:0,الحياة مسلاسلات
+http://178.18.29.202:9001/136/slot_5136.m3u8
+#EXTINF:0,الحياة و الناس
+http://178.18.29.202:9001/1507/slot_6507.m3u8
+#EXTINF:0,الحوار
+http://178.18.29.202:9001/2032/slot_7032.m3u8
+#EXTINF:0,الحرية
+http://178.18.29.202:9001/1462/slot_6462.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-0,Dream_1
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html
@@ -1016,13 +1112,37 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 rtmp://cp135357.live.edgefcs.net/live/
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-
+#EXTINF:0,الجزيرة الوثائقية
+http://178.18.29.202:9001/478/slot_5478.m3u8
+#EXTINF:0,الجزيرة
+http://178.18.29.202:9001/196/slot_5196.m3u8
+#EXTINF:0,الجزيرة HD
+http://178.18.29.202:9001/1158/slot_6158.m3u8
+#EXTINF:0,الجزيرةعربي
+http://178.18.29.202:9001/513/slot_5513.m3u8
 
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
+#EXTINF:0,CN عربي
+http://178.18.29.202:9001/2317/slot_7317.m3u8
+#EXTINF:0,CN turk
+http://178.18.29.202:9001/1934/slot_6934.m3u8
+#EXTINF:0,Disney channel
+http://178.18.29.202:9001/1896/slot_6896.m3u8
 
+#EXTINF:0,disney junior
+http://178.18.29.202:9001/784/slot_5784.m3u8
+
+#EXTINF:0,Disney channel 2
+http://178.18.29.202:9001/783/slot_5783.m3u8
+#EXTINF:0,Disney XD
+http://178.18.29.202:9001/704/slot_5704.m3u8
+#EXTINF:0,BBC kids
+http://178.18.29.202:9001/11/slot_5011.m3u8
+#EXTINF:0,براعم
+http://178.18.29.202:9001/518/slot_5518.m3u8
 #EXTINF:-1,Spacetoon Test
 rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/baraem.php live=true timeout=15
 #EXTINF:-1,AR-toyour-aljennah
