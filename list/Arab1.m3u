@@ -305,6 +305,8 @@ http://178.18.29.202:9001/511/slot_5511.m3u8
 http://178.18.29.202:9001/1799/slot_6799.m3u8
 #EXTINF:0,بينات
 http://178.18.29.202:9001/1705/slot_6705.m3u8
+#EXTINF:0,الاوحد
+http://178.18.29.202:9001/405/slot_5405.m3u8
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
