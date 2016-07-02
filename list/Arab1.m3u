@@ -417,7 +417,8 @@ http://178.18.29.202:9001/2179/slot_7179.m3u8
 http://178.18.29.202:9001/2077/slot_7077.m3u8
 #EXTINF:0,دجلة
 http://178.18.29.202:9001/29/slot_5029.m3u8
-
+#EXTINF:0,البيان 
+http://178.18.29.202:9001/2333/slot_7333.m3u8
 
 
 
@@ -1080,7 +1081,10 @@ http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8
 http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8
 
 
-
+#EXTINF:0,Z Aflam
+http://178.18.29.202:9001/200/slot_5200.m3u8
+#EXTINF:0,Z Alowan
+http://178.18.29.202:9001/132/slot_5132.m3u8
 
 
 
@@ -1197,12 +1201,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 ######
 
 
-
+#EXTINF:0,روتانا كليب
+http://178.18.29.202:9001/217/slot_5217.m3u8
+#EXTINF:0,روتانا موسيقى
+http://178.18.29.202:9001/1473/slot_6473.m3u8
 #EXTINF:-1,Arabica اغاني
 rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
 #EXTINF:-1,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-
+#EXTINF:0,aghani
+http://178.18.29.202:9001/808/slot_5808.m3u8
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 #EXTINF:0,MARINA FM
