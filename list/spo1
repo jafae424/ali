@@ -21,33 +21,6 @@ http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
 
-#EXTINF:0,bein 1
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/131.ts
-#EXTINF:0,bein 2 hd
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/67.ts
-
-#EXTINF:0,bein 3 hd
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/65.ts
-#EXTINF:0,bein 4
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/64.ts
-
-
-#EXTINF:0,bein 5
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/56.ts
-#EXTINF:0,bein 6 hd
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/21.ts
-#EXTINF:0,bein 7 hd
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/79.ts
-
-#EXTINF:0,bein 8 hd
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/80.ts
-
-
-#EXTINF:0,bein 12
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/44.ts
-#EXTINF:0,bein 13 hd
-http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/133.ts
-
 
 #EXTINF:-1,AR_BEIN_MAX1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
