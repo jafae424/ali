@@ -15,19 +15,19 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:0,MBC Masar
+EXTINF:0,MBC Masar
 http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/129.ts
-#EXTINF:0,MBC 1 Hd
+EXTINF:0,MBC 1 Hd
 http://178.18.29.202:9001/1444/slot_6444.m3u8
-#EXTINF:-1, MBC 1
+EXTINF:-1, MBC 1
 http://178.18.29.202:9001/274/slot_5274.m3u8
-#EXTINF:0,MBC Drama HD
+EXTINF:0,MBC Drama HD
 http://178.18.29.202:9001/294/slot_5294.m3u8
-#EXTINF:0,MBC Drama
+EXTINF:0,MBC Drama
 http://178.18.29.202:9001/1396/slot_6396.m3u8
-#EXTINF:0,MBC Masar HD
+EXTINF:0,MBC Masar HD
 http://178.18.29.202:9001/70/slot_5070.m3u8
-#EXTINF:0,MBC Masar 2
+EXTINF:0,MBC Masar 2
 http://178.18.29.202:9001/1053/slot_6053.m3u8
 
 
@@ -36,9 +36,9 @@ http://195.12.170.154:8002/play/armbc1hd
 #EXTINF:-1,AR-Mbc-Drama
 http://195.12.170.154:8002/play/armbcdrama
 
-#EXTINF:-1, MBC 1
+EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
-#EXTINF:-1, MBC Masr1
+EXTINF:-1, MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
 
 
@@ -95,12 +95,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
+#EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/48.ts
 
 
 
-EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
+#EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
 
 
