@@ -15,8 +15,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-EXTINF:0,MBC Masar
+#EXTINF:0,MBC Masar
 http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/129.ts
+#EXTINF:0,OSn Movies Avtion HD
+http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/19.ts
 EXTINF:0,MBC 1 Hd
 http://178.18.29.202:9001/1444/slot_6444.m3u8
 EXTINF:-1, MBC 1
