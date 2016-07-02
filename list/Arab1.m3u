@@ -15,6 +15,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
+
+#EXTINF:0,MBC HD
+http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/31.ts
+#EXTINF:0,MBC Drama
+http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/34.ts
 #EXTINF:0,MBC Masar
 http://www.egyiptv.co.uk:8080/live/embratoria/1tdi4RAh6ZQu3m47hdgk/129.ts
 #EXTINF:0,OSn Movies Avtion HD
