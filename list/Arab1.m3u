@@ -490,6 +490,9 @@ rtmp://31.14.40.238:1935/live/Nabaa
 
 #EXTINF:-1,AR:ALJADID
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+#EXTINF:-1,Al Dafrah
+http://live.aldafrah.tv:1935/live/myStream3/.m3u8
 #EXTINF:-1,Syria drama
 http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
 #EXTINF:-1,Syria news 
@@ -635,12 +638,7 @@ http://178.18.29.202:9001/2559/slot_7559.m3u8
 http://178.18.29.202:9001/3/slot_5003.m3u8
 
 
-#EXTINF:-1,Dubai Sport 3
-http://38.99.146.38:7777/DubaiSports_HD.m3u8
-#EXTINF:-1,Dubai Sport HD2
-http://8.21.48.19:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1,Dubai Sport HD2
-http://38.99.146.38:7777/DubaiSport2_HD.m3u8
+
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
@@ -683,21 +681,21 @@ http://jafaer-tv.com
 
 
 
-#EXTINF:0,Art Aflam 1
+EXTINF:0,Art Aflam 1
 http://178.18.29.202:9001/1418/slot_6418.m3u8
-#EXTINF:0,Art aflam 2
+EXTINF:0,Art aflam 2
 http://178.18.29.202:9001/1417/slot_6417.m3u8
-#EXTINF:0,Art cinema
+EXTINF:0,Art cinema
 http://178.18.29.202:9001/1422/slot_6422.m3u8
-#EXTINF:0,art حكايات
+EXTINF:0,art حكايات
 http://178.18.29.202:9001/1421/slot_6421.m3u8
-#EXTINF:0,art حكايات 2
+EXTINF:0,art حكايات 2
 http://178.18.29.202:9001/1420/slot_6420.m3u8
-#EXTINF:0,Rotana Aflam افلام
+EXTINF:0,Rotana Aflam افلام
 http://178.18.29.202:9001/1471/slot_6471.m3u8
-#EXTINF:0,Rotana cinema
+EXTINF:0,Rotana cinema
 http://178.18.29.202:9001/1791/slot_6791.m3u8
-#EXTINF:-1,Al Hayat 2
+EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,القاهرة و الناس 1 
 plugin://plugin.video.youtube/?action=play_video&videoid=7vOKKinCqn0
@@ -721,44 +719,44 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 
 
 
-#EXTINF:0,القاهرة
+EXTINF:0,القاهرة
 http://178.18.29.202:9001/347/slot_5347.m3u8
-#EXTINF:0,مصر
+EXTINF:0,مصر
 http://178.18.29.202:9001/1056/slot_6056.m3u8
-#EXTINF:0,مصر 3
+EXTINF:0,مصر 3
 http://178.18.29.202:9001/331/slot_5331.m3u8
-#EXTINF:0,النهار 1
+EXTINF:0,النهار 1
 http://178.18.29.202:9001/305/slot_5305.m3u8
-#EXTINF:0,النهار دراما
+EXTINF:0,النهار دراما
 http://178.18.29.202:9001/308/slot_5308.m3u8
-#EXTINF:0,النهار
+EXTINF:0,النهار
 http://178.18.29.202:9001/2449/slot_7449.m3u8
-#EXTINF:0,النهار +2
+EXTINF:0,النهار +2
 http://178.18.29.202:9001/399/slot_5399.m3u8
-#EXTINF:0,النهار الرياضية
+EXTINF:0,النهار الرياضية
 http://178.18.29.202:9001/69/slot_5069.m3u8
-#EXTINF:0,الاسكندرية
+EXTINF:0,الاسكندرية
 http://178.18.29.202:9001/270/slot_5270.m3u8
-#EXTINF:0,كايرو فلم 
+EXTINF:0,كايرو فلم 
 http://178.18.29.202:9001/1363/slot_6363.m3u8
 
-#EXTINF:0,كايرو دراما
+EXTINF:0,كايرو دراما
 http://178.18.29.202:9001/410/slot_5410.m3u8
-#EXTINF:0,كت افلام
+EXTINF:0,كت افلام
 http://178.18.29.202:9001/596/slot_5596.m3u8
-#EXTINF:0,البهية bahaia tv
+EXTINF:0,البهية bahaia tv
 http://178.18.29.202:9001/237/slot_5237.m3u8
-#EXTINF:0,الحياة
+EXTINF:0,الحياة
 http://178.18.29.202:9001/572/slot_5572.m3u8
-#EXTINF:0,الحياة 2
+EXTINF:0,الحياة 2
 http://178.18.29.202:9001/613/slot_5613.m3u8
-#EXTINF:0,الحياة مسلاسلات
+EXTINF:0,الحياة مسلاسلات
 http://178.18.29.202:9001/136/slot_5136.m3u8
-#EXTINF:0,الحياة و الناس
+EXTINF:0,الحياة و الناس
 http://178.18.29.202:9001/1507/slot_6507.m3u8
-#EXTINF:0,الحوار
+EXTINF:0,الحوار
 http://178.18.29.202:9001/2032/slot_7032.m3u8
-#EXTINF:0,الحرية
+EXTINF:0,الحرية
 http://178.18.29.202:9001/1462/slot_6462.m3u8
 
 
@@ -830,10 +828,16 @@ http://195.12.170.154:8002/play/arnilefamily
 http://195.12.170.154:8002/play/arniledrama
 #EXTINF:-1,AR-Rotana Massrya HD
 http://195.12.170.154:8002/play/arrotanamassryahd
+#EXTINF:-1,Rotana-classic HD
+http://195.12.170.154:8002/play/arrotanaclassichd
 #EXTINF:-1,AR- Rotana Music HD
 http://195.12.170.154:8002/play/arrotanamusichd
 #EXTINF:-1,AR-Medi-1TV
 http://195.12.170.154:8002/play/armedi1tv
+#EXTINF:-1,AR-Panoram-Drama
+http://195.12.170.154:8002/play/arpanoramadrama
+#EXTINF:-1,AR-Panorama-Drama2
+http://195.12.170.154:8002/play/arpanoramadrama2
 #EXTINF:-1,AR-Panorama-food
 http://195.12.170.154:8002/play/arpanoramafood
 #EXTINF:-1,AR-Star Cin1
@@ -846,8 +850,7 @@ http://195.12.170.154:8002/play/arpanoramadrama2
 http://195.12.170.154:8002/play/artimefilm
 #EXTINF:-1,Rotana-classic HD
 http://195.12.170.154:8002/play/arrotanaclassichd
-#EXTINF:-1,AR-Panoram-Drama
-http://195.12.170.154:8002/play/arpanoramadrama
+
 #EXTINF:-1,AR-Tvtchad
 http://195.12.170.154:8002/play/artvtchad
 #EXTINF:-1,AR-Rotana CLIP
@@ -1141,39 +1144,32 @@ http://178.18.29.202:9001/513/slot_5513.m3u8
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
-#EXTINF:0,CN عربي
+EXTINF:0,CN عربي
 http://178.18.29.202:9001/2317/slot_7317.m3u8
-#EXTINF:0,CN turk
+EXTINF:0,CN turk
 http://178.18.29.202:9001/1934/slot_6934.m3u8
-#EXTINF:0,Disney channel
+EXTINF:0,Disney channel
 http://178.18.29.202:9001/1896/slot_6896.m3u8
 
-#EXTINF:0,disney junior
+EXTINF:0,disney junior
 http://178.18.29.202:9001/784/slot_5784.m3u8
 
-#EXTINF:0,Disney channel 2
+EXTINF:0,Disney channel 2
 http://178.18.29.202:9001/783/slot_5783.m3u8
-#EXTINF:0,Disney XD
+EXTINF:0,Disney XD
 http://178.18.29.202:9001/704/slot_5704.m3u8
-#EXTINF:0,BBC kids
+EXTINF:0,BBC kids
 http://178.18.29.202:9001/11/slot_5011.m3u8
-#EXTINF:0,براعم
+EXTINF:0,براعم
 http://178.18.29.202:9001/518/slot_5518.m3u8
-#EXTINF:-1,Spacetoon Test
+EXTINF:-1,Spacetoon Test
 rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/baraem.php live=true timeout=15
 #EXTINF:-1,AR-toyour-aljennah
 http://195.12.170.154:8002/play/artoyouraljennah
 #EXTINF:-1,Looney Tunes 
 rtmp://lb.miplayer.net:1935/goLive/_definst_/looney_jqy5j25e
 
-#EXTINF:-1,Toyor-AlJanah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/437.ts
-#EXTINF:-1,Jeem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/119.ts
-#EXTINF:-1,Spacetoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/80.ts
-#EXTINF:-1,CN-ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/68.ts
+
 #EXTINF:-1,Arabic:Cartoon Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2224.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
@@ -1204,10 +1200,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 ######
 
 
-#EXTINF:0,روتانا كليب
-http://178.18.29.202:9001/217/slot_5217.m3u8
-#EXTINF:0,روتانا موسيقى
-http://178.18.29.202:9001/1473/slot_6473.m3u8
+
 #EXTINF:-1,Arabica اغاني
 rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
 #EXTINF:-1,AGHANI Tv
