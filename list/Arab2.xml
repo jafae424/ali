@@ -3596,15 +3596,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Alsumaria</title>
-<link>$pyFunction ['m3u8_url']</link>
-<name>get_m3u8</name>
-<expres>file: "(.*?)"</expres>
-<page>http://www.alsumaria.tv/watch-Alsumaria-Live</page>
-<referer>http://www.alsumaria.tv</referer>
+<title>IRIB iPhone RegEx **http://www2.live.irib.ir/**</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>source src="(.*?m3u8.*?)"</expres>
+<page>http://www2.live.irib.ir/</page>
+<agent>iPhone</agent>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 
