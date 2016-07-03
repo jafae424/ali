@@ -884,10 +884,7 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
-#EXTINF:-1,LCD-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/440.ts
-#EXTINF:-1,ADTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/419.ts
+
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
@@ -1103,15 +1100,70 @@ http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8
 http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8
 
 
-#EXTINF:0,Z Aflam
-http://178.18.29.202:9001/200/slot_5200.m3u8
-#EXTINF:0,Z Alowan
-http://178.18.29.202:9001/132/slot_5132.m3u8
+#EXTINF:-1,ARr: Zaitouna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2604.ts
+#EXTINF:-1,ARr: NATIONAL1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2598.ts
+#EXTINF:-1,AR: Tounesna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2603.ts
+#EXTINF:-1,AR: TELVZATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2602.ts
+#EXTINF:-1,AR: NATIONAL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2599.ts
+#EXTINF:-1,AR: FIRST.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2600.ts
+#EXTINF:-1,AR: ETTOUNSIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2601.ts
+#EXTINF:-1,AR: Hannibal_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2596.ts
+#EXTINF:-1,AR: NESSMATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2595.ts
+#EXTINF:-1,AR: TNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2591.ts
 
+#EXTINF:-1,AR:Samira TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2612.ts
+#EXTINF:-1,AR:KBCAlgeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2608.ts
+#EXTINF:-1,AR:ENTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2605.ts
+#EXTINF:-1,AR:EnnaharTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2610.ts
+#EXTINF:-1,AR:ELDJAZAIRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2606.ts
+#EXTINF:-1,AR:Echourouktv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2611.ts
+#EXTINF:-1,AR:Dzair Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2613.ts
+#EXTINF:-1,AR:Dzair News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2614.ts
+#EXTINF:-1,AR:AlHaddaf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2609.ts
+#EXTINF:-1,AR:ALGERIE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2607.ts
 
-
-
-
+#EXTINF:-1,AR: Tamazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2592.ts
+#EXTINF:-1,AR: SAMIRA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2594.ts
+#EXTINF:-1,AR: Assadissa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2588.ts
+#EXTINF:-1,AR: Arrabiaa-MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2589.ts
+#EXTINF:-1,AR: Al_Maghribia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2597.ts
+#EXTINF:-1,AR: Almaghribia-MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2593.ts
+#EXTINF:-1,AR: 2M-MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2590.ts
+#EXTINF:-1,AR: Medi 1 Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2052.ts
+#EXTINF:-1,AR: Arriadia Maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2051.ts
+#EXTINF:-1,AR: Aljazeera-Mubasher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1981.ts
+#EXTINF:-1,AR-SYRIA ALOULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1900.ts
 
 
 
