@@ -177,13 +177,13 @@ http://178.18.29.202:9001/1449/slot_6449.m3u8
 #EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
-#EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
+EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
-#EXTINF:-1,OSN Movies Action
+EXTINF:-1,OSN Movies Action
 http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
-#EXTINF:-1,bein Movies 1
+EXTINF:-1,bein Movies 1
 http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
-#EXTINF:-1,OSN Movies
+EXTINF:-1,OSN Movies
 http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
 
 
@@ -267,55 +267,55 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
 
-#EXTINF:0,الانوار 2
+EXTINF:0,الانوار 2
 http://178.18.29.202:9001/1338/slot_6338.m3u8
-#EXTINF:0,المهدي 
+EXTINF:0,المهدي 
 http://178.18.29.202:9001/500/slot_5500.m3u8
-#EXTINF:0,الكوثر
+EXTINF:0,الكوثر
 http://178.18.29.202:9001/168/slot_5168.m3u8
-#EXTINF:0, المعارف
+EXTINF:0, المعارف
 http://178.18.29.202:9001/238/slot_5238.m3u8
-#EXTINF:0,المنار
+EXTINF:0,المنار
 http://178.18.29.202:9001/2053/slot_7053.m3u8
-#EXTINF:0,المسلة
+EXTINF:0,المسلة
 http://178.18.29.202:9001/1814/slot_6814.m3u8
-#EXTINF:0,النجباء
+EXTINF:0,النجباء
 http://178.18.29.202:9001/2031/slot_7031.m3u8
-#EXTINF:0,الشعائر
+EXTINF:0,الشعائر
 http://178.18.29.202:9001/786/slot_5786.m3u8
-#EXTINF:0,القمر
+EXTINF:0,القمر
 http://178.18.29.202:9001/1247/slot_6247.m3u8
-#EXTINF:0,قناة ابو الفضل
+EXTINF:0,قناة ابو الفضل
 http://178.18.29.202:9001/1715/slot_6715.m3u8
-#EXTINF:0,اهل البيت فارسي
+EXTINF:0,اهل البيت فارسي
 http://178.18.29.202:9001/830/slot_5830.m3u8
-#EXTINF:0,اهل البيت
+EXTINF:0,اهل البيت
 http://178.18.29.202:9001/1593/slot_6593.m3u8
-#EXTINF:0,2 قناة العهد
+EXTINF:0,2 قناة العهد
 http://178.18.29.202:9001/556/slot_5556.m3u8
-#EXTINF:0,الاباء
+EXTINF:0,الاباء
 http://178.18.29.202:9001/1479/slot_6479.m3u8
-#EXTINF:0,الايمان
+EXTINF:0,الايمان
 http://178.18.29.202:9001/1836/slot_6836.m3u8
-#EXTINF:0,الفرات 2
+EXTINF:0,الفرات 2
 http://178.18.29.202:9001/804/slot_5804.m3u8
-#EXTINF:0,الغدير 2
+EXTINF:0,الغدير 2
 http://178.18.29.202:9001/1518/slot_6518.m3u8
-#EXTINF:0,الحجة
+EXTINF:0,الحجة
 http://178.18.29.202:9001/2331/slot_7331.m3u8 
-#EXTINF:0,الاهواز 
+EXTINF:0,الاهواز 
 http://178.18.29.202:9001/2329/slot_7329.m3u8
-#EXTINF:0,المسار 1
+EXTINF:0,المسار 1
 http://178.18.29.202:9001/2507/slot_7507.m3u8 
-#EXTINF:0,الصراط
+EXTINF:0,الصراط
 http://178.18.29.202:9001/298/slot_5298.m3u8
-#EXTINF:0,الثقلين
+EXTINF:0,الثقلين
 http://178.18.29.202:9001/511/slot_5511.m3u8
-#EXTINF:0,الولاء
+EXTINF:0,الولاء
 http://178.18.29.202:9001/1799/slot_6799.m3u8
-#EXTINF:0,بينات
+EXTINF:0,بينات
 http://178.18.29.202:9001/1705/slot_6705.m3u8
-#EXTINF:0,الاوحد
+EXTINF:0,الاوحد
 http://178.18.29.202:9001/405/slot_5405.m3u8
 
 #EXTINF:-1,Al Kawthar
@@ -324,10 +324,10 @@ http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
-#EXTINF:-1, 1 المسار
+EXTINF:-1, 1 المسار
 rtmp://msr1tv.flashmediacast.com:2071/live/livestream
 
-#EXTINF:-1 tvg-logo="http://vb.top-new.net/image/14/02/images_kwes.jpg",السلام 
+EXTINF:-1 tvg-logo="http://vb.top-new.net/image/14/02/images_kwes.jpg",السلام 
 http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
 EXTINF:-1,اهل البيت
