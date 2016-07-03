@@ -51,7 +51,7 @@ rtmp://5.189.130.147:1935/live/mbc11
 #EXTINF:-1,AR-MBC1 HD
 http://195.12.170.154:8002/play/armbc1hd
 
-#EXTINF:-1, MBC Masr1
+#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -70,7 +70,7 @@ http://38.99.146.38:7777/MBCMaser_HD.m3u8
 
 EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawmDxfcmFoZNTOLTImpVcgUNEosgQdC8bFKlQnur8_0WxNebXew", MBCMasrPlus1
+#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBCMasrPlus1
 http://38.99.146.38:7777/MBCMaser_High.flv
 EXTINF:-1,MBCMasrPlus2
 http://216.66.42.84:7777/MBCMasrPlus2_High.flv
@@ -78,12 +78,12 @@ http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3232.ts
 #EXTINF:-1,AR: MBC-Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1644.ts
-#EXTINF:-1,AR: MBC MASR 1
+#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",AR: MBC MASR 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1908.ts
 #EXTINF:-1,AR: MBC MASR 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1907.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawmDxfcmFoZNTOLTImpVcgUNEosgQdC8bFKlQnur8_0WxNebXew",MBC MASR
+#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/27.ts
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfuJQ0GzBhYiOPq2_dxwsCjS6FRx4MzxhHxnYkA2d9J9qnJ6p",MBC MASR2
@@ -92,7 +92,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.
 
 #EXTINF:-1,AR: Mbc 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
-#EXTINF:-1,AR: Mbc Masr
+#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",AR: Mbc Masr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/46.ts
 #EXTINF:-1,AR: Mbc Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/45.ts
@@ -120,7 +120,7 @@ EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
 
 
-#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
+EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
 
 
