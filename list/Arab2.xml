@@ -1878,14 +1878,18 @@ src=[",'].*([".'])
 <title>ALIraqia</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8</link>
 </item>
-<streaminginfo>
-  <cname>Al Sumaria</cname>
-  <item>
-    <title>Al-Sumaria</title>
-    <link>https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/playlist.m3u8?lalpasswendtime=1462031664&lalpasswwowzastarttime=0&lalpasswwowzastcustom=1462024468&lalpasswhash=5zaSst6qq9XBXzM5-F6FnYJvlBD34odeofrIMBeBGMY=
-</link>
-	</item>
-</streaminginfo>
+
+<item>
+<title>Alsumaria السومرية</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?.m3u8.*)"</expres>
+<page>http://www.alsumaria.tv/watch-Alsumaria-Live</page>
+<referer>http://www.alsumaria.tv</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
+</regex>
+</item>
 
 <streaminginfo>
   <cname>Al Sharqiya</cname>
