@@ -36,8 +36,25 @@
 
 
 
-
-
+<streaminginfo>
+<cname>Art Aflam 1</cname>
+<item>
+<title>test</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
+<regex>
+<name>getrtmp</name>
+<expres>streamer="(.*?)";</expres>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<page>http://embed.iptv-planet.com/embed.p...am1&amp;width=594&amp;height=404</page>
+</regex>
+<regex>
+<name>getplaypath</name>
+<expres>'file': '(.*?)'</expres>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+<page>http://embed.iptv-planet.com/embed.p...am1&amp;width=594&amp;height=404</page>
+</regex>
+</item>
+</streaminginfo>
  
 
  
