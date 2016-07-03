@@ -16,14 +16,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
-EXTINF:-1,MBC HD test
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/31.ts
-EXTINF:-1,MBC Drama
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/34.ts
-EXTINF:-1,MBC Masar
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/129.ts
-EXTINF:-1,OSn Movies Avtion HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/19.ts
+#EXTINF:-1,MBC HD test
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/31.ts
+#EXTINF:-1,MBC Drama
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/34.ts
+#EXTINF:-1,MBC Masar
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/129.ts
+#EXTINF:-1,OSn Movies Avtion HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
 XTINF:0,MBC 1 Hd
 http://178.18.29.202:9001/1444/slot_6444.m3u8
 EXTINF:-1, MBC 1
@@ -159,17 +159,36 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2221.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:0,MBC MAX HD
-http://178.18.29.202:9001/1450/slot_6450.m3u8
 
-#EXTINF:0,MBC MAX
-http://178.18.29.202:9001/390/slot_5390.m3u8
+#EXTINF:0, art aflam 1
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/124.ts
+
+#EXTINF:0, art aflam 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/125.ts
+#EXTINF:0, art حكايات
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/130.ts
+
+#EXTINF:0, art cinema 
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/127.ts
+
+#EXTINF:0,bein movies 1
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
+#EXTINF:0,bein movies 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/104.ts
+
+#EXTINF:0,bein movies 3
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/106.ts
+#EXTINF:0,OSn Movies Action HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
+#EXTINF:0,OSn on demand
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI26.ts
+#EXTINF:0,OSn Movies HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/27.ts
+
+#EXTINF:0,OSn Movies Action2 HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/28.ts
 
 
-#EXTINF:0,HD
-http://178.18.29.202:9001/1447/slot_6447.m3u8
-#EXTINF:0,HD
-http://178.18.29.202:9001/1449/slot_6449.m3u8
 
 
 
@@ -177,7 +196,7 @@ http://178.18.29.202:9001/1449/slot_6449.m3u8
 #EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
-EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
+#EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 EXTINF:-1,OSN Movies Action
 http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
@@ -409,25 +428,25 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
-#EXTINF:0,قناة البصرة
+EXTINF:0,قناة البصرة
 http://178.18.29.202:9001/2335/slot_7335.m3u8
-#EXTINF:0,الموصلية
+EXTINF:0,الموصلية
 http://178.18.29.202:9001/1279/slot_6279.m3u8
-#EXTINF:0,الرافدين
+EXTINF:0,الرافدين
 http://178.18.29.202:9001/1505/slot_6505.m3u8
-#EXTINF:0,بغداد
+EXTINF:0,بغداد
 http://178.18.29.202:9001/163/slot_5163.m3u8
-#EXTINF:0,الرشيد
+EXTINF:0,الرشيد
 http://178.18.29.202:9001/1193/slot_6193.m3u8
-#EXTINF:0,الشرقية hd
+EXTINF:0,الشرقية hd
 http://178.18.29.202:9001/2565/slot_7565.m3u8
-#EXTINF:0,الشرقية اخبارية
+EXTINF:0,الشرقية اخبارية
 http://178.18.29.202:9001/2179/slot_7179.m3u8
-#EXTINF:0,السومرية
+EXTINF:0,السومرية
 http://178.18.29.202:9001/2077/slot_7077.m3u8
-#EXTINF:0,دجلة
+EXTINF:0,دجلة
 http://178.18.29.202:9001/29/slot_5029.m3u8
-#EXTINF:0,البيان 
+EXTINF:0,البيان 
 http://178.18.29.202:9001/2333/slot_7333.m3u8
 
 
@@ -441,13 +460,7 @@ http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sl
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
 
-#EXTINF:-1,Al mayaden
-http://38.99.146.38:7777/AlMayadeen_HD.m3u8
 
-#EXTINF:0,الميادين
-http://178.18.29.202:9001/459/slot_5459.m3u8
-#EXTINF:0,الميادين
-http://178.18.29.202:9001/157/slot_5157.m3u8
 #EXTINF:-1,الميادين
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
 #EXTINF:-1,العالم
@@ -882,18 +895,15 @@ http://jafaer-tv.com
 
 #EXTINF:-1,AR-AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher 
-#EXTINF:-1,Aljazeera US
-http://38.99.146.38:7777/AlJazeeraInt_HD.m3u8
+
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
+#EXTINF:0, الجزيرة
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/94.ts
+#EXTINF:0, العربية
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/101.ts
 
-#EXTINF:-1,Russia-Today
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/442.ts
 
-#EXTINF:-1,AL-JAZEERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/87.ts
-#EXTINF:-1,aljazeera_mubasher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/88.ts
 
 #EXTINF:-1,العربية 
 plugin://plugin.video.youtube/?action=play_video&videoid=rlvfffhWo2A
@@ -924,10 +934,7 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 http://rt-a.akamaihd.net/ch_03@325607/master.m3u8
 #EXTINF:-1,BBC Arabic (Qatar)
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,France 24
-http://38.99.146.38:7777/France24Arabic_HD.m3u8
-#EXTINF:-1,Euro News Arabic
-http://38.99.146.38:7777/EuroNews_HD.m3u8
+
 
 #EXTINF:-1,DW Arabic 
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
