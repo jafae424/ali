@@ -1218,6 +1218,13 @@ http://178.18.29.202:9001/513/slot_5513.m3u8
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
+#EXTINF:-1,UK: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2240.ts
+#EXTINF:-1,UK: Nick-Jr-Too
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2242.ts
+#EXTINF:-1,UK: Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2241.ts
+
 EXTINF:0,CN عربي
 http://178.18.29.202:9001/2317/slot_7317.m3u8
 EXTINF:0,CN turk
