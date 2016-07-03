@@ -169,18 +169,109 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 
-#EXTINF:-1,NL:Fox.Sports.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1407.ts
-#EXTINF:-1,NL:Fox.Sports.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1406.ts
-#EXTINF:-1,NL:Fox.Sports.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1405.ts
-#EXTINF:-1,NL:Fox.Sports.4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1404.ts
-#EXTINF:-1,NL:Fox.Sports.5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1403.ts
-#EXTINF:-1,NL:Fox.Sports.6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1441.ts
+
+#EXTINF:-1,US: Fight Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3219.ts
+#EXTINF:-1,US WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3221.ts
+#EXTINF:-1,US Sports Net
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3227.ts
+#EXTINF:-1,US NFL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3224.ts
+#EXTINF:-1,US NBC Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3228.ts
+#EXTINF:-1,US Motor Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3229.ts
+#EXTINF:-1,US Fox Sports 506 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3230.ts
+#EXTINF:-1,US Fight Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3220.ts
+#EXTINF:-1,US BYU Sports TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3231.ts
+#EXTINF:-1,USA:NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2925.ts
+#EXTINF:-1,USA:NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2926.ts
+#EXTINF:-1,USA:ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2929.ts
+#EXTINF:-1,US: FOX Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2217.ts
+#EXTINF:-1,US: TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2322.ts
+#EXTINF:-1,US: TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2321.ts
+#EXTINF:-1,US: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2323.ts
+#EXTINF:-1,US: DTX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2329.ts
+
+#EXTINF:-1,USA:Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2920.ts
+#EXTINF:-1,USA:Poker Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2921.ts
+#EXTINF:-1,USA:Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2922.ts
+#EXTINF:-1,US: Fox Sports  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2213.ts
+#EXTINF:-1,US: Fox Sports  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2212.ts
+#EXTINF:-1,US: Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2208.ts
+#EXTINF:-1,US: Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2207.ts
+#EXTINF:-1,UK: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2964.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2965.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2966.ts
+#EXTINF:-1,UK: Sky Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2967.ts
+#EXTINF:-1,UK: Sky Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2968.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2969.ts
+#EXTINF:-1,UK: Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/824.ts
+#EXTINF:-1,UK: Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/823.ts
+#EXTINF:-1,UK: Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/822.ts
+#EXTINF:-1,UK: Sky Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/821.ts
+#EXTINF:-1,UK: Sky Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/820.ts
+#EXTINF:-1,UK: Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/819.ts
+#EXTINF:-1,UK: BT Sports Extra 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2826.ts
+#EXTINF:-1,UK: SKY BT Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1488.ts
+#EXTINF:-1,UK:  SKY BT Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1487.ts
+#EXTINF:-1,UK: Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/818.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2160.ts
+#EXTINF:-1,UK: BTSport Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2737.ts
+#EXTINF:-1,UK: BTSportMosaic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2744.ts
+#EXTINF:-1,UK: BTSportExtra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2745.ts
+#EXTINF:-1,UK: Eurosport2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/3318.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1872.ts
+#EXTINF:-1,UK: Premier Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2828.ts
+#EXTINF:-1,UK: ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/1871.ts
+#EXTINF:-1,UK: FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2169.ts
+#EXTINF:-1,UK: RACING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2162.ts
+
 
 #EXTINF:-1,Al Kass 1 HD (Qatar)
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_23s20.m3u8
