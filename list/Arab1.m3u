@@ -484,7 +484,9 @@ http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
 #EXTINF:-1,aljadeed الجديد
-https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1464102062&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1464094866&mech9waktahash=Gs6QCQh0mWWKyvEgQw88w25rakrdHEJFEEjcGl1JO5Y=
+https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1467582284&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1467575088&mech9waktahash=sfCoWlqc2X4WlnVXgpYvtiy5h_88OyuFPkNc9RYEj7M=
+#EXTINF:-1,aljadeed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/23.ts
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
 
@@ -528,13 +530,9 @@ rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elah
 #EXTINF:-1,future tv
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
-#EXTINF:-1,NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/140.ts
+#EXTINF:-1,AR: NBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/said/said/2938.ts
 
-#EXTINF:-1,MTV-Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/486.ts
-#EXTINF:-1,ANN-news
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/155.ts
 #EXTINF:-1,AR: Mtv Lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/22.ts
 #EXTINF:-1,AR: Ldc
@@ -547,8 +545,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/88.ts
 #EXTINF:-1,AR: Nbn Lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/136.ts
-#EXTINF:-1,AR: Aljadeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/23.ts
+
+
 #EXTINF:-1,AR: Lebanon tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/102.ts
 #EXTINF:-1,AR: Manar tv
@@ -863,6 +861,10 @@ http://195.12.170.154:8002/play/arrotanacinemahd
 http://195.12.170.154:8002/play/artimecomedy
 #EXTINF:-1,AR-RotanaKhaliji HD
 http://195.12.170.154:8002/play/arrotanakhalijihd 
+
+
+
+
 #EXTINF:0,AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
 
