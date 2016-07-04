@@ -451,6 +451,8 @@ EXTINF:0,قناة البصرة
 http://178.18.29.202:9001/2335/slot_7335.m3u8
 EXTINF:0,الموصلية
 http://178.18.29.202:9001/1279/slot_6279.m3u8
+EXTINF:0,الموصلية
+http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m3u8
 EXTINF:0,الرافدين
 http://178.18.29.202:9001/1505/slot_6505.m3u8
 EXTINF:0,بغداد
