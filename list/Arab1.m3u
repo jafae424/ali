@@ -2,6 +2,7 @@
 
 #EXTM3U
 
+
 #EXTINF:-1, [COLOR red] --  http://Jafaer-tv.com --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
@@ -59,6 +60,15 @@ rtmp://5.189.130.147:1935/live/mbcmasr11
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
+#EXTINF:-1,ar:MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/158.ts
+
+#EXTINF:-1,ar:MBCDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/166.ts
+#EXTINF:-1,ar:MBCMasr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/165.ts
+#EXTINF:-1,ar:MBCMasr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/164.ts
 
 EXTINF:-1,[COLOR red]MBC1  [/COLOR]
 http://216.66.42.84:7777/MBC1_High.flv
@@ -111,16 +121,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 
-EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",MBC-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/44.ts
-
-
-EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", mbc masar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/191.ts
-
-
-
-
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 
@@ -170,6 +170,17 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.t
 
 #EXTINF:0, art cinema 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/127.ts
+
+#EXTINF:-1,ar:ArtAflam1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/167.ts
+#EXTINF:-1,ArtAflam2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/168.ts
+#EXTINF:-1,ar:ArtCinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/169.ts
+#EXTINF:-1,ar:ArtHekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/170.ts
+#EXTINF:-1,ar:ArtHekayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/171.ts
 
 #EXTINF:0,bein movies 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
@@ -548,11 +559,6 @@ rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://pla
 #EXTINF:-1,Al_Donia tv
 rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=addounia&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/addouniatv.htm
 
-#EXTINF:-1,future tv
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
-
-
-
 #EXTINF:-1,AR: Mtv Lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/22.ts
 #EXTINF:-1,AR: Ldc
@@ -641,9 +647,9 @@ rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_360p swfUrl=http:/
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8
 #EXTINF:-1,Oman tv 3
 http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+
 #EXTINF:-1,Oman tv 4
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
-
 #EXTINF:0,ِAbu Dhubi HD
 http://178.18.29.202:9001/2562/slot_7562.m3u8
 #EXTINF:0,الامارات
@@ -713,6 +719,8 @@ EXTINF:0,Rotana Aflam افلام
 http://178.18.29.202:9001/1471/slot_6471.m3u8
 EXTINF:0,Rotana cinema
 http://178.18.29.202:9001/1791/slot_6791.m3u8
+#EXTINF:-1,Al Hayat (Egypt)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,القاهرة و الناس 1 
@@ -818,9 +826,10 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w
 #EXTINF:-1, النهاراليوم
 http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
 
-#EXTINF:-1,النهار
+#EXTINF:-1,النهار Alnahar
 http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
-
+#EXTINF:-1,Al Nahar Cinema (Egypt)
+http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/index.m3u8
 #EXTINF:0,Melody aflam
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
 #EXTINF:-1,Melody Drama
@@ -883,6 +892,7 @@ http://195.12.170.154:8002/play/artimecomedy
 http://195.12.170.154:8002/play/arrotanakhalijihd 
 
 
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
 
 #EXTINF:0,AlNahar Drama
