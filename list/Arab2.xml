@@ -3575,12 +3575,43 @@ src=[",'].*([".'])
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
 </regex>
 </item>
-</streamingInfos>
 
 
 
+<item>
+<title> test</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDYzMDMxMTV%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPWQxODA5MWVkYTQ4NDI3NjFjODhjOWQwY2QxNTk3YTI0MWQwOWYwNWI1N2ZmMDE0ZjcxN2QyMTVjZTJkNmJjMDQ%253D%252196e4sdLWrezE46RaCBzzP43%2FLEM5en2KujAosbeDimQ%253D%257Ehmac%253DACF8A1E4467676C9BCE2721CA5EFF840BD6ED1780046954039373A3B0D942ADC%26hdntl%3Dexp%3D1406303115~acl%3D%252f*~data%3Dhdntl~hmac%3D4ab96fa533fd7c40204e487bfc7befaf31dd1f49c27eb1f610673fed9ff97a5f%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C37%2Cf%2C52293145.57%2C52293155.9%2Ct%2Cs%2CGARWLHLMHNGA%2C2.11.3%2C37%26hdcore%3D2.11.3</link>
+
+<regex>
+<name>get-urlencoded</name>
+<expres>$pyFunction:urllib.quote_plus('$doregex[get-url]'+'&amp;hdcore=2.11.3|X-Forwarded-For=77.132.237.189')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>(.*)</expres>
+<page>http://www.wat.tv/get/nt1live/591997?getURL=6</page>
+</regex>
+</item>
 
 	
+<item>
+<title>f4m </title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDYzMDMxMTV%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPWQxODA5MWVkYTQ4NDI3NjFjODhjOWQwY2QxNTk3YTI0MWQwOWYwNWI1N2ZmMDE0ZjcxN2QyMTVjZTJkNmJjMDQ%253D%252196e4sdLWrezE46RaCBzzP43%2FLEM5en2KujAosbeDimQ%253D%257Ehmac%253DACF8A1E4467676C9BCE2721CA5EFF840BD6ED1780046954039373A3B0D942ADC%26hdntl%3Dexp%3D1406303115~acl%3D%252f*~data%3Dhdntl~hmac%3D4ab96fa533fd7c40204e487bfc7befaf31dd1f49c27eb1f610673fed9ff97a5f%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C37%2Cf%2C52293145.57%2C52293155.9%2Ct%2Cs%2CGARWLHLMHNGA%2C2.11.3%2C37%26hdcore%3D2.11.3</link>
+
+<regex>
+<name>get-urlencoded</name>
+<expres>$pyFunction:urllib.quote_plus('$doregex[get-url]'+'&amp;hdcore=2.11.3|X-Forwarded-For=77.132.237.189')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>(.*)</expres>
+<page>http://www.wat.tv/get/nt1live/591997?getURL=2</page>
+</regex>
+</item>
 
 
 
@@ -3588,3 +3619,8 @@ src=[",'].*([".'])
 
 
 
+
+
+
+
+</streamingInfos>
