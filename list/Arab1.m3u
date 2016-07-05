@@ -17,6 +17,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
+
+#EXTINF:-1,test
+rtmp://web2.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=artaflam2&width=594&height=404&key2=1118 <objectEncoding>
+
 #EXTINF:-1,MBC HD 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/31.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
