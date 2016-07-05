@@ -379,6 +379,9 @@ EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",2 قناة الامام الحسين �
 http://ca.live.imamhussein.tv:1935/live/ih202/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref المعارف
 rtmp://www.almaareftv.com:1935/live/ playpath=mp4:11 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live/ <objectEncoding>
+#EXTINF:-1, Alhadi
+rtmp://38.96.175.40/liveTrans/ playpath=channel5_110k swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.ar.haditv.com/Live/11/ <objectEncoding>
+
 
 #EXTINF:-1, العقيلة
 http://144.76.218.235/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
