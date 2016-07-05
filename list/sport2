@@ -1744,6 +1744,23 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 
+<item>
+<title>UnPackTest</title>
+<link>$doregex[get-m3u8]</link>
+<regex>
+
+<name>get-m3u8</name>
+<expres>(http.*?.m3u8)"</expres>
+<page>$doregex[get-unpacked]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-unpacked</name>
+<expres>$pyFunction:get_unpacked('http://shoof.alkass.net/shoof/live/live_2.php','.script.*(eval.*)\\s' )</expres>
+<page></page>
+</regex>
+</item>
 
 
 
