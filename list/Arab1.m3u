@@ -307,8 +307,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am0
 
 
 
-#EXTINF:0,الانوار 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/267.ts
+
 EXTINF:0,المهدي 
 http://178.18.29.202:9001/500/slot_5500.m3u8
 EXTINF:0,الكوثر
@@ -362,6 +361,8 @@ http://178.18.29.202:9001/405/slot_5405.m3u8
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
+#EXTINF:0,الانوار 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/267.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
 EXTINF:-1, 1 المسار
