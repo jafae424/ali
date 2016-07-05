@@ -54,7 +54,7 @@ http://</link>
  <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR gold][B]LIVE Sports list 2[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
@@ -65,7 +65,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 
-<item>
+item>
 <title>[COLOR gold][B]MamaHD TV Channels [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/mamahd.com.cfg&amp;mode=1</jsonrpc>
@@ -133,13 +133,13 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 
-<item>
+item>
 <title>Bein Sport 1 </title>
 <link>http://149.202.207.8:8080/bein-1-20616/local/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 2 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-12-20616/local/index.m3u8#
@@ -149,17 +149,10 @@ sublink:http://149.202.198.114:8000/play/beinshd2#</link>
 
 
 
-<item>
-<title>multilink test</title>
-<multilink>
-<link>http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts</link>
-<link>http://iptv33.us.to/ip441555/3136774336/1.ch</link>
-<link>http://iptv33.us.to/ip441555/3136774336/3.ch</link>
-</multilink>
-</item>
 
 
-<item>
+
+item>
 <title>Bein Sport 3 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-3-20616/local/index.m3u8#
@@ -167,7 +160,7 @@ sublink:http://149.202.198.114:8000/play/beinshd3#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 4 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-4-20616/local/index.m3u8#
@@ -175,7 +168,7 @@ sublink:http://149.202.198.114:8000/play/beinshd4#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 5 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-5-20616/local/index.m3u8#
@@ -183,7 +176,7 @@ sublink:http://149.202.198.114:8000/play/beinshd5#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 6 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-6-20616/local/index.m3u8#
@@ -191,7 +184,7 @@ sublink:http://149.202.198.114:8000/play/beinshd6#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 7 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-7-20616/local/index.m3u8#
@@ -199,7 +192,7 @@ sublink:http://149.202.198.114:8000/play/beinshd7#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 8 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-8-20616/local/index.m3u8#
@@ -207,27 +200,27 @@ sublink:http://149.202.198.114:8000/play/beinshd8#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sports 9 </title>
 <link>sublink:http://149.202.207.8:8080/bein-9-20616/local/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd9#</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sports 10 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-10-20616/local/index.m3u8#
 <link>http://149.202.198.114:8000/play/beinshd10#</link>
 <thumbnail></thumbnail>
 </item>
-<item>
+item>
 <title>Bein Sport 11 HD </title>
 <link>http://149.202.207.8:8080/bein-11-20616/local/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>Bein Sport 12 HD  </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-12-20616/local/index.m3u8#
