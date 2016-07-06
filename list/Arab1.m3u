@@ -34,10 +34,6 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
 
 
 
-
-
-
-
 #EXTINF:-1,AR-Mbc-Drama
 http://195.12.170.154:8002/play/armbcdrama|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
@@ -493,6 +489,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 rtmp://162.244.80.103:1935/liveorigin playpath=livestream_360p swfUrl=http://alwhdat.net/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/almanar/ <objectEncoding>
 #EXTINF:-1,Almanar TV (Lebanon) 
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
@@ -1042,6 +1039,8 @@ http://195.12.170.154:8002/play/aralgerya4
 
 #EXTINF:-1,AR-Samira-Tv
 http://195.12.170.154:8002/play/arsamiratv
+#EXTINF:-1,AR-Samira-Tv link 2
+http://176.31.46.168/osltv/arablive-tv.m3u8?channel=samira-tv-cuisine&type=.m3u8
 #EXTINF:-1, 2m maroco
 http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8
 
