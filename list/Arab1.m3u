@@ -13,7 +13,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 #EXTINF:-1,  [COLOR red]  بعض القنوات تحتاج الضغط اكثر من مره واحده لكي تعمل[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
+#EXTINF:-1, [COLOR green] -------------الرجاء الرجاء الضغط مرتين حتئ تعمل القناة------------- --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
@@ -21,8 +21,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-#EXTINF:-1,1111
-http://185.5.222.227:4242/bysid/5607|User-Agent=VLC
 
 #EXTINF:-1, test
 rtmp://www.teledunet.net:1935/live?idu=salweity_71669982600/mbc_1|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -51,7 +49,14 @@ http://195.12.170.154:8002/play/armbc1hd
 rtmp://5.189.130.147:1935/live/mbcmasr11
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-
+#EXTINF:-1,mbc 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/19.ts
+#EXTINF:-1,MBCDRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/25.ts
+#EXTINF:-1,MBC_Masr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/28.ts
+#EXTINF:-1,MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/27.ts
 
 EXTINF:-1,ar:MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/158.ts
