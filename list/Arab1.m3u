@@ -15,8 +15,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
-#EXTINF:-1, test1111
-http://185.5.222.227:4242/bysid/5607
+
+
+|User-Agent=VLC
+
+
+
+#EXTINF:-1,1111
+http://185.5.222.227:4242/bysid/5607|User-Agent=VLC
 
 #EXTINF:-1, test
 rtmp://www.teledunet.net:1935/live?idu=salweity_71669982600/mbc_1|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
