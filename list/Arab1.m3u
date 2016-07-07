@@ -46,20 +46,20 @@ rtmp://5.189.130.147:1935/live/mbcmasr11
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-#EXTINF:-1,ar:MBC1
+EXTINF:-1,ar:MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/158.ts
 
-#EXTINF:-1,ar:MBCDrama
+EXTINF:-1,ar:MBCDrama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/166.ts
-#EXTINF:-1,ar:MBCMasr
+EXTINF:-1,ar:MBCMasr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/165.ts
-#EXTINF:-1,ar:MBCMasr2
+EXTINF:-1,ar:MBCMasr2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/164.ts
 
 EXTINF:-1,[COLOR red]MBC1  [/COLOR]
 http://216.66.42.84:7777/MBC1_High.flv
 
-#EXTINF:-1,[COLOR red]MBC1 [/COLOR]
+EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
 EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
 http://38.99.146.38:7777/MBCDrama_HD.m3u8
@@ -144,55 +144,54 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 
-#EXTINF:0, art aflam 1
+EXTINF:0, art aflam 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/124.ts
 
-#EXTINF:0, art aflam 2
+EXTINF:0, art aflam 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/125.ts
-#EXTINF:0, art حكايات
+EXTINF:0, art حكايات
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/130.ts
-#EXTINF:0, art حكايات 2
-
+EXTINF:0, art حكايات 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.ts
 
-#EXTINF:0, art cinema 
+EXTINF:0, art cinema 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/127.ts
 
-#EXTINF:-1,ar:ArtAflam1
+EXTINF:-1,ar:ArtAflam1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/167.ts
-#EXTINF:-1,ArtAflam2
+EXTINF:-1,ArtAflam2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/168.ts
-#EXTINF:-1,ar:ArtCinema
+EXTINF:-1,ar:ArtCinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/169.ts
 #EXTINF:-1,ar:ArtHekayat
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/170.ts
-#EXTINF:-1,ar:ArtHekayat2
+EXTINF:-1,ar:ArtHekayat2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/171.ts
 
-#EXTINF:0,bein movies 1
+EXTINF:0,bein movies 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
-#EXTINF:0,bein movies 2
+EXTINF:0,bein movies 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/104.ts
 
-#EXTINF:0,bein movies 3
+EXTINF:0,bein movies 3
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/106.ts
-#EXTINF:0,bein movies 4
+EXTINF:0,bein movies 4
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/157.ts
-#EXTINF:0,OSn Movies Action HD
+EXTINF:0,OSn Movies Action HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
-#EXTINF:0,OSn on demand
+EXTINF:0,OSn on demand
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI26.ts
-#EXTINF:0,OSn Movies HD
+EXTINF:0,OSn Movies HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/27.ts
 
-#EXTINF:0,OSn Movies Action2 HD
+EXTINF:0,OSn Movies Action2 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/28.ts
 
-#EXTINF:0,OSn Movies2
+EXTINF:0,OSn Movies2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/167.ts
 
 
-#EXTINF:0,OSn Movies 3
+EXTINF:0,OSn Movies 3
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/168.ts
 
 
@@ -204,12 +203,6 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
-EXTINF:-1,OSN Movies Action
-http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
-EXTINF:-1,bein Movies 1
-http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
-EXTINF:-1,OSN Movies
-http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
 
 
 
