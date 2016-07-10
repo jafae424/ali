@@ -39,8 +39,14 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/129.ts|U
 EXTINF:0,OSn Movies Avtion HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/19.ts
 
-
-
+#EXTINF:-1,AR: MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/osama/osama/3232.ts
+#EXTINF:-1,AR: MBC-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/osama/osama/1644.ts
+#EXTINF:-1,AR: MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/osama/osama/1908.ts
+#EXTINF:-1,AR: MBC MASR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/osama/osama/1907.ts
 #EXTINF:-1,AR-Mbc-Drama
 http://195.12.170.154:8002/play/armbcdrama
 #EXTINF:-1, MBC 1
