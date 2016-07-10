@@ -87,7 +87,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfuJQ0GzBhYiOPq2_dxwsCjS6FRx4MzxhHxnYkA2d9J9qnJ6p",MBC MASR2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/28.ts
 
-
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/279.ts
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/273.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/272.ts
+#EXTINF:-1,MBC Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/271.ts
 #EXTINF:-1,AR: Mbc 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",AR: Mbc Masr
