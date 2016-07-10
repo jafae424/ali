@@ -34,36 +34,52 @@ http://alkass-i.akamaihd.net/hls/live/205534/5/live_18s.m3u8
 #EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
+#EXTINF:-1,AR_BEIN_MAX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
+#EXTINF:-1,AR_BEIN_MAX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
 
-#EXTINF:-1,bein sport1 hd
+#EXTINF:-1,AR_BEIN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
+#EXTINF:-1,AR_BEIN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
+#EXTINF:-1,AR_BEIN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/3.ts
+#EXTINF:-1,AR_BEIN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/4.ts
+
+#EXTINF:-1,FR_RTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/50.ts
+
+EXTINF:-1,bein sport1 hd
 http://iptv33.us.to/ip441555/3136774336/1.ch
 
-#EXTINF:-1,bein sport2 hd
+EXTINF:-1,bein sport2 hd
 http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
-#EXTINF:-1,bein sport3 hd
+EXTINF:-1,bein sport3 hd
 http://iptv33.us.to/ip441555/3136774336/3.ch
 
-#EXTINF:-1,beIN_s1
+EXTINF:-1,beIN_s1
 http://iptv33.us.to/ip441555/3136774336/1.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s2
+EXTINF:-1,beIN_s2
 http://iptv33.us.to/ip441555/3136774336/2.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s3
+EXTINF:-1,beIN_s3
 http://iptv33.us.to/ip441555/3136774336/3.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s4
+EXTINF:-1,beIN_s4
 http://iptv33.us.to/ip441555/3136774336/4.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s5
+EXTINF:-1,beIN_s5
 http://iptv33.us.to/ip441555/3136774336/5.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s6
+EXTINF:-1,beIN_s6
 http://iptv33.us.to/ip441555/3136774336/6.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s7
+EXTINF:-1,beIN_s7
 http://iptv33.us.to/ip441555/3136774336/7.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s8
+EXTINF:-1,beIN_s8
 http://iptv33.us.to/ip441555/3136774336/8.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s9
+EXTINF:-1,beIN_s9
 http://iptv33.us.to/ip441555/3136774336/9.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s10
+EXTINF:-1,beIN_s10
 http://iptv33.us.to/ip441555/3136774336/10.ch|User-Agent=VLC
-#EXTINF:-1,beIN_s11
+EXTINF:-1,beIN_s11
 http://iptv33.us.to/ip441555/3136774336/11.ch|User-Agent=VLC
 #EXTINF:-1,beIN_s12
 http://iptv33.us.to/ip441555/3136774336/12.ch|User-Agent=VLC
@@ -126,7 +142,7 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/72.ts
 #EXTINF:0,Sky Sport 3
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/73.ts
 
-#EXTINF:0,Sky Sport
+
 #EXTINF:0,AD sport 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/132.ts
 
