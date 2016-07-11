@@ -30,6 +30,25 @@ http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="thailand - תאילנד" tvg-logo="",FOX
 http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
+
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,Discovery HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1,UK | Sky One
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/52.ts
 #EXTINF:-1,UK | Sky News
