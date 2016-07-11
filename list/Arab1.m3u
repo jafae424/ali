@@ -106,14 +106,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-EXTINF:-1,Aflam_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/51.ts
-EXTINF:-1,Aflam_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/52.ts
-EXTINF:-1,Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/54.ts
-EXTINF:-1,Hekayat_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/75.ts
 
 EXTINF:0, art aflam 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/124.ts
@@ -285,8 +277,7 @@ http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
 
 #EXTINF:-1, Aletejah الاتجاه
 http://185.105.4.137:1935/aletejahtv/aletejahtv/playlist.m3u8
-#EXTINF:-1,Alitejah TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/324.ts
+
 
 #EXTINF:-1,Taghier التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
@@ -297,10 +288,7 @@ rtmp://176.241.91.122:1935/live/ playpath=alahad swfUrl=http://ssl.p.jwpcdn.com/
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Y9g6gK",الفرات
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
-#EXTINF:-1,ALFORAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/396.ts
-#EXTINF:-1,AlFayhaaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/6.ts
+
 
 #EXTINF:-1,Aliraqia 2
 http://38.99.146.38:7777/AlIraqia2_HD.m3u8
