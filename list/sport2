@@ -152,78 +152,78 @@ sublink:http://149.202.198.114:8000/play/beinshd2#</link>
 
 
 
-item>
+<item>
 <title>Bein Sport 3 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-3-20616/local/index.m3u8#
+sublink:http://80.243.182.106:8080/Bien/Bien3/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd3#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sport 4 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-4-20616/local/index.m3u8#
+sublink:http://80.243.182.106:8080/Bien/Bien4/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd4#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sport 5 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-5-20616/local/index.m3u8#
+sublink:http://80.243.182.106:8080/Bien/Bien5/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd5#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sport 6 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-6-20616/local/index.m3u8#
+sublink:http://149.202.207.8:8080/bhensp-6/counter1/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd6#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sport 7 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-7-20616/local/index.m3u8#
+sublink:http://149.202.207.8:8080/bhensp-7/counter1/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd7#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sport 8 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-8-20616/local/index.m3u8#
+sublink:http://149.202.207.8:8080/bhensp-8/counter1/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd8#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sports 9 </title>
-<link>sublink:http://149.202.207.8:8080/bein-9-20616/local/index.m3u8#
+<link>sublink:http://149.202.207.8:8080/bhensp-9/counter1/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd9#</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sports 10 </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-10-20616/local/index.m3u8#
+sublink:http://149.202.207.8:8080/bhensp-10/counter1/index.m3u8#
 <link>http://149.202.198.114:8000/play/beinshd10#</link>
 <thumbnail></thumbnail>
 </item>
 item>
 <title>Bein Sport 11 HD </title>
-<link>http://149.202.207.8:8080/bein-11-20616/local/index.m3u8</link>
+<link>http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>Bein Sport 12 HD  </title>
 <link>
-sublink:http://149.202.207.8:8080/bein-12-20616/local/index.m3u8#
+sublink:http://149.202.207.8:8080/bhensp-12/counter1/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 <thumbnail></thumbnail>
 </item>
