@@ -283,8 +283,26 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/str
 #EXTINF:-1,UK-BT-Sport-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/amr123/amr123/519.ts
 
+#EXTINF:0,TRUE SPORT 2 s1
+http://216.185.103.158:1935/live2//chthaipremier31/playlist.m3u8
+#EXTINF:0, TRUE SPORT HD2
+http://216.185.103.158:1935/live2/chthaipremier11/playlist.m3u8
+#EXTINF:0, FOX SPORTS AU 1 HD
+http://162.248.6.122:8080
+#EXTINF:0, FOX SPORTS AU 4 HD
+http://162.248.6.122:8084
 
-
+#EXTINF:0, Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0, EUROSPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+ 
+#EXTINF:0, NFL Network (HD)
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
+#EXTINF:0, NHL Network
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, ESPN HD
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1, TRT Sport
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1,NTV sport
