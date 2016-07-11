@@ -24,10 +24,10 @@ EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
 http://38.99.146.38:7777/MBCDrama_HD.m3u8
 EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
 http://38.99.146.38:7777/MBCMaser_HD.m3u8
-
-
 EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
+
+
 EXTINF:0,MBC HD 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/31.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 EXTINF:0,MBC Drama
@@ -52,24 +52,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportip
 rtmp://5.189.130.147:1935/live/mbcmasr11
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-EXTINF:-1,mbc 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/19.ts
-EXTINF:-1,MBCDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/25.ts
-EXTINF:-1,MBC_Masr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/28.ts
-EXTINF:-1,MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/0919/0919/27.ts
 
-EXTINF:-1,ar:MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/158.ts
-
-EXTINF:-1,ar:MBCDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/166.ts
-EXTINF:-1,ar:MBCMasr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/165.ts
-EXTINF:-1,ar:MBCMasr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/164.ts
 
 EXTINF:-1,[COLOR red]MBC1  [/COLOR]
 http://216.66.42.84:7777/MBC1_High.flv
@@ -81,38 +64,7 @@ EXTINF:-1,MBCMasrPlus2
 http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
 
-EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",MBC MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/27.ts
- 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfuJQ0GzBhYiOPq2_dxwsCjS6FRx4MzxhHxnYkA2d9J9qnJ6p",MBC MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/28.ts
 
-#EXTINF:-1,MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/279.ts
-#EXTINF:-1,MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/273.ts
-#EXTINF:-1,MBC MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/272.ts
-#EXTINF:-1,MBC Masr 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/271.ts
-EXTINF:-1,AR: Mbc 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/50.ts
-EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o",AR: Mbc Masr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/46.ts
-EXTINF:-1,AR: Mbc Masr 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/45.ts
-EXTINF:-1,AR: Mbc Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/42.ts
-EXTINF:-1,AR: Osn MBC+ Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/172.ts
-EXTINF:-1,AR: Osn FNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1185.ts
-EXTINF:-1,AR: Osn Yahla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1186.ts
-EXTINF:-1,AR: Osn Yahla Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1194.ts
-EXTINF:-1,AR: Osn Yahla Shabab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1197.ts
 EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",OSN-MBC+DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
 
@@ -146,8 +98,7 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,AR-Mbc-Max HD
 http://195.12.170.154:8002/play/armbcmaxhd
-EXTINF:-1,MBC-MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/43.ts
+
 
 
 #EXTINF:-1,Arabic:Art Hekayat 1
@@ -177,16 +128,7 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/170.ts
 EXTINF:0, art cinema 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/127.ts
 
-EXTINF:-1,ar:ArtAflam1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/167.ts
-EXTINF:-1,ArtAflam2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/168.ts
-EXTINF:-1,ar:ArtCinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/169.ts
-#EXTINF:-1,ar:ArtHekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/170.ts
-EXTINF:-1,ar:ArtHekayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs.net:8000/live/dima/dima/171.ts
+
 
 EXTINF:0,bein movies 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/105.ts
@@ -226,170 +168,6 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 #EXTINF:-1, bein movies
 http://zonalivetv.at.ua/beINMovies3.m3u8
 
-
-
-EXTINF:-1,OSN-BoxOffice1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/109.ts
-
-EXTINF:-1,Bein-Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/387.ts
-EXTINF:-1,AR: Osn Movies Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/180.ts
-EXTINF:-1,AR: Osn Movies Disny
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/184.ts
-EXTINF:-1,AR: Osn Movies Disny XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/182.ts
-
-EXTINF:-1,OSN-movie-kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/624.ts
-EXTINF:-1,AR: Osn Starz Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1273.ts
-EXTINF:-1,AR: Osn Starz Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1272.ts
-EXTINF:-1,AR: Osn Dinsey Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/1196.ts
-
-
-
-#EXTINF:-1,Bein Movies 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/482.ts
-#EXTINF:-1,Bein Movies 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/119.ts
-#EXTINF:-1,BeIN Movies 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/118.ts
-#EXTINF:-1,Bein Movies 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/189.ts
-#EXTINF:-1,Bein Baraem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/350.ts
-#EXTINF:-1,OSN YAHALA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/212.ts
-#EXTINF:-1,OSN YAHALA drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/213.ts
-#EXTINF:-1,OSN Yahala Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/499.ts
-#EXTINF:-1,OSN Ondemand sc-fi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/223.ts
-#EXTINF:-1,OSN Ondemand Horro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/94.ts
-#EXTINF:-1,OSN MOVIES KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/218.ts
-#EXTINF:-1,OSN Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/210.ts
-#EXTINF:-1,OSN Movies Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/222.ts
-#EXTINF:-1,OSN Cinema 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/233.ts
-#EXTINF:-1,OSN Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/234.ts
-#EXTINF:-1,OSN BOXOFFICE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/236.ts
-#EXTINF:-1,OSN BoxOffice 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/237.ts
-#EXTINF:-1,OSN BoxOffice 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/238.ts
-#EXTINF:-1,OSN Box store 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/12.ts
-#EXTINF:-1,OSN Box store 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/13.ts
-#EXTINF:-1,OSN Box store 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/14.ts
-#EXTINF:-1,OSN ART Hikayat 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/110.ts
-#EXTINF:-1,OSN ART Hekayat 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/305.ts
-#EXTINF:-1,OSN ART Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/306.ts
-#EXTINF:-1,OSN ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/106.ts
-#EXTINF:-1,OSN Art Aflam 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/419.ts
-#EXTINF:-1,OSN Art Aflam 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/406.ts
-#EXTINF:-1,OSN AlYawm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/494.ts
-
-
-
-#EXTINF:-1,osn-yahala-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/383.ts
-#EXTINF:-1,OSN-MBC+DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/21.ts
-#EXTINF:-1,OSN-Yahala-Shabab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/24.ts
-#EXTINF:-1,OSN-AlYoum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/384.ts
-#EXTINF:-1,OSN-CINEMA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/153.ts
-#EXTINF:-1,OSN_Cinma_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/403.ts
-#EXTINF:-1,OSN-MOVIES-ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/26.ts
-#EXTINF:-1,OSN-MOVIES-ACTION+2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/18.ts
-#EXTINF:-1,OSN-MOVIES-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/25.ts
-#EXTINF:-1,OSN-MOVIES-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/19.ts
-#EXTINF:-1,OSN-MOVIES-premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/323.ts
-#EXTINF:-1,OSN-MOVIES-premier2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/412.ts
-#EXTINF:-1,OSN-Movie-FESTIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/27.ts
-#EXTINF:-1,OSN-MOVIES-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/292.ts
-#EXTINF:-1,OSN-StarMovie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/454.ts
-#EXTINF:-1,OSN_Starworld
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/151.ts
-#EXTINF:-1,OSN-FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/399.ts
-#EXTINF:-1,OSN-BoxOffice1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/109.ts
-#EXTINF:-1,OSN-FIGHT-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/625.ts
-#EXTINF:-1,Bein-Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/387.ts
-#EXTINF:-1,Bein-Movies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/343.ts
-#EXTINF:-1,OSN-Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/404.ts
-#EXTINF:-1,OSN-movie-kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/624.ts
-#EXTINF:-1,OSN-NATGEOWILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/626.ts
-#EXTINF:-1,Nat-Geo-AD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/82.ts
-#EXTINF:-1,Animal-Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/91.ts
-#EXTINF:-1,DISCOVERY-CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/124.ts
-#EXTINF:-1,ART-AFLAM1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/33.ts
-#EXTINF:-1,ART-AFLAM2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/32.ts
-#EXTINF:-1,ART-CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/76.ts
-#EXTINF:-1,ART-Hekayat1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/asd12345/asd12345/35.ts
-EXTINF:-1,OSN-NATGEOWILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/626.ts
-EXTINF:-1,Nat-Geo-AD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/82.ts
-EXTINF:-1,Animal-Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/91.ts
-EXTINF:-1,DISCOVERY-CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/124.ts
-EXTINF:-1,ART-AFLAM1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/33.ts
-EXTINF:-1,ART-AFLAM2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/32.ts
-EXTINF:-1,ART-CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/76.ts
-EXTINF:-1,ART-Hekayat1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/35.ts
-EXTINF:-1,ART-Hekayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/34.ts
 
 
 
