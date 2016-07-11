@@ -41,12 +41,13 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/19.ts
 
 
 #EXTINF:-1,AR-Mbc-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armbcdrama
+http://195.12.170.154:8002/play/armbcdrama
 #EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
 #EXTINF:-1,AR-MBC1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armbc1hd
-
+http://195.12.170.154:8002/play/armbc1hd
+#EXTINF:-1,AR: MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/euro2016/o0VpuvcvWh/2229.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
@@ -124,16 +125,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 
 #EXTINF:-1,AR-Mbc4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armbc4hd
+http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1,AR-Mbc2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armbc2hd
+http://195.12.170.154:8002/play/armbc2hd
 #EXTINF:-1,AR-MBC-3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armbc3hd
+http://195.12.170.154:8002/play/armbc3hd
 
 
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 
+#EXTINF:-1,MBC 4 HD
+http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1,MBC 4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
@@ -142,7 +145,7 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 group-title=”Arab”,MBC MAX
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,AR-Mbc-Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armbcmaxhd
+http://195.12.170.154:8002/play/armbcmaxhd
 EXTINF:-1,MBC-MAX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/43.ts
 
@@ -680,17 +683,17 @@ http://38.99.146.38:7777/OTV_HD.m3u8
 http://38.99.146.38:7777/TeleLiban_HD.m3u8
 
 #EXTINF:-1,AR-Otv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arotv
+http://195.12.170.154:8002/play/arotv
 #EXTINF:-1,AR-NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arnbn
+http://195.12.170.154:8002/play/arnbn
 #EXTINF:-1,AR-Mtv-lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armtvlebanon
+http://195.12.170.154:8002/play/armtvlebanon
 #EXTINF:-1,LBC Europe (Lebanon)
 http://osltv.zackapps.com/apps/best/labenon.php?id=osltv
 #EXTINF:-1,Lbc
 http://htp.brasilia.me/iptv/ch28?code=460011131604165
 #EXTINF:-1, MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armtvlebanon
+http://195.12.170.154:8002/play/armtvlebanon
 
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
@@ -1054,54 +1057,54 @@ http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b240000
 
 11111111111111111111111111111111111
 #EXTINF:-1,AR-Nile-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arnilecomedy
+http://195.12.170.154:8002/play/arnilecomedy
 #EXTINF:-1,AR-Rotana-Aflem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanaaflem
+http://195.12.170.154:8002/play/arrotanaaflem
 #EXTINF:-1,AR-Melody-classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armelodyclassic
+http://195.12.170.154:8002/play/armelodyclassic
 #EXTINF:-1,AR-Rotana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotana
+http://195.12.170.154:8002/play/arrotana
 #EXTINF:-1,AR-Nile-family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arnilefamily
+http://195.12.170.154:8002/play/arnilefamily
 #EXTINF:-1,AR-Nile-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arniledrama
+http://195.12.170.154:8002/play/arniledrama
 #EXTINF:-1,AR-Rotana Massrya HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanamassryahd
+http://195.12.170.154:8002/play/arrotanamassryahd
 #EXTINF:-1,Rotana-classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanaclassichd
+http://195.12.170.154:8002/play/arrotanaclassichd
 #EXTINF:-1,AR- Rotana Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanamusichd
+http://195.12.170.154:8002/play/arrotanamusichd
 #EXTINF:-1,AR-Medi-1TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/armedi1tv
+http://195.12.170.154:8002/play/armedi1tv
 #EXTINF:-1,AR-Panoram-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arpanoramadrama
+http://195.12.170.154:8002/play/arpanoramadrama
 #EXTINF:-1,AR-Panorama-Drama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arpanoramadrama2
+http://195.12.170.154:8002/play/arpanoramadrama2
 #EXTINF:-1,AR-Panorama-food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arpanoramafood
+http://195.12.170.154:8002/play/arpanoramafood
 #EXTINF:-1,AR-Star Cin1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arstarcin1
+http://195.12.170.154:8002/play/arstarcin1
 #EXTINF:-1,AR-Panorama action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arpanoramaaction
+http://195.12.170.154:8002/play/arpanoramaaction
 #EXTINF:-1,AR-Panorama-Drama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arpanoramadrama2
+http://195.12.170.154:8002/play/arpanoramadrama2
 #EXTINF:-1,AR-Time Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/artimefilm
+http://195.12.170.154:8002/play/artimefilm
 #EXTINF:-1,Rotana-classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanaclassichd
+http://195.12.170.154:8002/play/arrotanaclassichd
 
 #EXTINF:-1,AR-Tvtchad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/artvtchad
+http://195.12.170.154:8002/play/artvtchad
 #EXTINF:-1,AR-Rotana CLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanaclip
+http://195.12.170.154:8002/play/arrotanaclip
 #EXTINF:-1,AR-Time Taxi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/artimetaxi
+http://195.12.170.154:8002/play/artimetaxi
 #EXTINF:-1,AR-Rotana-Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanacinemahd
+http://195.12.170.154:8002/play/arrotanacinemahd
 #EXTINF:-1,AR-Time comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/artimecomedy
+http://195.12.170.154:8002/play/artimecomedy
 #EXTINF:-1,AR-RotanaKhaliji HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arrotanakhalijihd 
+http://195.12.170.154:8002/play/arrotanakhalijihd 
 
 
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
@@ -1120,7 +1123,7 @@ http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.
 http://jafaer-tv.com
 
 #EXTINF:-1,AR-AlJazeera-Mubasher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/araljazeeramubasher 
+http://195.12.170.154:8002/play/araljazeeramubasher 
 
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
@@ -1685,13 +1688,13 @@ http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/playlist.m3u8
 
 #EXTINF:-1,AR-Tamazight alg4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/artamazightalg4
+http://195.12.170.154:8002/play/artamazightalg4
 #EXTINF:-1,AR-algerya4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/aralgerya4
+http://195.12.170.154:8002/play/aralgerya4
 
 
 #EXTINF:-1,AR-Samira-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/arsamiratv
+http://195.12.170.154:8002/play/arsamiratv
 #EXTINF:-1,AR-Samira-Tv link 2
 http://176.31.46.168/osltv/arablive-tv.m3u8?channel=samira-tv-cuisine&type=.m3u8
 #EXTINF:-1, 2m maroco
@@ -1893,7 +1896,7 @@ http://178.18.29.202:9001/518/slot_5518.m3u8
 #EXTINF:-1,Spacetoon Test
 rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/baraem.php live=true timeout=15
 #EXTINF:-1,AR-toyour-aljennah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.12.170.154:8002/play/artoyouraljennah
+http://195.12.170.154:8002/play/artoyouraljennah
 #EXTINF:-1,Looney Tunes 
 rtmp://lb.miplayer.net:1935/goLive/_definst_/looney_jqy5j25e
 
