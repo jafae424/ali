@@ -131,7 +131,34 @@ item>
 </item>
 #####################
 
+<item>
+<title>BEIN 1 FR RegEx **http://showsport-tv.com/tv/bein-sport-1-france**</title>
+<link>$doregex[getDecM3U8]$doregex[getToken]|Referer=http://static.bro.adca.st/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</link>
+<regex>
+<name>getDecM3U8</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getEncM3U8]")</expres>
+<page></page>
+</regex>
 
+<regex>
+<name>getEncM3U8</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=375&amp;width=700&amp;height=450&amp;stretching=uniform</page>
+<referer>http://showsport-tv.com/embedplayer.php?ch=bein1fr&width=700&height=450</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=375&width=700&height=450&stretching=uniform</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 item>
 <title>Bein Sport 1 </title>
