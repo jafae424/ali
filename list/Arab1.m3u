@@ -272,28 +272,18 @@ EXTINF:0,بينات
 http://178.18.29.202:9001/1705/slot_6705.m3u8
 EXTINF:0,الاوحد
 http://178.18.29.202:9001/405/slot_5405.m3u8
-#EXTINF:-1,Al Forat
+EXTINF:-1,Al Forat
 http://38.99.146.38:7777/AlForat_HD.m3u8
-#EXTINF:-1,Al Anwar
+EXTINF:-1,Al Anwar
 http://38.99.146.38:7777/AlAnwar_HD.m3u8
-#EXTINF:-1,Al Manar
+EXTINF:-1,Al Manar
 http://38.99.146.38:7777/AlManar_HD.m3u8
-#EXTINF:-1,Al Masar
+EXTINF:-1,Al Masar
 http://38.99.146.38:7777/AlMasar_HD.m3u8
-#EXTINF:-1,AR:AL KAWTHAR 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/57.ts
+
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
-#EXTINF:-1,Al Anwar 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/400.ts
-#EXTINF:-1,AL Anwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/401.ts
-#EXTINF:-1,Al AqilaT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/315.ts
-#EXTINF:-1,AR: AL Itejah TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/59.ts
-#EXTINF:-1,AR: AL Ahd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/65.ts
+
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
@@ -341,31 +331,31 @@ rtmp://176.241.91.122:1935/live/ playpath=alahad swfUrl=http://ssl.p.jwpcdn.com/
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
 
 
-#EXTINF:-1,Aliraqia 2
+EXTINF:-1,Aliraqia 2
 http://38.99.146.38:7777/AlIraqia2_HD.m3u8
-#EXTINF:-1,Aliraqiya
+EXTINF:-1,Aliraqiya
 http://38.99.146.38:7777/AlIraqiya_HD.m3u8
 
 
-#EXTINF:-1,Al Sumaria
+EXTINF:-1,Al Sumaria
 http://38.99.146.38:7777/Alsumaria_HD.m3u8
-#EXTINF:-1,Al Iraqiya Documentary
+EXTINF:-1,Al Iraqiya Documentary
 http://38.99.146.38:7777/AlIraqAlTarbawiyah_HD.m3u8
-#EXTINF:-1,Al Sharqiya
+EXTINF:-1,Al Sharqiya
 http://38.99.146.38:7777/AlSharqiya_HD.m3u8
-#EXTINF:-1,Al Sharqiya News
+EXTINF:-1,Al Sharqiya News
 http://38.99.146.38:7777/AlsharqiyaNews_HD.m3u8
-#EXTINF:-1,AlBabeleyia
+EXTINF:-1,AlBabeleyia
 http://38.99.146.38:7777/AlBabeleyia_HD.m3u8
-#EXTINF:-1,Beladi
+EXTINF:-1,Beladi
 http://38.99.146.38:7777/Beladi_HD.m3u8
-#EXTINF:-1,Aldiyar
+EXTINF:-1,Aldiyar
 http://38.99.146.38:7777/AldiyarSat_HD.m3u8
-#EXTINF:-1,Dejlah
+EXTINF:-1,Dejlah
 http://38.99.146.38:7777/Dejlah_HD.m3u8
-#EXTINF:-1,Al-hurra Iraq
+EXTINF:-1,Al-hurra Iraq
 http://38.99.146.38:7777/AlhurraIraq_HD.m3u8
-#EXTINF:-1,Al Fayhaa
+EXTINF:-1,Al Fayhaa
 http://38.99.146.38:7777/AlFayhaa_HD.m3u8
 
 #EXTINF:-1,anb العراقية
@@ -423,20 +413,7 @@ rtmp://stream.joinvisions.net/dij//dij
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/780.ts
 #EXTINF:0,الموصلية
 http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m3u8
-#EXTINF:-1,Iraq Future TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/298.ts
-#EXTINF:-1,AL Anbar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/402.ts
-#EXTINF:-1,AL Diyar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/167.ts
 
-
-#EXTINF:-1,ISHTAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/297.ts
-#EXTINF:-1,Kirkuk TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/296.ts
-#EXTINF:-1,AL Hurra Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/61.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -444,10 +421,7 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8
 #EXTINF:-1,IFILM eng
 http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sleng.m3u8
-#EXTINF:-1,I Film Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/301.ts
-#EXTINF:-1,I Film English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/300.ts
+
 
 
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
@@ -472,31 +446,31 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 rtmp://118.139.182.134:1935/livepkgr/livestream
 
 
-#EXTINF:-1,Al Lubnania
+EXTINF:-1,Al Lubnania
 http://38.99.146.38:7777/AlLubnania_HD.m3u8
-#EXTINF:-1,Aljadeed
+EXTINF:-1,Aljadeed
 http://38.99.146.38:7777/AlJadeed_HD.m3u8
-#EXTINF:-1,Alan
+EXTINF:-1,Alan
 http://38.99.146.38:7777/AlAan_HD.m3u8
-#EXTINF:-1,ANB
+EXTINF:-1,ANB
 http://38.99.146.38:7777/ANB_HD.m3u8
-#EXTINF:-1,ANN
+EXTINF:-1,ANN
 http://38.99.146.38:7777/ANN_HD.m3u8
-#EXTINF:-1,Funoon
+EXTINF:-1,Funoon
 http://38.99.146.38:7777/Funoon_HD.m3u8
-#EXTINF:-1,Future News
+EXTINF:-1,Future News
 http://38.99.146.38:7777/FutureNews_HD.m3u8
-#EXTINF:-1,Future TV
+EXTINF:-1,Future TV
 http://38.99.146.38:7777/Future_HD.m3u8
-#EXTINF:-1,FutureUSA
+EXTINF:-1,FutureUSA
 http://38.99.146.38:7777/FutureUSA_HD.m3u8
-#EXTINF:-1,Lbc Europe
+EXTINF:-1,Lbc Europe
 http://38.99.146.38:7777/LBC_HD.m3u8
-#EXTINF:-1,MTV
+EXTINF:-1,MTV
 http://38.99.146.38:7777/MTVLebanon_HD.m3u8
-#EXTINF:-1,OTV Lebanon
+EXTINF:-1,OTV Lebanon
 http://38.99.146.38:7777/OTV_HD.m3u8
-#EXTINF:-1,Tele Liban
+EXTINF:-1,Tele Liban
 http://38.99.146.38:7777/TeleLiban_HD.m3u8
 
 #EXTINF:-1,AR-Otv
@@ -562,28 +536,6 @@ rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://pla
 #EXTINF:-1,Al_Donia tv
 rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=addounia&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/addouniatv.htm
 
-#EXTINF:-1,AR: Mtv Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/22.ts
-#EXTINF:-1,AR: Ldc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/24.ts
-#EXTINF:-1,AR: OTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/26.ts
-#EXTINF:-1,AR: Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/113.ts
-#EXTINF:-1,AR: Lbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/88.ts
-#EXTINF:-1,AR: Nbn Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/136.ts
-
-
-#EXTINF:-1,AR: Lebanon tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/102.ts
-#EXTINF:-1,AR: Manar tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/54.ts
-#EXTINF:-1,AR: OnTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/21.ts
-#EXTINF:-1,AR: Orient TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/27.ts
 
 #EXTINF:-1,T TV
 rtmp://193.227.191.114/live//myStream
@@ -608,19 +560,19 @@ http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oul
 
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
-#EXTINF:-1,Abu Dhabi
+EXTINF:-1,Abu Dhabi
 http://38.99.146.38:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
+EXTINF:-1,Abu Dhabi Drama
 http://38.99.146.38:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Abu Dhabi Emirates
+EXTINF:-1,Abu Dhabi Emirates
 http://38.99.146.38:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
+EXTINF:-1,Abu Dhabi Sports 1
 http://38.99.146.38:7777/ADSport_HD.m3u8
-#EXTINF:-1,Aden
+EXTINF:-1,Aden
 http://38.99.146.38:7777/Aden_HD.m3u8
-#EXTINF:-1,Dubai
+EXTINF:-1,Dubai
 http://38.99.146.38:7777/DubaiEurope_HD.m3u8
-#EXTINF:-1,Dubai One
+EXTINF:-1,Dubai One
 http://38.99.146.38:7777/DubaiOne_HD.m3u8
 #EXTINF:-1, Dubai Racing
 http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
@@ -1041,25 +993,25 @@ rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1 group-title=”ARABIC”,AL HADATH الحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,Al mayaden
+EXTINF:-1,Al mayaden
 http://38.99.146.38:7777/AlMayadeen_HD.m3u8
 
-#EXTINF:-1,SkyNewsArabia
+EXTINF:-1,SkyNewsArabia
 http://38.99.146.38:7777/SkyNews_HD.m3u8
-#EXTINF:-1,Alarabiya
+EXTINF:-1,Alarabiya
 http://38.99.146.38:7777/AlArabiya_HD.m3u8
-#EXTINF:-1,Alarabiya Ahdas
+EXTINF:-1,Alarabiya Ahdas
 http://38.99.146.38:7777/AlArabiyaHadath_HD.m3u8
-#EXTINF:-1,AlJazeera
+EXTINF:-1,AlJazeera
 http://38.99.146.38:7777/AlJazeera_HD.m3u8
 
-#EXTINF:-1,Aljazeera Doc
+EXTINF:-1,Aljazeera Doc
 http://38.99.146.38:7777/AlJazeeraDocument_HD.m3u8
-#EXTINF:-1,Aljazeera En
+EXTINF:-1,Aljazeera En
 http://38.99.146.38:7777/AlJazeeraEnglish_HD.m3u8
-#EXTINF:-1,Aljazeera Mubasher
+EXTINF:-1,Aljazeera Mubasher
 http://38.99.146.38:7777/AlJazeeraLive_HD.m3u8
-#EXTINF:-1,Aljazeera Mubasher Masr
+EXTINF:-1,Aljazeera Mubasher Masr
 http://38.99.146.38:7777/JSCLiveMisr_HD.m3u8
 
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
@@ -1076,12 +1028,6 @@ http://rt-a.akamaihd.net/ch_03@325607/master.m3u8
 #EXTINF:-1,BBC Arabic (Qatar)
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,AlJazeera Mubasher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/384.ts
-#EXTINF:-1,aljazeera en
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/386.ts
-#EXTINF:-1,Al Jazeera News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/382.ts
 
 #EXTINF:-1,DW Arabic 
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
