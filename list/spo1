@@ -193,6 +193,52 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/380.t
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
+#EXTINF:-1,AL KASS 5 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/63.ts
+#EXTINF:-1,AL KASS 4 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/62.ts
+#EXTINF:-1,AL KASS 3 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/61.ts
+#EXTINF:-1,AL KASS 2 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/60.ts
+#EXTINF:-1,AL KASS 1 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/59.ts
+#EXTINF:-1,beIN MAX 1 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/57.ts
+#EXTINF:-1,beIN MAX 2 HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/56.ts
+#EXTINF:-1,beINSPORT NEWS HD
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/16.ts
+#EXTINF:-1,BEIN SPORT HD9
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/9.ts
+#EXTINF:-1,BEIN SPORT HD8
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/8.ts
+#EXTINF:-1,BEIN SPORT HD7
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/7.ts
+#EXTINF:-1,BEIN SPORT HD6
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/6.ts
+#EXTINF:-1,BEIN SPORT HD5
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/5.ts
+#EXTINF:-1,BEIN SPORT HD4
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/4.ts
+#EXTINF:-1,BEIN SPORT HD3
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/3.ts
+#EXTINF:-1,BEIN SPORT HD12
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/12.ts
+#EXTINF:-1,BEIN SPORT HD11
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/11.ts
+#EXTINF:-1,BEIN SPORT HD10
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/10.ts
+#EXTINF:-1,BEIN SPORT 3 HD FR
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/15.ts
+#EXTINF:-1,BEIN SPORT 2 HD FR
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/14.ts
+#EXTINF:-1,BEIN SPORT 1 HD FR
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/13.ts
+#EXTINF:-1,BEIN SPORT HD2
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/2.ts
+#EXTINF:-1,BEIN SPORT HD1
+http://ip-tv.maracana-foot.com:1983/live/gdfgdfsvdsfv/gdfgdfsvdsfv/1.ts
 
 
 #EXTINF:-1,AR_BEIN_MAX1
