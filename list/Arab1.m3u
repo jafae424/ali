@@ -28,16 +28,16 @@ EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
 
 
-EXTINF:0,MBC HD 
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/31.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-EXTINF:0,MBC Drama
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/34.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-EXTINF:0,MBC Masar
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/128.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-EXTINF:0,MBC Masar 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/129.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-EXTINF:0,OSn Movies Avtion HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/19.ts
+#EXTINF:0,MBC HD 
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/31.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0,MBC Drama
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/34.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0,MBC Masar
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/128.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0,MBC Masar 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/129.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0,OSn Movies Avtion HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
 
 
 #EXTINF:-1,AR-Mbc-Drama
@@ -107,46 +107,46 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-EXTINF:0, art aflam 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/124.ts
+#EXTINF:0, art aflam 1
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/124.ts
 
-EXTINF:0, art aflam 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/125.ts
-EXTINF:0, art حكايات
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/130.ts
-EXTINF:0, art حكايات 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/170.ts
+#EXTINF:0, art aflam 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/125.ts
+#EXTINF:0, art حكايات
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/130.ts
+#EXTINF:0, art حكايات 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.ts
 
-EXTINF:0, art cinema 
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/127.ts
-
-
-
-EXTINF:0,bein movies 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/105.ts
-EXTINF:0,bein movies 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/104.ts
-
-EXTINF:0,bein movies 3
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/106.ts
-EXTINF:0,bein movies 4
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/157.ts
-EXTINF:0,OSn Movies Action HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/19.ts
-EXTINF:0,OSn on demand
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/26.ts
-EXTINF:0,OSn Movies HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/27.ts
-
-EXTINF:0,OSn Movies Action2 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/28.ts
-
-EXTINF:0,OSn Movies2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/167.ts
+#EXTINF:0, art cinema 
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/127.ts
 
 
-EXTINF:0,OSn Movies 3
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/168.ts
+
+#EXTINF:0,bein movies 1
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
+#EXTINF:0,bein movies 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/104.ts
+
+#EXTINF:0,bein movies 3
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/106.ts
+#EXTINF:0,bein movies 4
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/157.ts
+#EXTINF:0,OSn Movies Action HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
+#EXTINF:0,OSn on demand
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/26.ts
+#EXTINF:0,OSn Movies HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/27.ts
+
+#EXTINF:0,OSn Movies Action2 HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/28.ts
+
+#EXTINF:0,OSn Movies2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/167.ts
+
+
+#EXTINF:0,OSn Movies 3
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/168.ts
 
 
 
@@ -894,9 +894,9 @@ http://195.12.170.154:8002/play/araljazeeramubasher
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
 #EXTINF:0, الجزيرة
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/94.ts
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/94.ts
 #EXTINF:0, العربية
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Zhk2bfkmpfn3uUb39ld48/101.ts
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/101.ts
 
 
 
