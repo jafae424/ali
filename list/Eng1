@@ -36,6 +36,70 @@ http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
 http://rt-a.akamaihd.net/ch_04@325608/master.m3u8
 #EXTINF:0,Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+
+
+
+#EXTINF:-1,|UK|  SKY MOVIES SHOWCASE
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/340.ts
+#EXTINF:-1,|UK|  SKY MOVIES SELECT
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/341.ts
+#EXTINF:-1,|UK|  SKY MOVIES SCI-FI&HORROR
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/342.ts
+#EXTINF:-1,|UK|  SKY MOVIES PREMIERE
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/343.ts
+#EXTINF:-1,|UK|  SKY MOVIES GREATS
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/344.ts
+#EXTINF:-1,|UK|  SKY MOVIES FAMILY
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/345.ts
+#EXTINF:-1,|UK|  SKY MOVIES DRAMA&ROMANCE
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/346.ts
+#EXTINF:-1,|UK|  SKY MOVIES DISNEY
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/347.ts
+#EXTINF:-1,|UK|  SKY MOVIES CRIME&THRILLER
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/348.ts
+#EXTINF:-1,|UK|  SKY MOVIES COMEDY
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/349.ts
+#EXTINF:-1,|UK|  SKY MOVIES ACTION&ADVENTURE
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/350.ts
+#EXTINF:-1,|UK|  SKY ATLANTIC HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/351.ts
+#EXTINF:-1,|UK|  NATIONAL GEOGRAPHIC HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/352.ts
+#EXTINF:-1,|UK|  FOX
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/353.ts
+#EXTINF:-1,|UK|  FIGHTBOX HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/354.ts
+#EXTINF:-1,|UK|  DISCOVERY SCIENCE CHANNEL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/355.ts
+#EXTINF:-1,|UK|  DISCOVERY HOME&HEALTH
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/356.ts
+#EXTINF:-1,|UK|  DISCOVERY CHANNEL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/357.ts
+#EXTINF:-1,|UK|  COMEDY CENTRAL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/358.ts
+#EXTINF:-1,UK:Sky_Movies_Select
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/332.ts
+#EXTINF:-1,UK:NATIONAL-GEO-WILD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/333.ts
+#EXTINF:-1,UK:DISNEY-CHANNEL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/334.ts
+#EXTINF:-1,UK:DISCOVERY-SCIENCE
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/335.ts
+#EXTINF:-1,UK:ANIMAL-PLANET
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/336.ts
+#EXTINF:-1,|UK|  BT SPORT 1 HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/359.ts
+#EXTINF:-1,|UK|  BBC 1
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/363.ts
+#EXTINF:-1,|UK|  BBC 2
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/362.ts
+#EXTINF:-1,|UK|  BBC 3
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/361.ts
+#EXTINF:-1,|UK|  BBC 4
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/360.ts
+
+
 #EXTINF:-1,Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1,TLC
