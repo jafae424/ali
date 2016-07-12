@@ -1307,9 +1307,31 @@ rtmp://cp135357.live.edgefcs.net/live/
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,49- oman doc
 rtmp://38.96.148.30/live?v=1334683153/omantv4
-#EXTINF:0,  Animal Plant
+
+
+
+
+#EXTINF:-1,UK:NATIONAL-GEO-WILD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/333.ts
+#EXTINF:-1,UK:DISNEY-CHANNEL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/334.ts
+#EXTINF:-1,UK:DISCOVERY-SCIENCE
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/335.ts
+#EXTINF:-1,UK:ANIMAL-PLANET
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/336.ts
 
+#EXTINF:-1,|UK|  DISCOVERY SCIENCE CHANNEL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/355.ts
+#EXTINF:-1,|UK|  DISCOVERY HOME&HEALTH
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/356.ts
+#EXTINF:-1,|UK|  DISCOVERY CHANNEL
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/357.ts
+#EXTINF:-1,|UK|  NATIONAL GEOGRAPHIC HD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/352.ts
+#EXTINF:-1,NAT GEO WILD
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/137.ts
+#EXTINF:-1,NAT GEO
+http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.ts
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
