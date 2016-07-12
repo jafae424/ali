@@ -1335,6 +1335,25 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.t
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
+
+#EXTINF:-1,Arabic: CN Arabia
+http://iptv-altamimi.org:8000/live/amin1/amin1/17.ts
+#EXTINF:-1,Arabic: Space Toon
+http://iptv-altamimi.org:8000/live/amin1/amin1/220.ts
+#EXTINF:-1,Arabic: AJYAL
+http://iptv-altamimi.org:8000/live/amin1/amin1/80.ts
+#EXTINF:-1,Arabic: MODY KIDS
+http://iptv-altamimi.org:8000/live/amin1/amin1/37.ts
+#EXTINF:-1,Arabic: MICKEY CHANNEL
+http://iptv-altamimi.org:8000/live/amin1/amin1/38.ts
+#EXTINF:-1,Arabic: KOKKY TV
+http://iptv-altamimi.org:8000/live/amin1/amin1/39.ts
+#EXTINF:-1,Arabic: Toyor Aljanah
+http://iptv-altamimi.org:8000/live/amin1/amin1/791.ts
+#EXTINF:-1,Arabic: Toyor Baby
+http://iptv-altamimi.org:8000/live/amin1/amin1/792.ts
+#EXTINF:-1,Arabic: AlJazeera Children
+http://iptv-altamimi.org:8000/live/amin1/amin1/156.ts
 EXTINF:-1,Aljazeera Children
 http://38.99.146.38:7777/AlJazeeraKid_HD.m3u8
 EXTINF:-1,Cartoon Network
