@@ -1,7 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
 <item>
 <title>Haydi </title>
@@ -20,3 +20,12 @@
 <fanart></fanart>
 </multilink>
 </item
+
+
+
+<item>
+<title>multilink_test</title>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=TujgXsQs0Fk$$lsname=1</link>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=iL1VMU5YbNk$$lsname=2</link>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=K5cMov6fz1s$$lsname=3</link>
+</item>
