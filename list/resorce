@@ -445,3 +445,87 @@ rtmp://teledunet.tv:1936/live playpath=mbc_masr_2 swfUrl=http://alwhdat.net/jwp7
 
 ================================================================
 
+
+
+<item>
+<title>http://iptv-planet.com/artaflem1.html</title>
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/artaflem1.html</link> 
+ 
+<regex>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/artaflem1.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
+</item>
+00000000000000000000000000000
+
+Get version 2.4.2 and it should work if you pass $$lsname= parameter where you can pass the name. This should be at the end of the URL, this is optional so if you dont add to the url it will show server name
+Code:
+<item>
+<title>multilink_test</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8$$lsname=TRT</link>
+<link>http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8</link>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
+</item>
+
+<item>
+<title>multilink_test</title>
+<multilink>
+<title>TRT</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<title>TRT 3</title>
+<link>http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<title>TRT OKUL</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</multilink>
+</item>
