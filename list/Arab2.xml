@@ -30,119 +30,63 @@
 
 
 
-<item>
-<title>art aflem 2</title>
-<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/artaflem2.html</link> 
- 
-<regex>
-<name>rtmp</name>
-<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-app</name>
-<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>hash-key</name>
-<expres>file.*?[",'](art.*?)[",']\W</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-id</name>
-<expres>file.*?[",'](.+?)[",']\W</expres>
-<page>http://iptv-planet.com/artaflem2.html</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-  
-<regex>
-<name>get-key2</name>
-<expres><![CDATA[key.*?=(.*?)>]]></expres>
-<page>http://embed.iptv-planet.com/embedPlayer.js</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>http://iptv-planet.com/artaflem1.html</title>
-<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/artaflem1.html</link> 
- 
-<regex>
-<name>rtmp</name>
-<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-app</name>
-<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>hash-key</name>
-<expres>file.*?[",'](art.*?)[",']\W</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-id</name>
-<expres>file.*?[",'](.+?)[",']\W</expres>
-<page>http://iptv-planet.com/artaflem1.html</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-  
-<regex>
-<name>get-key2</name>
-<expres><![CDATA[key.*?=(.*?)>]]></expres>
-<page>http://embed.iptv-planet.com/embedPlayer.js</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
-</item>
 ###############################################33
 
 
+<item>
+<title>[COLOR red]فثف[/COLOR] </color></title>
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/mbcmax.html</link> 
+ 
+<regex>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/artcinema.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
+</item>
 
 <item>		 
  <title>[COLOR red]MBC1 [/COLOR]</title>	
@@ -443,163 +387,242 @@ item>
 
  00000000000
  
-<item>
-<title> [COLOR red]art aflam 1[/COLOR]</title> 
-<link>$doregex[getURL]</link>
-<regex>
-<name>getURL</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://embed.iptv-pla.net/embedPlayer.js'):
- import requests, re
+
  
- headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://iptv-planet.com/artaflem1.html', 'Connection': 'keep-alive', 'Accept': '*/*'}
- source = requests.get(url,headers = headers)
- key2 = re.findall('key2=(.*?)>', source.text)[0]
- url2 = 'http://embed.iptv-pla.net/embed.php?id=artaflam1&amp;width=594&amp;height=404&amp;key2=' + key2
- source = requests.get(url2,headers = headers)
- swf = re.findall('var.+?myPlayer="(.*?)"', source.text)[0]
- rtmp = re.findall('var.+?streamer="(.*?)"', source.text)[0]
- hash = re.findall("hashedkey=(.*?)'", source.text)[0]
- return rtmp + ' playpath=artaflam1?hashedkey=' + hash + ' swfUrl=http://embed.iptv-pla.net/' + swf + ' live=1 timeout=15 swfVfy=1 pageUrl=' + url2
-]]></expres>
-<page></page>
+ 
+<item>
+<title> [COLOR red]art aflam 2[/COLOR]</title> 
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/artaflem2.html</link> 
+ 
+<regex>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<accept>*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://iptv-planet.com/images/logo.png</thumbnail>
- </item> 
- 
- 
- 
 
- 
- 
- 
+<regex>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/artaflem2.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
+</item>
+
+
 <item>
-<title>[COLOR red]art aflam 1[/COLOR] </color></title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<title> [COLOR red]art aflam 1[/COLOR]</title> 
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/artaflem1.html</link> 
+ 
 <regex>
-<name>getRTMP</name>
-<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
 <referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
+
 <regex>
-<name>getAPP</name>
-<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
 <referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 
 <regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam1&amp;width=594&amp;height=404&amp;key2=1118</page>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
 <referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
-</item>
-
-    
-
-<item>
-<title>Art_aflam_2</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=art_aflam_1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=art_aflam_2</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=art_aflam_2</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=art_aflam_2</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
-    
-    
-    
-   <item>
-<title>[COLOR red]art aflam 2[/COLOR] </color></title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 
 <regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artaflam2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/artaflem1.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
+  
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
 </item>
+000000000000000000000000000000000000000000000
+
+
 
 
 <item>
 <title>[COLOR red]art hikeyet[/COLOR] </color></title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/arthikeyet.html</link> 
+ 
 <regex>
-<name>getRTMP</name>
-<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 
 <regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_arthikeyet&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
+
+<regex>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/arthikeyet.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
 </item>
+
+0000000000000000000000000000000000000000
+
+
+
 
 <item>
 <title>[COLOR red]art cinema[/COLOR] </color></title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/artcinema.html</link> 
+ 
 <regex>
-<name>getRTMP</name>
-<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 
 <regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_artcinema&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/mbc1.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
+
+<regex>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/artcinema.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/artcinema.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
 </item>
+
+
+
+
 #######################################3
  
   
