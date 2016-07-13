@@ -290,7 +290,8 @@ http://38.99.146.38:7777/AlMasar_HD.m3u8
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
-
+#EXTINF:-1,الفرقدين
+plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
