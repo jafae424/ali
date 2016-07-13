@@ -33,60 +33,6 @@
 ###############################################33
 
 
-<item>
-<title>[COLOR red]فثف[/COLOR] </color></title>
-<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/mbcmax.html</link> 
- 
-<regex>
-<name>rtmp</name>
-<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artcinema.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-app</name>
-<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artcinema.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>hash-key</name>
-<expres>file.*?[",'](art.*?)[",']\W</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artcinema.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>get-id</name>
-<expres>file.*?[",'](.+?)[",']\W</expres>
-<page>http://iptv-planet.com/artcinema.html</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-  
-<regex>
-<name>get-key2</name>
-<expres><![CDATA[key.*?=(.*?)>]]></expres>
-<page>http://embed.iptv-planet.com/embedPlayer.js</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
-<referer>http://iptv-planet.com/artcinema.html</referer>
-<accept>*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
-</item>
 
 <item>		 
  <title>[COLOR red]MBC1 [/COLOR]</title>	
