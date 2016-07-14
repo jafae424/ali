@@ -1,22 +1,17 @@
 
+<streaminginfos>
 
-<directories>
+<layouttype>thumbnail</layouttype>
 
+<channels>
 
-
-
+<channel>
 
 <name>[B][COLOR blue]                       Haydi هايدي[/COLOR][/B]</name>
-	<thumbnail>http://www.collectors-club-of-great-britain.co.uk/userfiles/gallery/Bob_the_Builder_Stamp.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/jafali/haider/master/list/kids/Arabiccartoons/haydi.xml</link>
+<thumbnail>http://www.collectors-club-of-great-britain.co.uk/userfiles/gallery/Bob_the_Builder_Stamp.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/jafali/haider/master/list/kids/Arabiccartoons/haydi.xml</link>
 
-	<name>[B][COLOR lime]                                             Home Videos[/COLOR][/B]</name>
-	<thumbnail>http://www.watchcartoononline.com/thumbs/Home-Movies-Season-4-Episode-2--Camp.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/dandy0850/iStream/master/Bobby%20Channels/bobbybear.xml</link>
-
-	<name>[B][COLOR blue]                                                The Bakers[/COLOR][/B]</name>
-	<thumbnail>https://scontent-b-ams.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/425597_3172165584445_990765735_n.jpg?oh=cb0231d488e2ff19f81fb8fff1067c22&oe=546E6EAC</thumbnail>
-	<link>https://raw.githubusercontent.com/dandy0850/iStream/master/Bobby%20Channels/baker.xml</link>
+<channel>
 
 
 
