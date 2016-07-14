@@ -54,6 +54,58 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.1
 #EXTINF:-1,bein sport1 hd
 http://iptv33.us.to/ip441555/3136774336/1.ch
 
+
+
+#EXTINF:-1,FR : Bein Sport 1 HD
+http://www.egyiptv.co.uk:8080/live/full/star7/109.ts
+#EXTINF:-1,FR : Bein Sport 2 HD
+http://www.egyiptv.co.uk:8080/live/full/star7/110.ts
+#EXTINF:-1,FR : Bein Sport 3 HD
+http://www.egyiptv.co.uk:8080/live/full/star7/111.ts
+#EXTINF:-1,Bein News HD
+http://www.egyiptv.co.uk:8080/live/full/star7/198.ts
+#EXTINF:-1,Bein Sport max 1  HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/107.ts
+#EXTINF:-1,Bein sport max 2 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/108.ts
+#EXTINF:-1,Bein Sport 1 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/185.ts
+#EXTINF:-1,Bein Sport 2 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/186.ts
+#EXTINF:-1,Bein Sport 3 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/187.ts
+#EXTINF:-1,Bein Sport 4 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/188.ts
+#EXTINF:-1,Bein Sport 5 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/189.ts
+#EXTINF:-1,Bein Sport 6 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/114.ts
+#EXTINF:-1,Bein Sport 7 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/115.ts
+#EXTINF:-1,Bein Sport 8 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/116.ts
+#EXTINF:-1,Bein Sport 9 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/117.ts
+#EXTINF:-1,Bein Sport 10 HD local
+http://www.egyiptv.co.uk:8080/live/full/star7/118.ts
+#EXTINF:-1,Bein Sport 1HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/131.ts
+#EXTINF:-1,Bein Sport 2HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/199.ts
+#EXTINF:-1,Bein Sport 3HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/200.ts
+#EXTINF:-1,Bein Sport 4HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/201.ts
+#EXTINF:-1,Bein Sport 5HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/202.ts
+#EXTINF:-1,Bein Sport 6HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/203.ts
+#EXTINF:-1,Bein Sport 7HD local2
+http://www.egyiptv.co.uk:8080/live/full/star7/204.ts
+
+
+
+
 #EXTINF:-1,bein sport2 hd
 http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
 #EXTINF:-1,bein sport3 hd
