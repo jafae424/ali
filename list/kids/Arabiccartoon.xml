@@ -1,31 +1,39 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-plugin://plugin.video.youtube/?action=play_video&videoid=
+<directories>
 
-<item>
+
+<channels>
+  
+  
+<channel>
 <title>Haydi </title>
 <multilink>
 <title>haydi 1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=TujgXsQs0Fk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<title>haydi 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=iL1VMU5YbNk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<title>Haydi 3</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=K5cMov6fz1s</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</multilink>
-</item
-
-
-
-<item>
-<title>multilink_test</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=TujgXsQs0Fk$$lsname=1</link>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=iL1VMU5YbNk$$lsname=2</link>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=K5cMov6fz1s$$lsname=3</link>
 </item>
+</channel>
+
+
+
+
+<name>[B][COLOR blue]                       Haydi هايدي[/COLOR][/B]</name>
+	<thumbnail>http://www.collectors-club-of-great-britain.co.uk/userfiles/gallery/Bob_the_Builder_Stamp.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jafali/haider/master/list/kids/Arabiccartoons/haydi.xml</link>
+
+	<name>[B][COLOR lime]                                             Home Videos[/COLOR][/B]</name>
+	<thumbnail>http://www.watchcartoononline.com/thumbs/Home-Movies-Season-4-Episode-2--Camp.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/dandy0850/iStream/master/Bobby%20Channels/bobbybear.xml</link>
+
+	<name>[B][COLOR blue]                                                The Bakers[/COLOR][/B]</name>
+	<thumbnail>https://scontent-b-ams.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/425597_3172165584445_990765735_n.jpg?oh=cb0231d488e2ff19f81fb8fff1067c22&oe=546E6EAC</thumbnail>
+	<link>https://raw.githubusercontent.com/dandy0850/iStream/master/Bobby%20Channels/baker.xml</link>
+
+
+
+</channels>
+</directories>
+</channels>
