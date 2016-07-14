@@ -1279,6 +1279,35 @@ http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunk
 #EXTINF:-1,Echorouk-News
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
 
+#EXTINF:-1,Arabic: El Djazairia
+http://iptv-altamimi.org:8000/live/amin1/amin1/990.ts
+#EXTINF:-1,Arabic: Dzair News
+http://iptv-altamimi.org:8000/live/amin1/amin1/991.ts
+#EXTINF:-1,Arabic: El-Heddaf
+http://iptv-altamimi.org:8000/live/amin1/amin1/992.ts
+#EXTINF:-1,Arabic: Algérie 4
+http://iptv-altamimi.org:8000/live/amin1/amin1/1001.ts
+#EXTINF:-1,Arabic: Algérie 5
+http://iptv-altamimi.org:8000/live/amin1/amin1/1002.ts
+#EXTINF:-1,Arabic: KBC
+http://iptv-altamimi.org:8000/live/amin1/amin1/145.ts
+#EXTINF:-1,Arabic: Libya
+http://iptv-altamimi.org:8000/live/amin1/amin1/126.ts
+#EXTINF:-1,Arabic: Libya 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/121.ts
+#EXTINF:-1,Arabic: Libya 24
+http://iptv-altamimi.org:8000/live/amin1/amin1/193.ts
+#EXTINF:-1,Arabic: Alrasmeya
+http://iptv-altamimi.org:8000/live/amin1/amin1/29.ts
+#EXTINF:-1,Arabic: Zitouna
+http://iptv-altamimi.org:8000/live/amin1/amin1/154.ts
+#EXTINF:-1,Arabic: Zitouna Hidaya
+http://iptv-altamimi.org:8000/live/amin1/amin1/978.ts
+#EXTINF:-1,Arabic: Mekameleen
+http://iptv-altamimi.org:8000/live/amin1/amin1/155.ts
+
+
+
 #EXTINF:-1,Echorouk الشروق
 http://htp.brasilia.me/iptv/ch719?code=460011131604165
 #EXTINF:-1,Maannews
