@@ -3,34 +3,34 @@
 <fanart>https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/471126_4217657241083_1745432025_o.jpg</fanart>
 
 <info>
-	<message>[B][COLOR reed] Haydi هايدي [/COLOR][/B]</message>
+	<message>[B][COLOR reed] Heidi هايدي [/COLOR][/B]</message>
 	<thumbnail>https://raw.githubusercontent.com/dandy0850/iStream/master/bum.jpg</thumbnail>
 </info>
 
 
 
-
+<item>
+<title>Heidi هايدي 1</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TujgXsQs0Fk</link>
+<thumbnail>http://up.graaam.com/p10ic/a3216e6542.gif</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/136941-1.jpg</fanart>
+</item>
 
 
 <item>
-<title>haydi 1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=TujgXsQs0Fk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Heidi هايدي 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iL1VMU5YbNk</link>
+<thumbnail>http://up.graaam.com/p10ic/a3216e6542.gif</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/136941-1.jpg</fanart>
 </item>
 
 <item>
-<title>haydi 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=iL1VMU5YbNk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Heidi 3</title>
+<link>plugin://plugin.video.youtube/play/?video_id=K5cMov6fz1s</link>
+<thumbnail>http://up.graaam.com/p10ic/a3216e6542.gif</thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/136941-1.jpg</fanart>
 </item>
 
-<item>
-<title>haydi 3</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=K5cMov6fz1s</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 
