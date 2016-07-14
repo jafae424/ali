@@ -11,8 +11,18 @@
 	<name>[COLOR red]Heidi هايدي[/COLOR]</name>
 	<thumbnail>http://up.graaam.com/p10ic/a3216e6542.gif</thumbnail>
 	<externallink>https://raw.githubusercontent.com/jafali/haider/master/list/kids/Arabiccartoons/haydi.xml</externallink>
-	<fanart>http://4.bp.blogspot.com/-12AKy09uxnE/U7HMVz_zn3I/AAAAAAAAPiU/P_zI8X7oeAU/s1600/AT1.JPG</fanart>
+	<fanart></fanart>
 </channel>
+
+
+<channel>	
+	<name>[COLOR red]Sasoky ساسوكي[/COLOR]</name>
+	<thumbnail>http://www.amouda.com/sasoki12.jpg</thumbnail>
+	<externallink>https://raw.githubusercontent.com/jafali/haider/master/list/kids/Arabiccartoons/sasoki.xml</externallink>
+	<fanart></fanart>
+</channel>
+
+
 
 
 </channels>
