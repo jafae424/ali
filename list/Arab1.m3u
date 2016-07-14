@@ -18,6 +18,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 |User-Agent=VLC
+
+#EXTINF:-1,Arabic: MBC 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts
+
+#EXTINF:-1,Arabic: MBC DRAMA
+http://iptv-altamimi.org:8000/live/amin1/amin1/8.ts
+
+#EXTINF:-1,Arabic: MBC Maser
+http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts
+#EXTINF:-1,Arabic: MBC Maser 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts
 EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
 EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
@@ -85,9 +96,18 @@ http://63.237.48.28/ios/MBC2/MBC2.m3u8
 http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1,AR-Mbc2HD
 http://195.12.170.154:8002/play/armbc2hd
+#EXTINF:-1,Arabic: MBC 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/13.ts
+#EXTINF:-1,Arabic: MBC 3
+http://iptv-altamimi.org:8000/live/amin1/amin1/12.ts
+#EXTINF:-1,Arabic: MBC 4
+http://iptv-altamimi.org:8000/live/amin1/amin1/11.ts
+#EXTINF:-1,Arabic: MBC MAX
+http://iptv-altamimi.org:8000/live/amin1/amin1/7.ts
 #EXTINF:-1,AR-MBC-3 HD
 http://195.12.170.154:8002/play/armbc3hd
-
+#EXTINF:-1,Arabic: MBC Action
+http://iptv-altamimi.org:8000/live/amin1/amin1/10.ts
 
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -497,7 +517,16 @@ http://195.12.170.154:8002/play/armtvlebanon
 
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
-
+#EXTINF:-1,Arabic: LBC
+http://iptv-altamimi.org:8000/live/amin1/amin1/186.ts
+#EXTINF:-1,Arabic: LDC
+http://iptv-altamimi.org:8000/live/amin1/amin1/15.ts
+#EXTINF:-1,Arabic: Future
+http://iptv-altamimi.org:8000/live/amin1/amin1/153.ts
+#EXTINF:-1,Arabic: MTV Alloubnaniya
+http://iptv-altamimi.org:8000/live/amin1/amin1/139.ts
+#EXTINF:-1,Arabic: Al Jadeed
+http://iptv-altamimi.org:8000/live/amin1/amin1/794.ts
 #EXTINF:-1,Future TV (Lebanon) 
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
@@ -693,6 +722,119 @@ http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
 
+
+#EXTINF:-1,Arabic: Al-Nahar
+http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
+#EXTINF:-1,Arabic: Al-Nahar Alyoum
+http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
+#EXTINF:-1,Arabic: Al-Nahar Drama
+http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
+#EXTINF:-1,Arabic: Al-Nahar Cinema
+http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
+#EXTINF:-1,Arabic: Panorama Drama
+http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
+#EXTINF:-1,Arabic: Panorama Drama 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
+#EXTINF:-1,Arabic: Panorama Comedy
+http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
+#EXTINF:-1,Arabic: Panorama Food
+http://iptv-altamimi.org:8000/live/amin1/amin1/987.ts
+#EXTINF:-1,Arabic: Mazzika
+http://iptv-altamimi.org:8000/live/amin1/amin1/995.ts
+#EXTINF:-1,Arabic: Nile Sport
+http://iptv-altamimi.org:8000/live/amin1/amin1/215.ts
+#EXTINF:-1,Arabic: Nile Life
+http://iptv-altamimi.org:8000/live/amin1/amin1/219.ts
+#EXTINF:-1,Arabic: Nile Drama
+http://iptv-altamimi.org:8000/live/amin1/amin1/216.ts
+#EXTINF:-1,Arabic: Nile Comedy
+http://iptv-altamimi.org:8000/live/amin1/amin1/217.ts
+#EXTINF:-1,Arabic: Nile Cinema
+http://iptv-altamimi.org:8000/live/amin1/amin1/218.ts
+#EXTINF:-1,Arabic: Al Kahera Wal Nas
+http://iptv-altamimi.org:8000/live/amin1/amin1/782.ts
+#EXTINF:-1,Arabic: Al Kahera Wal Nas 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/783.ts
+#EXTINF:-1,Arabic: TOKTOK CIMA
+http://iptv-altamimi.org:8000/live/amin1/amin1/28.ts
+#EXTINF:-1,Arabic: Afrah
+http://iptv-altamimi.org:8000/live/amin1/amin1/31.ts
+#EXTINF:-1,Arabic: STAR CINEMA 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/34.ts
+#EXTINF:-1,Arabic: STAR CINEMA 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/33.ts
+#EXTINF:-1,Arabic: MAJESTIC CINEMA
+http://iptv-altamimi.org:8000/live/amin1/amin1/40.ts
+#EXTINF:-1,Arabic: LCD MOVIES
+http://iptv-altamimi.org:8000/live/amin1/amin1/41.ts
+#EXTINF:-1,Arabic: DARBAKA CINEMA
+http://iptv-altamimi.org:8000/live/amin1/amin1/42.ts
+#EXTINF:-1,Arabic: CINEMA ALWAN
+http://iptv-altamimi.org:8000/live/amin1/amin1/43.ts
+#EXTINF:-1,Arabic: CINEMA 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/45.ts
+#EXTINF:-1,Arabic: CINEMA 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/44.ts
+#EXTINF:-1,Arabic: CIMA ALI BABA
+http://iptv-altamimi.org:8000/live/amin1/amin1/46.ts
+#EXTINF:-1,Arabic: Al Burhan
+http://iptv-altamimi.org:8000/live/amin1/amin1/694.ts
+#EXTINF:-1,Arabic: Cairo Drama
+http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
+#EXTINF:-1,Arabic: Cairo Cinema
+http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
+#EXTINF:-1,Arabic: CAIRO ONE
+http://iptv-altamimi.org:8000/live/amin1/amin1/48.ts
+#EXTINF:-1,Arabic: BELODY AFLAM
+http://iptv-altamimi.org:8000/live/amin1/amin1/49.ts
+#EXTINF:-1,Arabic: ALMASRAWIA AFLAM
+http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
+#EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
+http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
+#EXTINF:-1,Arabic: Rotana Music
+http://iptv-altamimi.org:8000/live/amin1/amin1/64.ts
+#EXTINF:-1,Arabic: Rotana Masriya
+http://iptv-altamimi.org:8000/live/amin1/amin1/65.ts
+#EXTINF:-1,Arabic: Rotana Khalijia
+http://iptv-altamimi.org:8000/live/amin1/amin1/67.ts
+#EXTINF:-1,Arabic: Rotana Clip
+http://iptv-altamimi.org:8000/live/amin1/amin1/63.ts
+#EXTINF:-1,Arabic: Rotana Classic
+http://iptv-altamimi.org:8000/live/amin1/amin1/66.ts
+#EXTINF:-1,Arabic: Rotana Cinema
+http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
+#EXTINF:-1,Arabic: Rotana Aflam
+http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
+#EXTINF:-1,Arabic: AL HAYAT 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/158.ts
+#EXTINF:-1,Arabic: AL HAYAT 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/157.ts
+#EXTINF:-1,Arabic: CBC
+http://iptv-altamimi.org:8000/live/amin1/amin1/52.ts
+#EXTINF:-1,Arabic: CBC 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/53.ts
+#EXTINF:-1,Arabic: CBC SOFRA
+http://iptv-altamimi.org:8000/live/amin1/amin1/55.ts
+#EXTINF:-1,Arabic: CBC EXTRA
+http://iptv-altamimi.org:8000/live/amin1/amin1/56.ts
+#EXTINF:-1,Arabic: CBC DRAMA
+http://iptv-altamimi.org:8000/live/amin1/amin1/54.ts
+#EXTINF:-1,Arabic: ART Aflam 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
+#EXTINF:-1,Arabic: ART Aflam 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
+#EXTINF:-1,Arabic: ART Hekayat 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
+#EXTINF:-1,Arabic: ART Hekayat 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
+#EXTINF:-1,Arabic: ART Cinema
+http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
+#EXTINF:-1,Arabic: Sada Elbalad
+http://iptv-altamimi.org:8000/live/amin1/amin1/128.ts
+#EXTINF:-1,Arabic: Sada Elbalad 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/130.ts
+#EXTINF:-1,Arabic: Sada Elbalad Drama
+http://iptv-altamimi.org:8000/live/amin1/amin1/129.ts
 
 #EXTINF:-1,AR : Rotana
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/33.ts
@@ -973,7 +1115,26 @@ http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
-
+#EXTINF:-1,Arabic: Al Arabiya
+http://iptv-altamimi.org:8000/live/amin1/amin1/103.ts
+#EXTINF:-1,Arabic: Al Hadath
+http://iptv-altamimi.org:8000/live/amin1/amin1/104.ts
+#EXTINF:-1,Arabic: Aljazeera
+http://iptv-altamimi.org:8000/live/amin1/amin1/106.ts
+#EXTINF:-1,Arabic: Aljazeera Mubasher
+http://iptv-altamimi.org:8000/live/amin1/amin1/105.ts
+#EXTINF:-1,Arabic: Aljazeera Misr
+http://iptv-altamimi.org:8000/live/amin1/amin1/108.ts
+#EXTINF:-1,Arabic: Aljazeera English
+http://iptv-altamimi.org:8000/live/amin1/amin1/107.ts
+#EXTINF:-1,Arabic: Aljazeera Documentary
+http://iptv-altamimi.org:8000/live/amin1/amin1/109.ts
+#EXTINF:-1,Arabic: BBC Arabia
+http://iptv-altamimi.org:8000/live/amin1/amin1/144.ts
+#EXTINF:-1,Arabic: France 24 Arabia
+http://iptv-altamimi.org:8000/live/amin1/amin1/171.ts
+#EXTINF:-1,Arabic: Sky News Arabia
+http://iptv-altamimi.org:8000/live/amin1/amin1/808.ts
 #EXTINF:-1,AR-AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher 
 
