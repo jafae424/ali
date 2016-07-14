@@ -1,21 +1,7 @@
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <directories>
 
-
-<channels>
-  
-  
-<channel>
-<title>Haydi </title>
-<multilink>
-<title>haydi 1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=TujgXsQs0Fk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-</channel>
 
 
 
@@ -34,6 +20,10 @@
 
 
 
-</channels>
+
 </directories>
-</channels>
+
+
+#
+#
+#END
