@@ -28,6 +28,14 @@ EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
 http://38.99.146.38:7777/MBCMaser_HD.m3u8
 EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
+
+
+
+EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
+http://nimplus4.giniko.com/mbcdrama/mbcdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDE2IDM6MDk6NTAgQU0maGFzaF92YWx1ZT1hS1k3RUZINmJMUFJPbmVKSytnOGJRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+EXTINF:-1 tvg-logo="",[COLOR red]MBCMasr 1[/COLOR]
+http://nimplus3.giniko.com/mbcmasr/mbcmasr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDE2IDM6MTM6MTYgQU0maGFzaF92YWx1ZT1mMEYyQ0E1QWZrMW9ua245TE9YOGt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
 #EXTINF:0,mBC 1 HD
 http://178.18.29.202:9001/1444/slot_6444.m3u8
 #EXTINF:0,MBC
