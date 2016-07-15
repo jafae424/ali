@@ -408,10 +408,7 @@ http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
-#EXTINF:-1,Al Iraqia 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/388.ts
-#EXTINF:-1,Al Iraqia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/389.ts
+
 
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
@@ -421,13 +418,11 @@ rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
 rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.asiasat.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1 <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
 https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/playlist.m3u8?lalpasswendtime=1466315767&lalpasswwowzastarttime=0&lalpasswwowzastcustom=1466308571&lalpasswhash=Mt2SjbCHIOud1Nb6fXCZG7wD1Fi1XSxqnLV0tNgb4Xw=
-#EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
-rtsp://livestreaming2.itworkscdn.net/sumarialive/live_360p
-#EXTINF:-1,Sumaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/186.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/JDbJgS", البغدادية 
+
+
+EXTINF:-1 tvg-logo="http://goo.gl/JDbJgS", البغدادية 
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream 
-#EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
+EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
 rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
