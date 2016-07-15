@@ -56,51 +56,51 @@ http://iptv33.us.to/ip441555/3136774336/1.ch
 
 
 
-#EXTINF:-1,FR : Bein Sport 1 HD
+EXTINF:-1,FR : Bein Sport 1 HD
 http://www.egyiptv.co.uk:8080/live/full/star7/109.ts
-#EXTINF:-1,FR : Bein Sport 2 HD
+EXTINF:-1,FR : Bein Sport 2 HD
 http://www.egyiptv.co.uk:8080/live/full/star7/110.ts
 #EXTINF:-1,FR : Bein Sport 3 HD
 http://www.egyiptv.co.uk:8080/live/full/star7/111.ts
-#EXTINF:-1,Bein News HD
+EXTINF:-1,Bein News HD
 http://www.egyiptv.co.uk:8080/live/full/star7/198.ts
-#EXTINF:-1,Bein Sport max 1  HD local
+EXTINF:-1,Bein Sport max 1  HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/107.ts
-#EXTINF:-1,Bein sport max 2 HD local
+EXTINF:-1,Bein sport max 2 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/108.ts
-#EXTINF:-1,Bein Sport 1 HD local
+EXTINF:-1,Bein Sport 1 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/185.ts
-#EXTINF:-1,Bein Sport 2 HD local
+EXTINF:-1,Bein Sport 2 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/186.ts
-#EXTINF:-1,Bein Sport 3 HD local
+EXTINF:-1,Bein Sport 3 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/187.ts
-#EXTINF:-1,Bein Sport 4 HD local
+EXTINF:-1,Bein Sport 4 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/188.ts
-#EXTINF:-1,Bein Sport 5 HD local
+EXTINF:-1,Bein Sport 5 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/189.ts
-#EXTINF:-1,Bein Sport 6 HD local
+EXTINF:-1,Bein Sport 6 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/114.ts
-#EXTINF:-1,Bein Sport 7 HD local
+EXTINF:-1,Bein Sport 7 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/115.ts
-#EXTINF:-1,Bein Sport 8 HD local
+EXTINF:-1,Bein Sport 8 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/116.ts
-#EXTINF:-1,Bein Sport 9 HD local
+EXTINF:-1,Bein Sport 9 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/117.ts
-#EXTINF:-1,Bein Sport 10 HD local
+EXTINF:-1,Bein Sport 10 HD local
 http://www.egyiptv.co.uk:8080/live/full/star7/118.ts
-#EXTINF:-1,Bein Sport 1HD local2
+EXTINF:-1,Bein Sport 1HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/131.ts
-#EXTINF:-1,Bein Sport 2HD local2
+EXTINF:-1,Bein Sport 2HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/199.ts
-#EXTINF:-1,Bein Sport 3HD local2
+EXTINF:-1,Bein Sport 3HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/200.ts
-#EXTINF:-1,Bein Sport 4HD local2
+EXTINF:-1,Bein Sport 4HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/201.ts
-#EXTINF:-1,Bein Sport 5HD local2
+EXTINF:-1,Bein Sport 5HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/202.ts
-#EXTINF:-1,Bein Sport 6HD local2
+EXTINF:-1,Bein Sport 6HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/203.ts
-#EXTINF:-1,Bein Sport 7HD local2
+EXTINF:-1,Bein Sport 7HD local2
 http://www.egyiptv.co.uk:8080/live/full/star7/204.ts
 
 
@@ -245,19 +245,6 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/380.t
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
-
-#EXTINF:-1,AR_BEIN_MAX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
-#EXTINF:-1,AR_BEIN_MAX2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
-#EXTINF:-1,AR_BEIN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
-#EXTINF:-1,AR_BEIN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
-#EXTINF:-1,AR_BEIN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/3.ts
-#EXTINF:-1,AR_BEIN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/4.ts
 
 #EXTINF:-1,AR:opt:BeinSports-9-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/182.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
