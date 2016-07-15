@@ -19,16 +19,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
-#EXTINF:-1,Arabic: MBC 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts
 
-#EXTINF:-1,Arabic: MBC DRAMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/8.ts
-
-#EXTINF:-1,Arabic: MBC Maser
-http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts
-#EXTINF:-1,Arabic: MBC Maser 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts
 EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
 EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
@@ -37,7 +28,18 @@ EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
 http://38.99.146.38:7777/MBCMaser_HD.m3u8
 EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
-
+#EXTINF:0,mBC 1 HD
+http://178.18.29.202:9001/1444/slot_6444.m3u8
+#EXTINF:0,MBC
+http://178.18.29.202:9001/274/slot_5274.m3u8
+#EXTINF:0,MBC Drama HD
+http://178.18.29.202:9001/294/slot_5294.m3u8
+#EXTINF:0,MBC Drama
+http://178.18.29.202:9001/1396/slot_6396.m3u8
+#EXTINF:0,MBC Masar HD
+http://178.18.29.202:9001/70/slot_5070.m3u8
+#EXTINF:0,MBC Masar 2
+http://178.18.29.202:9001/1053/slot_6053.m3u8
 
 #EXTINF:0,MBC HD 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/31.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -55,8 +57,18 @@ http://195.12.170.154:8002/play/armbcdrama
 rtmp://5.189.130.147:1935/live/mbc11
 #EXTINF:-1,AR-MBC1 HD
 http://195.12.170.154:8002/play/armbc1hd
-#EXTINF:-1,AR: MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/euro2016/o0VpuvcvWh/2229.ts
+
+#EXTINF:-1,Arabic: MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts
+
+#EXTINF:-1,Arabic: MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/8.ts
+
+#EXTINF:-1,Arabic: MBC Maser
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts
+#EXTINF:-1,Arabic: MBC Maser 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts
+
 #EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
@@ -97,17 +109,17 @@ http://195.12.170.154:8002/play/armbc4hd
 #EXTINF:-1,AR-Mbc2HD
 http://195.12.170.154:8002/play/armbc2hd
 #EXTINF:-1,Arabic: MBC 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/13.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/13.ts
 #EXTINF:-1,Arabic: MBC 3
-http://iptv-altamimi.org:8000/live/amin1/amin1/12.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/12.ts
 #EXTINF:-1,Arabic: MBC 4
-http://iptv-altamimi.org:8000/live/amin1/amin1/11.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/11.ts
 #EXTINF:-1,Arabic: MBC MAX
-http://iptv-altamimi.org:8000/live/amin1/amin1/7.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/7.ts
 #EXTINF:-1,AR-MBC-3 HD
 http://195.12.170.154:8002/play/armbc3hd
 #EXTINF:-1,Arabic: MBC Action
-http://iptv-altamimi.org:8000/live/amin1/amin1/10.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/10.ts
 
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -251,53 +263,53 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/151.t
 
 
 
-EXTINF:0,المهدي 
+#EXTINF:0,المهدي 
 http://178.18.29.202:9001/500/slot_5500.m3u8
-EXTINF:0,الكوثر
+#EXTINF:0,الكوثر
 http://178.18.29.202:9001/168/slot_5168.m3u8
-EXTINF:0, المعارف
+#EXTINF:0, المعارف
 http://178.18.29.202:9001/238/slot_5238.m3u8
-EXTINF:0,المنار
+#EXTINF:0,المنار
 http://178.18.29.202:9001/2053/slot_7053.m3u8
-EXTINF:0,المسلة
+#EXTINF:0,المسلة
 http://178.18.29.202:9001/1814/slot_6814.m3u8
-EXTINF:0,النجباء
+#EXTINF:0,النجباء
 http://178.18.29.202:9001/2031/slot_7031.m3u8
-EXTINF:0,الشعائر
+#EXTINF:0,الشعائر
 http://178.18.29.202:9001/786/slot_5786.m3u8
-EXTINF:0,القمر
+#EXTINF:0,القمر
 http://178.18.29.202:9001/1247/slot_6247.m3u8
-EXTINF:0,قناة ابو الفضل
+#EXTINF:0,قناة ابو الفضل
 http://178.18.29.202:9001/1715/slot_6715.m3u8
-EXTINF:0,اهل البيت فارسي
+#EXTINF:0,اهل البيت فارسي
 http://178.18.29.202:9001/830/slot_5830.m3u8
-EXTINF:0,اهل البيت
+#EXTINF:0,اهل البيت
 http://178.18.29.202:9001/1593/slot_6593.m3u8
-EXTINF:0,2 قناة العهد
+#EXTINF:0,2 قناة العهد
 http://178.18.29.202:9001/556/slot_5556.m3u8
-EXTINF:0,الاباء
+#EXTINF:0,الاباء
 http://178.18.29.202:9001/1479/slot_6479.m3u8
-EXTINF:0,الايمان
+#EXTINF:0,الايمان
 http://178.18.29.202:9001/1836/slot_6836.m3u8
-EXTINF:0,الفرات 2
+#EXTINF:0,الفرات 2
 http://178.18.29.202:9001/804/slot_5804.m3u8
-EXTINF:0,الغدير 2
+#EXTINF:0,الغدير 2
 http://178.18.29.202:9001/1518/slot_6518.m3u8
-EXTINF:0,الحجة
+#EXTINF:0,الحجة
 http://178.18.29.202:9001/2331/slot_7331.m3u8 
-EXTINF:0,الاهواز 
+#EXTINF:0,الاهواز 
 http://178.18.29.202:9001/2329/slot_7329.m3u8
-EXTINF:0,المسار 1
+#EXTINF:0,المسار 1
 http://178.18.29.202:9001/2507/slot_7507.m3u8 
-EXTINF:0,الصراط
+#EXTINF:0,الصراط
 http://178.18.29.202:9001/298/slot_5298.m3u8
-EXTINF:0,الثقلين
+#EXTINF:0,الثقلين
 http://178.18.29.202:9001/511/slot_5511.m3u8
-EXTINF:0,الولاء
+#EXTINF:0,الولاء
 http://178.18.29.202:9001/1799/slot_6799.m3u8
-EXTINF:0,بينات
+#EXTINF:0,بينات
 http://178.18.29.202:9001/1705/slot_6705.m3u8
-EXTINF:0,الاوحد
+#EXTINF:0,الاوحد
 http://178.18.29.202:9001/405/slot_5405.m3u8
 EXTINF:-1,Al Forat
 http://38.99.146.38:7777/AlForat_HD.m3u8
@@ -518,15 +530,15 @@ http://195.12.170.154:8002/play/armtvlebanon
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 #EXTINF:-1,Arabic: LBC
-http://iptv-altamimi.org:8000/live/amin1/amin1/186.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/186.ts
 #EXTINF:-1,Arabic: LDC
-http://iptv-altamimi.org:8000/live/amin1/amin1/15.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/15.ts
 #EXTINF:-1,Arabic: Future
-http://iptv-altamimi.org:8000/live/amin1/amin1/153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/153.ts
 #EXTINF:-1,Arabic: MTV Alloubnaniya
-http://iptv-altamimi.org:8000/live/amin1/amin1/139.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/139.ts
 #EXTINF:-1,Arabic: Al Jadeed
-http://iptv-altamimi.org:8000/live/amin1/amin1/794.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/794.ts
 #EXTINF:-1,Future TV (Lebanon) 
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
@@ -723,119 +735,6 @@ http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
 http://jafaer-tv.com
 
 
-#EXTINF:-1,Arabic: Al-Nahar
-http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
-#EXTINF:-1,Arabic: Al-Nahar Alyoum
-http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
-#EXTINF:-1,Arabic: Al-Nahar Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
-#EXTINF:-1,Arabic: Al-Nahar Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
-#EXTINF:-1,Arabic: Panorama Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
-#EXTINF:-1,Arabic: Panorama Drama 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
-#EXTINF:-1,Arabic: Panorama Comedy
-http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
-#EXTINF:-1,Arabic: Panorama Food
-http://iptv-altamimi.org:8000/live/amin1/amin1/987.ts
-#EXTINF:-1,Arabic: Mazzika
-http://iptv-altamimi.org:8000/live/amin1/amin1/995.ts
-#EXTINF:-1,Arabic: Nile Sport
-http://iptv-altamimi.org:8000/live/amin1/amin1/215.ts
-#EXTINF:-1,Arabic: Nile Life
-http://iptv-altamimi.org:8000/live/amin1/amin1/219.ts
-#EXTINF:-1,Arabic: Nile Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/216.ts
-#EXTINF:-1,Arabic: Nile Comedy
-http://iptv-altamimi.org:8000/live/amin1/amin1/217.ts
-#EXTINF:-1,Arabic: Nile Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/218.ts
-#EXTINF:-1,Arabic: Al Kahera Wal Nas
-http://iptv-altamimi.org:8000/live/amin1/amin1/782.ts
-#EXTINF:-1,Arabic: Al Kahera Wal Nas 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/783.ts
-#EXTINF:-1,Arabic: TOKTOK CIMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/28.ts
-#EXTINF:-1,Arabic: Afrah
-http://iptv-altamimi.org:8000/live/amin1/amin1/31.ts
-#EXTINF:-1,Arabic: STAR CINEMA 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/34.ts
-#EXTINF:-1,Arabic: STAR CINEMA 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/33.ts
-#EXTINF:-1,Arabic: MAJESTIC CINEMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/40.ts
-#EXTINF:-1,Arabic: LCD MOVIES
-http://iptv-altamimi.org:8000/live/amin1/amin1/41.ts
-#EXTINF:-1,Arabic: DARBAKA CINEMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/42.ts
-#EXTINF:-1,Arabic: CINEMA ALWAN
-http://iptv-altamimi.org:8000/live/amin1/amin1/43.ts
-#EXTINF:-1,Arabic: CINEMA 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/45.ts
-#EXTINF:-1,Arabic: CINEMA 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/44.ts
-#EXTINF:-1,Arabic: CIMA ALI BABA
-http://iptv-altamimi.org:8000/live/amin1/amin1/46.ts
-#EXTINF:-1,Arabic: Al Burhan
-http://iptv-altamimi.org:8000/live/amin1/amin1/694.ts
-#EXTINF:-1,Arabic: Cairo Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
-#EXTINF:-1,Arabic: Cairo Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
-#EXTINF:-1,Arabic: CAIRO ONE
-http://iptv-altamimi.org:8000/live/amin1/amin1/48.ts
-#EXTINF:-1,Arabic: BELODY AFLAM
-http://iptv-altamimi.org:8000/live/amin1/amin1/49.ts
-#EXTINF:-1,Arabic: ALMASRAWIA AFLAM
-http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
-#EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
-#EXTINF:-1,Arabic: Rotana Music
-http://iptv-altamimi.org:8000/live/amin1/amin1/64.ts
-#EXTINF:-1,Arabic: Rotana Masriya
-http://iptv-altamimi.org:8000/live/amin1/amin1/65.ts
-#EXTINF:-1,Arabic: Rotana Khalijia
-http://iptv-altamimi.org:8000/live/amin1/amin1/67.ts
-#EXTINF:-1,Arabic: Rotana Clip
-http://iptv-altamimi.org:8000/live/amin1/amin1/63.ts
-#EXTINF:-1,Arabic: Rotana Classic
-http://iptv-altamimi.org:8000/live/amin1/amin1/66.ts
-#EXTINF:-1,Arabic: Rotana Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
-#EXTINF:-1,Arabic: Rotana Aflam
-http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
-#EXTINF:-1,Arabic: AL HAYAT 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/158.ts
-#EXTINF:-1,Arabic: AL HAYAT 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/157.ts
-#EXTINF:-1,Arabic: CBC
-http://iptv-altamimi.org:8000/live/amin1/amin1/52.ts
-#EXTINF:-1,Arabic: CBC 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/53.ts
-#EXTINF:-1,Arabic: CBC SOFRA
-http://iptv-altamimi.org:8000/live/amin1/amin1/55.ts
-#EXTINF:-1,Arabic: CBC EXTRA
-http://iptv-altamimi.org:8000/live/amin1/amin1/56.ts
-#EXTINF:-1,Arabic: CBC DRAMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/54.ts
-#EXTINF:-1,Arabic: ART Aflam 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
-#EXTINF:-1,Arabic: ART Aflam 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
-#EXTINF:-1,Arabic: ART Hekayat 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
-#EXTINF:-1,Arabic: ART Hekayat 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
-#EXTINF:-1,Arabic: ART Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
-#EXTINF:-1,Arabic: Sada Elbalad
-http://iptv-altamimi.org:8000/live/amin1/amin1/128.ts
-#EXTINF:-1,Arabic: Sada Elbalad 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/130.ts
-#EXTINF:-1,Arabic: Sada Elbalad Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/129.ts
-
 #EXTINF:-1,AR : Rotana
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/33.ts
 #EXTINF:-1,AR : Rotana Cinema HD
@@ -914,19 +813,19 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/327.t
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/328.ts
 
 
-EXTINF:0,Art Aflam 1
+#EXTINF:0,Art Aflam 1
 http://178.18.29.202:9001/1418/slot_6418.m3u8
-EXTINF:0,Art aflam 2
+#EXTINF:0,Art aflam 2
 http://178.18.29.202:9001/1417/slot_6417.m3u8
-EXTINF:0,Art cinema
+#EXTINF:0,Art cinema
 http://178.18.29.202:9001/1422/slot_6422.m3u8
-EXTINF:0,art حكايات
+#EXTINF:0,art حكايات
 http://178.18.29.202:9001/1421/slot_6421.m3u8
-EXTINF:0,art حكايات 2
+#EXTINF:0,art حكايات 2
 http://178.18.29.202:9001/1420/slot_6420.m3u8
-EXTINF:0,Rotana Aflam افلام
+#EXTINF:0,Rotana Aflam افلام
 http://178.18.29.202:9001/1471/slot_6471.m3u8
-EXTINF:0,Rotana cinema
+#EXTINF:0,Rotana cinema
 http://178.18.29.202:9001/1791/slot_6791.m3u8
 #EXTINF:-1,Al Hayat (Egypt)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
@@ -954,44 +853,44 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 
 
 
-EXTINF:0,القاهرة
+#EXTINF:0,القاهرة
 http://178.18.29.202:9001/347/slot_5347.m3u8
-EXTINF:0,مصر
+#EXTINF:0,مصر
 http://178.18.29.202:9001/1056/slot_6056.m3u8
-EXTINF:0,مصر 3
+#EXTINF:0,مصر 3
 http://178.18.29.202:9001/331/slot_5331.m3u8
-EXTINF:0,النهار 1
+#EXTINF:0,النهار 1
 http://178.18.29.202:9001/305/slot_5305.m3u8
-EXTINF:0,النهار دراما
+#EXTINF:0,النهار دراما
 http://178.18.29.202:9001/308/slot_5308.m3u8
-EXTINF:0,النهار
+#EXTINF:0,النهار
 http://178.18.29.202:9001/2449/slot_7449.m3u8
-EXTINF:0,النهار +2
+#EXTINF:0,النهار +2
 http://178.18.29.202:9001/399/slot_5399.m3u8
-EXTINF:0,النهار الرياضية
+#EXTINF:0,النهار الرياضية
 http://178.18.29.202:9001/69/slot_5069.m3u8
-EXTINF:0,الاسكندرية
+#EXTINF:0,الاسكندرية
 http://178.18.29.202:9001/270/slot_5270.m3u8
-EXTINF:0,كايرو فلم 
+#EXTINF:0,كايرو فلم 
 http://178.18.29.202:9001/1363/slot_6363.m3u8
 
-EXTINF:0,كايرو دراما
+#EXTINF:0,كايرو دراما
 http://178.18.29.202:9001/410/slot_5410.m3u8
-EXTINF:0,كت افلام
+#EXTINF:0,كت افلام
 http://178.18.29.202:9001/596/slot_5596.m3u8
-EXTINF:0,البهية bahaia tv
+#EXTINF:0,البهية bahaia tv
 http://178.18.29.202:9001/237/slot_5237.m3u8
-EXTINF:0,الحياة
+#EXTINF:0,الحياة
 http://178.18.29.202:9001/572/slot_5572.m3u8
-EXTINF:0,الحياة 2
+#EXTINF:0,الحياة 2
 http://178.18.29.202:9001/613/slot_5613.m3u8
-EXTINF:0,الحياة مسلاسلات
+#EXTINF:0,الحياة مسلاسلات
 http://178.18.29.202:9001/136/slot_5136.m3u8
-EXTINF:0,الحياة و الناس
+#EXTINF:0,الحياة و الناس
 http://178.18.29.202:9001/1507/slot_6507.m3u8
-EXTINF:0,الحوار
+#EXTINF:0,الحوار
 http://178.18.29.202:9001/2032/slot_7032.m3u8
-EXTINF:0,الحرية
+#EXTINF:0,الحرية
 http://178.18.29.202:9001/1462/slot_6462.m3u8
 
 
@@ -1112,29 +1011,142 @@ http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.
 
 
 
+#EXTINF:-1,Arabic: Al-Nahar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
+#EXTINF:-1,Arabic: Al-Nahar Alyoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
+#EXTINF:-1,Arabic: Al-Nahar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
+#EXTINF:-1,Arabic: Al-Nahar Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
+#EXTINF:-1,Arabic: Panorama Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
+#EXTINF:-1,Arabic: Panorama Drama 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
+#EXTINF:-1,Arabic: Panorama Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
+#EXTINF:-1,Arabic: Panorama Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/987.ts
+#EXTINF:-1,Arabic: Mazzika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/995.ts
+#EXTINF:-1,Arabic: Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/215.ts
+#EXTINF:-1,Arabic: Nile Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/219.ts
+#EXTINF:-1,Arabic: Nile Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/216.ts
+#EXTINF:-1,Arabic: Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/217.ts
+#EXTINF:-1,Arabic: Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/218.ts
+#EXTINF:-1,Arabic: Al Kahera Wal Nas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/782.ts
+#EXTINF:-1,Arabic: Al Kahera Wal Nas 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/783.ts
+#EXTINF:-1,Arabic: TOKTOK CIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/28.ts
+#EXTINF:-1,Arabic: Afrah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/31.ts
+#EXTINF:-1,Arabic: STAR CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/34.ts
+#EXTINF:-1,Arabic: STAR CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/33.ts
+#EXTINF:-1,Arabic: MAJESTIC CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/40.ts
+#EXTINF:-1,Arabic: LCD MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/41.ts
+#EXTINF:-1,Arabic: DARBAKA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/42.ts
+#EXTINF:-1,Arabic: CINEMA ALWAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/43.ts
+#EXTINF:-1,Arabic: CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/45.ts
+#EXTINF:-1,Arabic: CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/44.ts
+#EXTINF:-1,Arabic: CIMA ALI BABA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/46.ts
+#EXTINF:-1,Arabic: Al Burhan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/694.ts
+#EXTINF:-1,Arabic: Cairo Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
+#EXTINF:-1,Arabic: Cairo Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
+#EXTINF:-1,Arabic: CAIRO ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/48.ts
+#EXTINF:-1,Arabic: BELODY AFLAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/49.ts
+#EXTINF:-1,Arabic: ALMASRAWIA AFLAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
+#EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
+#EXTINF:-1,Arabic: Rotana Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/64.ts
+#EXTINF:-1,Arabic: Rotana Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/65.ts
+#EXTINF:-1,Arabic: Rotana Khalijia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/67.ts
+#EXTINF:-1,Arabic: Rotana Clip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/63.ts
+#EXTINF:-1,Arabic: Rotana Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/66.ts
+#EXTINF:-1,Arabic: Rotana Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
+#EXTINF:-1,Arabic: Rotana Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
+#EXTINF:-1,Arabic: AL HAYAT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/158.ts
+#EXTINF:-1,Arabic: AL HAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/157.ts
+#EXTINF:-1,Arabic: CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/52.ts
+#EXTINF:-1,Arabic: CBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/53.ts
+#EXTINF:-1,Arabic: CBC SOFRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/55.ts
+#EXTINF:-1,Arabic: CBC EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/56.ts
+#EXTINF:-1,Arabic: CBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/54.ts
+#EXTINF:-1,Arabic: ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
+#EXTINF:-1,Arabic: ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
+#EXTINF:-1,Arabic: ART Hekayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
+#EXTINF:-1,Arabic: ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
+#EXTINF:-1,Arabic: ART Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
+#EXTINF:-1,Arabic: Sada Elbalad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/128.ts
+#EXTINF:-1,Arabic: Sada Elbalad 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/130.ts
+#EXTINF:-1,Arabic: Sada Elbalad Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/129.ts
+
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
 #EXTINF:-1,Arabic: Al Arabiya
-http://iptv-altamimi.org:8000/live/amin1/amin1/103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/103.ts
 #EXTINF:-1,Arabic: Al Hadath
-http://iptv-altamimi.org:8000/live/amin1/amin1/104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/104.ts
 #EXTINF:-1,Arabic: Aljazeera
-http://iptv-altamimi.org:8000/live/amin1/amin1/106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/106.ts
 #EXTINF:-1,Arabic: Aljazeera Mubasher
-http://iptv-altamimi.org:8000/live/amin1/amin1/105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/105.ts
 #EXTINF:-1,Arabic: Aljazeera Misr
-http://iptv-altamimi.org:8000/live/amin1/amin1/108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/108.ts
 #EXTINF:-1,Arabic: Aljazeera English
-http://iptv-altamimi.org:8000/live/amin1/amin1/107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/107.ts
 #EXTINF:-1,Arabic: Aljazeera Documentary
-http://iptv-altamimi.org:8000/live/amin1/amin1/109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/109.ts
 #EXTINF:-1,Arabic: BBC Arabia
-http://iptv-altamimi.org:8000/live/amin1/amin1/144.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/144.ts
 #EXTINF:-1,Arabic: France 24 Arabia
-http://iptv-altamimi.org:8000/live/amin1/amin1/171.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/171.ts
 #EXTINF:-1,Arabic: Sky News Arabia
-http://iptv-altamimi.org:8000/live/amin1/amin1/808.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/808.ts
 #EXTINF:-1,AR-AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher 
 
@@ -1280,31 +1292,31 @@ http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunk
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
 
 #EXTINF:-1,Arabic: El Djazairia
-http://iptv-altamimi.org:8000/live/amin1/amin1/990.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/990.ts
 #EXTINF:-1,Arabic: Dzair News
-http://iptv-altamimi.org:8000/live/amin1/amin1/991.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/991.ts
 #EXTINF:-1,Arabic: El-Heddaf
-http://iptv-altamimi.org:8000/live/amin1/amin1/992.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/992.ts
 #EXTINF:-1,Arabic: Algérie 4
-http://iptv-altamimi.org:8000/live/amin1/amin1/1001.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/1001.ts
 #EXTINF:-1,Arabic: Algérie 5
-http://iptv-altamimi.org:8000/live/amin1/amin1/1002.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/1002.ts
 #EXTINF:-1,Arabic: KBC
-http://iptv-altamimi.org:8000/live/amin1/amin1/145.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/145.ts
 #EXTINF:-1,Arabic: Libya
-http://iptv-altamimi.org:8000/live/amin1/amin1/126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/126.ts
 #EXTINF:-1,Arabic: Libya 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/121.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/121.ts
 #EXTINF:-1,Arabic: Libya 24
-http://iptv-altamimi.org:8000/live/amin1/amin1/193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/193.ts
 #EXTINF:-1,Arabic: Alrasmeya
-http://iptv-altamimi.org:8000/live/amin1/amin1/29.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/29.ts
 #EXTINF:-1,Arabic: Zitouna
-http://iptv-altamimi.org:8000/live/amin1/amin1/154.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/154.ts
 #EXTINF:-1,Arabic: Zitouna Hidaya
-http://iptv-altamimi.org:8000/live/amin1/amin1/978.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/978.ts
 #EXTINF:-1,Arabic: Mekameleen
-http://iptv-altamimi.org:8000/live/amin1/amin1/155.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/155.ts
 
 
 
@@ -1482,23 +1494,23 @@ http://jafaer-tv.com
 
 
 #EXTINF:-1,Arabic: CN Arabia
-http://iptv-altamimi.org:8000/live/amin1/amin1/17.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/17.ts
 #EXTINF:-1,Arabic: Space Toon
-http://iptv-altamimi.org:8000/live/amin1/amin1/220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/220.ts
 #EXTINF:-1,Arabic: AJYAL
-http://iptv-altamimi.org:8000/live/amin1/amin1/80.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/80.ts
 #EXTINF:-1,Arabic: MODY KIDS
-http://iptv-altamimi.org:8000/live/amin1/amin1/37.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/37.ts
 #EXTINF:-1,Arabic: MICKEY CHANNEL
-http://iptv-altamimi.org:8000/live/amin1/amin1/38.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/38.ts
 #EXTINF:-1,Arabic: KOKKY TV
-http://iptv-altamimi.org:8000/live/amin1/amin1/39.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/39.ts
 #EXTINF:-1,Arabic: Toyor Aljanah
-http://iptv-altamimi.org:8000/live/amin1/amin1/791.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/791.ts
 #EXTINF:-1,Arabic: Toyor Baby
-http://iptv-altamimi.org:8000/live/amin1/amin1/792.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/792.ts
 #EXTINF:-1,Arabic: AlJazeera Children
-http://iptv-altamimi.org:8000/live/amin1/amin1/156.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/156.ts
 EXTINF:-1,Aljazeera Children
 http://38.99.146.38:7777/AlJazeeraKid_HD.m3u8
 EXTINF:-1,Cartoon Network
@@ -1525,23 +1537,23 @@ http://38.99.146.38:7777/ToyorAlJanah_HD.m3u8
 http://38.99.146.38:7777/Karameesh_HD.m3u8
 #EXTINF:-1,Koky Kids
 http://38.99.146.38:7777/Koky_HD.m3u8
-EXTINF:0,CN عربي
+#EXTINF:0,CN عربي
 http://178.18.29.202:9001/2317/slot_7317.m3u8
-EXTINF:0,CN turk
+#EXTINF:0,CN turk
 http://178.18.29.202:9001/1934/slot_6934.m3u8
-EXTINF:0,Disney channel
+#EXTINF:0,Disney channel
 http://178.18.29.202:9001/1896/slot_6896.m3u8
 
-EXTINF:0,disney junior
+#EXTINF:0,disney junior
 http://178.18.29.202:9001/784/slot_5784.m3u8
 
-EXTINF:0,Disney channel 2
+#EXTINF:0,Disney channel 2
 http://178.18.29.202:9001/783/slot_5783.m3u8
-EXTINF:0,Disney XD
+#EXTINF:0,Disney XD
 http://178.18.29.202:9001/704/slot_5704.m3u8
-EXTINF:0,BBC kids
+#EXTINF:0,BBC kids
 http://178.18.29.202:9001/11/slot_5011.m3u8
-EXTINF:0,براعم
+#EXTINF:0,براعم
 http://178.18.29.202:9001/518/slot_5518.m3u8
 #EXTINF:-1,Spacetoon Test
 rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/baraem.php live=true timeout=15
