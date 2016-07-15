@@ -471,7 +471,8 @@ http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sl
 
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
-
+#EXTINF:0, قناة العالم
+rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS?ar.tviraq.net
 
 #EXTINF:-1,الميادين
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
@@ -1565,7 +1566,8 @@ rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://w
 http://195.12.170.154:8002/play/artoyouraljennah
 #EXTINF:-1,Looney Tunes 
 rtmp://lb.miplayer.net:1935/goLive/_definst_/looney_jqy5j25e
-
+#EXTINF:-1,Sat7 Kids (Egypt)
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 
 #EXTINF:-1,Arabic:Cartoon Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2224.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
