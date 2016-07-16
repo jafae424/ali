@@ -732,15 +732,18 @@ item>
 <thumbnail>http://www.alaqila.tv/images/logo-up.png</thumbnail>
 </item>
 
+
+
+
 <item>
-<title>Aliman </title>
-<link>$doregex[getM3U8]</link>
+<title>Aliman الايمان </title>
+<link>$doregex[get-url]</link>
 <regex>
-<name>getM3U8</name>
+<name>get-url</name>
 <expres>file: "(.*?.m3u8.*)"</expres>
-<page>player.l1vetv.com/aliman/</page>
+<page>http://player.l1vetv.com/aliman/</page>
 <referer>http://www.alimantv.com/HtmlSecondary.aspx?id=114</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
+<agent>Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36</agent>
 </regex>
 </item>
 
@@ -1848,6 +1851,18 @@ src=[",'].*([".'])
 </regex>
 </item>
 
+<item>
+  <title>Dijlah</title>
+  <link>$doregex[getm3u8]index.m3u8|User-Agent=iPhone</link>
+  <regex>
+    <name>getm3u8</name>
+    <expres>src="(http.*?)[e\m]</expres>
+    <page>http://dijlah1.ghaasi.com/</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+    <accept>*/*;q=0.8</accept>
+    <cookiejar></cookiejar>
+  </regex>
+</item>
 
 
    <item>
