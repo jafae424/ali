@@ -733,13 +733,13 @@ item>
 </item>
 
 <item>
-<title>Aliman t الايمان</title>
+<title>Aliman </title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
 <expres>file: "(.*?.m3u8.*)"</expres>
 <page>player.l1vetv.com/aliman/</page>
-<referer>http://www.alimantv.com/</referer>
+<referer>http://www.alimantv.com/HtmlSecondary.aspx?id=114</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
 </regex>
 </item>
