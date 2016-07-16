@@ -346,6 +346,65 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/10.ts
 
 
+#EXTINF:-1,UK=SkysportNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1338.ts
+#EXTINF:-1,UK=SkysportF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1339.ts
+#EXTINF:-1,UK=SkySport5_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1333.ts
+#EXTINF:-1,UK=SkySport4_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1334.ts
+#EXTINF:-1,UK=SkySport3_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1335.ts
+#EXTINF:-1,UK=SkySport2_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1336.ts
+#EXTINF:-1,UK=SkySport1_UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1337.ts
+#EXTINF:-1,UK=Challenge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1331.ts
+#EXTINF:-1,UK=BTSportsExtra5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1326.ts
+#EXTINF:-1,UK=BTSportsExtra4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1325.ts
+#EXTINF:-1,UK=BTSportsExtra3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1324.ts
+#EXTINF:-1,UK=BTSportsExtra2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1323.ts
+#EXTINF:-1,UK=BTSportsExtra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1322.ts
+#EXTINF:-1,UK=BTSportEurope
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1327.ts
+#EXTINF:-1,UK=Boxnation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1340.ts
+#EXTINF:-1,UK=SetantaSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/757.ts
+#EXTINF:-1,UK=RteTWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/720.ts
+#EXTINF:-1,UK=RTE_ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/719.ts
+#EXTINF:-1,UK=RacingUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/769.ts
+#EXTINF:-1,UK=PremierSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/756.ts
+#EXTINF:-1,UK=MotorsTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/777.ts
+#EXTINF:-1,UK=More4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/710.ts
+#EXTINF:-1,UK=BTSportsExtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/780.ts
+#EXTINF:-1,UK=EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/741.ts
+#EXTINF:-1,UK=EUROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/740.ts
+#EXTINF:-1,UK=BTSport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/767.ts
+#EXTINF:-1,UK=BTSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/766.ts
+
+
+
+
+
 
 
 
