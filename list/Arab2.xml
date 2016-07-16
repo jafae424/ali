@@ -732,6 +732,23 @@ item>
 <thumbnail>http://www.alaqila.tv/images/logo-up.png</thumbnail>
 </item>
 
+
+
+<item>
+<title>Aliman الايمان</title>
+<link>$doregex[get_m3u8]|User-Agent: iPhone</link>
+<name>get_m3u8</name>
+<expres>file: "(.*?)"</expres>
+<page>player.l1vetv.com/aliman/</page>
+<agent>iPhone</agent>
+<referer>http://www.alimantv.com/HtmlSecondary.aspx?id=114</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</it
+
+
+
  <item>
  <title>Karbala</title>
  <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
