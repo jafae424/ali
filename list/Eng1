@@ -100,6 +100,206 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/361.t
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/360.ts
 
 
+#EXTINF:-1,UK=VH-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1363.ts
+#EXTINF:-1,UK=Tv3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1354.ts
+#EXTINF:-1,UK=True Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1361.ts
+#EXTINF:-1,UK=True Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1362.ts
+#EXTINF:-1,UK=TG4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1366.ts
+#EXTINF:-1,UK=TCM1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1329.ts
+#EXTINF:-1,UK=TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1328.ts
+
+#EXTINF:-1,UK=SkyNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1369.ts
+#EXTINF:-1,UK=SkyMovies_Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1132.ts
+#EXTINF:-1,UK=Sky Movies Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1131.ts
+#EXTINF:-1,UK=Sky Movies Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1129.ts
+#EXTINF:-1,UK=Living UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1358.ts
+#EXTINF:-1,UK=SkyAtlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1359.ts
+#EXTINF:-1,UK=SkyOne_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1356.ts
+#EXTINF:-1,UK=QUEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1364.ts
+#EXTINF:-1,UK=MTV_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1136.ts
+#EXTINF:-1,UK=MTV_Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1461.ts
+#EXTINF:-1,UK=MTV_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1137.ts
+#EXTINF:-1,UK=Movies 4 Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1332.ts
+#EXTINF:-1,UK=More4+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1349.ts
+#EXTINF:-1,UK=C-Span
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1140.ts
+#EXTINF:-1,UK=Discovery History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1139.ts
+#EXTINF:-1,UK=FOX_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1138.ts
+#EXTINF:-1,UK=FoodNetwork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1360.ts
+#EXTINF:-1,UK=the_Vault
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1355.ts
+#EXTINF:-1,UK=Eden+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1330.ts
+#EXTINF:-1,UK=E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1350.ts
+#EXTINF:-1,UK=Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1351.ts
+#EXTINF:-1,UK=Sky Movies Greats HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1141.ts
+#EXTINF:-1,UK=CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1370.ts
+#EXTINF:-1,UK=CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1371.ts
+
+#EXTINF:-1,UK=BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1368.ts
+#EXTINF:-1,UK=BBC_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1145.ts
+#EXTINF:-1,UK=Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1143.ts
+#EXTINF:-1,UK=5USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1142.ts
+#EXTINF:-1,UK=CBSN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1365.ts
+#EXTINF:-1,UK=5Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1352.ts
+#EXTINF:-1,UK=YESTERDAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/722.ts
+#EXTINF:-1,UK=WATCH_IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1111.ts
+#EXTINF:-1,UK=3E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/718.ts
+#EXTINF:-1,UK=NatgeoWild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/717.ts
+#EXTINF:-1,UK=SkySportNewsUk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/749.ts
+#EXTINF:-1,UK=SkySportF1Uk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/762.ts
+#EXTINF:-1,UK=Sky Movies Scifi / Horror HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/706.ts
+#EXTINF:-1,UK=Sky Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/705.ts
+#EXTINF:-1,UK=Sky Movies Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/702.ts
+#EXTINF:-1,UK=SKYMOVIES_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/701.ts
+#EXTINF:-1,UK=Sky Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/700.ts
+#EXTINF:-1,UK=Setanta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/755.ts
+
+#EXTINF:-1,UK=Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/736.ts
+#EXTINF:-1,UK=Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/737.ts
+#EXTINF:-1,UK=NationalGeographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/729.ts
+#EXTINF:-1,UK=MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/778.ts
+
+#EXTINF:-1,UK=ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/725.ts
+#EXTINF:-1,UK=ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/724.ts
+#EXTINF:-1,UK=ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/723.ts
+#EXTINF:-1,UK=ITV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/721.ts
+#EXTINF:-1,UK=Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/711.ts
+#EXTINF:-1,UK=Five
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/712.ts
+#EXTINF:-1,UK=Film4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/713.ts
+
+#EXTINF:-1,UK=3eUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/714.ts
+#EXTINF:-1,UK=Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/728.ts
+#EXTINF:-1,UK=DisneyJunior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/739.ts
+#EXTINF:-1,UK=DisneyChannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/738.ts
+#EXTINF:-1,UK=Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/735.ts
+#EXTINF:-1,UK=Bloomberg USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/732.ts
+#EXTINF:-1,UK=Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/734.ts
+#EXTINF:-1,UK=Discovery Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/733.ts
+#EXTINF:-1,UK=DiscoveryHistory
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/731.ts
+#EXTINF:-1,UK=Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/730.ts
+#EXTINF:-1,UK=Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/715.ts
+#EXTINF:-1,UK=Travel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/776.ts
+#EXTINF:-1,UK=CTHStadium5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/775.ts
+#EXTINF:-1,UK=CTHStadium4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/774.ts
+#EXTINF:-1,UK=CTHStadium3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/773.ts
+#EXTINF:-1,UK=CTHStadium2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/772.ts
+#EXTINF:-1,UK=CTHStadium1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/771.ts
+#EXTINF:-1,UK=Comedy_Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/692.ts
+#EXTINF:-1,UK=ChelseaTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/779.ts
+#EXTINF:-1,UK=Channel5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/708.ts
+#EXTINF:-1,UK=Channel4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/707.ts
+#EXTINF:-1,UK=CBS_Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/691.ts
+#EXTINF:-1,UK=CBS_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/693.ts
+#EXTINF:-1,UK=CBS_Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/694.ts
+#EXTINF:-1,UK=BTSportESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/768.ts
+
+#EXTINF:-1,UK=BoxnationUk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/763.ts
+#EXTINF:-1,UK=BBC4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/690.ts
+#EXTINF:-1,UK=BBC3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/689.ts
+#EXTINF:-1,UK=BBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/688.ts
+#EXTINF:-1,UK=BBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/687.ts
+#EXTINF:-1,UK=AtTheRaces
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/770.ts
+#EXTINF:-1,UK=Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/761.ts
+#EXTINF:-1,UK=SkyMoviesCrime&Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/760.ts
+#EXTINF:-1,UK=SkyTwo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/759.ts
+#EXTINF:-1,UK=SkyArts1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/758.ts
+#EXTINF:-1,UK=ALIENS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/727.ts
+#EXTINF:-1,UK=ALIBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/726.ts
 #EXTINF:-1,Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1,TLC
