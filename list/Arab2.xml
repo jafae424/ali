@@ -3716,6 +3716,17 @@ src=[",'].*([".'])
 
 
 
+<item>
+<title>Afaq</title>
+<link>https://forums.tvaddons.ag/$doregex[getrtmp] src=http://afaq.tv/js/jquery.js</link>
+<name>getrtmp</name>
+<expres>file: "(.*?)"</expres>
+<page>http://afaq.tv/live</page>
+<referer>http://afaq.tv/live</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 	
 
 
