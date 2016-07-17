@@ -368,11 +368,6 @@ http://185.105.4.137:1935/aletejahtv/aletejahtv/playlist.m3u8
 
 #EXTINF:-1,Taghier التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-#EXTINF:-1,افاق
-rtmp://live.afaq.tv/live/afaqtv/livestream|User-Agent=VLC
-
-#EXTINF:0, Afaq
-rtmp://208.43.70.75/live/afaqtv//livestream swfUrl=http://www.afaq.tv/newsite/live/player/player-licensed.swf live=1 pageUrl=http://www.afaq.tv/
 #EXTINF:-1,العهد
 rtmp://176.241.91.122:1935/live/ playpath=alahad swfUrl=http://ssl.p.jwpcdn.com/player/v/7.4.4/jwplayer.flash.swf pageUrl=http://www.alahad.tv.iq/?m=live <objectEncoding>
 
