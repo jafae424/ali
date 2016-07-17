@@ -732,7 +732,22 @@ item>
 <thumbnail>http://www.alaqila.tv/images/logo-up.png</thumbnail>
 </item>
 
-
+<item>
+<title>Afaq.tv</title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://afaq.tv/live</link>
+<regex>
+<name>rtmp</name>
+<expres>file:\s"(.*?)livestream</expres>
+<page>http://afaq.tv/live</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>file:\s".*?\/afaqtv\/(.*?)",</expres>
+<page>http://afaq.tv/live</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
@@ -3715,19 +3730,6 @@ src=[",'].*([".'])
 
 
 
-
-<item>
-<title>Afaq</title>
-<link>https://forums.tvaddons.ag/$doregex[getrtmp] src=http://afaq.tv/js/jquery.js</link>
-<name>getrtmp</name>
-<expres>file: "(.*?)"</expres>
-<page>http://afaq.tv/live</page>
-<referer>http://afaq.tv/live</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	
 
 
 
