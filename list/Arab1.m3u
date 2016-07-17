@@ -368,7 +368,8 @@ http://185.105.4.137:1935/aletejahtv/aletejahtv/playlist.m3u8
 
 #EXTINF:-1,Taghier التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-
+#EXTINF:-1,افاق
+rtmp://live.afaq.tv/live/afaqtv/livestream|User-Agent=VLC
 
 
 #EXTINF:-1,العهد
