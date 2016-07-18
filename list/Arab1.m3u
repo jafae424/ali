@@ -1531,9 +1531,9 @@ EXTINF:-1,Taha
 http://38.99.146.38:7777/Taha_HD.m3u8
 EXTINF:-1,Toyor Al Janah
 http://38.99.146.38:7777/ToyorAlJanah_HD.m3u8
-#EXTINF:-1,Karameesh
+EXTINF:-1,Karameesh
 http://38.99.146.38:7777/Karameesh_HD.m3u8
-#EXTINF:-1,Koky Kids
+EXTINF:-1,Koky Kids
 http://38.99.146.38:7777/Koky_HD.m3u8
 #EXTINF:0,CN عربي
 http://178.18.29.202:9001/2317/slot_7317.m3u8
@@ -1571,28 +1571,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
 
 
-#EXTINF:-1,Cartoon Network ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/338.ts
-#EXTINF:-1,SPACETOON ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/192.ts
-#EXTINF:-1,Micky Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/312.ts
-#EXTINF:-1,Majid Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/405.ts
-#EXTINF:-1,KOKY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/294.ts
-#EXTINF:-1,CANARY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/339.ts
-#EXTINF:-1,AR:SAT7 KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/62.ts
-#EXTINF:-1,AR: Cartoon Net English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/41.ts
-#EXTINF:-1,Ar: IKIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/5.ts
-#EXTINF:-1,AR: MICKEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/27.ts
-#EXTINF:-1,Nour Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.free-iptv.org:5070/live/hai82der/89qIaOpHcq/471.ts
+
 
 #EXTINF:-1,taha
 http://38.99.146.69:7777/Taha_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=8a00c1c4e4fb2ec6c23bf5c32e462893763a4e3d56267a8758c19a735dcbf088a299017ce29bf1aa
