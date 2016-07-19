@@ -517,12 +517,6 @@ http://195.12.170.154:8002/play/arotv
 http://195.12.170.154:8002/play/arnbn
 #EXTINF:-1,AR-Mtv-lebanon
 http://195.12.170.154:8002/play/armtvlebanon
-#EXTINF:-1,LBC Europe (Lebanon)
-http://osltv.zackapps.com/apps/best/labenon.php?id=osltv
-#EXTINF:-1,Lbc
-http://htp.brasilia.me/iptv/ch28?code=460011131604165
-#EXTINF:-1, MTV Lebanon
-http://195.12.170.154:8002/play/armtvlebanon
 
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
@@ -539,15 +533,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 #EXTINF:-1,Future TV (Lebanon) 
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 
-#EXTINF:-1,aljadeed الجديد
-https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?mech9waktaendtime=1467582284&mech9waktawowzastarttime=0&mech9waktawowzastcustom=1467575088&mech9waktahash=sfCoWlqc2X4WlnVXgpYvtiy5h_88OyuFPkNc9RYEj7M=
-#EXTINF:-1,aljadeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/23.ts
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
 
-#EXTINF:-1,AR:ALJADID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1,Al Dafrah
 http://live.aldafrah.tv:1935/live/myStream3/.m3u8
