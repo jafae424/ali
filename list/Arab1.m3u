@@ -90,8 +90,6 @@ http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
 
 
-EXTINF:-1 tvg-logo="http://goo.gl/U8T8OF",OSN-MBC+DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/hakam/hakam/21.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
@@ -148,25 +146,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
 
-#EXTINF:-1,AR : Art Aflam 1
+EXTINF:-1,AR : Art Aflam 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/124.ts
-#EXTINF:-1,AR: Art Aflam 1
+EXTINF:-1,AR: Art Aflam 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/174.ts
-#EXTINF:-1,AR : Art Aflam 2
+EXTINF:-1,AR : Art Aflam 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/125.ts
-#EXTINF:-1,AR: Art Aflam 2
+EXTINF:-1,AR: Art Aflam 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/173.ts
-#EXTINF:-1,Ar : Art Cinema
+EXTINF:-1,Ar : Art Cinema
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/127.ts
-#EXTINF:-1,AR: Art Cinema
+EXTINF:-1,AR: Art Cinema
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/172.ts
-#EXTINF:-1,AR: Art Hekayat
+EXTINF:-1,AR: Art Hekayat
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/171.ts
-#EXTINF:-1,AR : Art Hekayat 1
+EXTINF:-1,AR : Art Hekayat 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/130.ts
-#EXTINF:-1,AR : Art Hekayat 2
+EXTINF:-1,AR : Art Hekayat 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/126.ts
-#EXTINF:-1,AR: Art Hekayat 2
+EXTINF:-1,AR: Art Hekayat 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.ts
 
 
@@ -181,79 +179,79 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 #EXTINF:-1, bein movies
 http://zonalivetv.at.ua/beINMovies3.m3u8
 
-#EXTINF:-1,Bein Movies 1 HD
+EXTINF:-1,Bein Movies 1 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/105.ts
-#EXTINF:-1,Bein Movies 2 HD
+EXTINF:-1,Bein Movies 2 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/104.ts
-#EXTINF:-1,Bein Movies 3 HD
+EXTINF:-1,Bein Movies 3 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/106.ts
-#EXTINF:-1,Bein Movies 4 HD
+EXTINF:-1,Bein Movies 4 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/157.ts
-#EXTINF:-1,OSN Cinema 1 HD
+EXTINF:-1,OSN Cinema 1 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/289.ts
-#EXTINF:-1,OSN Cinema 2 HD
+EXTINF:-1,OSN Cinema 2 HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/288.ts
-#EXTINF:-1,OSN AL Youm HD
+EXTINF:-1,OSN AL Youm HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/18.ts
-#EXTINF:-1,OSN Al Youm SD
+EXTINF:-1,OSN Al Youm SD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/309.ts
-#EXTINF:-1,OSN AL Youm Low
+EXTINF:-1,OSN AL Youm Low
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/25.ts
-#EXTINF:-1,OSN YA HALA
+EXTINF:-1,OSN YA HALA
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/308.ts
-#EXTINF:-1,OSN Yahlaa HD
+EXTINF:-1,OSN Yahlaa HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/19.ts
-#EXTINF:-1,OSN YA HALA SHABAB HD
+EXTINF:-1,OSN YA HALA SHABAB HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/26.ts
-#EXTINF:-1,OSN Yahala Shabab
+EXTINF:-1,OSN Yahala Shabab
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/310.ts
-#EXTINF:-1,OSN YA HALA DRAMA HD
+EXTINF:-1,OSN YA HALA DRAMA HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/29.ts
-#EXTINF:-1,Osn Movies HD
+EXTINF:-1,Osn Movies HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/27.ts
-#EXTINF:-1,Osn Movies Action
+EXTINF:-1,Osn Movies Action
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/28.ts
-#EXTINF:-1,Osn Movies Action +2
+EXTINF:-1,Osn Movies Action +2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/1.ts
-#EXTINF:-1,Osn Movies Drama
+EXTINF:-1,Osn Movies Drama
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/282.ts
-#EXTINF:-1,OSN First HD
+EXTINF:-1,OSN First HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/163.ts
-#EXTINF:-1,OSN First Comedy
+EXTINF:-1,OSN First Comedy
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/164.ts
-#EXTINF:-1,OSN Movies Premiere
+EXTINF:-1,OSN Movies Premiere
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/162.ts
-#EXTINF:-1,AR: Osn Movies Premier  + 2
+EXTINF:-1,AR: Osn Movies Premier  + 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/156.ts
-#EXTINF:-1,OSN Movies Festival
+EXTINF:-1,OSN Movies Festival
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/159.ts
-#EXTINF:-1,Osn Animal Planet
+EXTINF:-1,Osn Animal Planet
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/160.ts
-#EXTINF:-1,OSN Movies Kids
+EXTINF:-1,OSN Movies Kids
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/161.ts
-#EXTINF:-1,Osn Dinsey Junior
+EXTINF:-1,Osn Dinsey Junior
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/165.ts
-#EXTINF:-1,AR: Osn Box Offiec 1
+EXTINF:-1,AR: Osn Box Offiec 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/168.ts
-#EXTINF:-1,AR: Osn Box Offiec 3
+EXTINF:-1,AR: Osn Box Offiec 3
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/167.ts
-#EXTINF:-1,AR: Osn sport 3 wwe
+EXTINF:-1,AR: Osn sport 3 wwe
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/144.ts
-#EXTINF:-1,AR: Osn sport 5 wwe
+EXTINF:-1,AR: Osn sport 5 wwe
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/143.ts
-#EXTINF:-1,AR: Osn sport 6 wwe
+EXTINF:-1,AR: Osn sport 6 wwe
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/142.ts
-#EXTINF:-1,AR: Osn sport 9 wwe
+EXTINF:-1,AR: Osn sport 9 wwe
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/141.ts
-#EXTINF:-1,OSN Discovery ID
+EXTINF:-1,OSN Discovery ID
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/154.ts
-#EXTINF:-1,OSN On Demand
+EXTINF:-1,OSN On Demand
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/155.ts
-#EXTINF:-1,OSN History HD
+EXTINF:-1,OSN History HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/153.ts
-#EXTINF:-1,OSN Movies Comedy
+EXTINF:-1,OSN Movies Comedy
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/152.ts
-#EXTINF:-1,OSN ON DEMAND EXTRA
+EXTINF:-1,OSN ON DEMAND EXTRA
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/151.ts
 
 
