@@ -857,65 +857,106 @@ item>
 <fanart></fanart>
 </item>  
  
-   
- 
-  <item>
-<title>[COLOR red]Panorama Drama 1[/COLOR] </color></title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/panoramadrama.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/panoramadrama.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
 
+<item>
+<title> [COLOR red]Panorama drama [/COLOR]</title> 
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/panoramadrama.html</link> 
 <regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd&amp;width=594&amp;height=404&amp;key2=1118</page>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
 <referer>http://iptv-planet.com/panoramadrama.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> 
-   
-  <item>
-<title>[COLOR red]Panorama Drama 2[/COLOR] </color></title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118 live=1 timeout=15 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>"Hi[\d\D]*?streamer="(.*?)";.*\n.*st</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/panoramadrama2.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 <regex>
-<name>getAPP</name>
-<expres>var streamer="rtmp.+?[^\/]+\/([^\"]+)</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/panoramadrama2.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
-
 <regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-pla.net/embed.php?id=Hi_pd2&amp;width=594&amp;height=404&amp;key2=1118</page>
-<referer>http://iptv-planet.com/panoramadrama2.html</referer>
-<agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> 
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/panoramadrama.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
+</item>
+  
+<item>
+<title> [COLOR red]Panorama drama 2[/COLOR]</title> 
+<link>$doregex[rtmp] app=$doregex[get-app] playpath=$doregex[hash-key] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2] live=1 flashVer=WIN\2019,0,0,245 swfVfy=1|Referer=http://iptv-planet.com/panoramadrama2.html</link> 
+<regex>
+<name>rtmp</name>
+<expres>var streamer.*?[",'](.*?web.*?\/)</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-app</name>
+<expres>var streamer.*?[",'].*?web.*?\/(.+?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>hash-key</name>
+<expres>file.*?[",'](art.*?)[",']\W</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=$doregex[get-id]&amp;width=594&amp;height=404&amp;key2=$doregex[get-key2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-id</name>
+<expres>file.*?[",'](.+?)[",']\W</expres>
+<page>http://iptv-planet.com/panoramadrama2.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-key2</name>
+<expres><![CDATA[key.*?=(.*?)>]]></expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://iptv-planet.com/panoramadrama2.html</referer>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
+</item>
    
     <streaminginfo>
         <cname>Panorama film</cname>
