@@ -60,7 +60,7 @@ EXTINF:-1,FR : Bein Sport 1 HD
 http://www.egyiptv.co.uk:8080/live/full/star7/109.ts
 EXTINF:-1,FR : Bein Sport 2 HD
 http://www.egyiptv.co.uk:8080/live/full/star7/110.ts
-#EXTINF:-1,FR : Bein Sport 3 HD
+EXTINF:-1,FR : Bein Sport 3 HD
 http://www.egyiptv.co.uk:8080/live/full/star7/111.ts
 EXTINF:-1,Bein News HD
 http://www.egyiptv.co.uk:8080/live/full/star7/198.ts
@@ -106,10 +106,10 @@ http://www.egyiptv.co.uk:8080/live/full/star7/204.ts
 
 
 
-#EXTINF:-1,bein sport2 hd
-http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
-#EXTINF:-1,bein sport3 hd
-http://iptv33.us.to/ip441555/3136774336/3.ch
+
+
+
+
 
 #EXTINF:-1,beIN_s1
 http://iptv33.us.to/ip441555/3136774336/1.ch|User-Agent=VLC
@@ -144,106 +144,20 @@ http://iptv33.us.to/ip441555/3136774336/15.ch|User-Agent=VLC
 
 
 
-#EXTINF:0,bein MAX 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/Z3tvvd358cgije790fnErfLlI/107.ts
-
-#EXTINF:0,bein MAX 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/108.ts
-#EXTINF:0,bein sport 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/131.ts
-#EXTINF:0,bein  sport 2 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/67.ts
-
-#EXTINF:0,bein sport 3 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/65.ts
-#EXTINF:0,bein sport 4
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/63.ts
-
-#EXTINF:0,bein sport 5
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/56.ts
-#EXTINF:0,bein sport 6 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/21.ts
-#EXTINF:0,bein sport 7 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/79.ts
-
-#EXTINF:0,bein sport 8 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/80.ts
-
-
-#EXTINF:0,bein 9 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/81.ts
-
-#EXTINF:0,bein 10hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/91.ts
-
-#EXTINF:0,bein 12
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/44.ts
-#EXTINF:0,bein 13 hd
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/133.ts
-
-
-#EXTINF:0,Sky Sport 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/71.ts
-#EXTINF:0,Sky Sport 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/72.ts
-
-#EXTINF:0,Sky Sport 3
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/73.ts
-
-#EXTINF:0,AD sport 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/132.ts
-#EXTINF:0,  Abu Dhabi sport 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/325.ts
-
-#EXTINF:-1,AR: Osn sport 18 wwe
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/150.ts
-#EXTINF:-1,AR: Osn sport 19 wwe
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/149.ts
-#EXTINF:-1,AR: Osn sport 20 wwe
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/148.ts
-#EXTINF:-1,AR: Osn sport 21 wwe
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/147.ts
-#EXTINF:-1,AR: Osn sport 23 wwe
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/146.ts
-#EXTINF:-1,AR: Osn sport 24 wwe
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/145.ts
-#EXTINF:-1,Al Kass 1 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/78.ts
-#EXTINF:-1,Al Kass 2 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/77.ts
-#EXTINF:-1,Al Kass 3 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/76.ts
-#EXTINF:-1,Al Kass 4 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/75.ts
-#EXTINF:-1,Al Kass 5 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/74.ts
-
-#EXTINF:-1,DE: Sport1 HD (Germany)
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/244.ts
-#EXTINF:-1,DE: Sport1  US HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/246.ts
-#EXTINF:-1,DE: Sport1  HD (Germany)
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/245.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/234.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/238.ts
-#EXTINF:-1,DE: Sky Sport HD 2 Germany
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/240.ts
-#EXTINF:-1,DE: Sky Sport HD 1 Germany
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/239.ts
-#EXTINF:-1,|IT| RAI 1 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/384.ts
-#EXTINF:-1,|IT| RAI 2 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/383.ts
-#EXTINF:-1,|IT| RAI 3 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/382.ts
-#EXTINF:-1,|IT| RAI 4 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/381.ts
-#EXTINF:-1,|IT| RAI 5 HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/380.ts
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
+
+#EXTINF:-1,bein sport1 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
+
+#EXTINF:-1,bein sport2 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
+#EXTINF:-1,bein sport3 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/3.ts
+#EXTINF:-1,bein sport4 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/4.ts
+
+
 
 
 #EXTINF:-1,AR:opt:BeinSports-9-HD
