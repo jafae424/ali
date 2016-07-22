@@ -313,6 +313,12 @@ http://178.18.29.202:9001/1799/slot_6799.m3u8
 http://178.18.29.202:9001/1705/slot_6705.m3u8
 #EXTINF:0,الاوحد
 http://178.18.29.202:9001/405/slot_5405.m3u8
+#EXTINF:0,Imam Hussain 2
+http://178.18.29.202:9001/1371/slot_6371.m3u8
+#EXTINF:0,Imam Hussain 3
+http://178.18.29.202:9001/834/slot_5834.m3u8
+#EXTINF:0,كربلاء 
+http://178.18.29.202:9001/415/slot_5415.m3u8
 #EXTINF:-1,Al Forat
 http://38.99.146.38:7777/AlForat_HD.m3u8
 #EXTINF:-1,Al Anwar
@@ -451,6 +457,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.fre
 #EXTINF:0,الموصلية
 http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m3u8
 
+
+#EXTINF:0,العراقية
+http://178.18.29.202:9001/1014/slot_6014.m3u8
+#EXTINF:0,Aliraqia 1
+http://178.18.29.202:9001/1066/slot_6066.m3u8
+#EXTINF:0,العراقية الرياضية
+http://178.18.29.202:9001/685/slot_5685.m3u8
+
+#EXTINF:0,عشتار 
+http://178.18.29.202:9001/2517/slot_7517.m3u8
+
+#EXTINF:0,كركوك
+http://178.18.29.202:9001/1482/slot_6482.m3u8
+#EXTINF:0,Baghdad
+http://178.18.29.202:9001/1072/slot_6072.m3u8 
+#EXTINF:0,Iraq Almostaqbal
+http://178.18.29.202:9001/1298/slot_6298.m3u8
+#EXTINF:0,سومر نيوز
+http://178.18.29.202:9001/30/slot_5030.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -1851,53 +1876,70 @@ rtmp://cp135357.live.edgefcs.net/live/
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,49- oman doc
 rtmp://38.96.148.30/live?v=1334683153/omantv4
+#EXTINF:0,Animal Plant
+http://178.18.29.202:9001/2488/slot_7488.m3u8
+#EXTINF:0,Animal Box
+http://178.18.29.202:9001/744/slot_5744.m3u8
+#EXTINF:0,Discovery History
+http://178.18.29.202:9001/2491/slot_7491.m3u8
+#EXTINF:0,History
+http://178.18.29.202:9001/787/slot_5787.m3u8
+#EXTINF:0,H&H
+http://178.18.29.202:9001/2492/slot_7492.m3u8
+#EXTINF:0,SC Discovery
+http://178.18.29.202:9001/2490/slot_7490.m3u8
+#EXTINF:0,Turbo
+http://178.18.29.202:9001/2493/slot_7493.m3u8
+#EXTINF:0,Discovery
+http://178.18.29.202:9001/2496/slot_7496.m3u8
 
 
 
 
-#EXTINF:-1,UK:NATIONAL-GEO-WILD
+EXTINF:-1,UK:NATIONAL-GEO-WILD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/333.ts
-#EXTINF:-1,UK:DISNEY-CHANNEL
+EXTINF:-1,UK:DISNEY-CHANNEL
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/334.ts
-#EXTINF:-1,UK:DISCOVERY-SCIENCE
+EXTINF:-1,UK:DISCOVERY-SCIENCE
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/335.ts
-#EXTINF:-1,UK:ANIMAL-PLANET
+EXTINF:-1,UK:ANIMAL-PLANET
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/336.ts
 
-#EXTINF:-1,|UK|  DISCOVERY SCIENCE CHANNEL
+EXTINF:-1,|UK|  DISCOVERY SCIENCE CHANNEL
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/355.ts
-#EXTINF:-1,|UK|  DISCOVERY HOME&HEALTH
+EXTINF:-1,|UK|  DISCOVERY HOME&HEALTH
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/356.ts
-#EXTINF:-1,|UK|  DISCOVERY CHANNEL
+EXTINF:-1,|UK|  DISCOVERY CHANNEL
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/357.ts
-#EXTINF:-1,|UK|  NATIONAL GEOGRAPHIC HD
+EXTINF:-1,|UK|  NATIONAL GEOGRAPHIC HD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/352.ts
-#EXTINF:-1,NAT GEO WILD
+EXTINF:-1,NAT GEO WILD
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/137.ts
-#EXTINF:-1,NAT GEO
+EXTINF:-1,NAT GEO
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.ts
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
+#EXTINF:0,Hod Hod kids
+http://178.18.29.202:9001/412/slot_5412.m3u8
+#EXTINF:0,Hod Hod kids English
+http://178.18.29.202:9001/2309/slot_7309.m3u8
+#EXTINF:0,الجزيرة اطفال 
+http://178.18.29.202:9001/471/slot_5471.m3u8
+#EXTINF:0,كراميش اطفال
+http://178.18.29.202:9001/396/slot_5396.m3u8
+#EXTINF:0,KX kids 
+http://178.18.29.202:9001/198/slot_5198.m3u8
+#EXTINF:0,KX kids 2
+http://178.18.29.202:9001/1950/slot_6950.m3u8
+#EXTINF:0,كوكي اطفال 
+http://178.18.29.202:9001/262/slot_5262.m3u8
+
+#EXTINF:0,كوجي اطفال
+http://178.18.29.202:9001/506/slot_5506.m3u8
+#EXTINF:0,ليبيا مرح 
+http://178.18.29.202:9001/2213/slot_7213.m3u8
 
 
-#EXTINF:-1,Arabic: CN Arabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/17.ts
-#EXTINF:-1,Arabic: Space Toon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/220.ts
-#EXTINF:-1,Arabic: AJYAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/80.ts
-#EXTINF:-1,Arabic: MODY KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/37.ts
-#EXTINF:-1,Arabic: MICKEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/38.ts
-#EXTINF:-1,Arabic: KOKKY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/39.ts
-#EXTINF:-1,Arabic: Toyor Aljanah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/791.ts
-#EXTINF:-1,Arabic: Toyor Baby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/792.ts
-#EXTINF:-1,Arabic: AlJazeera Children
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/156.ts
 #EXTINF:-1,Aljazeera Children
 http://38.99.146.38:7777/AlJazeeraKid_HD.m3u8
 #EXTINF:-1,Cartoon Network
@@ -1959,7 +2001,24 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Nickelodeon
 http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
 
-
+#EXTINF:-1,Arabic: CN Arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/17.ts
+#EXTINF:-1,Arabic: Space Toon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/220.ts
+#EXTINF:-1,Arabic: AJYAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/80.ts
+#EXTINF:-1,Arabic: MODY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/37.ts
+#EXTINF:-1,Arabic: MICKEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/38.ts
+#EXTINF:-1,Arabic: KOKKY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/39.ts
+#EXTINF:-1,Arabic: Toyor Aljanah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/791.ts
+#EXTINF:-1,Arabic: Toyor Baby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/792.ts
+#EXTINF:-1,Arabic: AlJazeera Children
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/156.ts
 
 
 
