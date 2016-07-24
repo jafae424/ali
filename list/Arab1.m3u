@@ -32,18 +32,6 @@ http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
 
 
 
-#EXTINF:0,mBC 1 HD
-http://178.18.29.202:9001/1444/slot_6444.m3u8
-#EXTINF:0,MBC
-http://178.18.29.202:9001/274/slot_5274.m3u8
-#EXTINF:0,MBC Drama HD
-http://178.18.29.202:9001/294/slot_5294.m3u8
-#EXTINF:0,MBC Drama
-http://178.18.29.202:9001/1396/slot_6396.m3u8
-#EXTINF:0,MBC Masar HD
-http://178.18.29.202:9001/70/slot_5070.m3u8
-#EXTINF:0,MBC Masar 2
-http://178.18.29.202:9001/1053/slot_6053.m3u8
 
 EXTINF:0,MBC HD 
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/31.ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -265,60 +253,7 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 
 
-#EXTINF:0,المهدي 
-http://178.18.29.202:9001/500/slot_5500.m3u8
-#EXTINF:0,الكوثر
-http://178.18.29.202:9001/168/slot_5168.m3u8
-#EXTINF:0, المعارف
-http://178.18.29.202:9001/238/slot_5238.m3u8
-#EXTINF:0,المنار
-http://178.18.29.202:9001/2053/slot_7053.m3u8
-#EXTINF:0,المسلة
-http://178.18.29.202:9001/1814/slot_6814.m3u8
-#EXTINF:0,النجباء
-http://178.18.29.202:9001/2031/slot_7031.m3u8
-#EXTINF:0,الشعائر
-http://178.18.29.202:9001/786/slot_5786.m3u8
-#EXTINF:0,القمر
-http://178.18.29.202:9001/1247/slot_6247.m3u8
-#EXTINF:0,قناة ابو الفضل
-http://178.18.29.202:9001/1715/slot_6715.m3u8
-#EXTINF:0,اهل البيت فارسي
-http://178.18.29.202:9001/830/slot_5830.m3u8
-#EXTINF:0,اهل البيت
-http://178.18.29.202:9001/1593/slot_6593.m3u8
-#EXTINF:0,2 قناة العهد
-http://178.18.29.202:9001/556/slot_5556.m3u8
-#EXTINF:0,الاباء
-http://178.18.29.202:9001/1479/slot_6479.m3u8
-#EXTINF:0,الايمان
-http://178.18.29.202:9001/1836/slot_6836.m3u8
-#EXTINF:0,الفرات 2
-http://178.18.29.202:9001/804/slot_5804.m3u8
-#EXTINF:0,الغدير 2
-http://178.18.29.202:9001/1518/slot_6518.m3u8
-#EXTINF:0,الحجة
-http://178.18.29.202:9001/2331/slot_7331.m3u8 
-#EXTINF:0,الاهواز 
-http://178.18.29.202:9001/2329/slot_7329.m3u8
-#EXTINF:0,المسار 1
-http://178.18.29.202:9001/2507/slot_7507.m3u8 
-#EXTINF:0,الصراط
-http://178.18.29.202:9001/298/slot_5298.m3u8
-#EXTINF:0,الثقلين
-http://178.18.29.202:9001/511/slot_5511.m3u8
-#EXTINF:0,الولاء
-http://178.18.29.202:9001/1799/slot_6799.m3u8
-#EXTINF:0,بينات
-http://178.18.29.202:9001/1705/slot_6705.m3u8
-#EXTINF:0,الاوحد
-http://178.18.29.202:9001/405/slot_5405.m3u8
-#EXTINF:0,Imam Hussain 2
-http://178.18.29.202:9001/1371/slot_6371.m3u8
-#EXTINF:0,Imam Hussain 3
-http://178.18.29.202:9001/834/slot_5834.m3u8
-#EXTINF:0,كربلاء 
-http://178.18.29.202:9001/415/slot_5415.m3u8
+
 #EXTINF:-1,Al Forat
 http://38.99.146.38:7777/AlForat_HD.m3u8
 #EXTINF:-1,Al Anwar
@@ -458,24 +393,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.fre
 http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m3u8
 
 
-#EXTINF:0,العراقية
-http://178.18.29.202:9001/1014/slot_6014.m3u8
-#EXTINF:0,Aliraqia 1
-http://178.18.29.202:9001/1066/slot_6066.m3u8
-#EXTINF:0,العراقية الرياضية
-http://178.18.29.202:9001/685/slot_5685.m3u8
 
-#EXTINF:0,عشتار 
-http://178.18.29.202:9001/2517/slot_7517.m3u8
-
-#EXTINF:0,كركوك
-http://178.18.29.202:9001/1482/slot_6482.m3u8
-#EXTINF:0,Baghdad
-http://178.18.29.202:9001/1072/slot_6072.m3u8 
-#EXTINF:0,Iraq Almostaqbal
-http://178.18.29.202:9001/1298/slot_6298.m3u8
-#EXTINF:0,سومر نيوز
-http://178.18.29.202:9001/30/slot_5030.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -822,21 +740,6 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/327.t
 EXTINF:-1,Alnas
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/328.ts
 
-
-#EXTINF:0,Art Aflam 1
-http://178.18.29.202:9001/1418/slot_6418.m3u8
-#EXTINF:0,Art aflam 2
-http://178.18.29.202:9001/1417/slot_6417.m3u8
-#EXTINF:0,Art cinema
-http://178.18.29.202:9001/1422/slot_6422.m3u8
-#EXTINF:0,art حكايات
-http://178.18.29.202:9001/1421/slot_6421.m3u8
-#EXTINF:0,art حكايات 2
-http://178.18.29.202:9001/1420/slot_6420.m3u8
-#EXTINF:0,Rotana Aflam افلام
-http://178.18.29.202:9001/1471/slot_6471.m3u8
-#EXTINF:0,Rotana cinema
-http://178.18.29.202:9001/1791/slot_6791.m3u8
 #EXTINF:-1,Al Hayat (Egypt)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 EXTINF:-1,Al Hayat 2
@@ -861,47 +764,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 
-
-
-#EXTINF:0,القاهرة
-http://178.18.29.202:9001/347/slot_5347.m3u8
-#EXTINF:0,مصر
-http://178.18.29.202:9001/1056/slot_6056.m3u8
-#EXTINF:0,مصر 3
-http://178.18.29.202:9001/331/slot_5331.m3u8
-#EXTINF:0,النهار 1
-http://178.18.29.202:9001/305/slot_5305.m3u8
-#EXTINF:0,النهار دراما
-http://178.18.29.202:9001/308/slot_5308.m3u8
-#EXTINF:0,النهار
-http://178.18.29.202:9001/2449/slot_7449.m3u8
-#EXTINF:0,النهار +2
-http://178.18.29.202:9001/399/slot_5399.m3u8
-#EXTINF:0,النهار الرياضية
-http://178.18.29.202:9001/69/slot_5069.m3u8
-#EXTINF:0,الاسكندرية
-http://178.18.29.202:9001/270/slot_5270.m3u8
-#EXTINF:0,كايرو فلم 
-http://178.18.29.202:9001/1363/slot_6363.m3u8
-
-#EXTINF:0,كايرو دراما
-http://178.18.29.202:9001/410/slot_5410.m3u8
-#EXTINF:0,كت افلام
-http://178.18.29.202:9001/596/slot_5596.m3u8
-#EXTINF:0,البهية bahaia tv
-http://178.18.29.202:9001/237/slot_5237.m3u8
-#EXTINF:0,الحياة
-http://178.18.29.202:9001/572/slot_5572.m3u8
-#EXTINF:0,الحياة 2
-http://178.18.29.202:9001/613/slot_5613.m3u8
-#EXTINF:0,الحياة مسلاسلات
-http://178.18.29.202:9001/136/slot_5136.m3u8
-#EXTINF:0,الحياة و الناس
-http://178.18.29.202:9001/1507/slot_6507.m3u8
-#EXTINF:0,الحوار
-http://178.18.29.202:9001/2032/slot_7032.m3u8
-#EXTINF:0,الحرية
-http://178.18.29.202:9001/1462/slot_6462.m3u8
 
 
 
@@ -1876,22 +1738,7 @@ rtmp://cp135357.live.edgefcs.net/live/
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,49- oman doc
 rtmp://38.96.148.30/live?v=1334683153/omantv4
-#EXTINF:0,Animal Plant
-http://178.18.29.202:9001/2488/slot_7488.m3u8
-#EXTINF:0,Animal Box
-http://178.18.29.202:9001/744/slot_5744.m3u8
-#EXTINF:0,Discovery History
-http://178.18.29.202:9001/2491/slot_7491.m3u8
-#EXTINF:0,History
-http://178.18.29.202:9001/787/slot_5787.m3u8
-#EXTINF:0,H&H
-http://178.18.29.202:9001/2492/slot_7492.m3u8
-#EXTINF:0,SC Discovery
-http://178.18.29.202:9001/2490/slot_7490.m3u8
-#EXTINF:0,Turbo
-http://178.18.29.202:9001/2493/slot_7493.m3u8
-#EXTINF:0,Discovery
-http://178.18.29.202:9001/2496/slot_7496.m3u8
+
 
 
 
@@ -1919,25 +1766,6 @@ EXTINF:-1,NAT GEO
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.ts
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
-#EXTINF:0,Hod Hod kids
-http://178.18.29.202:9001/412/slot_5412.m3u8
-#EXTINF:0,Hod Hod kids English
-http://178.18.29.202:9001/2309/slot_7309.m3u8
-#EXTINF:0,الجزيرة اطفال 
-http://178.18.29.202:9001/471/slot_5471.m3u8
-#EXTINF:0,كراميش اطفال
-http://178.18.29.202:9001/396/slot_5396.m3u8
-#EXTINF:0,KX kids 
-http://178.18.29.202:9001/198/slot_5198.m3u8
-#EXTINF:0,KX kids 2
-http://178.18.29.202:9001/1950/slot_6950.m3u8
-#EXTINF:0,كوكي اطفال 
-http://178.18.29.202:9001/262/slot_5262.m3u8
-
-#EXTINF:0,كوجي اطفال
-http://178.18.29.202:9001/506/slot_5506.m3u8
-#EXTINF:0,ليبيا مرح 
-http://178.18.29.202:9001/2213/slot_7213.m3u8
 
 
 #EXTINF:-1,Aljazeera Children
@@ -1966,24 +1794,7 @@ http://38.99.146.38:7777/ToyorAlJanah_HD.m3u8
 http://38.99.146.38:7777/Karameesh_HD.m3u8
 #EXTINF:-1,Koky Kids
 http://38.99.146.38:7777/Koky_HD.m3u8
-#EXTINF:0,CN عربي
-http://178.18.29.202:9001/2317/slot_7317.m3u8
-#EXTINF:0,CN turk
-http://178.18.29.202:9001/1934/slot_6934.m3u8
-#EXTINF:0,Disney channel
-http://178.18.29.202:9001/1896/slot_6896.m3u8
 
-#EXTINF:0,disney junior
-http://178.18.29.202:9001/784/slot_5784.m3u8
-
-#EXTINF:0,Disney channel 2
-http://178.18.29.202:9001/783/slot_5783.m3u8
-#EXTINF:0,Disney XD
-http://178.18.29.202:9001/704/slot_5704.m3u8
-#EXTINF:0,BBC kids
-http://178.18.29.202:9001/11/slot_5011.m3u8
-#EXTINF:0,براعم
-http://178.18.29.202:9001/518/slot_5518.m3u8
 #EXTINF:-1,Spacetoon Test
 rtmpt://89.211.63.14:1935/ app=brm?gmswf=2905647549 playpath=brm swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/baraem.php live=true timeout=15
 #EXTINF:-1,AR-toyour-aljennah
