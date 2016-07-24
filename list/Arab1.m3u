@@ -660,15 +660,15 @@ http://jafaer-tv.com
 
 
 #EXTINF:-1,Arabic: ART Aflam 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
 #EXTINF:-1,Arabic: ART Aflam 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
 #EXTINF:-1,Arabic: ART Hekayat 1
-http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
 #EXTINF:-1,Arabic: ART Hekayat 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
 #EXTINF:-1,Arabic: ART Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
 
 EXTINF:-1,AR : Rotana
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/33.ts
