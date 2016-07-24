@@ -602,10 +602,6 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/str
  
 #EXTINF:-1,22- saudi eco
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8?v=3642166428
-
-
-
-
 #EXTINF:-1,Sharjah Kabla
 http://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p/playlist.m3u8
 #EXTINF:-1,الشارقة
@@ -662,6 +658,17 @@ http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
 
+
+#EXTINF:-1,Arabic: ART Aflam 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
+#EXTINF:-1,Arabic: ART Aflam 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
+#EXTINF:-1,Arabic: ART Hekayat 1
+http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
+#EXTINF:-1,Arabic: ART Hekayat 2
+http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
+#EXTINF:-1,Arabic: ART Cinema
+http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
 
 EXTINF:-1,AR : Rotana
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/33.ts
@@ -820,54 +827,54 @@ http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b240000
 
 
 11111111111111111111111111111111111
-#EXTINF:-1,AR-Nile-Comedy
+EXTINF:-1,AR-Nile-Comedy
 http://195.12.170.154:8002/play/arnilecomedy
-#EXTINF:-1,AR-Rotana-Aflem
+EXTINF:-1,AR-Rotana-Aflem
 http://195.12.170.154:8002/play/arrotanaaflem
-#EXTINF:-1,AR-Melody-classic
+EXTINF:-1,AR-Melody-classic
 http://195.12.170.154:8002/play/armelodyclassic
-#EXTINF:-1,AR-Rotana
+EXTINF:-1,AR-Rotana
 http://195.12.170.154:8002/play/arrotana
-#EXTINF:-1,AR-Nile-family
+EXTINF:-1,AR-Nile-family
 http://195.12.170.154:8002/play/arnilefamily
-#EXTINF:-1,AR-Nile-Drama
+EXTINF:-1,AR-Nile-Drama
 http://195.12.170.154:8002/play/arniledrama
-#EXTINF:-1,AR-Rotana Massrya HD
+EXTINF:-1,AR-Rotana Massrya HD
 http://195.12.170.154:8002/play/arrotanamassryahd
-#EXTINF:-1,Rotana-classic HD
+EXTINF:-1,Rotana-classic HD
 http://195.12.170.154:8002/play/arrotanaclassichd
-#EXTINF:-1,AR- Rotana Music HD
+EXTINF:-1,AR- Rotana Music HD
 http://195.12.170.154:8002/play/arrotanamusichd
-#EXTINF:-1,AR-Medi-1TV
+EXTINF:-1,AR-Medi-1TV
 http://195.12.170.154:8002/play/armedi1tv
-#EXTINF:-1,AR-Panoram-Drama
+EXTINF:-1,AR-Panoram-Drama
 http://195.12.170.154:8002/play/arpanoramadrama
-#EXTINF:-1,AR-Panorama-Drama2
+EXTINF:-1,AR-Panorama-Drama2
 http://195.12.170.154:8002/play/arpanoramadrama2
-#EXTINF:-1,AR-Panorama-food
+EXTINF:-1,AR-Panorama-food
 http://195.12.170.154:8002/play/arpanoramafood
-#EXTINF:-1,AR-Star Cin1
+EXTINF:-1,AR-Star Cin1
 http://195.12.170.154:8002/play/arstarcin1
-#EXTINF:-1,AR-Panorama action
+EXTINF:-1,AR-Panorama action
 http://195.12.170.154:8002/play/arpanoramaaction
-#EXTINF:-1,AR-Panorama-Drama2
+EXTINF:-1,AR-Panorama-Drama2
 http://195.12.170.154:8002/play/arpanoramadrama2
-#EXTINF:-1,AR-Time Film
+EXTINF:-1,AR-Time Film
 http://195.12.170.154:8002/play/artimefilm
-#EXTINF:-1,Rotana-classic HD
+EXTINF:-1,Rotana-classic HD
 http://195.12.170.154:8002/play/arrotanaclassichd
 
-#EXTINF:-1,AR-Tvtchad
+EXTINF:-1,AR-Tvtchad
 http://195.12.170.154:8002/play/artvtchad
-#EXTINF:-1,AR-Rotana CLIP
+EXTINF:-1,AR-Rotana CLIP
 http://195.12.170.154:8002/play/arrotanaclip
-#EXTINF:-1,AR-Time Taxi
+EXTINF:-1,AR-Time Taxi
 http://195.12.170.154:8002/play/artimetaxi
-#EXTINF:-1,AR-Rotana-Cinema HD
+EXTINF:-1,AR-Rotana-Cinema HD
 http://195.12.170.154:8002/play/arrotanacinemahd
-#EXTINF:-1,AR-Time comedy
+EXTINF:-1,AR-Time comedy
 http://195.12.170.154:8002/play/artimecomedy
-#EXTINF:-1,AR-RotanaKhaliji HD
+EXTINF:-1,AR-RotanaKhaliji HD
 http://195.12.170.154:8002/play/arrotanakhalijihd 
 
 
@@ -879,23 +886,46 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
-
+#EXTINF:-1,Rotana Aflam
+http://38.99.146.38:7777/RotanaAflam_HD.m3u8
+#EXTINF:-1,Rotana Cinema
+http://38.99.146.38:7777/RotanaCinema_HD.m3u8
+#EXTINF:-1,Rotana Classic
+http://38.99.146.38:7777/RotanaZaman_HD.m3u8
+#EXTINF:-1,Rotana Clip
+http://38.99.146.38:7777/RotanaClip_HD.m3u8
+#EXTINF:-1,Rotana Khaligi
+http://38.99.146.38:7777/RotanaKhalijiah_HD.m3u8
+#EXTINF:-1,Rotana Masriya
+http://38.99.146.38:7777/RotanaMasriya_HD.m3u8
+#EXTINF:-1,Rotana Music
+http://38.99.146.38:7777/RotanaMusic_HD.m3u8
+#EXTINF:-1,Panorama Drama
+http://38.99.146.38:7777/PanoramaDrama_HD.m3u8
+#EXTINF:-1,Panorama Drama 2
+http://38.99.146.38:7777/PanoramaDrama2_HD.m3u8
+#EXTINF:-1,Panorama film
+http://38.99.146.38:7777/PanoramaFilm_HD.m3u8
+#EXTINF:-1,Star 1 Cinema
+http://38.99.146.38:7777/StarCinema1_HD.m3u8
+#EXTINF:-1,Star 2 Cinema
+http://38.99.146.38:7777/StarCinema2_HD.m3u8
 
 
 #EXTINF:-1,Arabic: Al-Nahar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
 #EXTINF:-1,Arabic: Al-Nahar Alyoum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
 #EXTINF:-1,Arabic: Al-Nahar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
 #EXTINF:-1,Arabic: Al-Nahar Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
 #EXTINF:-1,Arabic: Panorama Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
 #EXTINF:-1,Arabic: Panorama Drama 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
 #EXTINF:-1,Arabic: Panorama Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
 #EXTINF:-1,Arabic: Panorama Food
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/987.ts
 #EXTINF:-1,Arabic: Mazzika
@@ -939,17 +969,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 #EXTINF:-1,Arabic: Al Burhan
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/694.ts
 #EXTINF:-1,Arabic: Cairo Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
 #EXTINF:-1,Arabic: Cairo Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
 #EXTINF:-1,Arabic: CAIRO ONE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/48.ts
 #EXTINF:-1,Arabic: BELODY AFLAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/49.ts
 #EXTINF:-1,Arabic: ALMASRAWIA AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
 #EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
 #EXTINF:-1,Arabic: Rotana Music
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/64.ts
 #EXTINF:-1,Arabic: Rotana Masriya
@@ -961,9 +991,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 #EXTINF:-1,Arabic: Rotana Classic
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/66.ts
 #EXTINF:-1,Arabic: Rotana Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
 #EXTINF:-1,Arabic: Rotana Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
+http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
 #EXTINF:-1,Arabic: AL HAYAT 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/158.ts
 #EXTINF:-1,Arabic: AL HAYAT 2
@@ -978,16 +1008,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/56.ts
 #EXTINF:-1,Arabic: CBC DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/54.ts
-#EXTINF:-1,Arabic: ART Aflam 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
-#EXTINF:-1,Arabic: ART Aflam 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
-#EXTINF:-1,Arabic: ART Hekayat 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
-#EXTINF:-1,Arabic: ART Hekayat 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
-#EXTINF:-1,Arabic: ART Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
+
 #EXTINF:-1,Arabic: Sada Elbalad
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/128.ts
 #EXTINF:-1,Arabic: Sada Elbalad 2
@@ -1386,32 +1407,14 @@ http://38.99.146.38:7777/Palestinian_HD.m3u8
 http://38.99.146.38:7777/PalestineAlYawm_HD.m3u8
 #EXTINF:-1,Palestine Live
 http://38.99.146.38:7777/PalestineLive_HD.m3u8
-#EXTINF:-1,Panorama Drama
-http://38.99.146.38:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1,Panorama Drama 2
-http://38.99.146.38:7777/PanoramaDrama2_HD.m3u8
-#EXTINF:-1,Panorama film
-http://38.99.146.38:7777/PanoramaFilm_HD.m3u8
+
 #EXTINF:-1,Qatar
 http://38.99.146.38:7777/Qatar_HD.m3u8
 #EXTINF:-1,Quran TV ksa
 http://38.99.146.38:7777/AlQuran_HD.m3u8
 #EXTINF:-1,RAK
 http://38.99.146.38:7777/RAK_HD.m3u8
-#EXTINF:-1,Rotana Aflam
-http://38.99.146.38:7777/RotanaAflam_HD.m3u8
-#EXTINF:-1,Rotana Cinema
-http://38.99.146.38:7777/RotanaCinema_HD.m3u8
-#EXTINF:-1,Rotana Classic
-http://38.99.146.38:7777/RotanaZaman_HD.m3u8
-#EXTINF:-1,Rotana Clip
-http://38.99.146.38:7777/RotanaClip_HD.m3u8
-#EXTINF:-1,Rotana Khaligi
-http://38.99.146.38:7777/RotanaKhalijiah_HD.m3u8
-#EXTINF:-1,Rotana Masriya
-http://38.99.146.38:7777/RotanaMasriya_HD.m3u8
-#EXTINF:-1,Rotana Music
-http://38.99.146.38:7777/RotanaMusic_HD.m3u8
+
 #EXTINF:-1,Roya
 http://38.99.146.38:7777/Roya_HD.m3u8
 #EXTINF:-1,Royal Albadawiya
@@ -1452,10 +1455,7 @@ http://38.99.146.38:7777/SNTV_HD.m3u8
 
 #EXTINF:-1,SSTV
 http://38.99.146.38:7777/SSTV_HD.m3u8
-#EXTINF:-1,Star 1 Cinema
-http://38.99.146.38:7777/StarCinema1_HD.m3u8
-#EXTINF:-1,Star 2 Cinema
-http://38.99.146.38:7777/StarCinema2_HD.m3u8
+
 #EXTINF:-1,Sudan TV
 http://38.99.146.38:7777/Sudan_HD.m3u8
 #EXTINF:-1,sunnah TV
