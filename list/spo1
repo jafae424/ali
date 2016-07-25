@@ -350,7 +350,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalst
 
 
 
-
+#EXTINF:-1, Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1, Rai Sport 2
+mmsh://212.162.68.163:80/raisport2
+#EXTINF:-1, Rai Premium
+mmsh://212.162.68.162/rai_premium
 
 
 #EXTINF:-1,Al Kass 1 HD (Qatar)
