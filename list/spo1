@@ -147,6 +147,21 @@ http://iptv33.us.to/ip441555/3136774336/15.ch
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
+#EXTINF:-1,FR=BEINSPORT MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/833.ts
+#EXTINF:-1,AR=BEINSPORT MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/832.ts
+#EXTINF:-1,AR=BEINSPORT MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/831.ts
+#EXTINF:-1,FR=BEINSPORT_MAX4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/829.ts
+#EXTINF:-1,FR=BEIN_SPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/828.ts
+#EXTINF:-1,FR=BEIN_SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/827.ts
+#EXTINF:-1,FR=BEIN_SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/826.ts
+
 #EXTINF:-1,bein sport1 hd
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
 
@@ -315,7 +330,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalst
 #EXTINF:-1,UK=BTSport1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/766.ts
 
-
+#EXTINF:-1,IT=SkySuperCalcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/642.ts
+#EXTINF:-1,IT=SkySportPlusHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/685.ts
+#EXTINF:-1,IT=Sky Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/598.ts
+#EXTINF:-1,IT=SkySportF1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/594.ts
+#EXTINF:-1,IT=SkySport3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/593.ts
+#EXTINF:-1,IT=SkySport24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/595.ts
+#EXTINF:-1,IT=SkySport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/592.ts
+#EXTINF:-1,IT=SkySport1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/591.ts
 
 
 
