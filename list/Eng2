@@ -39,6 +39,72 @@
 </item>
 
 
+
+FOX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
+<referer>http://escast.tv/</referer>
+<thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
+</item>
+
+FOX CRIME
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail>
+</item>
+
+FOX LIFE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxlife</sportsdevil>
+<referer>http://liveflashplayer.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail>
+</item>
+
+FOX MOVIES
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX MOVIES [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://i.imgur.com/aQ8qqZ9.png</thumbnail>
+</item>
+
+HOLLYWOOD
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HOLLYWOOD [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/hollywood</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png</thumbnail>
+</item>
+
+
+DISCOVERY
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
+</item>
+
+HISTORIA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil>
+<referer>http://liveflashplayer.com/</referer>
+<thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail>
+</item>
+
+ODISSEIA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR green][SD][/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://i.imgur.com/QyFiRiO.png</thumbnail>
+</item>
+
 <item>
 <title>syfy  </title>
 <link>$doregex[url]|User-Agent=iPad</link>
@@ -51,79 +117,11 @@
 </regex>
 </item>
 
-<item>
-<title>HBO 2</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68358',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ABC Family/</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=30303',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
 
 
 
 
-<item>
-<title>CBS/</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69956',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
 
-
-<item>
-<title>Amc</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68963',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>Sky Scifi</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71731',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>StarZ HD</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73259',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>FOX En  </title>
 <link>$doregex[url]|User-Agent=iPad</link>
 <regex>
@@ -134,41 +132,9 @@
 <agent>iPad</agent>
 </regex>
 </item>
-<item>
-<title>Fox Movie</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=38449',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>The HD Movie channel</title> 
-<link>$doregex[rtmp-code]</link>
-<regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68358',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC1</title>
-<link>
-sublink:http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/playlist.m3u8#
-sublink:http://195.154.207.145:8000/play/ukbbcone#
-</link>
-<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%201%20CI.png</thumbnail>
-</item>
 
 
-
-
-
+<
 <item>
 <title>BBC2</title>
 <link>http://uk.stream.yo.tv/livehttporigin/BBCTwo_360p.stream/playlist.m3u8</link>
