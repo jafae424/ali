@@ -1080,7 +1080,14 @@ http://195.12.170.154:8002/play/arrotanakhalijihd
 
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
-
+#EXTINF:0,بانوراما دراما
+http://178.18.29.202:9001/310/slot_5310.m3u8
+#EXTINF:0,بانوراما دراما 2
+http://178.18.29.202:9001/640/slot_5640.m3u8
+#EXTINF:0,بانوراما فلم
+http://178.18.29.202:9001/422/slot_5422.m3u8
+#EXTINF:0,بانوراما فود
+http://178.18.29.202:9001/1437/slot_6437.m3u8
 #EXTINF:0,AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
 
