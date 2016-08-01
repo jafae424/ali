@@ -81,12 +81,7 @@ http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-#EXTINF:-1,AR:MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1871.ts
-#EXTINF:-1,AR:MBCMasr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1864.ts
-#EXTINF:-1,AR:MBCMasr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/1865.ts
+
 
 
 #EXTINF:-1,MBC 2
