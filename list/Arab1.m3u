@@ -1121,19 +1121,19 @@ http://38.99.146.38:7777/StarCinema2_HD.m3u8
 
 
 #EXTINF:-1,Arabic: Al-Nahar
-http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
 #EXTINF:-1,Arabic: Al-Nahar Alyoum
-http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
 #EXTINF:-1,Arabic: Al-Nahar Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
 #EXTINF:-1,Arabic: Al-Nahar Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
 #EXTINF:-1,Arabic: Panorama Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
 #EXTINF:-1,Arabic: Panorama Drama 2
-http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
 #EXTINF:-1,Arabic: Panorama Comedy
-http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
 #EXTINF:-1,Arabic: Panorama Food
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/987.ts
 #EXTINF:-1,Arabic: Mazzika
@@ -1177,17 +1177,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 #EXTINF:-1,Arabic: Al Burhan
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/694.ts
 #EXTINF:-1,Arabic: Cairo Drama
-http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
 #EXTINF:-1,Arabic: Cairo Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
 #EXTINF:-1,Arabic: CAIRO ONE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/48.ts
 #EXTINF:-1,Arabic: BELODY AFLAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/49.ts
 #EXTINF:-1,Arabic: ALMASRAWIA AFLAM
-http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
 #EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
-http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
 #EXTINF:-1,Arabic: Rotana Music
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/64.ts
 #EXTINF:-1,Arabic: Rotana Masriya
@@ -1199,9 +1199,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 #EXTINF:-1,Arabic: Rotana Classic
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/66.ts
 #EXTINF:-1,Arabic: Rotana Cinema
-http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
 #EXTINF:-1,Arabic: Rotana Aflam
-http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
 #EXTINF:-1,Arabic: AL HAYAT 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/158.ts
 #EXTINF:-1,Arabic: AL HAYAT 2
@@ -1257,11 +1257,6 @@ http://195.12.170.154:8002/play/araljazeeramubasher
 
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
-#EXTINF:0, الجزيرة
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/94.ts
-#EXTINF:0, العربية
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/101.ts
-
 
 
 #EXTINF:-1,العربية 
