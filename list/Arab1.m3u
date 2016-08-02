@@ -1028,7 +1028,7 @@ http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b240000
 
 
 11111111111111111111111111111111111
-EXTINF:-1,AR-Nile-Comedy
+#EXTINF:-1,AR-Nile-Comedy
 http://195.12.170.154:8002/play/arnilecomedy
 EXTINF:-1,AR-Rotana-Aflem
 http://195.12.170.154:8002/play/arrotanaaflem
@@ -1118,7 +1118,16 @@ http://38.99.146.38:7777/PanoramaFilm_HD.m3u8
 http://38.99.146.38:7777/StarCinema1_HD.m3u8
 #EXTINF:-1,Star 2 Cinema
 http://38.99.146.38:7777/StarCinema2_HD.m3u8
-
+#EXTINF:-1,Time Cinema
+http://38.99.146.38:7777/TimeCinema_HD.m3u8
+#EXTINF:-1,Time Drama
+http://38.99.146.38:7777/TimeDrama_HD.m3u8
+#EXTINF:-1,Top Movies
+http://38.99.146.38:7777/TopMovies_HD.m3u8
+#EXTINF:-1,Masrawi Aflam
+http://38.99.146.38:7777/MasrawiAflam_HD.m3u8
+#EXTINF:-1,Imagines Movies
+http://38.99.146.38:7777/ImagineMovies_HD.m3u8
 
 #EXTINF:-1,Arabic: Al-Nahar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
@@ -1511,8 +1520,7 @@ http://htp.brasilia.me/iptv/ch6?code=460011131604165
 #EXTINF:-1,Huda
 http://38.99.146.38:7777/Huda_HD.m3u8
 
-#EXTINF:-1,Imagines Movies
-http://38.99.146.38:7777/ImagineMovies_HD.m3u8
+
 #EXTINF:-1,Iqra
 http://38.99.146.38:7777/Iqraa_HD.m3u8
 #EXTINF:-1,Ishtar
@@ -1559,8 +1567,7 @@ http://38.99.146.38:7777/MixTV_HD.m3u8
 http://38.99.146.38:7777/Mahbooba_HD.m3u8
 #EXTINF:-1,Mara7
 http://38.99.146.38:7777/Mara7_HD.m3u8
-#EXTINF:-1,Masrawi Aflam
-http://38.99.146.38:7777/MasrawiAflam_HD.m3u8
+
 #EXTINF:-1,Massaya
 http://38.99.146.38:7777/Massaya_HD.m3u8
 #EXTINF:-1,Mauritanie
@@ -1688,12 +1695,7 @@ http://38.99.146.38:7777/TimeTiatro_HD.m3u8
 #EXTINF:-1,Tayba
 http://38.99.146.38:7777/Tayba_HD.m3u8
 
-#EXTINF:-1,Time Cinema
-http://38.99.146.38:7777/TimeCinema_HD.m3u8
-#EXTINF:-1,Time Drama
-http://38.99.146.38:7777/TimeDrama_HD.m3u8
-#EXTINF:-1,Top Movies
-http://38.99.146.38:7777/TopMovies_HD.m3u8
+
 #EXTINF:-1,Tounesna
 http://38.99.146.38:7777/Tunisia_HD.m3u8
 
