@@ -388,61 +388,61 @@ http:jafaertv.com
 #EXTINF:0,الايمان
 https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktaendtime=1468626456&poqw9waktawowzastarttime=0&poqw9waktawowzastcustom=1468619414&poqw9waktahash=n26oRpmQGI7Uv1JflpI89K0og8MzH97a9Bgbo0sgjvQ=
 
-#EXTINF:0,المهدي 
+EXTINF:0,المهدي 
 http://178.18.29.202:9001/500/slot_5500.m3u8
-#EXTINF:0,الكوثر
+EXTINF:0,الكوثر
 http://178.18.29.202:9001/168/slot_5168.m3u8
-#EXTINF:0, المعارف
+EXTINF:0, المعارف
 http://178.18.29.202:9001/238/slot_5238.m3u8
-#EXTINF:0,المنار
+EXTINF:0,المنار
 http://178.18.29.202:9001/2053/slot_7053.m3u8
-#EXTINF:0,المسلة
+EXTINF:0,المسلة
 http://178.18.29.202:9001/1814/slot_6814.m3u8
-#EXTINF:0,النجباء
+EXTINF:0,النجباء
 http://178.18.29.202:9001/2031/slot_7031.m3u8
-#EXTINF:0,الشعائر
+EXTINF:0,الشعائر
 http://178.18.29.202:9001/786/slot_5786.m3u8
-#EXTINF:0,القمر
+EXTINF:0,القمر
 http://178.18.29.202:9001/1247/slot_6247.m3u8
-#EXTINF:0,قناة ابو الفضل
+EXTINF:0,قناة ابو الفضل
 http://178.18.29.202:9001/1715/slot_6715.m3u8
-#EXTINF:0,اهل البيت فارسي
+EXTINF:0,اهل البيت فارسي
 http://178.18.29.202:9001/830/slot_5830.m3u8
-#EXTINF:0,اهل البيت
+EXTINF:0,اهل البيت
 http://178.18.29.202:9001/1593/slot_6593.m3u8
-#EXTINF:0,2 قناة العهد
+EXTINF:0,2 قناة العهد
 http://178.18.29.202:9001/556/slot_5556.m3u8
-#EXTINF:0,الاباء
+EXTINF:0,الاباء
 http://178.18.29.202:9001/1479/slot_6479.m3u8
-#EXTINF:0,الايمان
+EXTINF:0,الايمان
 http://178.18.29.202:9001/1836/slot_6836.m3u8
-#EXTINF:0,الفرات 2
+EXTINF:0,الفرات 2
 http://178.18.29.202:9001/804/slot_5804.m3u8
-#EXTINF:0,الغدير 2
+EXTINF:0,الغدير 2
 http://178.18.29.202:9001/1518/slot_6518.m3u8
-#EXTINF:0,الحجة
+EXTINF:0,الحجة
 http://178.18.29.202:9001/2331/slot_7331.m3u8 
-#EXTINF:0,الاهواز 
+EXTINF:0,الاهواز 
 http://178.18.29.202:9001/2329/slot_7329.m3u8
-#EXTINF:0,المسار 1
+EXTINF:0,المسار 1
 http://178.18.29.202:9001/2507/slot_7507.m3u8 
-#EXTINF:0,الصراط
+EXTINF:0,الصراط
 http://178.18.29.202:9001/298/slot_5298.m3u8
-#EXTINF:0,الثقلين
+EXTINF:0,الثقلين
 http://178.18.29.202:9001/511/slot_5511.m3u8
-#EXTINF:0,الولاء
+EXTINF:0,الولاء
 http://178.18.29.202:9001/1799/slot_6799.m3u8
-#EXTINF:0,بينات
+EXTINF:0,بينات
 http://178.18.29.202:9001/1705/slot_6705.m3u8
-#EXTINF:0,الاوحد
+EXTINF:0,الاوحد
 http://178.18.29.202:9001/405/slot_5405.m3u8
-#EXTINF:0,Imam Hussain 2
+EXTINF:0,Imam Hussain 2
 http://178.18.29.202:9001/1371/slot_6371.m3u8
-#EXTINF:0,Imam Hussain 3
+EXTINF:0,Imam Hussain 3
 http://178.18.29.202:9001/834/slot_5834.m3u8
-#EXTINF:0,كربلاء 
+EXTINF:0,كربلاء 
 http://178.18.29.202:9001/415/slot_5415.m3u8
-#EXTINF:0,المرجعية 
+EXTINF:0,المرجعية 
 http://178.18.29.202:9001/673/slot_5673.m3u8
 
 #EXTINF:-1,Al Forat
@@ -476,7 +476,7 @@ EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",2 قناة الامام الحسين ع
 http://ca.live.imamhussein.tv:1935/live/ih202/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref المعارف
+EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref المعارف
 rtmp://www.almaareftv.com:1935/live/ playpath=mp4:11 swfUrl=http://almaareftv.com/wp/001-live/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.12 pageUrl=http://almaareftv.com/wp/001-live/ <objectEncoding>
 EXTINF:-1, Alhadi
 rtmp://38.96.175.40/liveTrans/ playpath=channel5_110k swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.ar.haditv.com/Live/11/ <objectEncoding>
@@ -495,7 +495,8 @@ http://server.kijoki.net:1935/live/safeer2/chunklist_w2096873694.m3u8
 #EXTINF:-1, Aletejah الاتجاه
 http://185.105.4.137:1935/aletejahtv/aletejahtv/playlist.m3u8
 #EXTINF:-1, Alqamar القمر
-https://content.jwplatform.com/videos/2fW7ll9H-480.mp4
+http://livestream.5centscdn.com/bqi0806/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+
 #EXTINF:-1,Taghier التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1,العهد
@@ -510,23 +511,23 @@ http://38.99.146.38:7777/AlIraqia2_HD.m3u8
 #EXTINF:-1,Aliraqiya
 http://38.99.146.38:7777/AlIraqiya_HD.m3u8
 
-#EXTINF:0,العراقية
+EXTINF:0,العراقية
 http://178.18.29.202:9001/1014/slot_6014.m3u8
-#EXTINF:0,Aliraqia 1
+EXTINF:0,Aliraqia 1
 http://178.18.29.202:9001/1066/slot_6066.m3u8
-#EXTINF:0,العراقية الرياضية
+EXTINF:0,العراقية الرياضية
 http://178.18.29.202:9001/685/slot_5685.m3u8
 
-#EXTINF:0,عشتار 
+EXTINF:0,عشتار 
 http://178.18.29.202:9001/2517/slot_7517.m3u8
 
-#EXTINF:0,كركوك
+EXTINF:0,كركوك
 http://178.18.29.202:9001/1482/slot_6482.m3u8
-#EXTINF:0,Baghdad
+EXTINF:0,Baghdad
 http://178.18.29.202:9001/1072/slot_6072.m3u8 
-#EXTINF:0,Iraq Almostaqbal
+EXTINF:0,Iraq Almostaqbal
 http://178.18.29.202:9001/1298/slot_6298.m3u8
-#EXTINF:0,سومر نيوز
+EXTINF:0,سومر نيوز
 http://178.18.29.202:9001/30/slot_5030.m3u8
 
 
