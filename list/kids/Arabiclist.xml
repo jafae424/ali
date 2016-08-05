@@ -23,6 +23,28 @@
 </channel>
 
 
+<channel>
+<item>
+<title>Youtube Rock Playlist</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[pl-video-title-link.*href="\/watch\?v=(.*?)&.*?>\W*(.*?)\n]]></expres>
+<page>https://www.youtube.com/playlist?list=PL3485902CC4FB6C67</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+</channel>
+
+
+
+
+
 
 
 </channels>
