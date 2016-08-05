@@ -3718,41 +3718,7 @@ src=[",'].*([".'])
 </regex>
 </item>
 
-<item>
-<title>bein_sport_2</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=bein_sport_2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=bein_sport_2</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=bein_sport_2</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=bein_sport_2</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
 
-
-
-<item>
-<title>http://afaq.tv/live </title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>file:\s(...*)"</expres>
-<page>http://afaq.tv/live</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-	<streaminginfo>
-		<cname>AlJazeera en</cname>
-		<item>
-			<title>AlJazeera en</title>
-			<link>http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50</link>
-		</item>
-	</streaminginfo>
 
 
 
@@ -3780,75 +3746,6 @@ src=[",'].*([".'])
 
 
 <item>
-<title>TEST </title>
-<link>https://forums.tvaddons.ag/$doregex[m3u8]|User-Agent=iPhone</link>
-<regex>
-  <name>m3u8</name>
-  <expres>x-mpegURL.+?src="([^\"]+)</expres>
-  <page>http://www.elahmad.com/tv/swf/alsharqiya.swf?&autostart=true&amp</page>
-  <rawpost>id=</rawpost>
-  <agent>Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</agent>
-  <referer>http://www.elahmad.com/tv/swf/alsharqiya.swf?&autostart=true&amp</referer>
-  <accept>text/html, */*; q=0.01</accept>
-  <x-req>XMLHttpRequest</x-req>
-  <cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-
-
-<item>
-<title>TTTR</title>
-<link>$doregex[getM3U8]</link>
-<regex>
-<name>getM3U8</name>
-<expres>file:"(.*?)"</expres>
-<page>http://www2.live.irib.ir/#alkosar</page>
-<agent> Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36</agent>
-</regex>
-</item>
-
-
-
-
-
-
-<item>
-<title>Alkothar test 2</title>
-<link>$doregex[getM3U8]</link>
-<regex>
-<name>getM3U8</name>
-<expres>file:"(.*?.*)"</expres>
-<page>http://www2.live.irib.ir/#alkosar</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
-</regex>
-</item>
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Server DmbShare[/B] [/COLOR][COLOR lightblue][I]IT • DE • UK • USA • AR • FR • EXYU[/I][/COLOR]</title>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-<channel>
-<item>
 <title>Youtube Rock Playlist</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -3863,7 +3760,7 @@ src=[",'].*([".'])
 <cookieJar></cookieJar>
 </regex>
 </item>
-</channel>
+
 
 
 
