@@ -1988,6 +1988,12 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.t
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
+#EXTINF:-1,Bein Jeem Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2418.ts
+#EXTINF:-1,bein Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/1046.ts
+#EXTINF:-1,Baraem Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2712.ts
 
 #EXTINF:-1,Aljazeera Children
 http://38.99.146.38:7777/AlJazeeraKid_HD.m3u8
