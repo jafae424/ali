@@ -620,13 +620,16 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 rtmp://118.139.182.134:1935/livepkgr/livestream
 
 
+#EXTINF:0,Lbc
+http://178.18.29.201:9001/353/slot_5353.m3u8
+#EXTINF:0,MTV Lebeonan
+http://178.18.29.201:9001/138/slot_5138.m3u8
 
-
-#EXTINF:-1,AR-Otv
+EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
-#EXTINF:-1,AR-NBN
+EXTINF:-1,AR-NBN
 http://195.12.170.154:8002/play/arnbn
-#EXTINF:-1,AR-Mtv-lebanon
+EXTINF:-1,AR-Mtv-lebanon
 http://195.12.170.154:8002/play/armtvlebanon
 
 #EXTINF:-1,Musawa
