@@ -20,18 +20,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-EXTINF:-1,MBC 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/61.m3u8
-EXTINF:-1,MBC 2 HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/62.m3u8
-EXTINF:-1,MBC 3 HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/63.m3u8
-EXTINF:-1,MBC 4 HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/64.m3u8
-EXTINF:-1,MBC Masr
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/69.m3u8
-EXTINF:-1,Mbc Masr 2
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/70.m3u8
+#EXTINF:-1,MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/61.ts
+#EXTINF:-1,MBC Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/67.ts
+#EXTINF:-1,MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/69.ts
+#EXTINF:-1,Mbc Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/70.ts
 
 EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.38:7777/MBC1_HD.m3u8
@@ -1305,6 +1301,86 @@ http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
 #EXTINF:-1,Echorouk-News
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
+
+#EXTINF:-1,——————–MAROCAIN——————–
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/980.ts
+#EXTINF:-1,medi1 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/861.ts
+#EXTINF:-1,Al AOULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/192.ts
+#EXTINF:-1,2M TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/193.ts
+#EXTINF:-1,Al Maghribia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/197.ts
+#EXTINF:-1,arriadia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/194.ts
+#EXTINF:-1,Arrabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/195.ts
+#EXTINF:-1,assadissa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/196.ts
+#EXTINF:-1,Tamazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1838.ts
+#EXTINF:-1,——————–ALGERIEN——————–
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/978.ts
+#EXTINF:-1,LOCAL:BERBERE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1951.ts
+#EXTINF:-1,A3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1739.ts
+#EXTINF:-1,ENTV RTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1740.ts
+#EXTINF:-1,Elbilad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1721.ts
+#EXTINF:-1,Samira TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/863.ts
+#EXTINF:-1,Ennahar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/909.ts
+#EXTINF:-1,Echourrouk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1110.ts
+#EXTINF:-1,Echourook Beena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1455.ts
+#EXTINF:-1,Echourrouk News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/908.ts
+#EXTINF:-1,Kbc Algeirer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/979.ts
+#EXTINF:-1,El Heddaf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1729.ts
+#EXTINF:-1,Djazairia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1111.ts
+#EXTINF:-1,Dzaier TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/910.ts
+#EXTINF:-1,Algerie 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/911.ts
+#EXTINF:-1,Beur TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1188.ts
+#EXTINF:-1,——————–TUNISIAN——————–
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/977.ts
+#EXTINF:-1,Watanya 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/159.ts
+#EXTINF:-1,Watanya 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/929.ts
+#EXTINF:-1,Nessma tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/166.ts
+#EXTINF:-1,Hannibal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/164.ts
+#EXTINF:-1,Tounesna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/933.ts
+#EXTINF:-1,Zaytoona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/930.ts
+#EXTINF:-1,ATTESSIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1730.ts
+#EXTINF:-1,ALMUSTAKILLAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1724.ts
+#EXTINF:-1,Al Insen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1725.ts
+#EXTINF:-1,Telvza TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/931.ts
+#EXTINF:-1,Elhiwar ettounsi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/932.ts
+#EXTINF:-1,Tn Frist
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1457.ts
+#EXTINF:-1,Tn M Tunisian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1456.ts
+
 
 #EXTINF:-1,Arabic: El Djazairia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/990.ts
