@@ -68,17 +68,17 @@ EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
 EXTINF:-1,AR-MBC1 HD
 http://195.12.170.154:8002/play/armbc1hd
-#EXTINF:-1,Arabic: MBC 1
+EXTINF:-1,Arabic: MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts
-#EXTINF:-1,AR-Mbc-Drama
+EXTINF:-1,AR-Mbc-Drama
 http://195.12.170.154:8002/play/armbcdrama
-#EXTINF:-1,Arabic: MBC DRAMA
+EXTINF:-1,Arabic: MBC DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/8.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
+EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
-#EXTINF:-1,Arabic: MBC Maser
+EXTINF:-1,Arabic: MBC Maser
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts
-#EXTINF:-1,Arabic: MBC Maser 2
+EXTINF:-1,Arabic: MBC Maser 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
