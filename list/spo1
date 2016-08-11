@@ -13,6 +13,9 @@ http://s2.iptvapi.com
 
 
 
+#EXTINF:-1,AR_BEIN 2 HD لعبة العراق
+http://149.202.207.8:8080/PIKUbhensp-2/counter1/index.m3u8
+
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
