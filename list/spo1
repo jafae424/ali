@@ -216,7 +216,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18
 #EXTINF:-1,AR-BeinSport-12HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3583.ts
 
-
 EXTINF:-1,LOW_BEIN_SPORTS_1_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1825.ts
 EXTINF:-1,LOW_BEIN_SPORTS_2_HD
