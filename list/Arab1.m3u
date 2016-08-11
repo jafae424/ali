@@ -965,7 +965,8 @@ EXTINF:-1,Arabic: Sky News Arabia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/808.ts
 #EXTINF:-1,AR-AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher 
-
+#EXTINF:-1,AR-AlJazeera
+http://199.167.151.237:1935/live/dub_1_ch1079/index.m3u8
 #EXTINF:-1,Aljazeera Mubashar
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low live=1 timeout=10
 
