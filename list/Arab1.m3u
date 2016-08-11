@@ -31,6 +31,14 @@ http://178.18.29.201:9001/70/slot_5070.m3u8
 #EXTINF:0,MBC Masar 2
 http://178.18.29.201:9001/1053/slot_6053.m3u8
 
+#EXTINF:-1,AR: mbc 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1743.ts
+#EXTINF:-1,AR: MBC  masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1747.ts
+#EXTINF:-1,AR: mbc drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1750.ts
+
+
 #EXTINF:-1,MBC 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/61.ts
 #EXTINF:-1,MBC Drama HD
@@ -179,6 +187,13 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 #EXTINF:-1, bein movies
 http://zonalivetv.at.ua/beINMovies3.m3u8
 
+
+#EXTINF:-1,AR: BEINMOVIES HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2441.ts
+#EXTINF:-1,AR: BEINMOVIES HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2442.ts
+#EXTINF:-1,AR: BEINMOVIES HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2443.ts
 #EXTINF:0,Osn Fistival
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/29.ts
 #EXTINF:0,OSN First Comedy
@@ -202,116 +217,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-2
 
 
 
-EXTINF:-1,AR: BeinHD Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/20.ts
-EXTINF:-1,AR: BeinHD Movies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/21.ts
-EXTINF:-1,BeinHD Movies3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/22.ts
-EXTINF:-1,BeinHD Movies 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/23.ts
-EXTINF:-1,Bein Jeem Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2418.ts
-EXTINF:-1,bein Baraem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/1046.ts
-EXTINF:-1,Baraem Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2712.ts
-EXTINF:-1,Osn Fann
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3012.ts
-EXTINF:-1,Osn Series 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3013.ts
-EXTINF:-1,OSN Al Safwa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/1824.ts
-EXTINF:-1,ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/652.ts
-EXTINF:-1,AR: ART Aflam 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/650.ts
-EXTINF:-1,AR: ART Aflam 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/651.ts
-EXTINF:-1,AR: ART Hekayat 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/653.ts
-EXTINF:-1,AR: ART Hekayat 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/654.ts
-EXTINF:-1,OSN Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/516.ts
-EXTINF:-1,OSN Cinema 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/517.ts
-EXTINF:-1,OSN Al youm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/550.ts
-EXTINF:-1,OSN Yahala HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/528.ts
-EXTINF:-1,Osn Yahala+2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2836.ts
-EXTINF:-1,OSN Yahala Shabab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/530.ts
-EXTINF:-1,OSN Yahala Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/529.ts
-EXTINF:-1,OSN Yahala Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/1823.ts
-EXTINF:-1,OSN STAR WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/522.ts
-EXTINF:-1,OSN Star Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/518.ts
-EXTINF:-1,OSN First HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/547.ts
-EXTINF:-1,Osn First Hbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/549.ts
-EXTINF:-1,OSN First Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/548.ts
-EXTINF:-1,OSN Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/505.ts
-XTINF:-1,OSN Movies+2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3000.ts
-EXTINF:-1,OSN Movies Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/514.ts
-EXTINF:-1,OSN Movies Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/509.ts
-EXTINF:-1,OSN Movies Premier+2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3002.ts
-EXTINF:-1,OSN Movies Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/507.ts
-EXTINF:-1,OSN Movies Action+2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3001.ts
-EXTINF:-1,OSN Movies Festival HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/513.ts
-EXTINF:-1,OSN Movies Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/500.ts
-EXTINF:-1,OSN Movies Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/511.ts
-EXTINF:-1,OSN Movies COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/512.ts
-EXTINF:-1,OSN SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3041.ts
-EXTINF:-1,OSN AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/503.ts
-EXTINF:-1,OSN Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/645.ts
-EXTINF:-1,OSN Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3042.ts
-EXTINF:-1,OSN Box Office 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3038.ts
-EXTINF:-1,OSN Box Office 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3039.ts
-EXTINF:-1,OSN Box Office 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/3040.ts
-EXTINF:-1,OSN National Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/525.ts
-EXTINF:-1,Osn Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/1929.ts
-EXTINF:-1,OSN National Geographic Peo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/524.ts
-EXTINF:-1,OSN Discovery-Sc HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/527.ts
-EXTINF:-1,OSN ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/526.ts
-EXTINF:-1,OSN Discovery Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2842.ts
-EXTINF:-1,Bein Jeem TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2468.ts
-EXTINF:-1,OSN History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2841.ts
-EXTINF:-1,OSN History 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2840.ts
+
 
 
 EXTINF:-1,Bein Movies 1 HD
@@ -402,63 +308,7 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 
 
-#EXTINF:0,المهدي 
-http://178.18.29.201:9001/500/slot_5500.m3u8
-#EXTINF:0,الكوثر
-http://178.18.29.201:9001/168/slot_5168.m3u8
-#EXTINF:0, المعارف
-http://178.18.29.201:9001/238/slot_5238.m3u8
-#EXTINF:0,المنار
-http://178.18.29.201:9001/2053/slot_7053.m3u8
-#EXTINF:0,المسلة
-http://178.18.29.201:9001/1814/slot_6814.m3u8
-#EXTINF:0,النجباء
-http://178.18.29.201:9001/2031/slot_7031.m3u8
-#EXTINF:0,الشعائر
-http://178.18.29.201:9001/786/slot_5786.m3u8
-#EXTINF:0,القمر
-http://178.18.29.201:9001/1247/slot_6247.m3u8
-#EXTINF:0,قناة ابو الفضل
-http://178.18.29.201:9001/1715/slot_6715.m3u8
-#EXTINF:0,اهل البيت فارسي
-http://178.18.29.201:9001/830/slot_5830.m3u8
-#EXTINF:0,اهل البيت
-http://178.18.29.201:9001/1593/slot_6593.m3u8
-#EXTINF:0,2 قناة العهد
-http://178.18.29.201:9001/556/slot_5556.m3u8
-#EXTINF:0,الاباء
-http://178.18.29.201:9001/1479/slot_6479.m3u8
-#EXTINF:0,الايمان
-http://178.18.29.201:9001/1836/slot_6836.m3u8
-#EXTINF:0,الفرات 2
-http://178.18.29.201:9001/804/slot_5804.m3u8
-#EXTINF:0,الغدير 2
-http://178.18.29.201:9001/1518/slot_6518.m3u8
-#EXTINF:0,الحجة
-http://178.18.29.201:9001/2331/slot_7331.m3u8 
-#EXTINF:0,الاهواز 
-http://178.18.29.201:9001/2329/slot_7329.m3u8
-#EXTINF:0,المسار 1
-http://178.18.29.201:9001/2507/slot_7507.m3u8 
-#EXTINF:0,الصراط
-http://178.18.29.201:9001/298/slot_5298.m3u8
-#EXTINF:0,الثقلين
-http://178.18.29.201:9001/511/slot_5511.m3u8
-#EXTINF:0,الولاء
-http://178.18.29.201:9001/1799/slot_6799.m3u8
-#EXTINF:0,بينات
-http://178.18.29.201:9001/1705/slot_6705.m3u8
-#EXTINF:0,الاوحد
-http://178.18.29.201:9001/405/slot_5405.m3u8
-#EXTINF:0,Imam Hussain 2
-http://178.18.29.201:9001/1371/slot_6371.m3u8
-#EXTINF:0,Imam Hussain 3
-http://178.18.29.201:9001/834/slot_5834.m3u8
-#EXTINF:0,كربلاء 
-http://178.18.29.201:9001/415/slot_5415.m3u8
 
-EXTINF:0,المرجعية 
-http://178.18.29.201:9001/673/slot_5673.m3u8
 
 
 
@@ -515,24 +365,7 @@ rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alfor
 
 
 
-#EXTINF:0,العراقية
-http://178.18.29.201:9001/1014/slot_6014.m3u8
-#EXTINF:0,Aliraqia 1
-http://178.18.29.201:9001/1066/slot_6066.m3u8
-#EXTINF:0,العراقية الرياضية
-http://178.18.29.201:9001/685/slot_5685.m3u8
 
-#EXTINF:0,عشتار 
-http://178.18.29.201:9001/2517/slot_7517.m3u8
-
-#EXTINF:0,كركوك
-http://178.18.29.201:9001/1482/slot_6482.m3u8
-#EXTINF:0,Baghdad
-http://178.18.29.201:9001/1072/slot_6072.m3u8 
-#EXTINF:0,Iraq Almostaqbal
-http://178.18.29.201:9001/1298/slot_6298.m3u8
-#EXTINF:0,سومر نيوز
-http://178.18.29.201:9001/30/slot_5030.m3u8
 
 
 #EXTINF:-1,anb العراقية
@@ -653,15 +486,15 @@ http://195.12.170.154:8002/play/armtvlebanon
 
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
-#EXTINF:-1,Arabic: LBC
+EXTINF:-1,Arabic: LBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/186.ts
-#EXTINF:-1,Arabic: LDC
+EXTINF:-1,Arabic: LDC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/15.ts
-#EXTINF:-1,Arabic: Future
+EXTINF:-1,Arabic: Future
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/153.ts
-#EXTINF:-1,Arabic: MTV Alloubnaniya
+EXTINF:-1,Arabic: MTV Alloubnaniya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/139.ts
-#EXTINF:-1,Arabic: Al Jadeed
+EXTINF:-1,Arabic: Al Jadeed
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/794.ts
 #EXTINF:-1,Future TV (Lebanon) 
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
@@ -851,157 +684,18 @@ http://jafaer-tv.com
 
 
 
-
-#EXTINF:0,Art Aflam 1
-http://178.18.29.201:9001/1418/slot_6418.m3u8
-#EXTINF:0,Art aflam 2
-http://178.18.29.201:9001/1417/slot_6417.m3u8
-#EXTINF:0,Art cinema
-http://178.18.29.201:9001/1422/slot_6422.m3u8
-#EXTINF:0,art حكايات
-http://178.18.29.201:9001/1421/slot_6421.m3u8
-#EXTINF:0,art حكايات 2
-http://178.18.29.201:9001/1420/slot_6420.m3u8
-#EXTINF:0,Rotana Aflam افلام
-http://178.18.29.201:9001/1471/slot_6471.m3u8
-#EXTINF:0,Rotana cinema
-http://178.18.29.201:9001/1791/slot_6791.m3u8
-#EXTINF:0,بانوراما دراما
-http://178.18.29.201:9001/310/slot_5310.m3u8
-#EXTINF:0,بانوراما دراما 2
-http://178.18.29.201:9001/640/slot_5640.m3u8
-#EXTINF:0,بانوراما فلم
-http://178.18.29.201:9001/422/slot_5422.m3u8
-#EXTINF:0,بانوراما فود
-http://178.18.29.201:9001/1437/slot_6437.m3u8
-#EXTINF:0,القاهرة
-http://178.18.29.201:9001/347/slot_5347.m3u8
-#EXTINF:0,مصر
-http://178.18.29.201:9001/1056/slot_6056.m3u8
-#EXTINF:0,مصر 3
-http://178.18.29.201:9001/331/slot_5331.m3u8
-#EXTINF:0,النهار 1
-http://178.18.29.201:9001/305/slot_5305.m3u8
-#EXTINF:0,النهار دراما
-http://178.18.29.201:9001/308/slot_5308.m3u8
-#EXTINF:0,النهار
-http://178.18.29.201:9001/2449/slot_7449.m3u8
-#EXTINF:0,النهار +2
-http://178.18.29.201:9001/399/slot_5399.m3u8
-#EXTINF:0,النهار الرياضية
-http://178.18.29.201:9001/69/slot_5069.m3u8
-#EXTINF:0,الاسكندرية
-http://178.18.29.201:9001/270/slot_5270.m3u8
-#EXTINF:0,كايرو فلم 
-http://178.18.29.201:9001/1363/slot_6363.m3u8
-
-#EXTINF:0,كايرو دراما
-http://178.18.29.201:9001/410/slot_5410.m3u8
-#EXTINF:0,كت افلام
-http://178.18.29.201:9001/596/slot_5596.m3u8
-#EXTINF:0,البهية bahaia tv
-http://178.18.29.201:9001/237/slot_5237.m3u8
-#EXTINF:0,الحياة
-http://178.18.29.201:9001/572/slot_5572.m3u8
-#EXTINF:0,الحياة 2
-http://178.18.29.201:9001/613/slot_5613.m3u8
-#EXTINF:0,الحياة مسلاسلات
-http://178.18.29.201:9001/136/slot_5136.m3u8
-#EXTINF:0,الحياة و الناس
-http://178.18.29.201:9001/1507/slot_6507.m3u8
-#EXTINF:0,الحوار
-http://178.18.29.201:9001/2032/slot_7032.m3u8
-#EXTINF:0,الحرية
-http://178.18.29.201:9001/1462/slot_6462.m3u8
-
-
-#EXTINF:-1,Arabic: ART Aflam 1
+EXTINF:-1,Arabic: ART Aflam 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
-#EXTINF:-1,Arabic: ART Aflam 2
+EXTINF:-1,Arabic: ART Aflam 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts
-#EXTINF:-1,Arabic: ART Hekayat 1
+EXTINF:-1,Arabic: ART Hekayat 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts
-#EXTINF:-1,Arabic: ART Hekayat 2
+EXTINF:-1,Arabic: ART Hekayat 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts
-#EXTINF:-1,Arabic: ART Cinema
+EXTINF:-1,Arabic: ART Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts
 
-EXTINF:-1,AR : Rotana
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/33.ts
-EXTINF:-1,AR : Rotana Cinema HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/54.ts
-EXTINF:-1,AR : Rotana classic HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/50.ts
-EXTINF:-1,AR : Rotana Massrya HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/37.ts
-EXTINF:-1,AR :  Rotana Music HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/38.ts
-EXTINF:-1,AR : RotanaKhaliji HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/42.ts
-EXTINF:-1,AR : Rotana CLIP
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/52.ts
-EXTINF:-1,AR : Rotana Aflam
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/30.ts
-EXTINF:-1,AR : Star Cinema 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/43.ts
-EXTINF:-1,AR : Panorama food
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/39.ts
-EXTINF:-1,AR : Panorama Drama2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/45.ts
-EXTINF:-1,AR : Panorama Film
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/53.ts
-EXTINF:-1,AR : Time Film
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/46.ts
-EXTINF:-1,AR : Time comedy
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/55.ts
-EXTINF:-1,AR : Nile family
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/35.ts
-EXTINF:-1,AR : Nile Drama
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/36.ts
-EXTINF:-1,AR : Al Mehwar
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/102.ts
-EXTINF:-1,AR : Melody classic
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/32.ts
-EXTINF:-1,AR : Al Nahar One
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/59.ts
-EXTINF:-1,AR : Al Nahar Drama
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/60.ts
-EXTINF:-1,AR : Al Nahar Cinema
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/58.ts
-EXTINF:-1,AR : Al Nahar Al Youm
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/57.ts
-EXTINF:-1,AR: National Geographic
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/169.ts
-EXTINF:-1,AR : CBC
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/315.ts
-EXTINF:-1,AR : CBC  2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/314.ts
-EXTINF:-1,AR : CBC Sofra
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/312.ts
-EXTINF:-1,AR : CBC Extra
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/313.ts
-EXTINF:-1,AR : Cairo Drama
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/321.ts
-EXTINF:-1,AR : Cairo cinema
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/322.ts
-EXTINF:-1,AR : Cairo Aflam
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/323.ts
-EXTINF:-1,AR : Alqahira we Alnas
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/317.ts
-EXTINF:-1,AR : Alqahira we Alnas 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/316.ts
-EXTINF:-1,AR : Alhayat
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/320.ts
-EXTINF:-1,AR : Alhayat 1
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/319.ts
-EXTINF:-1,AR : Alhayat 2
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/318.ts
-EXTINF:-1,Al Arabiya
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/101.ts
-EXTINF:-1,Alresala
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/327.ts
-EXTINF:-1,Alnas
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/328.ts
+
 
 #EXTINF:-1,Al Hayat (Egypt)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
@@ -1631,21 +1325,21 @@ http://jafaer-tv.com
 
 
 
-#EXTINF:0,Animal Plant
+EXTINF:0,Animal Plant
 http://178.18.29.201:9001/2488/slot_7488.m3u8
-#EXTINF:0,Animal Box
+EXTINF:0,Animal Box
 http://178.18.29.201:9001/744/slot_5744.m3u8
-#EXTINF:0,Discovery History
+EXTINF:0,Discovery History
 http://178.18.29.201:9001/2491/slot_7491.m3u8
-#EXTINF:0,History
+EXTINF:0,History
 http://178.18.29.201:9001/787/slot_5787.m3u8
-#EXTINF:0,H&H
+EXTINF:0,H&H
 http://178.18.29.201:9001/2492/slot_7492.m3u8
-#EXTINF:0,SC Discovery
+EXTINF:0,SC Discovery
 http://178.18.29.201:9001/2490/slot_7490.m3u8
-#EXTINF:0,Turbo
+EXTINF:0,Turbo
 http://178.18.29.201:9001/2493/slot_7493.m3u8
-#EXTINF:0,Discovery
+EXTINF:0,Discovery
 http://178.18.29.201:9001/2496/slot_7496.m3u8
 EXTINF:-1,Arabic: Abu Dhabi Nat Geo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/25.ts
@@ -1672,28 +1366,6 @@ rtmp://38.96.148.30/live?v=1334683153/omantv4
 
 
 
-
-EXTINF:-1,UK:NATIONAL-GEO-WILD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/333.ts
-EXTINF:-1,UK:DISNEY-CHANNEL
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/334.ts
-EXTINF:-1,UK:DISCOVERY-SCIENCE
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/335.ts
-EXTINF:-1,UK:ANIMAL-PLANET
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/336.ts
-
-EXTINF:-1,|UK|  DISCOVERY SCIENCE CHANNEL
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/355.ts
-EXTINF:-1,|UK|  DISCOVERY HOME&HEALTH
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/356.ts
-EXTINF:-1,|UK|  DISCOVERY CHANNEL
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/357.ts
-EXTINF:-1,|UK|  NATIONAL GEOGRAPHIC HD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/352.ts
-EXTINF:-1,NAT GEO WILD
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/137.ts
-EXTINF:-1,NAT GEO
-http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.ts
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
@@ -1707,43 +1379,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:
 
 
 
-#EXTINF:0,Hod Hod kids
-http://178.18.29.201:9001/412/slot_5412.m3u8
-#EXTINF:0,Hod Hod kids English
-http://178.18.29.201:9001/2309/slot_7309.m3u8
-#EXTINF:0,الجزيرة اطفال 
-http://178.18.29.201:9001/471/slot_5471.m3u8
-#EXTINF:0,كراميش اطفال
-http://178.18.29.201:9001/396/slot_5396.m3u8
-#EXTINF:0,KX kids 
-http://178.18.29.201:9001/198/slot_5198.m3u8
-#EXTINF:0,KX kids 2
-http://178.18.29.201:9001/1950/slot_6950.m3u8
-#EXTINF:0,كوكي اطفال 
-http://178.18.29.201:9001/262/slot_5262.m3u8
 
-#EXTINF:0,كوجي اطفال
-http://178.18.29.201:9001/506/slot_5506.m3u8
-#EXTINF:0,ليبيا مرح 
-http://178.18.29.201:9001/2213/slot_7213.m3u8
-#EXTINF:0,CN عربي
-http://178.18.29.201:9001/2317/slot_7317.m3u8
-#EXTINF:0,CN turk
-http://178.18.29.201:9001/1934/slot_6934.m3u8
-#EXTINF:0,Disney channel
-http://178.18.29.201:9001/1896/slot_6896.m3u8
-
-#EXTINF:0,disney junior
-http://178.18.29.201:9001/784/slot_5784.m3u8
-
-#EXTINF:0,Disney channel 2
-http://178.18.29.201:9001/783/slot_5783.m3u8
-#EXTINF:0,Disney XD
-http://178.18.29.201:9001/704/slot_5704.m3u8
-#EXTINF:0,BBC kids
-http://178.18.29.201:9001/11/slot_5011.m3u8
-#EXTINF:0,براعم
-http://178.18.29.201:9001/518/slot_5518.m3u8
 
 
 #EXTINF:-1,Looney Tunes 
