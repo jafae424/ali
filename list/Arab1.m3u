@@ -1118,108 +1118,108 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
 
-#EXTINF:-1,Arabic: Al-Nahar
+EXTINF:-1,Arabic: Al-Nahar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/499.ts
-#EXTINF:-1,Arabic: Al-Nahar Alyoum
+EXTINF:-1,Arabic: Al-Nahar Alyoum
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/500.ts
-#EXTINF:-1,Arabic: Al-Nahar Drama
+EXTINF:-1,Arabic: Al-Nahar Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts
-#EXTINF:-1,Arabic: Al-Nahar Cinema
+EXTINF:-1,Arabic: Al-Nahar Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/502.ts
-#EXTINF:-1,Arabic: Panorama Drama
+EXTINF:-1,Arabic: Panorama Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/988.ts
-#EXTINF:-1,Arabic: Panorama Drama 2
+EXTINF:-1,Arabic: Panorama Drama 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/989.ts
-#EXTINF:-1,Arabic: Panorama Comedy
+EXTINF:-1,Arabic: Panorama Comedy
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/986.ts
-#EXTINF:-1,Arabic: Panorama Food
+EXTINF:-1,Arabic: Panorama Food
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/987.ts
-#EXTINF:-1,Arabic: Mazzika
+EXTINF:-1,Arabic: Mazzika
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/995.ts
-#EXTINF:-1,Arabic: Nile Sport
+EXTINF:-1,Arabic: Nile Sport
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/215.ts
-#EXTINF:-1,Arabic: Nile Life
+EXTINF:-1,Arabic: Nile Life
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/219.ts
-#EXTINF:-1,Arabic: Nile Drama
+EXTINF:-1,Arabic: Nile Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/216.ts
-#EXTINF:-1,Arabic: Nile Comedy
+EXTINF:-1,Arabic: Nile Comedy
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/217.ts
-#EXTINF:-1,Arabic: Nile Cinema
+EXTINF:-1,Arabic: Nile Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/218.ts
-#EXTINF:-1,Arabic: Al Kahera Wal Nas
+EXTINF:-1,Arabic: Al Kahera Wal Nas
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/782.ts
-#EXTINF:-1,Arabic: Al Kahera Wal Nas 2
+EXTINF:-1,Arabic: Al Kahera Wal Nas 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/783.ts
-#EXTINF:-1,Arabic: TOKTOK CIMA
+EXTINF:-1,Arabic: TOKTOK CIMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/28.ts
-#EXTINF:-1,Arabic: Afrah
+EXTINF:-1,Arabic: Afrah
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/31.ts
-#EXTINF:-1,Arabic: STAR CINEMA 1
+EXTINF:-1,Arabic: STAR CINEMA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/34.ts
-#EXTINF:-1,Arabic: STAR CINEMA 2
+EXTINF:-1,Arabic: STAR CINEMA 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/33.ts
-#EXTINF:-1,Arabic: MAJESTIC CINEMA
+EXTINF:-1,Arabic: MAJESTIC CINEMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/40.ts
-#EXTINF:-1,Arabic: LCD MOVIES
+EXTINF:-1,Arabic: LCD MOVIES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/41.ts
-#EXTINF:-1,Arabic: DARBAKA CINEMA
+EXTINF:-1,Arabic: DARBAKA CINEMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/42.ts
-#EXTINF:-1,Arabic: CINEMA ALWAN
+EXTINF:-1,Arabic: CINEMA ALWAN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/43.ts
-#EXTINF:-1,Arabic: CINEMA 1
+EXTINF:-1,Arabic: CINEMA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/45.ts
-#EXTINF:-1,Arabic: CINEMA 2
+EXTINF:-1,Arabic: CINEMA 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/44.ts
-#EXTINF:-1,Arabic: CIMA ALI BABA
+EXTINF:-1,Arabic: CIMA ALI BABA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/46.ts
-#EXTINF:-1,Arabic: Al Burhan
+EXTINF:-1,Arabic: Al Burhan
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/694.ts
-#EXTINF:-1,Arabic: Cairo Drama
+EXTINF:-1,Arabic: Cairo Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/994.ts
-#EXTINF:-1,Arabic: Cairo Cinema
+EXTINF:-1,Arabic: Cairo Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/993.ts
-#EXTINF:-1,Arabic: CAIRO ONE
+EXTINF:-1,Arabic: CAIRO ONE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/48.ts
-#EXTINF:-1,Arabic: BELODY AFLAM
+EXTINF:-1,Arabic: BELODY AFLAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/49.ts
-#EXTINF:-1,Arabic: ALMASRAWIA AFLAM
+EXTINF:-1,Arabic: ALMASRAWIA AFLAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts
-#EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
+EXTINF:-1,Arabic: AL BAIT BAITAK CINEMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/51.ts
-#EXTINF:-1,Arabic: Rotana Music
+EXTINF:-1,Arabic: Rotana Music
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/64.ts
-#EXTINF:-1,Arabic: Rotana Masriya
+EXTINF:-1,Arabic: Rotana Masriya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/65.ts
-#EXTINF:-1,Arabic: Rotana Khalijia
+EXTINF:-1,Arabic: Rotana Khalijia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/67.ts
-#EXTINF:-1,Arabic: Rotana Clip
+EXTINF:-1,Arabic: Rotana Clip
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/63.ts
-#EXTINF:-1,Arabic: Rotana Classic
+EXTINF:-1,Arabic: Rotana Classic
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/66.ts
-#EXTINF:-1,Arabic: Rotana Cinema
+EXTINF:-1,Arabic: Rotana Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/68.ts
-#EXTINF:-1,Arabic: Rotana Aflam
+EXTINF:-1,Arabic: Rotana Aflam
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/62.ts
-#EXTINF:-1,Arabic: AL HAYAT 1
+EXTINF:-1,Arabic: AL HAYAT 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/158.ts
-#EXTINF:-1,Arabic: AL HAYAT 2
+EXTINF:-1,Arabic: AL HAYAT 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/157.ts
-#EXTINF:-1,Arabic: CBC
+EXTINF:-1,Arabic: CBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/52.ts
-#EXTINF:-1,Arabic: CBC 2
+EXTINF:-1,Arabic: CBC 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/53.ts
-#EXTINF:-1,Arabic: CBC SOFRA
+EXTINF:-1,Arabic: CBC SOFRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/55.ts
-#EXTINF:-1,Arabic: CBC EXTRA
+EXTINF:-1,Arabic: CBC EXTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/56.ts
-#EXTINF:-1,Arabic: CBC DRAMA
+EXTINF:-1,Arabic: CBC DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/54.ts
 
-#EXTINF:-1,Arabic: Sada Elbalad
+EXTINF:-1,Arabic: Sada Elbalad
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/128.ts
-#EXTINF:-1,Arabic: Sada Elbalad 2
+EXTINF:-1,Arabic: Sada Elbalad 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/130.ts
-#EXTINF:-1,Arabic: Sada Elbalad Drama
+EXTINF:-1,Arabic: Sada Elbalad Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/129.ts
 
 
@@ -1230,25 +1230,25 @@ http://jafaer-tv.com
 http://149.255.152.110/cnn/index.m3u8
 
 
-#EXTINF:-1,Arabic: Al Arabiya
+EXTINF:-1,Arabic: Al Arabiya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/103.ts
-#EXTINF:-1,Arabic: Al Hadath
+EXTINF:-1,Arabic: Al Hadath
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/104.ts
-#EXTINF:-1,Arabic: Aljazeera
+EXTINF:-1,Arabic: Aljazeera
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/106.ts
-#EXTINF:-1,Arabic: Aljazeera Mubasher
+EXTINF:-1,Arabic: Aljazeera Mubasher
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/105.ts
-#EXTINF:-1,Arabic: Aljazeera Misr
+EXTINF:-1,Arabic: Aljazeera Misr
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/108.ts
-#EXTINF:-1,Arabic: Aljazeera English
+EXTINF:-1,Arabic: Aljazeera English
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/107.ts
-#EXTINF:-1,Arabic: Aljazeera Documentary
+EXTINF:-1,Arabic: Aljazeera Documentary
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/109.ts
-#EXTINF:-1,Arabic: BBC Arabia
+EXTINF:-1,Arabic: BBC Arabia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/144.ts
-#EXTINF:-1,Arabic: France 24 Arabia
+EXTINF:-1,Arabic: France 24 Arabia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/171.ts
-#EXTINF:-1,Arabic: Sky News Arabia
+EXTINF:-1,Arabic: Sky News Arabia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/808.ts
 #EXTINF:-1,AR-AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher 
@@ -1461,31 +1461,31 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1456.ts
 
 
-#EXTINF:-1,Arabic: El Djazairia
+EXTINF:-1,Arabic: El Djazairia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/990.ts
-#EXTINF:-1,Arabic: Dzair News
+EXTINF:-1,Arabic: Dzair News
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/991.ts
-#EXTINF:-1,Arabic: El-Heddaf
+EXTINF:-1,Arabic: El-Heddaf
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/992.ts
-#EXTINF:-1,Arabic: Algérie 4
+EXTINF:-1,Arabic: Algérie 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/1001.ts
-#EXTINF:-1,Arabic: Algérie 5
+EXTINF:-1,Arabic: Algérie 5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/1002.ts
-#EXTINF:-1,Arabic: KBC
+EXTINF:-1,Arabic: KBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/145.ts
-#EXTINF:-1,Arabic: Libya
+EXTINF:-1,Arabic: Libya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/126.ts
-#EXTINF:-1,Arabic: Libya 1
+EXTINF:-1,Arabic: Libya 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/121.ts
-#EXTINF:-1,Arabic: Libya 24
+EXTINF:-1,Arabic: Libya 24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/193.ts
-#EXTINF:-1,Arabic: Alrasmeya
+EXTINF:-1,Arabic: Alrasmeya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/29.ts
-#EXTINF:-1,Arabic: Zitouna
+EXTINF:-1,Arabic: Zitouna
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/154.ts
-#EXTINF:-1,Arabic: Zitouna Hidaya
+EXTINF:-1,Arabic: Zitouna Hidaya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/978.ts
-#EXTINF:-1,Arabic: Mekameleen
+EXTINF:-1,Arabic: Mekameleen
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/155.ts
 
 
@@ -1628,7 +1628,7 @@ http://178.18.29.201:9001/2490/slot_7490.m3u8
 http://178.18.29.201:9001/2493/slot_7493.m3u8
 #EXTINF:0,Discovery
 http://178.18.29.201:9001/2496/slot_7496.m3u8
-#EXTINF:-1,Arabic: Abu Dhabi Nat Geo
+EXTINF:-1,Arabic: Abu Dhabi Nat Geo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/25.ts
 #EXTINF:-1 , TRT Arabic 
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
@@ -1678,11 +1678,11 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/138.t
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
-#EXTINF:-1,Bein Jeem Europe
+EXTINF:-1,Bein Jeem Europe
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2418.ts
-#EXTINF:-1,bein Baraem
+EXTINF:-1,bein Baraem
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/1046.ts
-#EXTINF:-1,Baraem Europe
+EXTINF:-1,Baraem Europe
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/iptv-free/iptvfree-salahfree/2712.ts
 
 
@@ -1740,23 +1740,23 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Nickelodeon
 http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
 
-#EXTINF:-1,Arabic: CN Arabia
+EXTINF:-1,Arabic: CN Arabia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/17.ts
-#EXTINF:-1,Arabic: Space Toon
+EXTINF:-1,Arabic: Space Toon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/220.ts
-#EXTINF:-1,Arabic: AJYAL
+EXTINF:-1,Arabic: AJYAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/80.ts
-#EXTINF:-1,Arabic: MODY KIDS
+EXTINF:-1,Arabic: MODY KIDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/37.ts
-#EXTINF:-1,Arabic: MICKEY CHANNEL
+EXTINF:-1,Arabic: MICKEY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/38.ts
-#EXTINF:-1,Arabic: KOKKY TV
+EXTINF:-1,Arabic: KOKKY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/39.ts
-#EXTINF:-1,Arabic: Toyor Aljanah
+EXTINF:-1,Arabic: Toyor Aljanah
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/791.ts
-#EXTINF:-1,Arabic: Toyor Baby
+EXTINF:-1,Arabic: Toyor Baby
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/792.ts
-#EXTINF:-1,Arabic: AlJazeera Children
+EXTINF:-1,Arabic: AlJazeera Children
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/156.ts
 
 
