@@ -424,11 +424,9 @@ http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
-http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8
+http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8
 #EXTINF:-1,IFILM eng
-http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sleng.m3u8
-
-
+http://efusion1-i.akamaihd.net/hls/live/252882/ifilmen/playlist.m3u8
 
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
