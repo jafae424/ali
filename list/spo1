@@ -144,6 +144,36 @@ http://iptv33.us.to/ip441555/3136774336/14.ch
 http://iptv33.us.to/ip441555/3136774336/15.ch
 
 
+
+
+#EXTINF:0,BeinSport-HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/1.ts
+#EXTINF:0,BeinSport-HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/2.ts
+#EXTINF:0,BeinSport-HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/3.ts
+#EXTINF:0,BeinSport-HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/4.ts
+#EXTINF:0,BeinSport-HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/5.ts
+#EXTINF:0,BeinSport-HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/6.ts
+#EXTINF:0,BeinSport-HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/7.ts
+#EXTINF:0,BeinSport-HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/8.ts
+#EXTINF:0,BeinSport-HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/9.ts
+#EXTINF:0,BeinSport-HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/00003/00003/10.ts
+
+
+
+
+
+
+
+
 #EXTINF:-1,AR: Bein Sports 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2470.ts
 #EXTINF:-1,AR: Bein Sports 2 HD
