@@ -31,6 +31,16 @@ http://178.18.29.201:9001/70/slot_5070.m3u8
 EXTINF:0,MBC Masar 2
 http://178.18.29.201:9001/1053/slot_6053.m3u8
 
+
+
+#EXTINF:-1,MBC-1
+http://38.99.146.37:7777/MBC1_HD/MBC1_High.m3u8 
+#EXTINF:-1,MBC_Drama 
+http://38.99.146.37:7777/MBCDrama_HD/MBCDrama_High.m3u8 
+#EXTINF:-1,MBCMaser
+http://38.99.146.37:7777/MBCMaser_HD/MBCMaser_High.m3u8 
+
+
 #EXTINF:-1,AR-MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/386.ts
 #EXTINF:-1,AR-MBC-Drama
@@ -855,6 +865,43 @@ http://jafaer-tv.com
 
 
 
+
+
+
+#EXTINF:-1,RotanaAflam_HD
+http://38.99.146.37:7777/RotanaAflam_HD/RotanaAflam_High.m3u8 
+#EXTINF:-1,RotanaCinema
+http://38.99.146.37:7777/RotanaCinema_HD/RotanaCinema_High.m3u8 
+#EXTINF:-1,RotanaZaman
+http://38.99.146.37:7777/RotanaZaman_HD/RotanaZaman_High.m3u8 
+#EXTINF:-1,RotanaClip
+http://38.99.146.37:7777/RotanaClip_HD/RotanaClip_High.m3u8 
+#EXTINF:-1,RotanaKhalijiah
+http://38.99.146.37:7777/RotanaKhalijiah_HD/RotanaKhalijiah_High.m3u8 
+#EXTINF:-1,Alhayat 
+http://38.99.146.37:7777/Hayat_HD/Hayat_High.m3u8 
+#EXTINF:-1,Alhayat 2
+http://38.99.146.37:7777/Alhayat2_HD/Alhayat2_High.m3u8 
+#EXTINF:-1,AlHayatMousalsalat
+http://38.99.146.37:7777/AlHayatMousalsalat_HD/AlHayatMousalsalat_High.m3u8  
+#EXTINF:-1,Sada Al Balad 
+http://38.99.146.37:7777/SadaAlBalad_HD/SadaAlBalad_High.m3u8 
+#EXTINF:-1,SadaAlBaladDrama_
+http://38.99.146.37:7777/SadaAlBaladDrama_HD/SadaAlBaladDrama_High.m3u8 
+#EXTINF:-1,AlKahera 
+http://38.99.146.37:7777/AlKahera_HD/AlKahera_High.m3u8 
+#EXTINF:-1,AlKaheraWalNas
+http://38.99.146.37:7777/AlKaheraWalNas_HD/AlKaheraWalNas_High.m3u8 
+#EXTINF:-1,AlKaheraWalNas2
+http://38.99.146.37:7777/AlKaheraWalNas2_HD/AlKaheraWalNas2_High.m3u8 
+#EXTINF:-1,AlMasriyah
+http://38.99.146.37:7777/AlMasriyah_HD/AlMasriyah_HD.m3u8 
+#EXTINF:-1,AlThanya
+http://38.99.146.37:7777/AlThanya_HD/AlThanya_HD.m3u8 
+#EXTINF:-1,ONTV
+http://38.99.146.37:7777/ONTV_HD/ONTV_HD.m3u8 
+#EXTINF:-1,ONTVLive
+http://38.99.146.37:7777/ONTVLive_HD/ONTVLive_High.m3u8 
 
 EXTINF:-1,Arabic: ART Aflam 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts
