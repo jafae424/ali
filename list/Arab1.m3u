@@ -15,7 +15,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] -------------الرجاء الرجاء الضغط مرتين حتئ تعمل القناة------------- --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-
 |User-Agent=VLC
 
 EXTINF:0,mBC 1 HD
