@@ -50,7 +50,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 #EXTINF:-1,AR_MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/133.ts
 
-
 #EXTINF:-1,AR_MBC_MASR_2
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts
 
