@@ -545,7 +545,58 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv1.fre
 #EXTINF:0,الموصلية
 http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m3u8
 
+#EXTINF:-1,Iraqia-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1705.ts
+#EXTINF:-1,Al-Rafiden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1702.ts
+#EXTINF:-1,AR-Sadr-AL-Iraq
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1867.ts
+#EXTINF:-1,AR-Kitabat-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1868.ts
+#EXTINF:-1,Al-Naeem-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1869.ts
+#EXTINF:-1,Al-Masar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1704.ts
+#EXTINF:-1,AL-ASSEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1703.ts
 
+#EXTINF:-1,Alrai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1686.ts
+#EXTINF:-1,AR-MADA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1688.ts
+#EXTINF:-1,arb-AGHANIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1459.ts
+#EXTINF:-1,AL-Hurra-Iraq
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1636.ts
+#EXTINF:-1,IRQ-Al-Baghdadia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1469.ts
+#EXTINF:-1,IRQ-Al-Baghdadia2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1471.ts
+#EXTINF:-1,IRQ-Al-Forat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1470.ts
+#EXTINF:-1,AR-HONA-BAGHDAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1498.ts
+#EXTINF:-1,Al-Fayhaa-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1554.ts
+#EXTINF:-1,Alhurra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/124.ts
+#EXTINF:-1,AR-AFAK-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1501.ts
+#EXTINF:-1,AL-SHARQIYA-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1641.ts
+#EXTINF:-1,AR-Dijlah-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1634.ts
+#EXTINF:-1,Al-Mawsleya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1633.ts
+#EXTINF:-1,ALhayah-ALaan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1639.ts
+#EXTINF:-1,AR-BAGHDAD-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1637.ts
+#EXTINF:-1,Al-Sumaria-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1643.ts
+
+#EXTINF:-1,AR-SALAM-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1642.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -1206,7 +1257,18 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,Mubasher (Qatar)
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
 
-
+#EXTINF:-1,AlArabiya-Hadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/151.ts
+#EXTINF:-1,Al-Arabiya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/150.ts
+#EXTINF:-1,AL-Hadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/154.ts
+#EXTINF:-1,AL-JAZEERA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/146.ts
+#EXTINF:-1,Al-Jazeera-Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/155.ts
+#EXTINF:-1,Al-Jazeera-Mubasher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/833.ts
 #EXTINF:-1,*********[COLOR red]  Islamic دينيه[/COLOR]**********
 http://jafaer-tv.com
 #EXTINF:-1,Medine
