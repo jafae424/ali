@@ -50,17 +50,32 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 #EXTINF:-1,AR_MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/133.ts
 
+
+
+#EXTINF:-1,MBC1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1378.ts
+#EXTINF:-1,MBC-DRAMAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1395.ts
+#EXTINF:-1,MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/19.ts
+#EXTINF:-1,MBC3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/21.ts
+#EXTINF:-1,MBCDRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/25.ts
+#EXTINF:-1,MBC_Masr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/28.ts
+#EXTINF:-1,MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/27.ts
+
+
+
+
+
+
+
 #EXTINF:-1,AR_MBC_MASR_2
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts
 
-#EXTINF:-1,AR-MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/386.ts
-#EXTINF:-1,AR-MBC-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/384.ts
-#EXTINF:-1,AR-MBC-Masr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/390.ts
-#EXTINF:-1,AR-MBCMasr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/648.ts
 
 
 
@@ -175,6 +190,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
+#EXTINF:-1,AR-FATAFEAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/98.ts
+#EXTINF:-1,ART_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/53.ts
+#EXTINF:-1,Aflam_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/51.ts
+#EXTINF:-1,Aflam_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/52.ts
+#EXTINF:-1,Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/54.ts
+#EXTINF:-1,Hekayat_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/75.ts
+
 
 EXTINF:-1,AR : Art Aflam 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/124.ts
@@ -198,16 +226,7 @@ EXTINF:-1,AR: Art Hekayat 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.ts
 
 
-#EXTINF:-1,AR-ART-Aflam-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/410.ts
-#EXTINF:-1,AR-ART-Aflam-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/411.ts
-#EXTINF:-1,AR-Art-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/652.ts
-#EXTINF:-1,AR-art-Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/412.ts
-#EXTINF:-1,AR-ART-Hekayat-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/413.ts
+
 
 
 #EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
@@ -289,88 +308,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xc
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3136.ts
 
 
-
-
-#EXTINF:-1,AR-Bein-Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/619.ts
-#EXTINF:-1,AR-Bein-Movies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/620.ts
-#EXTINF:-1,AR-Bein-Movies3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2957.ts
-#EXTINF:-1,AR-Bein-Movies4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3003.ts
-#EXTINF:-1,AR-OSN-YAHALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2437.ts
-#EXTINF:-1,AR-YaHala-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2447.ts
-#EXTINF:-1,AR-OSN-YAHAlA-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2436.ts
-#EXTINF:-1,AR-OSN-YAHALA-SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2434.ts
-#EXTINF:-1,AR-OSN-ORBIT-CINEMA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2439.ts
-#EXTINF:-1,AR-OSN-ORBIT-CINEMA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2438.ts
-#EXTINF:-1,AR-OSN_Disney-Junior-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3934.ts
-#EXTINF:-1,AR-OSN-ELYOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2448.ts
-#EXTINF:-1,AR-Fatafeat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3924.ts
-#EXTINF:-1,AR-OSN-Animal-Planet-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2452.ts
-#EXTINF:-1,AR-OSN-Nat-People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3926.ts
-#EXTINF:-1,AR-OSN-Nat-Geo-Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3927.ts
-#EXTINF:-1,AR-Osn-History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3928.ts
-#EXTINF:-1,AR-Osn-H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3929.ts
-#EXTINF:-1,AR-Osn-Discovery-SC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3930.ts
-#EXTINF:-1,AR-OSN-Discovery-Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3931.ts
-#EXTINF:-1,AR-OSN-OFFICBOX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2444.ts
-#EXTINF:-1,AR-OSN-OFFICBOX2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2443.ts
-#EXTINF:-1,AR-OSN-OFFICBOX3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2442.ts
-#EXTINF:-1,AR-Starworld
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2845.ts
-#EXTINF:-1,AR-StarMovies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2844.ts
-#EXTINF:-1,AR-OSN-ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2433.ts
-#EXTINF:-1,AR-OSNAction2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2915.ts
-#EXTINF:-1,AR-OSN-FIRST-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2429.ts
-#EXTINF:-1,AR-OSN-First-MoreHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2430.ts
-#EXTINF:-1,AR-OSN-First-Comedy-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2431.ts
-#EXTINF:-1,AR-OSN-Movie-kids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2446.ts
-#EXTINF:-1,AR-OSN-MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2428.ts
-#EXTINF:-1,AR-OSN-Movies-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3932.ts
-#EXTINF:-1,AR-OSN-MOVIES-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2427.ts
-#EXTINF:-1,AR-OSN-MOVIES-FESTIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2426.ts
-#EXTINF:-1,AR-OSN-Movies-Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2445.ts
-#EXTINF:-1,AR-OSN-Movies-Premiere-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3933.ts
-#EXTINF:-1,AR-OSN-On-Demand-Extra-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2441.ts
-#EXTINF:-1,AR-OSN-On-Demand-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2440.ts
-#EXTINF:-1,AR-OSN-WWE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2432.ts
 
 
 
@@ -557,62 +494,6 @@ EXTINF:-1,Al Fayhaa
 http://38.99.146.37:7777/AlFayhaa_HD.m3u8
 
 
-#EXTINF:-1,AR-AlBaghdadia2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/637.ts
-#EXTINF:-1,AR-Almawsleya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3439.ts
-#EXTINF:-1,AR-ALWALAA-IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3165.ts
-#EXTINF:-1,AR-ALBASRA-IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3163.ts
-#EXTINF:-1,AR-AlGhadeer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3610.ts
-#EXTINF:-1,AR-IRAQ-FUTURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3164.ts
-#EXTINF:-1,AR-Iraqiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2868.ts
-#EXTINF:-1,AR-Iraq Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3236.ts
-#EXTINF:-1,AR-IraqiyaSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2869.ts
-#EXTINF:-1,AR-Sumaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3235.ts
-
-#EXTINF:-1,AR:AlFayhaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3002.ts
-#EXTINF:-1,AR-Sharqiya-From-Kalba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2899.ts
-#EXTINF:-1,AR-dijla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/303.ts
-#EXTINF:-1,AR-zahra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/325.ts
-#EXTINF:-1,AR-Afak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2956.ts
-#EXTINF:-1,AR-AlAnwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2954.ts
-#EXTINF:-1,AR-AlSalam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2951.ts
-#EXTINF:-1,AR-AlDiyar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3455.ts
-#EXTINF:-1,AR-Beladi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3452.ts
-#EXTINF:-1,AR-Baghdad-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3440.ts
-#EXTINF:-1,AR-Karbala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2935.ts
-#EXTINF:-1,AR-AlRafidain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/635.ts
-#EXTINF:-1,AR-Alforat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/636.ts
-#EXTINF:-1,AR-AsiaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3454.ts
-
-#EXTINF:-1,AR-AlRasheedIraqia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/1080.ts
-#EXTINF:-1,AR-HonaBaghdad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2381.ts
-
-
 
 
 
@@ -696,25 +577,6 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
 rtmp://118.139.182.134:1935/livepkgr/livestream
 
-
-#EXTINF:-1,AR-MTV-Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/405.ts
-#EXTINF:-1,AR-LBC-SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/404.ts
-#EXTINF:-1,AR-aljadeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/318.ts
-#EXTINF:-1,AR-Al-ManarTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/649.ts
-#EXTINF:-1,AR-Ldc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/464.ts
-#EXTINF:-1,AR-OTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/309.ts
-#EXTINF:-1,AR:Alaan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/1808.ts
-#EXTINF:-1,AR-NBN-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/277.ts
-#EXTINF:-1,AR-Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/406.ts
 
 
 #EXTINF:-1,AR_LBC
@@ -1183,62 +1045,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 
 
 
-#EXTINF:-1,AR-CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/624.ts
-#EXTINF:-1,AR-CBC-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2411.ts
-#EXTINF:-1,AR-CBC-SOFRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/628.ts
-#EXTINF:-1,AR-CBCDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/625.ts
-#EXTINF:-1,AR-CBC-Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2412.ts
-#EXTINF:-1,AR-Nile-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/394.ts
-#EXTINF:-1,AR:Nile-Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3180.ts
-#EXTINF:-1,AR:Nile-Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3181.ts
-#EXTINF:-1,AR-Nile-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/395.ts
-#EXTINF:-1,AR-Nile-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/392.ts
-#EXTINF:-1,AR:NILECOMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2342.ts
-#EXTINF:-1,AR-PanoramaFilm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2864.ts
-#EXTINF:-1,AR-PanoramaDrama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2866.ts
-#EXTINF:-1,AR-PanoramaDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2865.ts
-#EXTINF:-1,AR-PanoramaComedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2867.ts
-#EXTINF:-1,AR-Panoroma-Food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3234.ts
-#EXTINF:-1,AR-Time-Turki
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2881.ts
-#EXTINF:-1,AR-Time-Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2882.ts
-#EXTINF:-1,AR-Time-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2885.ts
-#EXTINF:-1,AR-Time-FILM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2883.ts
-#EXTINF:-1,AR-Time-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2886.ts
-#EXTINF:-1,AR-Cairo-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3389.ts
-#EXTINF:-1,AR-CairoDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2946.ts
-#EXTINF:-1,AR-CairoCinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2947.ts
-#EXTINF:-1,AR-Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/418.ts
-#EXTINF:-1,AR-StarCinema1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2635.ts
-#EXTINF:-1,AR-StarCinema2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/490.ts
-#EXTINF:-1,AR-MogaComedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/402.ts
+
 
 
 
@@ -1664,28 +1471,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 
 
 
-EXTINF:-1,AR-spacetoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/451.ts
-EXTINF:-1,AR-Baraeem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/427.ts
-EXTINF:-1,AR-Noon-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2628.ts
-EXTINF:-1,AR-Semsem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2634.ts
-EXTINF:-1,AR-Taha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2596.ts
-EXTINF:-1,AR-AjyalTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/2615.ts
-EXTINF:-1,AR-Karameesh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/1088.ts
-EXTINF:-1,AR-Toyor-aljanah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/425.ts
-EXTINF:-1,AR-CartoonNetworkArabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/1087.ts
-EXTINF:-1,AR-Mody-Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3366.ts
-EXTINF:-1,AR-MickeyChannel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3608.ts
+
 #EXTINF:-1, Taha tv
 rtmp://93.95.207.36:9200/livepkgr/livestream2&autoHideControlBar=true&streamType=live&autoPlay=true&verbose=true
 
