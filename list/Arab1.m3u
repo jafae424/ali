@@ -647,7 +647,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 #EXTINF:-1,AR_OTV_LEBANON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1358.t
 
+#EXTINF:-1,OTV-LEBANON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1925.ts
+#EXTINF:-1,AR-LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1648.ts
+#EXTINF:-1,AR-LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/139.ts
 
+#EXTINF:-1,AR-FUTURE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/280.ts
+
+#EXTINF:-1,AR-mtv_lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/209.ts
+#EXTINF:-1,AR-Teleliban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/819.ts
+#EXTINF:-1,AR-JADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/813.ts
 
 EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
@@ -1661,6 +1676,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4109.ts
 
 
+#EXTINF:-1,TAHA-atfal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2229.ts
+#EXTINF:-1,AR-Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/55.ts
+#EXTINF:-1,AlJazeera Children
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/61.ts
+#EXTINF:-1,AR-Jeem-CartoonArabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/167.ts
+#EXTINF:-1,AR-Toyor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/1398.ts
+#EXTINF:-1,AR-Mickey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/286.ts
+#EXTINF:-1,AR-Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/162.ts
 
 
 #EXTINF:-1, Taha tv
