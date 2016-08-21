@@ -1438,6 +1438,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4109.ts
 
 
+#EXTINF:-1,Ajyal Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1648.ts
+#EXTINF:-1,JEEM EU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1732.ts
+#EXTINF:-1,semsem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1600.ts
+#EXTINF:-1,Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/182.ts
+#EXTINF:-1,CN arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/184.ts
+#EXTINF:-1,Toyor Al Janah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/183.ts
+
+
+
 #EXTINF:-1, Taha tv
 rtmp://93.95.207.36:9200/livepkgr/livestream2&autoHideControlBar=true&streamType=live&autoPlay=true&verbose=true
 
