@@ -54,9 +54,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 #EXTINF:-1,AR_MBC_MASR_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts
 
-
-
-
+#EXTINF:-1,MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/61.ts
+#EXTINF:-1,MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/69.ts
+#EXTINF:-1,Mbc Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/70.ts
+#EXTINF:-1,MBC Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/67.ts
 
 EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
@@ -139,7 +144,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 #EXTINF:-1,Arabic:Art Cinema
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2229.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
 
-
+#EXTINF:-1,Art Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/56.ts
+#EXTINF:-1,Art Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/57.ts
+#EXTINF:-1,Art Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/59.ts
+#EXTINF:-1,Art Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/60.ts
+#EXTINF:-1,Art Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/58.ts
 
 EXTINF:-1,AR : Art Aflam 1
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/124.ts
@@ -172,76 +186,83 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 #EXTINF:-1,[COLOR red] هذه القنوات غير مستفرة[/COLOR]
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.
 
-
-#EXTINF:-1,OSN-ALYoum-HD
+#EXTINF:-1,beIN MOVIES 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/840.ts
+#EXTINF:-1,beIN MOVIES 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/839.ts
+#EXTINF:-1,beIN MOVIES 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1458.ts
+#EXTINF:-1,beIN MOVIES 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1477.ts
+EXTINF:-1,OSN-ALYoum-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3038.ts
-#EXTINF:-1,OSN_BOX-OFFICE-3-HD
+EXTINF:-1,OSN_BOX-OFFICE-3-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3058.ts
-#EXTINF:-1,OSN_BOX-OFFICE-2-HD
+EXTINF:-1,OSN_BOX-OFFICE-2-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3057.ts
-#EXTINF:-1,OSN_BOX-OFFICE-1-HD
+EXTINF:-1,OSN_BOX-OFFICE-1-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3208.ts
-#EXTINF:-1,OSN-Discovery-Science-HD
+EXTINF:-1,OSN-Discovery-Science-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3138.ts
-#EXTINF:-1,OSN-YaHala-Shabab-HD
+EXTINF:-1,OSN-YaHala-Shabab-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3042.ts
-#EXTINF:-1,OSN-YaHala-HD
+EXTINF:-1,OSN-YaHala-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3041.ts
-#EXTINF:-1,OSN-YaHala-Drama-HD
+EXTINF:-1,OSN-YaHala-Drama-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3043.ts
-#EXTINF:-1,OSN-Star-World-HD
+EXTINF:-1,OSN-Star-World-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3044.ts
-#EXTINF:-1,OSN-Star-Movies-HD
+EXTINF:-1,OSN-Star-Movies-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3045.ts
-#EXTINF:-1,OSN-ON-Drama-1-HD
+EXTINF:-1,OSN-ON-Drama-1-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3050.ts
-#EXTINF:-1,OSN-Nat-Geo-Wild-HD
+EXTINF:-1,OSN-Nat-Geo-Wild-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3032.ts
-#EXTINF:-1,OSN-Movies-Premiere_2-HD
+EXTINF:-1,OSN-Movies-Premiere_2-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3137.ts
-#EXTINF:-1,OSN-Movies-Premiere-HD
+EXTINF:-1,OSN-Movies-Premiere-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3049.ts
-#EXTINF:-1,OSN-Movies-HD
+EXTINF:-1,OSN-Movies-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3046.ts
-#EXTINF:-1,OSN-Movies-Festlval-HD
+EXTINF:-1,OSN-Movies-Festlval-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3035.ts
-#EXTINF:-1,OSN-Movies-Drama-HD
+EXTINF:-1,OSN-Movies-Drama-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3036.ts
-#EXTINF:-1,OSN-Movies-Comedy-HD
+EXTINF:-1,OSN-Movies-Comedy-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3052.ts
-#EXTINF:-1,OSN-Movies-Action-HD
+EXTINF:-1,OSN-Movies-Action-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3047.ts
-#EXTINF:-1,OSN-Movies-Action-2-HD
+EXTINF:-1,OSN-Movies-Action-2-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3048.ts
-#EXTINF:-1,OSN-Movie-Kids-HD
+EXTINF:-1,OSN-Movie-Kids-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3055.ts
-#EXTINF:-1,OSN-MBC+Drama-HD
+EXTINF:-1,OSN-MBC+Drama-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3033.ts
-#EXTINF:-1,OSN-First-HD
+EXTINF:-1,OSN-First-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3054.ts
-#EXTINF:-1,OSN-First-Comedy-HD
+EXTINF:-1,OSN-First-Comedy-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3051.ts
-#EXTINF:-1,OSN-Fann-HD
+EXTINF:-1,OSN-Fann-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3053.ts
-#EXTINF:-1,OSN-Discovery-HD
+EXTINF:-1,OSN-Discovery-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3034.ts
-#EXTINF:-1,OSN-Cinema-2-HD
+EXTINF:-1,OSN-Cinema-2-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3040.ts
-#EXTINF:-1,OSN-Cinema-1-HD
+EXTINF:-1,OSN-Cinema-1-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3039.ts
-#EXTINF:-1,OSN-ART-Hekayat-HD
+EXTINF:-1,OSN-ART-Hekayat-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3029.ts
-#EXTINF:-1,OSN-ART-Hekayat-2-HD
+EXTINF:-1,OSN-ART-Hekayat-2-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3030.ts
-#EXTINF:-1,OSN-ART-Cinema-HD
+EXTINF:-1,OSN-ART-Cinema-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3031.ts
-#EXTINF:-1,OSN-ART-Aflam-2-HD
+EXTINF:-1,OSN-ART-Aflam-2-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3028.ts
-#EXTINF:-1,OSN-ART-Aflam-1-HD
+EXTINF:-1,OSN-ART-Aflam-1-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3027.ts
-#EXTINF:-1,OSN-Animal-Planet-HD
+EXTINF:-1,OSN-Animal-Planet-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3037.ts
-#EXTINF:-1,OSN-Animal-Planet-AB-HD
+EXTINF:-1,OSN-Animal-Planet-AB-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3136.ts
 
 
@@ -530,6 +551,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/946.ts
 #EXTINF:-1,AR_OTV_LEBANON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1358.t
+
+#EXTINF:-1,Future TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/140.ts
+#EXTINF:-1,LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/139.ts
+#EXTINF:-1,Aljadeed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/141.ts
+#EXTINF:-1,Mtv Leb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/137.ts
+
+
+
+
+
+
+
 
 EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
