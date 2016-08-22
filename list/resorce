@@ -582,3 +582,11 @@ Code:
 <agent>iPad</agent>
 </regex>
 </item>
+
+
+
+
+ <item>
+            <title>facebook.com/groups/iptvfree | USA : NBC SPORT</title>
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/11/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=facebook.com/groups/iptvfree | USA : NBC SPORT</link>
+        </item>
