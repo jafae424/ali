@@ -168,9 +168,84 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.
 EXTINF:-1,(AR) BEIN SPORTS 11 HD IPTVUltra.com [1920x1080]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,(AR) BEIN SPORTS 12 HD IPTVUltra.com [1920x1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/870.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-
+#EXTINF:0,AR_BEIN_SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_11_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_12_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_13_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_14_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_15_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_16_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1230.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_MAX_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4122.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_MAX_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1355.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/961.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_14HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_15HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_16HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1242.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_MAX_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:0,AR_BEIN_SPORTS_MAX_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
@@ -200,58 +275,58 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 
 #EXTINF:-1,AR:opt:BeinSports-5-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/178.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,AR:opt:BeinSports-4-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/177.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,AR:opt:BeinSports-3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/176.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,AR:opt:BeinSports-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/175.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,AR:opt:BeinSports-10-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/183.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,AR:opt:BeinSports-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/174.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/166.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv 
 #EXTINF:-1,AR:beIN SPORT 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/165.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/164.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/163.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/162.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/161.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/160.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/159.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/167.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR:beIN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/158.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,UK | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/6.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,UK | Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/7.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,UK | Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/8.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,UK | Sky Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/9.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,UK | Sky Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/10.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1, Rai Sport 1
