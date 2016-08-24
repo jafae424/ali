@@ -40,6 +40,7 @@ http://38.99.146.37:7777/MBCMaser_HD.m3u8
 EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.37:7777/MBCMasrPlus2_HD.m3u8
 
+
 #EXTINF:-1,MBC_1
 rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,mbc masar 1
