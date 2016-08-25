@@ -27,10 +27,25 @@ EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
 
+#EXTINF:-1,bein 1
+rtmp://149.202.206.50:1935/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 2
+rtmp://149.202.206.50:1935/myapp/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 3
+rtmp://149.202.206.50:1935/myapp/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 4
+rtmp://149.202.206.50:1935/myapp/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 5
+rtmp://149.202.206.50:1935/myapp/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 6
+rtmp://149.202.206.50:1935/myapp/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 7
+rtmp://149.202.206.50:1935/myapp/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
-
-
-
+#EXTINF:-1,beIN_s 8
+rtmp://149.202.206.50:1935/myapp/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,beIN_s9
+rtmp://149.202.206.50:1935/myapp/935?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
 EXTINF:-1,bein sport1 hd
