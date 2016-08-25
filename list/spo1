@@ -30,6 +30,9 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 #EXTINF:-1,bein 1
 rtmp://149.202.206.50:1935/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,bein 2
+rtmp://149.202.206.50:1935/myapp/926?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:-1,bein 2
 rtmp://149.202.206.50:1935/myapp/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,bein 3
 rtmp://149.202.206.50:1935/myapp/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
