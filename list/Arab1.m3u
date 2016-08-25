@@ -133,7 +133,8 @@ http://195.12.170.154:8002/play/armbcmaxhd
 EXTINF:-1,Arabic: MBC MAX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/7.ts
 
-
+#EXTINF:-1,ARt Hakayat 2
+rtmp://149.202.206.50:1935/myapp/973?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 #EXTINF:-1,Arabic:Art Hekayat 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -1091,7 +1092,12 @@ http://jafaer-tv.com
 #EXTINF:-1 tvg-logo="http://theattic.london/wp-content/uploads/2015/07/1426513625569.png", CNN 
 http://149.255.152.110/cnn/index.m3u8
 
-
+#EXTINF:-1,france 24 arabaic
+rtmp://149.202.206.50:1935/myapp/972?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,العربية
+rtmp://149.202.206.50:1935/myapp/971?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,الجزيرة
+rtmp://149.202.206.50:1935/myapp/968?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 EXTINF:-1,Arabic: Al Arabiya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/103.ts
@@ -1385,6 +1391,42 @@ http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1269102975.m3u8
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 
+
+#EXTINF:-1,جزائرية 
+rtmp://149.202.206.50:1935/myapp/960?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,الشروق
+rtmp://149.202.206.50:1935/myapp/963?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,2M
+rtmp://149.202.206.50:1935/myapp/964?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,مغربية 1
+rtmp://149.202.206.50:1935/myapp/965?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1, مغربية3
+rtmp://149.202.206.50:1935/myapp/967?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+
+#EXTINF:-1,جزائرية 2
+rtmp://149.202.206.50:1935/myapp/950?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,جزائرية 3
+rtmp://149.202.206.50:1935/myapp/951?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,النهار
+rtmp://149.202.206.50:1935/myapp/952?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,تونسنا
+rtmp://149.202.206.50:1935/myapp/940?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,التاسعة
+rtmp://149.202.206.50:1935/myapp/944?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1, الحوار التونسي
+rtmp://149.202.206.50:1935/myapp/945?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1, الجنوبية
+rtmp://149.202.206.50:1935/myapp/948?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,الوطنية
+rtmp://149.202.206.50:1935/myapp/937?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:-1,الوطنية 2
+rtmp://149.202.206.50:1935/myapp/938?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:-1,الزيتونة
+rtmp://149.202.206.50:1935/myapp/939?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
 #EXTINF:0,AR_TUNISIA_NATIONAL_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1.ts
 #EXTINF:0,AR_TUNISIA_NATIONAL_2
@@ -1515,13 +1557,26 @@ rtmp://cp135357.live.edgefcs.net/live/
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,49- oman doc
 rtmp://38.96.148.30/live?v=1334683153/omantv4
-
+#EXTINF:-1,الجزيرة الوثائقية
+rtmp://149.202.206.50:1935/myapp/967?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
+
+
+
+
+
+
+
+#EXTINF:-1,طيور الجنة
+rtmp://149.202.206.50:1935/myapp/974?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:-1,Baraaem
+rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,AR_FATAFEAT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/144.ts
 #EXTINF:-1,AR_AJYAL
