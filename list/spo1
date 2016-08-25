@@ -27,6 +27,13 @@ EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
 
+
+
+
+
+
+
+
 #EXTINF:-1,bein 1
 rtmp://149.202.206.50:1935/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,bein 2
@@ -50,6 +57,12 @@ rtmp://149.202.206.50:1935/myapp/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,beIN_s9
 rtmp://149.202.206.50:1935/myapp/935?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
+#EXTINF:-1,bein 1 france
+rtmp://149.202.206.50:1935/myapp/994?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 2 france
+rtmp://149.202.206.50:1935/myapp/995?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 3 france
+rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 EXTINF:-1,bein sport1 hd
 http://iptv33.us.to/ip441555/3136774336/1.ch
