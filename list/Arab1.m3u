@@ -58,7 +58,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 #EXTINF:-1,AR_MBC_MASR_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-
 EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
 EXTINF:-1,AR-MBC1 HD
