@@ -41,11 +41,11 @@ EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.37:7777/MBCMasrPlus2_HD.m3u8
 
 
-EXTINF:-1,MBC_1
+#EXTINF:-1,MBC_1
 rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-EXTINF:-1,mbc masar 1
+#EXTINF:-1,mbc masar 1
 rtmp://149.202.206.50:1935/myapp/988?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-EXTINF:-1,mbc masar 2
+#EXTINF:-1,mbc masar 2
 rtmp://149.202.206.50:1935/myapp/989?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,AR_MBC_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
