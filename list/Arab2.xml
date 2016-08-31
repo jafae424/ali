@@ -3779,6 +3779,97 @@ src=[",'].*([".'])
 
 
 
+<item>
+<title>Cbeebies</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies_hd.m3u8</link>
+<thumbnail>http://a.files.bbci.co.uk/cbeebies/www/assets/287de5f/images/programme-availability/logo.png</thumbnail>
+</item>
+
+<item>
+<title>CBBC</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc_hd.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/CBBCLogo2007.svg/1280px-CBBCLogo2007.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6776.ts</link>
+<thumbnail>https://lh3.googleusercontent.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAcA/XzXWRq3eh0Q/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network HD<title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2832.ts</link>
+<thumbnail>https://lh4.googleusercontent.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAACTs/F4K8pLz8wMU/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Disney XD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34:80/live/joseph/joseph/250.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2000px-Logo_Disney_XD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Disney</title>
+<link>http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/523.ts</link>
+<thumbnail>https://www.expatvision.tv/media/channel_logos//disney_1426076855.jpg</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3440.ts</link>
+<thumbnail></thumbnail>
+<item>
+
+<item>
+<title>Disney Channel 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8295.ts</link>
+<thumbnail></thumbnail>
+<item>
+
+<item>
+<title>Disney Junior<title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5651.ts</link>
+<thumbnail></thumbnail>
+<item>
+
+<item>
+<title>Nickelodeon<title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3866.ts</link>
+<thumbnail></thumbnail>
+<item>
+
+<item>
+<title>Nick JR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7088.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Nick Toons</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6845.ts</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/powerrangers/images/6/6d/Nicktoons2010UK.png/revision/latest?cb=20121231005114</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2787.ts</link>
+<thumbnail></thumbnail>
+<item>
+
+<item>
+<title>Boomerang</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6782.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Toonami Aftermath</title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/toonami/images/9/97/Toonami_Logo_2014.png/revision/latest?cb=20140406035814</thumbnail>
+</item>
+
+
 
 
 
