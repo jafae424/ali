@@ -39,6 +39,38 @@
 </item>
 
 
+<item>
+<title>HBO3</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xurl]'.replace('amp;','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xurl</name>
+<expres><![CDATA[file>(http[^<]*)]]></expres>
+<page>$doregex[link]</page>
+<referer>http://freshvideos.net/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import urllib, re
+ codedpg = re.findall('unescape\(\'(.*?)\'', page_data)[0]
+ decodedpg = urllib.unquote(codedpg).replace(' ','%20')
+ return decodedpg
+]]></expres>
+<page>http://freshvideos.net/geto2.php?my=hbo3</page>
+<referer>http://www.bg-gledai.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
 
 FOX
 <item>
@@ -134,145 +166,7 @@ ODISSEIA
 </item>
 
 
-<
-<item>
-<title>BBC2</title>
-<link>http://uk.stream.yo.tv/livehttporigin/BBCTwo_360p.stream/playlist.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/FREESAT/Glossy/TV/BBC%202%20England.png</thumbnail>
-</item>
-
-<item>
-<title>BBC Entertainment</title>
-<link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8</link>
-<thumbnail>http://image1.hoerzu.de/files/station_logos/662.png</thumbnail>
-</item>
-
-<item>
-<title>BBC ALBA</title>
-<link>http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_alba/bbc_alba.isml/bbc_alba-pa3%3d96000-video%3d1604000.m3u8|x-forwarded-for=88.110.425.44</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/BBC%20ALBA.png</thumbnail>
-</item>
-
-<item>
-<title>ITV 1</title>
-<link>
-sublink:http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/playlist.m3u8#
-sublink:http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8#
-sublink:http://37.187.24.177:80/2001/2001/869.ch#
-</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ITV.png</thumbnail>
-</item>
-
-<item>
-<title>ITVBe</title>
-<link>
-sublink:http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8#
-sublink:http://37.187.24.177:80/2001/2001/872.ch#
-</link>
-<thumbnail>http://www.satandpcguy.com/blog/wp-content/uploads/2014/09/ckfFu0IF-6VAcMoDejSTafBi1-sJgBXyZA1tY4iQmws.bmp</thumbnail>
-</item>
-
-<item>
-<title>ITV2</title>
-<link>
-sublink:http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8#
-sublink:http://37.187.24.177:80/2001/2001/870.ch#
-</link>
-<thumbnail>http://static1.squarespace.com/static/55b3e67ae4b06a14d457be75/t/56c1f90045bf21dc54304967/1455552769395/</thumbnail>
-</item>
-
-<item>
-<title>ITV 3</title>
-<link>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</link>
-<link>http://37.220.108.122:20000/18</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ITV3.png</thumbnail>
-</item>
-
-<item>
-<title>ITV 4</title>
-<link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
-<link>http://37.187.24.177:80/2001/2001/871.ch</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ITV4.png</thumbnail>
-</item>
-
-<item>
-<title>Channel 4</title>
-<link>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Channel%204.png</thumbnail>
-</item>
-
-<item>
-<title>Channel 5 </title>
-<link>http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/playlist.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Channel%205.png</thumbnail>
-</item>
-
-item>
-<title>RTE 1</title>
-<link>http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rte_one.jpg</thumbnail>
-</item>
-
-item>
-<title>RTE 2</title>
-<link>http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/rte_two.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV3</title>
-<link>rtmpe://fml.5011.edgecastcdn.net/205011/live playpath=mp4:tv3.mp4 app=205011/live pageURL=http://www.tv3.ie/3player/live/ swfUrl=http://www.tv3.ie/player/assets/flowplayer/flash/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=10</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/TV3.png</thumbnail>
-</item>
-
-<item>
-<title>TG4</title>
-<link>http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DTT/Glossy/TV/TG4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky 2</title>
-<link>http://37.187.24.177:80/2001/2001/890.ch</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky2.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Europe (English Spoken)</title>
-<link>http://over.ddns.net:65206</link>
-<thumbnail>http://www.beforethetrailer.com/wp-content/uploads/2016/05/Fox-logo.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Life Europe (English Spoken)</title>
-<link>http://over.ddns.net:65207</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg</thumbnail>
-</item>
-
-<item>
-<title>Comedy Central</title>
-<link>http://iliketot.dyndns.tv/tot/web/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/ComedyCentral.png</thumbnail>
-</item>
-
-<item>
-<title>Universal Channel</title>
-<link>http://iliketot.dyndns.tv/tot/web/a7105ed1bb0a44bba1f4f71f2352b892.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Universal.png</thumbnail>
-</item>
-
-<item>
-<title>HBO HD Asia (English Spoken)</title>
-<link>http://bit.do/b29TD</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_asia_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>OSN Action (English Spoken Films)</title>
-<link>http://51.255.81.190:8080/OSN_MOVIES_ACTION/mono.m3u8</link>
-<thumbnail>http://www.sat-address.com/f/pics/logotipi/OSN-Movies-Action_o.jpg</thumbnail>
-</item>
-
+lllllllll
 <item>
 <title>Showtime HD</title>
 <link>http://80.80.160.168/live/7/live.m3u8</link>
@@ -291,49 +185,11 @@ item>
 <thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Movies%20Showcase.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Movies Drama & Romance</title>
-<link>http://37.187.24.177:80/2001/2001/857.ch</link>
-<link>http://centurionlukavac.com:80/live?channelId=178&id=12&deviceUser=Sh4t4&devicePass=sH4t4123</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Movies%20Drama%20&%20Romance.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Action & Adventure</title>
-<link>http://51.255.81.190:8080/UK-Sky-Movies-Action/mono.m3u8</link>
-<link>http://37.187.24.177:80/2001/2001/863.ch</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Action.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Family</title>
-<link>http://centurionlukavac.com:80/live?channelId=174&id=12&deviceUser=Sh4t4&devicePass=sH4t4123</link>
-<link>http://37.187.24.177:80/2001/2001/860.ch</link>
-<thumbnail>http://www.honeylangcaster-james.com/wp-content/uploads/2014/09/Sky-Movies-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Comedy</title>
-<link>http://37.187.24.177:80/2001/2001/862.ch</link>
-<thumbnail>http://www.honeylangcaster-james.com/wp-content/uploads/2014/09/Sky-Movies-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Disney</title>
-<link>http://37.187.24.177:80/2001/2001/854.ch</link>
-<thumbnail>http://www.honeylangcaster-james.com/wp-content/uploads/2014/09/Sky-Movies-Logo.jpg</thumbnail>
-</item>
 
 <item>
 <title>Fox Movies Premium Asia (English Spoken Films)</title>
 <link>http://bit.do/b29VE</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2647451160/e2b9e01f29a64babd2b456b10f7e5b96_400x400.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Family Movies Asia (English Spoken Films)</title>
-<link>http://bit.do/b29Xb</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jmgw84xRkn9Is1TbztWnAOE7oygskupkY25mm1UdWQOdYP9Q</thumbnail>
 </item>
 
 <item>
