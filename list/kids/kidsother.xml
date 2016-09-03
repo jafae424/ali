@@ -3,6 +3,8 @@
 <streaminginfos>
 
 <layouttype>thumbnail</layouttype>
+<items>
+	
 
 <channels>
 
@@ -612,5 +614,5 @@ Contact GitHub API Training Shop Blog About
 
 
 </channels>
-
+</items>
 </streaminginfos>
