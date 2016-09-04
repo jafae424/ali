@@ -1194,6 +1194,11 @@ item>
 </item>
 </streaminginfo>
 
+
+<item>
+<title>hadi tv قناة الدعاء</title>
+<link>rtmp://38.96.175.40/liveTrans/ playpath=channel5_110k  swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.ar.haditv.com/Live/11/  </link>			
+</item>
 	
 <streaminginfo>
 	<cname>Al Anwar 2</cname>	
