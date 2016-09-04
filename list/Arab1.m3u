@@ -370,7 +370,7 @@ rtmp://38.96.175.40/liveTrans/ playpath=channel5_110k swfUrl=http://www.primcast
 
 
 EXTINF:-1, قناة الدعاء
-rtmp://38.96.175.40/liveTrans/&stretching=uniform&skin=http://www.primcast.com/jwplayer5/beelden.zip&file=channel5_110k
+rtmp://38.96.175.40/liveTrans/channel5_110k
 #EXTINF:-1, العقيلة
 http://144.76.218.235/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,العتبة الكربلائية
