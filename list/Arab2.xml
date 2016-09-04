@@ -1326,32 +1326,7 @@ item>
 
 
 <item>
-<title> almanar المنار</title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-initsesion</name>
-<expres></expres>
-<page>$doregex[get-page]</page>
-<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>$doregex[iframe]</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>iframe</name>
-<expres>iframe src=[",']([^"]+)[",']</expres>
-<page>http://www.elahmad.com/tv/almanartv.php</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 
 
 
@@ -1486,19 +1461,7 @@ item>
 </streaminginfo>
 
 
-<item>
-<title>Abu_dhabi_drama</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=abu_dhabi_drama swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=abu_dhabi_drama</link>
-<regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=abu_dhabi_drama</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=abu_dhabi_drama</referer>
-<x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
-</regex>
-</item>
+
 
 
    
@@ -1508,11 +1471,6 @@ item>
 
 
 <streaminginfo><cname>Medi 1 Sat</cname><item><title>Medi 1</title><link>http://medi1stream.genious.net/live/myStream/playlist.m3u8</link></item></streaminginfo>
-
-
-
-
-
 
 
 
@@ -1530,39 +1488,14 @@ item>
 	<link>http://streaming.i-sat.tv:1935/live/rushd/playlist.m3u8</link>
 	</item>
 </streaminginfo> 
-<streaminginfo>
-	<cname>Sanaa</cname>
-	<item>
-	<title>Sanaa</title>
-	<link>http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8</link>
-	</item>
-</streaminginfo> 
 
 <streaminginfo>
 	<cname>Elmourabiton</cname>	<item>	<title>Elmourabiton</title>	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link></item>
 </streaminginfo> 
 
-
-
-
-
 <streaminginfo>
 <cname>DMM</cname>	<item>	<title>DMM</title>	<link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link></item>
 </streaminginfo> 
-
-
-
-
-
-   
-    
-   
-
-
-<streaminginfo>
-<item><title>Al Sharqiya News</title><link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link></item>
-</streaminginfo>
-
 
 <streaminginfo>
 <item><title>Libya 2</title><link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link></item>
@@ -1572,7 +1505,9 @@ item>
 <item><title>SkyNewsArabia</title><link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8</link></item>
 </streaminginfo>
 
-
+<streaminginfo>
+<item><title>Al Sharqiya News</title><link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link></item>
+</streaminginfo>
 
 
 <streaminginfo>
