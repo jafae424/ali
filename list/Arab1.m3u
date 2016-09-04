@@ -59,25 +59,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-#EXTINF:-1,MBC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,MBC-MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,MBC-ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/241.ts
 
 
 
@@ -123,7 +104,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,AR-Mbc2HD
+EXTINF:-1,AR-Mbc2HD
 http://195.12.170.154:8002/play/armbc2hd
 EXTINF:-1,Arabic: MBC 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/13.ts
@@ -257,79 +238,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 
 
 
-EXTINF:-1,OSN-ALYoum-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3038.ts
-EXTINF:-1,OSN_BOX-OFFICE-3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3058.ts
-EXTINF:-1,OSN_BOX-OFFICE-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3057.ts
-EXTINF:-1,OSN_BOX-OFFICE-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3208.ts
-EXTINF:-1,OSN-Discovery-Science-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3138.ts
-EXTINF:-1,OSN-YaHala-Shabab-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3042.ts
-EXTINF:-1,OSN-YaHala-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3041.ts
-EXTINF:-1,OSN-YaHala-Drama-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3043.ts
-EXTINF:-1,OSN-Star-World-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3044.ts
-EXTINF:-1,OSN-Star-Movies-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3045.ts
-EXTINF:-1,OSN-ON-Drama-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3050.ts
-EXTINF:-1,OSN-Nat-Geo-Wild-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3032.ts
-EXTINF:-1,OSN-Movies-Premiere_2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3137.ts
-EXTINF:-1,OSN-Movies-Premiere-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3049.ts
-EXTINF:-1,OSN-Movies-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3046.ts
-EXTINF:-1,OSN-Movies-Festlval-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3035.ts
-EXTINF:-1,OSN-Movies-Drama-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3036.ts
-EXTINF:-1,OSN-Movies-Comedy-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3052.ts
-EXTINF:-1,OSN-Movies-Action-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3047.ts
-EXTINF:-1,OSN-Movies-Action-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3048.ts
-EXTINF:-1,OSN-Movie-Kids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3055.ts
-EXTINF:-1,OSN-MBC+Drama-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3033.ts
-EXTINF:-1,OSN-First-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3054.ts
-EXTINF:-1,OSN-First-Comedy-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3051.ts
-EXTINF:-1,OSN-Fann-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3053.ts
-EXTINF:-1,OSN-Discovery-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3034.ts
-EXTINF:-1,OSN-Cinema-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3040.ts
-EXTINF:-1,OSN-Cinema-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3039.ts
-EXTINF:-1,OSN-ART-Hekayat-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3029.ts
-EXTINF:-1,OSN-ART-Hekayat-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3030.ts
-EXTINF:-1,OSN-ART-Cinema-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3031.ts
-EXTINF:-1,OSN-ART-Aflam-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3028.ts
-EXTINF:-1,OSN-ART-Aflam-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3027.ts
-EXTINF:-1,OSN-Animal-Planet-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3037.ts
-EXTINF:-1,OSN-Animal-Planet-AB-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xiptv.xcamhd.me:2112/live/1/1/3136.ts
-
-
-
 
 
 
@@ -417,7 +325,7 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/151.t
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 http:jafaertv.com
 #EXTINF:0,الايمان
-https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktaendtime=1468626456&poqw9waktawowzastarttime=0&poqw9waktawowzastcustom=1468619414&poqw9waktahash=n26oRpmQGI7Uv1JflpI89K0og8MzH97a9Bgbo0sgjvQ=
+https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktaendtime=1473002726&poqw9waktawowzastarttime=0&poqw9waktawowzastcustom=1472995684&poqw9waktahash=rXTjKTJdZxlO7NOvXwJoCGWfXVP7SIUOEVxlkcWJQ2I=
 
 
 
@@ -430,12 +338,12 @@ http://38.99.146.37:7777/AlManar_HD.m3u8
 EXTINF:-1,Al Masar
 http://38.99.146.37:7777/AlMasar_HD.m3u8
 
-
+https://livestream.com/accounts/11436227/events/3998452/player?width=560&height=315&autoPlay=true&mute=false
 
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
-#EXTINF:-1,الفرقدين
+EXTINF:-1,الفرقدين
 plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
@@ -461,7 +369,7 @@ EXTINF:-1, Alhadi
 rtmp://38.96.175.40/liveTrans/ playpath=channel5_110k swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.ar.haditv.com/Live/11/ <objectEncoding>
 
 
-#EXTINF:-1, قناة الدعاء
+EXTINF:-1, قناة الدعاء
 rtmp://38.96.175.40/liveTrans/&stretching=uniform&skin=http://www.primcast.com/jwplayer5/beelden.zip&file=channel5_110k
 #EXTINF:-1, العقيلة
 http://144.76.218.235/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
