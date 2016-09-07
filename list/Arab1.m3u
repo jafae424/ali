@@ -54,13 +54,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 #EXTINF:-1,AR_MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-
+#EXTINF:-1,AR: MBC 1 jafaer-tv [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,AR_MBC_MASR_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
+#EXTINF:-1,AR: MBC MASR 2 jafaer-tv [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,AR: MBC DRAMA jafaer-tv [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 
-
-
+#EXTINF:-1,AR: MBC DRAMA USA jafaer-tv [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 
 
 
@@ -535,8 +540,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_OTV_LEBANON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1358.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-
+#EXTINF:-1,AR: LBC jafaer-tv [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,AR: OTV LIBANON jafaer-tv [608x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,Orient
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.101.14:8000/live/ahmad5/ahmad5/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,Future
@@ -1555,7 +1562,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4109.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-
+#EXTINF:-1,AR: SPACETOON jafaer-tv [512x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 
 
 #EXTINF:-1, Taha tv
