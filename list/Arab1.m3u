@@ -338,11 +338,23 @@ http://38.99.146.37:7777/AlManar_HD.m3u8
 EXTINF:-1,Al Masar
 http://38.99.146.37:7777/AlMasar_HD.m3u8
 
-https://livestream.com/accounts/11436227/events/3998452/player?width=560&height=315&autoPlay=true&mute=false
+#EXTINF:-1,AL-SIRAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/968.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AL-IMAN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AL-Anwar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/963.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
+
+
+#EXTINF:-1,AL-KAWTHAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/979.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
+
+
+
 EXTINF:-1,الفرقدين
 plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
 
