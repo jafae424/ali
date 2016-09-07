@@ -1670,3 +1670,11 @@ http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamai
 #EXTINF:-1,Moga Comedy test
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=moga_comedy|User-Agent=VLC
 
+#EXTINF:-1,Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione|User-Agent=VLC
+ 
+#EXTINF:-1,Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman|User-Agent=VLC
+ 
+#EXTINF:-1,Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai|User-Agent=VLC
