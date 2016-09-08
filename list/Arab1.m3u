@@ -31,14 +31,14 @@ EXTINF:0,MBC Masar 2
 http://178.18.29.201:9001/1053/slot_6053.m3u8
 
 
-EXTINF:-1,[COLOR red]MBC1 [/COLOR]
-http://38.99.146.37:7777/MBC1_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
-http://38.99.146.37:7777/MBCDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
-http://38.99.146.37:7777/MBCMaser_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
-http://38.99.146.37:7777/MBCMasrPlus2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,[COLOR red]MBC1 [/COLOR]
+http://38.99.146.70:7777/MBC1_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
+http://38.99.146.70:7777/MBCDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
+http://38.99.146.70:7777/MBCMaser_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
+http://38.99.146.70:7777/MBCMasrPlus2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
 
 
@@ -569,8 +569,7 @@ http://38.99.146.70:7777/AlAan_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee329
 http://38.99.146.70:7777/ANB_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 #EXTINF:-1,ANN
 http://38.99.146.70:7777/ANN_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-#EXTINF:-1,Arabic Tv:Funoon
-http://android.bonradio.com:7777/Funoon_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
 #EXTINF:-1,Funoon
 http://38.99.146.70:7777/Funoon_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 #EXTINF:-1,Future News
