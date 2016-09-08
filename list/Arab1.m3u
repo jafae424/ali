@@ -31,13 +31,13 @@ EXTINF:0,MBC Masar 2
 http://178.18.29.201:9001/1053/slot_6053.m3u8
 
 
-#EXTINF:-1,[COLOR red]MBC1 [/COLOR]
+EXTINF:-1,[COLOR red]MBC1 [/COLOR]
 http://38.99.146.37:7777/MBC1_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-#EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
+EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
 http://38.99.146.37:7777/MBCDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-#EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
+EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
 http://38.99.146.37:7777/MBCMaser_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
-#EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
+EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.37:7777/MBCMasrPlus2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
 
@@ -56,11 +56,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_MBC_MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_MBC_MASR_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,AR: MBC 1 jafaer-tv [720x576]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
-#EXTINF:-1,AR_MBC_MASR_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,AR: MBC MASR 2 jafaer-tv [720x576]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
