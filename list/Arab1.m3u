@@ -43,25 +43,26 @@ http://38.99.146.37:7777/MBCMasrPlus2_HD.m3u8
 
 
 #EXTINF:-1,MBC 1
-http://teledunet.tv:8888/mbc_1.m3u8?idu=yfliss800_79296362640
-#EXTINF:-1,MBC 2
-http://teledunet.tv:8888/mbc_2.m3u8?idu=yfliss800_79296362640
-#EXTINF:-1,MBC 3
-http://teledunet.tv:8888/mbc_3.m3u8?idu=yfliss800_79296362640
-#EXTINF:-1,MBC 4
-http://teledunet.tv:8888/mbc_4.m3u8?idu=yfliss800_79296362640
-#EXTINF:-1,MBC Action
-http://teledunet.tv:8888/mbc_action.m3u8?idu=yfliss800_79296362640
-#EXTINF:-1,MBC Bollywood
-http://teledunet.tv:8888/mbc_bollywood.m3u8?idu=yfliss800_79296362640
+http://teledunet.tv:8888/mbc_1.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
 #EXTINF:-1,MBC Drama
-http://teledunet.tv:8888/mbc_drama.m3u8?idu=yfliss800_79296362640
+http://teledunet.tv:8888/mbc_drama.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
 #EXTINF:-1,MBC Masr
-http://teledunet.tv:8888/mbc_masr.m3u8?idu=yfliss800_79296362640
+http://teledunet.tv:8888/mbc_masr.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
 #EXTINF:-1,MBC Masr 2
-http://teledunet.tv:8888/mbc_masr_2.m3u8?idu=yfliss800_79296362640
+http://teledunet.tv:8888/mbc_masr_2.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
+#EXTINF:-1,MBC 2
+http://teledunet.tv:8888/mbc_2.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
+#EXTINF:-1,MBC 3
+http://teledunet.tv:8888/mbc_3.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
+#EXTINF:-1,MBC 4
+http://teledunet.tv:8888/mbc_4.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
+#EXTINF:-1,MBC Action
+http://teledunet.tv:8888/mbc_action.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
+#EXTINF:-1,MBC Bollywood
+http://teledunet.tv:8888/mbc_bollywood.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
+
 #EXTINF:-1,MBC Max
-http://teledunet.tv:8888/mbc_max.m3u8?idu=yfliss800_79296362640
+http://teledunet.tv:8888/mbc_max.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
 
 #EXTINF:-1,MBC_1
 rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
