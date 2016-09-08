@@ -31,38 +31,18 @@ EXTINF:0,MBC Masar 2
 http://178.18.29.201:9001/1053/slot_6053.m3u8
 
 
-EXTINF:-1,[COLOR red]MBC1 [/COLOR]
-http://38.99.146.37:7777/MBC1_HD.m3u8
-EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
-http://38.99.146.37:7777/MBCDrama_HD.m3u8
-EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
-http://38.99.146.37:7777/MBCMaser_HD.m3u8
-EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
-http://38.99.146.37:7777/MBCMasrPlus2_HD.m3u8
+#EXTINF:-1,[COLOR red]MBC1 [/COLOR]
+http://38.99.146.37:7777/MBC1_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,[COLOR red]MBC Drama[/COLOR]
+http://38.99.146.37:7777/MBCDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1 tvg-logo="",[COLOR red]MBCMasrPlus1[/COLOR]
+http://38.99.146.37:7777/MBCMaser_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
+http://38.99.146.37:7777/MBCMasrPlus2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
 
 
-#EXTINF:-1,MBC 1
-http://teledunet.tv:8888/mbc_1.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC Drama
-http://teledunet.tv:8888/mbc_drama.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC Masr
-http://teledunet.tv:8888/mbc_masr.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC Masr 2
-http://teledunet.tv:8888/mbc_masr_2.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC 2
-http://teledunet.tv:8888/mbc_2.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC 3
-http://teledunet.tv:8888/mbc_3.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC 4
-http://teledunet.tv:8888/mbc_4.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC Action
-http://teledunet.tv:8888/mbc_action.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
-#EXTINF:-1,MBC Bollywood
-http://teledunet.tv:8888/mbc_bollywood.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
 
-#EXTINF:-1,MBC Max
-http://teledunet.tv:8888/mbc_max.m3u8?idu=yfliss800_79296362640|User-Agent=VLC
 
 #EXTINF:-1,MBC_1
 rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
@@ -357,14 +337,7 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 
 
-EXTINF:-1,Al Forat
-http://38.99.146.37:7777/AlForat_HD.m3u8
-EXTINF:-1,Al Anwar
-http://38.99.146.37:7777/AlAnwar_HD.m3u8
-EXTINF:-1,Al Manar
-http://38.99.146.37:7777/AlManar_HD.m3u8
-EXTINF:-1,Al Masar
-http://38.99.146.37:7777/AlMasar_HD.m3u8
+
 
 #EXTINF:-1,AL-SIRAT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/968.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -432,6 +405,46 @@ rtmp://176.241.91.122:1935/live/ playpath=alahad swfUrl=http://ssl.p.jwpcdn.com/
 #EXTINF:-1 tvg-logo="https://goo.gl/Y9g6gK",الفرات
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
 
+
+#EXTINF:-1,Al Forat
+http://38.99.146.70:7777/AlForat_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Anwar
+http://38.99.146.70:7777/AlAnwar_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Manar
+http://38.99.146.70:7777/AlManar_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Masar
+http://38.99.146.70:7777/AlMasar_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
+
+#EXTINF:-1,Aliraqia 2
+http://38.99.146.70:7777/AlIraqia2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aliraqiya
+http://38.99.146.70:7777/AlIraqiya_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
+
+
+#EXTINF:-1,Al Sumaria
+http://38.99.146.70:7777/Alsumaria_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Iraqiya Documentary
+http://38.99.146.70:7777/AlIraqAlTarbawiyah_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Sharqiya
+http://38.99.146.70:7777/AlSharqiya_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Sharqiya News
+http://38.99.146.70:7777/AlsharqiyaNews_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,AlBabeleyia
+http://38.99.146.70:7777/AlBabeleyia_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Beladi
+http://38.99.146.70:7777/Beladi_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aldiyar
+http://38.99.146.70:7777/AldiyarSat_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Dejlah
+http://38.99.146.70:7777/Dejlah_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al-hurra Iraq
+http://38.99.146.70:7777/AlhurraIraq_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Al Fayhaa
+http://38.99.146.70:7777/AlFayhaa_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Ishtar
+http://38.99.146.70:7777/Ishtar_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
 
 EXTINF:-1,Aliraqia 2
@@ -544,6 +557,36 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.1
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
 rtmp://118.139.182.134:1935/livepkgr/livestream
+
+
+#EXTINF:-1,Al Lubnania
+http://38.99.146.70:7777/AlLubnania_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aljadeed
+http://38.99.146.70:7777/AlJadeed_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Alan
+http://38.99.146.70:7777/AlAan_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,ANB
+http://38.99.146.70:7777/ANB_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,ANN
+http://38.99.146.70:7777/ANN_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Arabic Tv:Funoon
+http://android.bonradio.com:7777/Funoon_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Funoon
+http://38.99.146.70:7777/Funoon_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Future News
+http://38.99.146.70:7777/FutureNews_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Future TV
+http://38.99.146.70:7777/Future_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,FutureUSA
+http://38.99.146.70:7777/FutureUSA_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Lbc Europe
+http://38.99.146.70:7777/LBC_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,MTV
+http://38.99.146.70:7777/MTVLebanon_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,OTV Lebanon
+http://38.99.146.70:7777/OTV_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Tele Liban
+http://38.99.146.70:7777/TeleLiban_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
 
 
@@ -848,6 +891,95 @@ http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m
 http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8
 
 
+#EXTINF:-1,Panorama Drama
+http://38.99.146.70:7777/PanoramaDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Panorama Drama 2
+http://38.99.146.70:7777/PanoramaDrama2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Panorama film
+http://38.99.146.70:7777/PanoramaFilm_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Aflam
+http://38.99.146.70:7777/RotanaAflam_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Cinema
+http://38.99.146.70:7777/RotanaCinema_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Classic
+http://38.99.146.70:7777/RotanaZaman_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Clip
+http://38.99.146.70:7777/RotanaClip_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Khaligi
+http://38.99.146.70:7777/RotanaKhalijiah_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Masriya
+http://38.99.146.70:7777/RotanaMasriya_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Music
+http://38.99.146.70:7777/RotanaMusic_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Oscar Drama
+http://38.99.146.70:7777/OscarDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Oscar Drama 2
+http://38.99.146.70:7777/OscarDrama2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Neelain Sport
+http://38.99.146.70:7777/NeelainSport_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nessma
+http://38.99.146.70:7777/NessmaAlKhadra_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nessma
+http://8.21.48.19:7777/NessmaAlKhadra_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Cinema
+http://38.99.146.70:7777/NileCinema_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Comedy
+http://38.99.146.70:7777/NileComedy_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Culture
+http://38.99.146.70:7777/NileCulture_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Drama
+http://38.99.146.70:7777/NileDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Drama 2
+http://38.99.146.70:7777/NileDrama2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Family
+http://38.99.146.70:7777/NileFamily_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Life
+http://38.99.146.70:7777/NileLife_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile News
+http://38.99.146.70:7777/NileNews_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Sport
+http://38.99.146.70:7777/NileSport_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Nile Tv
+http://38.99.146.70:7777/NileInt_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Aflam
+http://38.99.146.70:7777/RotanaAflam_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Cinema
+http://38.99.146.70:7777/RotanaCinema_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Classic
+http://38.99.146.70:7777/RotanaZaman_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Clip
+http://38.99.146.70:7777/RotanaClip_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Khaligi
+http://38.99.146.70:7777/RotanaKhalijiah_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Masriya
+http://38.99.146.70:7777/RotanaMasriya_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Rotana Music
+http://38.99.146.70:7777/RotanaMusic_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Panorama Drama
+http://38.99.146.70:7777/PanoramaDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Panorama Drama 2
+http://38.99.146.70:7777/PanoramaDrama2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Panorama film
+http://38.99.146.70:7777/PanoramaFilm_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Star 1 Cinema
+http://38.99.146.70:7777/StarCinema1_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Star 2 Cinema
+http://38.99.146.70:7777/StarCinema2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Time Cinema
+http://38.99.146.70:7777/TimeCinema_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Time Drama
+http://38.99.146.70:7777/TimeDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Top Movies
+http://38.99.146.70:7777/TopMovies_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Masrawi Aflam
+http://38.99.146.70:7777/MasrawiAflam_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Imagines Movies
+http://38.99.146.70:7777/ImagineMovies_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Oscar Drama
+http://38.99.146.70:7777/OscarDrama_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Oscar Drama 2
+http://38.99.146.70:7777/OscarDrama2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
 
 11111111111111111111111111111111111
 EXTINF:-1,AR-Nile-Comedy
@@ -1073,6 +1205,32 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
+
+
+
+
+
+#EXTINF:-1,Al mayaden
+http://38.99.146.70:7777/AlMayadeen_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
+#EXTINF:-1,SkyNewsArabia
+http://38.99.146.70:7777/SkyNews_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Alarabiya
+http://38.99.146.70:7777/AlArabiya_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Alarabiya AMedas
+http://38.99.146.70:7777/AlArabiyaHadath_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,AlJazeera
+http://38.99.146.70:7777/AlJazeera_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
+#EXTINF:-1,Aljazeera Doc
+http://38.99.146.70:7777/AlJazeeraDocument_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aljazeera En
+http://38.99.146.70:7777/AlJazeeraEnglish_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aljazeera Mubasher
+http://38.99.146.70:7777/AlJazeeraLive_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aljazeera Mubasher Masr
+http://38.99.146.70:7777/JSCLiveMisr_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+
 
 #EXTINF:-1 tvg-logo="http://theattic.london/wp-content/uploads/2015/07/1426513625569.png", CNN 
 http://149.255.152.110/cnn/index.m3u8
@@ -1554,6 +1712,35 @@ http://jafaer-tv.com
 
 
 
+
+#EXTINF:-1,Ajyal
+http://38.99.146.70:7777/AjyalTV_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Aljazeera Children
+http://38.99.146.37:7777/AlJazeeraKid_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Cartoon Network
+http://38.99.146.37:7777/CNArabia_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Atfal wa Mawaheb
+http://38.99.146.37:7777/AtfalwaMawaheb_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Baraem
+http://38.99.146.37:7777/Baraem_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,HodHod
+http://38.99.146.37:7777/HodHod_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Sat7 Kid
+http://38.99.146.37:7777/Sat7Kid_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,SM SM KIDS
+http://38.99.146.37:7777/Semsem_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Space Power
+http://38.99.146.37:7777/SpacePower_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+3EXTINF:-1,Spacetoon
+http://38.99.146.37:7777/SpaceToonArabic_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Taha
+http://38.99.146.37:7777/Taha_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Toyor Al Janah
+http://38.99.146.37:7777/ToyorAlJanah_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Karameesh
+http://38.99.146.37:7777/Karameesh_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
+#EXTINF:-1,Koky Kids
+http://38.99.146.37:7777/Koky_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
 
 
