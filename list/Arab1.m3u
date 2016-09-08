@@ -40,8 +40,8 @@ http://38.99.146.70:7777/MBCMaser_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee
 EXTINF:-1,[COLOR red]MBCMasrPlus2[/COLOR]
 http://38.99.146.70:7777/MBCMasrPlus2_Med.m3u8?session=e9d8fe850017aabffc5f8a096bbee32914603b76d3e2ca2c3ff5769e81ad4eeb
 
-
-
+#EXTINF:-1,test
+http://android.bonradio.com:7777/
 
 
 #EXTINF:-1,MBC_1
