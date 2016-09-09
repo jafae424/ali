@@ -30,60 +30,7 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 
 
-#EXTINF:-1 ,SPORT-701 BEIN 1
-rtp://@239.1.1.217:9204
-#EXTINF:-1 ,SPORT-702 BEIN 2
-rtp://@239.1.1.221:9300
-#EXTINF:-1 ,SPORT-703 BEIN 3
-rtp://@239.1.1.223:9312
-#EXTINF:-1 ,SPORT-704 Fight Sport
-rtp://@239.1.1.177:9036
-#EXTINF:-1 ,SPORT-705 FOX Sport 1
-rtp://@239.1.1.103:8592
-#EXTINF:-1 ,SPORT-706 FOX Sport 2
-rtp://@239.1.1.101:8580
-#EXTINF:-1 ,SPORT-707 FOX Sport 3
-rtp://@239.1.1.53:8292
-#EXTINF:-1 group-title="SPORTS",TRUE SPORT3 HD
-rtmp://216.185.103.158/live2//chthaipremier31
-#EXTINF:-1 group-title="SPORTS", Red Bull TV HD
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="UFC china.png" group-title="SPORTS", UFC (CHI)
-rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
-#EXTINF:-1 group-title="SPORTS", FIGHT Sport
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS", Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS", Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1 group-title="SPORTS", Rete Sport 8 IT (Low)
-http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-#EXTINF:-1 group-title="SPORTS", NBC Sports Golf 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 group-title="SPORTS", Sharjah Sport
-rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
-#EXTINF:-1 group-title="SPORTS", TRT 1 HD Turkey
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#?EXTINF?:-1 group-title="SPORTS", DXTV
-http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", koweit_sport HD
-http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
-#EXTINF:-1, koweit_sport plus
-http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", KUWAIT 3 SPORT
-http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
-#EXTINF:-1 group-title="SPORTS", FANATIK TV TK
-rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-#EXTINF:-1 group-title="SPORTS", BS TV TK
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", Fox Sports 506 HD
-http://motorsport.hopto.org:8080/
-#EXTINF:-1 group-title="SPORTS", Auto Moto TV Gaz (RU)
-mms://100automoto.tv/100gaz
-#EXTINF:-1 group-title="SPORTS", PORSCHE CHANNEL
-mms://100automoto.tv/channel_porsche
-#EXTINF:-1 group-title="SPORTS", Electric
-mms://100automoto.tv/channel_electric
+
 
 
 
@@ -397,14 +344,49 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,UK | Sky Sport 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1, Rai Sport 1
-mmsh://212.162.68.163:80/raisport+
-#EXTINF:-1, Rai Sport 2
-mmsh://212.162.68.163:80/raisport2
-#EXTINF:-1, Rai Premium
-mmsh://212.162.68.162/rai_premium
 
 
+
+
+
+#EXTINF:-1 group-title="SPORTS",TRUE SPORT3 HD
+rtmp://216.185.103.158/live2//chthaipremier31
+
+#EXTINF:-1 tvg-logo="UFC china.png" group-title="SPORTS", UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+#EXTINF:-1 group-title="SPORTS", FIGHT Sport
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS", Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS", Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 group-title="SPORTS", Rete Sport 8 IT (Low)
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+
+#EXTINF:-1 group-title="SPORTS", Sharjah Sport
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
+#EXTINF:-1 group-title="SPORTS", TRT 1 HD Turkey
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#?EXTINF?:-1 group-title="SPORTS", DXTV
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", koweit_sport HD
+http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
+#EXTINF:-1, koweit_sport plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", KUWAIT 3 SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+#EXTINF:-1 group-title="SPORTS", FANATIK TV TK
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:-1 group-title="SPORTS", BS TV TK
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Fox Sports 506 HD
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 group-title="SPORTS", Auto Moto TV Gaz (RU)
+mms://100automoto.tv/100gaz
+#EXTINF:-1 group-title="SPORTS", PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1 group-title="SPORTS", Electric
+mms://100automoto.tv/channel_electric
 #EXTINF:-1,Al Kass 1 HD (Qatar)
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_23s20.m3u8
 #EXTINF:-1,Al Kass 2 HD (Qatar)
@@ -447,11 +429,7 @@ http://yayin7.canlitvlive.tv/ntvspor/live.m3u8?tkn=DjPHb3VuxRUh974CEvgKjA&tms=14
 http://yayin7.canlitvlive.tv/sportstv/live.m3u8?tkn=a6ylnZnUVs00ymOrDHtDVA&tms=1468213792
 
 
-#EXTINF:-1,FOX SPORTS LIVE TV 1 HD
-http://bit.ly/1QlNuGy
 
-#EXTINF:-1,FOX SPORTS LIVE TV 4 HD
-http://bit.ly/1NiOuVs
 
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
@@ -486,27 +464,8 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,Eurosport FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-EXTINF:-1,Eurosport 1
-http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-EXTINF:-1,Eurosport 2
-http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-EXTINF:-1,Euro Sport 2
-http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
-#EXTINF:-1,TRT SPORT
-http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 
-
-#EXTINF:-1,RUS eurosport
-http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
  
-#EXTINF:-1,RUS eurosport2
-http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
- 
-#EXTINF:-1,RUS futbol
-http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
- 
-#EXTINF:-1,RUS ntvsport
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:-1, FSC
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1, Sportal TV HD
@@ -592,17 +551,10 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 
-#EXTINF:-1,  Russia Sport
-http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
 #EXTINF:-1, Nova Sport 1
 http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
 #EXTINF:-1, Red Bull TV HD
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1, Tenis tyC Sports HD
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
-#EXTINF:-1, CDN Sports Max (DO)
-http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
-
 
 
 
