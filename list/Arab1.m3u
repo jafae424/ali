@@ -592,6 +592,8 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1,ALTAGHER TV
+http://stream.joinvisions.net:1935/taglive/taghier/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
@@ -1219,7 +1221,16 @@ http://rt-a.akamaihd.net/ch_03@325607/master.m3u8
 #EXTINF:-1,BBC Arabic (Qatar)
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-
+#EXTINF:-1,ALJAZEERA-Documentary  (QAT)    
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,ALJAZEERA-(Arabia)  (QAT)  
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
+#EXTINF:-1,ALJAZEERA-(Arabia)  (QAT)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
+#EXTINF:-1,BBC ARABIA  (UK-)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,AL-NABAA  (LIB)    
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1,DW Arabic 
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
