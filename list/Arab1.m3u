@@ -242,19 +242,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kme
 #EXTINF:-1, fatafeat
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2339.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, beIN MOVIES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, beIN MOVIES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2240.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, beIN MOVIES 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, beIN MOVIES 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, OSN_MOVIES_FAMILY_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, MY-HD-Fox-Family-Movies-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2878.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,MY-HD-Fox-Action-Movies-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2879.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, MY-HD-Cinmea-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2872.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, OSN: Cinema1-leb
@@ -276,11 +276,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kme
 #EXTINF:-1, OSN_MOVIES_ACTION_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, OSN_MOVIES PREMIERE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, OSN_MOVIE DRAMA_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, OSN_MOVIE COMDEY_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, OSN_HISTORY_2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,OSN_FIRST_HBO
@@ -314,11 +314,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kme
 #EXTINF:-1,OSN_CINEMA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2236.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,OSN_BoxOffice_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2350.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1724.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,OSN_BoxOffice_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,OSN_BoxOffice_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,OSN_ANIMAL_PLANET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2362.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1,OSN-starz family
