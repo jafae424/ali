@@ -223,6 +223,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 
 
 
+#EXTINF:-1,OSN_Movie_HD_Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN_Movie_Fastival
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN_Movies_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1731.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN_Movies_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN_Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN_CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1726.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN-YAHALA-SHABAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN-Premier2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN-NATIONAL-GEO-PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+#EXTINF:-1,OSN-Movieskids-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
+
 #EXTINF:-1, Baraem HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/2876.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv.com
 #EXTINF:-1, BeIN Baraem
