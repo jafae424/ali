@@ -575,7 +575,6 @@ rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alfor
 &amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-
 #EXTINF:-1,anb العراقية
 http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8
 
@@ -1651,7 +1650,8 @@ rtmp://38.96.148.30/live?v=1334683153/omantv4
 #EXTINF:-1,الجزيرة الوثائقية
 rtmp://149.202.206.50:1935/myapp/967?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
-
+#EXTINF:0 tvg-name="MTA 3 Arabic" tvg-language="Arabic" tvg-country="SA" tvg-id="MTA 3 Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvmak9Kv-uga14Nz52CckcdqTOWm0gyiOgkaOPs4kxeIW9YaR_XrSkVs" group-title="Documentary",MTA 3 Arabic (Documentary) (SA) (Arabic)
+http://mta1-lh.akamaihd.net/i/Arabic_1@123036/master.m3u8
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
