@@ -95,7 +95,6 @@ EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 EXTINF:-1,AR-Mbc2HD
