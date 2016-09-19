@@ -574,7 +574,8 @@ rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alfor
 
 #EXTINF:-1,anb العراقية
 http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8
-
+#EXTINF:-1,anb العراقية
+http://185.27.116.54:1935/live/anb.stream_360p/chunklist_w163760174.m3u8
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 
@@ -582,7 +583,9 @@ http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
 
+http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
 
+#EXTINF:-1,Hadath Iraq TV
 #EXTINF:-1,قناة اسيا
 rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.asiasat.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1 <objectEncoding>
 EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
@@ -594,8 +597,10 @@ rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream
 EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
 rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
 EXTINF:0,Hona Baghdad
-rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad
 
+#EXTINF:-1,Hona Baghdad TV
+http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 #EXTINF:-1,Iraqia Amma (Iraq)
 http://iphone-streaming.ustream.tv/ustreamVideo/22169553/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://channelsfrequencies.com/files/images/14931.jpg",الشرقية 
@@ -617,7 +622,7 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:0,الموصلية
-http://iphone-streaming.ustream.tv/ustreamVideo/22155869/streams/live/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/22155869/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -887,6 +892,18 @@ http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
 http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8
 #EXTINF:-1,Time Film
 http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
+#EXTINF:-1,Melody Aflam
+http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
+#EXTINF:-1,Melody Classic
+http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8
+#EXTINF:-1,Musalsalat HD
+http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8 
+#EXTINF:-1,CBC Sofra
+http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8 
+#EXTINF:-1,AlKahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1,Sada AL Balad Drama
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
 
 #EXTINF:-1,Al Hayat (Egypt)
