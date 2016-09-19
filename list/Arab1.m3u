@@ -654,8 +654,12 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,Al Thabat TV
 rtmp://118.139.182.134:1935/livepkgr/livestream
 
-
-
+#EXTINF:-1,LDC TV
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:-1,MTV Lebanon
+http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+#EXTINF:-1,Alaan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1,AR_LBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_LBC_SAT
@@ -740,6 +744,14 @@ rtmp://193.227.191.114/live//myStream
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
 
+
+
+#EXTINF:-1,Abu Dhabi
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+#EXTINF:-1,Abu Dhabi Drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:-1,Abu Dhabi Emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, Dubai ONE
@@ -930,7 +942,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 
-
+#EXTINF:-1,ZEE ALWAN
+http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
+#EXTINF:-1,Imagine Movies
+http://selevision9890-i.akamaihd.net/hls/live/219325/98908/master.m3u8
+#EXTINF:-1,Al Rai TV
+http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
 
 #EXTINF:-0,Dream_1
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html
