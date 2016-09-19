@@ -874,6 +874,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 
 
 
+#EXTINF:-1,Rotana Aflam
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+#EXTINF:-1,Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:-1,Cinema 1
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+ 
+#EXTINF:-1,Cima Habisha TV
+http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
+#EXTINF:-1,Toktok Cinema
+http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8
+#EXTINF:-1,Time Film
+http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
+
+
 #EXTINF:-1,Al Hayat (Egypt)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 EXTINF:-1,Al Hayat 2
@@ -1605,7 +1620,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1
 http://jafaer-tv.com
 
 
-
+#EXTINF: -1, HISTORIA
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
+#EXTINF: -1, 2 HISTORIA
+http://46.166.162.35:9090/load/ b0922f3fa8aa / 36.m3u8
+#EXTINF: -1, Animal Planet
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF: -1, Discovery Channel
+http://46.166.162.35:9090/load/ b0922f3fa8aa / 38.m3u8
+#EXTINF: -1, NATIONAL GEOGRAPHIC
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
+#EXTINF: -1, INVESTIGACIÓN DESCOVERY
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+#EXTINF: -1, NBCSN
+http://46.166.162.35:9090/load/ b0922f3fa8aa / 42.m3u8
+#EXTINF: -1, ESPN
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
 
 EXTINF:0,Animal Plant
 http://178.18.29.201:9001/2488/slot_7488.m3u8
