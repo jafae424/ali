@@ -64,40 +64,25 @@ rtmp://149.202.206.50:1935/myapp/995?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,bein 3 france
 rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
-#EXTINF:-1,BEINSPORT-1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-10HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-13HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-14HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-15HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BEINSPORT-16HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/bkr/bkr/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-
+#EXTINF:-1,NBCSN
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+#EXTINF:-1,ESPN
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
+#EXTINF:-1,FOX SPORT
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
+#EXTINF:-1,FS 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1,FS 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
+#EXTINF:-1,NBA TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
+#EXTINF:-1,MLB NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
+#EXTINF:-1,SPORTS
+http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
+#EXTINF:-1,WWE
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
 
 
 
@@ -290,60 +275,6 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1,AR:opt:BeinSports-9-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-8-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-7-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-6-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-5-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-4-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-10-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:opt:BeinSports-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv 
-#EXTINF:-1,AR:beIN SPORT 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,UK | Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,UK | Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,UK | Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,UK | Sky Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,UK | Sky Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
