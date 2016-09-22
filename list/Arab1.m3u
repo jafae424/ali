@@ -462,6 +462,21 @@ http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1,AR: AL JADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1992.ts
+#EXTINF:-1,AR: Otv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2049.ts
+#EXTINF:-1,AR: MTV Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2472.ts
+#EXTINF:-1,AR: LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2471.ts
+#EXTINF:-1,AR: NBN Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2046.ts
+#EXTINF:-1,AR: LDC Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2045.ts
+#EXTINF:-1,AR: OTV Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1987.ts
 #EXTINF:-1,AR_LBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_LBC_SAT
