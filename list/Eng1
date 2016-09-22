@@ -100,7 +100,42 @@ EXTINF:-1,|UK|  BBC 4
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/360.ts
 
 
-
+#EXTINF:-1,AMC US HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
+#EXTINF:-1,Fox US HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
+#EXTINF:-1,FX US HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
+#EXTINF:-1,SYFY US
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
+#EXTINF:-1,HBO East
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
+#EXTINF:-1,HBO Comedy
+http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8
+#EXTINF:-1,HBO Zone
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
+#EXTINF:-1,HBO Signature
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
+#EXTINF:-1,Cinemax East
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
+#EXTINF:-1,Starz Cinema
+http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
+#EXTINF:-1,Starz Encore
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+#EXTINF:-1,Starz East
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
+#EXTINF:-1,Starz Edge
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1,Cinemax 5 StarMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8
+#EXTINF:-1,Cinemax ActionMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
+#EXTINF:-1,Showtime
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1,Showtime 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1,Showtime Showcase
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
 
 
 #EXTINF:0,USA_ESPN
@@ -325,75 +360,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
  
 #EXTINF:0,DW English
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,UK | Sky One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/52.ts
-#EXTINF:-1,UK | Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2650.ts
-#EXTINF:-1,UK | Sky Movies Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/26.ts
-#EXTINF:-1,UK | Sky Movies Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/20.ts
-#EXTINF:-1,UK | Sky Movies Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/24.ts
-#EXTINF:-1,UK | Sky Movies Greats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/30.ts
-#EXTINF:-1,UK | Sky Movies Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/28.ts
-#EXTINF:-1,UK | Sky Movies Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/27.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/23.ts
-#EXTINF:-1,UK | Sky Movies Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/22.ts
-#EXTINF:-1,UK | Sky Movies Showcase
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/3255.ts
-#EXTINF:-1,UK | Sky Movie Sci-Fi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/21.ts
-#EXTINF:-1,UK | Sky Living
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/31.ts
-#EXTINF:-1,UK | Sky Drama & Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/29.ts
-#EXTINF:-1,UK | Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/48.ts
-
-#EXTINF:-1,UK | Food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/100.ts
-#EXTINF:-1,UK | E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/95.ts
-#EXTINF:-1,UK | Setanta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/69.ts
-#EXTINF:-1,UK | RTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/56.ts
-#EXTINF:-1,UK | RTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/55.ts
-#EXTINF:-1,UK | Really
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2672.ts
-#EXTINF:-1,UK | Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2878.ts
-#EXTINF:-1,UK | Yesterday
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2673.ts
-#EXTINF:-1,UK | Living
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2680.ts
-#EXTINF:-1,UK | DMax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2669.ts
-#EXTINF:-1,UK | More 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2670.ts
-#EXTINF:-1,UK | CC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2671.ts
-#EXTINF:-1,UK | Pick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/99.ts
-#EXTINF:-1,UK | Nickloedon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/57.ts
-#EXTINF:-1,UK | National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/59.ts
-#EXTINF:-1,UK | Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/86.ts
-#EXTINF:-1,UK | MUTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2783.ts
-#EXTINF:-1,UK | LFCTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2877.ts
-
-
 
 
 
