@@ -158,14 +158,52 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/126.t
 EXTINF:-1,AR: Art Hekayat 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.ts
 
-
+#EXTINF:-1,AR: MBC  masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1747.ts
+#EXTINF:-1,AR: mbc drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1750.ts
+#EXTINF:-1,AR: mbc bollyood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1748.ts
+#EXTINF:-1,AR: mbc action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1749.ts
+#EXTINF:-1,AR: mbc 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1743.ts
+#EXTINF:-1,AR: mbc 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1746.ts
+#EXTINF:-1,AR: mbc 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1745.ts
+#EXTINF:-1,AR: mbc 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1744.ts
+#EXTINF:-1,AR: Art Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/958.ts
+#EXTINF:-1,AR: Art Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/959.ts
+#EXTINF:-1,AR: Art Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/960.ts
+#EXTINF:-1,AR: Art Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1489.ts
+#EXTINF:-1,AR: STAR CINEMA 2 EG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2654.ts
+#EXTINF:-1,AR: STAR CINEMA 1 EG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2653.ts
+#EXTINF:-1,AR: Alhayat Muslsalat EG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2649.ts
+#EXTINF:-1,AR: Alhayat EG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2650.ts
+#EXTINF:-1,AR: Nat Geo AD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2473.ts
 
 
 
 #EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
 http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
-
+#EXTINF:-1,AR: BEINMOVIES HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: BEINMOVIES HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: BEINMOVIES HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:0,AR_OSN_FIRST_COMEDY_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
