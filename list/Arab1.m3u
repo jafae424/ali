@@ -158,40 +158,41 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/126.t
 EXTINF:-1,AR: Art Hekayat 2
 http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/170.ts
 
-#EXTINF:-1,AR: MBC  masr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1747.ts
-#EXTINF:-1,AR: mbc drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1750.ts
+
 #EXTINF:-1,AR: mbc bollyood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1748.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1748.ts|User-Agent=VLC
 #EXTINF:-1,AR: mbc action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1749.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1749.ts|User-Agent=VLC
 #EXTINF:-1,AR: mbc 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1743.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1743.ts|User-Agent=VLC
 #EXTINF:-1,AR: mbc 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1746.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1746.ts|User-Agent=VLC
 #EXTINF:-1,AR: mbc 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1745.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1745.ts|User-Agent=VLC
 #EXTINF:-1,AR: mbc 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1744.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1744.ts|User-Agent=VLC
+#EXTINF:-1,AR: MBC  masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1747.ts|User-Agent=VLC
+#EXTINF:-1,AR: mbc drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1750.ts|User-Agent=VLC
 #EXTINF:-1,AR: Art Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/958.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/958.ts|User-Agent=VLC
 #EXTINF:-1,AR: Art Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/959.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/959.ts|User-Agent=VLC
 #EXTINF:-1,AR: Art Aflam 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/960.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/960.ts|User-Agent=VLC
 #EXTINF:-1,AR: Art Aflam 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1489.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1489.ts|User-Agent=VLC
 #EXTINF:-1,AR: STAR CINEMA 2 EG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2654.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2654.ts|User-Agent=VLC
 #EXTINF:-1,AR: STAR CINEMA 1 EG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2653.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2653.ts|User-Agent=VLC
 #EXTINF:-1,AR: Alhayat Muslsalat EG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2649.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2649.ts|User-Agent=VLC
 #EXTINF:-1,AR: Alhayat EG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2650.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2650.ts|User-Agent=VLC
 #EXTINF:-1,AR: Nat Geo AD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2473.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2473.ts|User-Agent=VLC
 
 
 
