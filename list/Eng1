@@ -102,10 +102,20 @@ http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/360.t
 
 #EXTINF:-1,AMC US HD
 http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
+#EXTINF:-1,Bravo
+http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
+#EXTINF:-1,E
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+
 #EXTINF:-1,Fox US HD
 http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
 #EXTINF:-1,FX US HD
 http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
+#EXTINF:-1,tvBG
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+
 #EXTINF:-1,SYFY US
 http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
 #EXTINF:-1,HBO East
