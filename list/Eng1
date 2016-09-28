@@ -107,14 +107,15 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
 #EXTINF:-1,E
 http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
 
-http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
 
 #EXTINF:-1,Fox US HD
 http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
 #EXTINF:-1,FX US HD
 http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
 #EXTINF:-1,tvBG
-http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8
+#EXTINF:-1,tvBG L
+http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
 
 #EXTINF:-1,SYFY US
 http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
@@ -146,7 +147,40 @@ http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
 http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
 #EXTINF:-1,Showtime Showcase
 http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
-
+#EXTINF:-1,MOVIES 7
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1,STARZ CINEMA
+http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
+#EXTINF:-1,MOVIES 8
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+#EXTINF:-1,HISTORY
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
+#EXTINF:-1,HISTORY 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
+#EXTINF:-1,INVESTIGATION DESCOVERY
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+#EXTINF:-1,NBCSN
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+#EXTINF:-1,ESPN
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
+#EXTINF:-1,FS 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1,FS 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
+#EXTINF:-1,NBA TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
+#EXTINF:-1,MLB NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
 
 #EXTINF:0,USA_ESPN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts
