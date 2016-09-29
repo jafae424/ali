@@ -986,7 +986,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 EXTINF:-1,Arabic: Sada Elbalad Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/129.ts
 
-
+#EXTINF:-1,–ART_Hikeyet 1
+http://5.196.81.121:8000/live/both/both/48.ts
+#EXTINF:-1,–ART_Hikeyet 2
+http://5.196.81.121:8000/live/both/both/49.ts
+#EXTINF:-1,–ART_Cinema
+http://5.196.81.121:8000/live/both/both/50.ts
+#EXTINF:-1,–ART_AFLAM1
+http://5.196.81.121:8000/live/both/both/46.ts
+#EXTINF:-1,–ART_AFLAM2
+http://5.196.81.121:8000/live/both/both/47.ts
+#EXTINF:-1,–Alhayat
+http://5.196.81.121:8000/live/both/both/33.ts
+#EXTINF:-1,–Panorama_Drama2
+http://5.196.81.121:8000/live/both/both/281.ts
+#EXTINF:-1,–Panorama_Drama1
+http://5.196.81.121:8000/live/both/both/282.ts
 
 #EXTINF:-1,–Nilecomedy
 http://5.196.81.121:8000/live/both/both/34.ts
