@@ -191,20 +191,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.car
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2649.ts|User-Agent=VLC
 #EXTINF:-1,AR: Alhayat EG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2650.ts|User-Agent=VLC
-#EXTINF:-1,AR: Nat Geo AD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2473.ts|User-Agent=VLC
 
 
 
 #EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
 http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
-#EXTINF:-1,AR: BEINMOVIES HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: BEINMOVIES HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: BEINMOVIES HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+#EXTINF:-1,AR_BEIN_MOVIES_1HD
+http://5.196.81.121:8000/live/both/both/272.ts
+#EXTINF:-1,AR_BEIN_MOVIES_2HD
+http://5.196.81.121:8000/live/both/both/273.ts
+#EXTINF:-1,AR_BEIN_MOVIES_3HD
+http://5.196.81.121:8000/live/both/both/274.ts
 
 #EXTINF:0,AR_OSN_FIRST_COMEDY_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -352,7 +351,8 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
-
+#EXTINF:-1,–Alanwar
+http://5.196.81.121:8000/live/both/both/78.ts
 
 
 EXTINF:-1,الفرقدين
@@ -502,20 +502,23 @@ http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
-#EXTINF:-1,AR: AL JADEED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1992.ts
-#EXTINF:-1,AR: Otv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2049.ts
-#EXTINF:-1,AR: MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2472.ts
-#EXTINF:-1,AR: LBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2471.ts
-#EXTINF:-1,AR: NBN Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2046.ts
-#EXTINF:-1,AR: LDC Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2045.ts
-#EXTINF:-1,AR: OTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1987.ts
+
+
+#EXTINF:-1,ONTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,–Otv-Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,mtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,aljadeed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,nbn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.196.81.121:8000/live/both/both/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
 #EXTINF:-1,AR_LBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_LBC_SAT
@@ -1018,7 +1021,50 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-alt
 
 
 
-
+#EXTINF:-1,–Nilecomedy
+http://5.196.81.121:8000/live/both/both/34.ts
+#EXTINF:-1,–Nile_Drama
+http://5.196.81.121:8000/live/both/both/84.ts
+#EXTINF:-1,–Nile_CENIMA
+http://5.196.81.121:8000/live/both/both/220.ts
+#EXTINF:-1,–STAR_CINEMA_1
+http://5.196.81.121:8000/live/both/both/324.ts
+#EXTINF:-1,–STAR_CINEMA_2
+http://5.196.81.121:8000/live/both/both/325.ts
+#EXTINF:-1,–CBC
+http://5.196.81.121:8000/live/both/both/31.ts
+#EXTINF:-1,–CBC_2
+http://5.196.81.121:8000/live/both/both/32.ts
+#EXTINF:-1,–CBC_Extra
+http://5.196.81.121:8000/live/both/both/241.ts
+#EXTINF:-1,–CBC_Sofra
+http://5.196.81.121:8000/live/both/both/242.ts
+#EXTINF:-1,–Cinema_pro
+http://5.196.81.121:8000/live/both/both/82.ts
+#EXTINF:-1,–Toktokaflam
+http://5.196.81.121:8000/live/both/both/81.ts
+#EXTINF:-1,–Cairo_Drama
+http://5.196.81.121:8000/live/both/both/305.ts
+#EXTINF:-1,–Cairo_cinema
+http://5.196.81.121:8000/live/both/both/295.ts
+#EXTINF:-1,–Alqahira_we_alnas
+http://5.196.81.121:8000/live/both/both/250.ts
+#EXTINF:-1,–Alqahira_we_alnas2
+http://5.196.81.121:8000/live/both/both/251.ts
+#EXTINF:-1,–ALNAHAR1
+http://5.196.81.121:8000/live/both/both/243.ts
+#EXTINF:-1,–ALNAHAR_DRAMA
+http://5.196.81.121:8000/live/both/both/246.ts
+#EXTINF:-1,–ALNAHAR_CINEMA
+http://5.196.81.121:8000/live/both/both/247.ts
+#EXTINF:-1,–ALNAHAR_ALYOUM
+http://5.196.81.121:8000/live/both/both/245.ts
+#EXTINF:-1,–Hayet2
+http://5.196.81.121:8000/live/both/both/39.ts
+#EXTINF:-1,Alhayat 2
+http://5.196.81.121:8000/live/both/both/249.ts
+#EXTINF:-1,Alhayat 1
+http://5.196.81.121:8000/live/both/both/248.ts
 
 
 
@@ -1581,6 +1627,18 @@ rtmp://149.202.206.50:1935/myapp/974?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 #EXTINF:-1,Baraaem
 rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+
+#EXTINF:-1,–CartoonNetwork_Ar
+http://5.196.81.121:8000/live/both/both/58.ts
+#EXTINF:-1,–Toyor_aljaneh
+http://5.196.81.121:8000/live/both/both/35.ts
+#EXTINF:-1,–karamesh
+http://5.196.81.121:8000/live/both/both/37.ts
+#EXTINF:-1,majdkids
+http://5.196.81.121:8000/live/both/both/38.ts
+#EXTINF:-1,–noontv_kids
+http://5.196.81.121:8000/live/both/both/36.ts
 
 #EXTINF:-1,AR_FATAFEAT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
