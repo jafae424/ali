@@ -1349,16 +1349,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat
 #EXTINF:-1,AR- Alsharqiya
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/416.ts
 #EXTINF:-1,AR- Aljazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/418.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/418.ts|User-Agent=VLC
 #EXTINF:-1,AR- OSN MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/320.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/320.ts|User-Agent=VLC
 #EXTINF:-1,AR: ART AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/323.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/323.ts|User-Agent=VLC
 #EXTINF:-1,AR- Al Nahar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/324.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/324.ts|User-Agent=VLC
 #EXTINF:-1,AR: Nessma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/295.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/295.ts|User-Agent=VLC
 #EXTINF:-1,AR: ART AFLAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/298.ts|User-Agent=VLC
 #EXTINF:-1,AR: Art-Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/300.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/300.ts|User-Agent=VLC
+
