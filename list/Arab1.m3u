@@ -1424,15 +1424,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat
 #EXTINF:-1,AR- Nile Sport
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/402.ts
 #EXTINF:-1,AR- Nile Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/403.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/403.ts|User-Agent=VLC
 #EXTINF:-1,AR- Nile Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/404.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/404.ts|User-Agent=VLC
 #EXTINF:-1,AR- Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/405.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/405.ts|User-Agent=VLC
 #EXTINF:-1,AR- Echorouk TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/409.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/409.ts|User-Agent=VLC
 #EXTINF:-1,AR- Alsharqiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/416.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/416.ts|User-Agent=VLC
 #EXTINF:-1,AR- Aljazeera
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/418.ts|User-Agent=VLC
 #EXTINF:-1,AR- OSN MOVIES HD
