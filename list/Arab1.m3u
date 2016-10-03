@@ -48,44 +48,26 @@ rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 rtmp://149.202.206.50:1935/myapp/988?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,mbc masar 2
 rtmp://149.202.206.50:1935/myapp/989?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-EXTINF:-1,AR_MBC_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-EXTINF:-1,AR_MBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-EXTINF:-1,AR_MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-EXTINF:-1,AR_MBC_MASR_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,AR: MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/157.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR: MBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/462.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR: MBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1464.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR: MBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/407.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR: MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/318.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
 EXTINF:-1,AR-MBC1 HD
 http://195.12.170.154:8002/play/armbc1hd
-EXTINF:-1,Arabic: MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts
-EXTINF:-1,AR-Mbc-Drama
-http://195.12.170.154:8002/play/armbcdrama
-EXTINF:-1,Arabic: MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/8.ts
+
 EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
 rtmp://5.189.130.147:1935/live/mbcmasr11
 EXTINF:-1,Arabic: MBC Maser
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts
-EXTINF:-1,Arabic: MBC Maser 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts
-#EXTINF:-1 tvg-logo="http://goo.gl/M03NcW",Arabic:Masr 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2244.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 EXTINF:-1,[COLOR red]MBC1  [/COLOR]
@@ -97,11 +79,6 @@ http://38.99.146.38:7777/MBCMaser_High.flv
 EXTINF:-1,MBCMasrPlus2
 http://216.66.42.84:7777/MBCMasrPlus2_High.flv
 
-
-
-
-EXTINF:-1 tvg-logo="http://goo.gl/ia8dXO",MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,MBC 2
