@@ -170,6 +170,46 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
 
+#EXTINF:-1,Al-Ghadeer-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1233.ts
+#EXTINF:-1,AlNaeem-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1491.ts
+#EXTINF:-1,AlQamar-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1692.ts
+#EXTINF:-1,AlNoujaba-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1492.ts
+#EXTINF:-1,AlFayhaa-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1512.ts
+#EXTINF:-1,AlAqila-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1510.ts
+#EXTINF:-1,Alkout-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/750.ts
+#EXTINF:-1,Fedak-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1572.ts
+#EXTINF:-1,Afaq-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/704.ts
+#EXTINF:-1,AlMasira-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1189.ts
+#EXTINF:-1,AlMaaref-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1503.ts
+#EXTINF:-1,AlMassar-Aloula
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1490.ts
+
+#EXTINF:-1,AlBurhan
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1207.ts
+#EXTINF:-1,AlAnwar
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1212.ts
+#EXTINF:-1,Al-Anwar-2
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1221.ts
+#EXTINF:-1,Al-Ahd-1
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1213.ts
+#EXTINF:-1,ALETIHAD
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1646.ts
+#EXTINF:-1,AlForat-TV1
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/137.ts
+
+#EXTINF:-1,AlSoraat-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1477.ts
 
 EXTINF:-1,الفرقدين
 plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
@@ -331,6 +371,29 @@ http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1210.ts
 http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1619.ts
 #EXTINF:-1,Al-Anbar-Iraq
 http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/676.ts
+
+#EXTINF:-1,Al-TurkMania
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1693.ts
+#EXTINF:-1,KARBALA-IRAQ
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1243.ts
+#EXTINF:-1,Sumaria-tv
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/674.ts
+#EXTINF:-1,AlMoustakila
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1214.ts
+#EXTINF:-1,AlMawsleya-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1668.ts
+#EXTINF:-1,AlBasra-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1659.ts
+#EXTINF:-1,Alitejah-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1616.ts
+#EXTINF:-1,AlMargeaia-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1688.ts
+#EXTINF:-1,AlHouria-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1557.ts
+
+#EXTINF:-1,Iraq-Today
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1650.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8
