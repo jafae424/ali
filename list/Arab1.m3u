@@ -284,6 +284,54 @@ http://iphone-streaming.ustream.tv/uhls/22155869/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
+
+
+#EXTINF:-1,Aliraqiya-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/131.ts
+#EXTINF:-1,AlIraqia-News
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1439.ts
+#EXTINF:-1,ISHTAR-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/412.ts
+#EXTINF:-1,Iraq-Future-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1234.ts
+
+#EXTINF:-1,Baghdad-Tv
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/132.ts
+#EXTINF:-1,Hona-Baghdadd
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1441.ts
+#EXTINF:-1,ALSHARQYA-HD
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1186.ts
+#EXTINF:-1,AL-SHARQIYA-iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/678.ts
+#EXTINF:-1,ALSHARQYA-NEWS
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/680.ts
+#EXTINF:-1,AL-RAFIDAIN-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1204.ts
+#EXTINF:-1,Nilat-Iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/349.ts
+#EXTINF:-1,Iraq-Now
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1494.ts
+#EXTINF:-1,AlDiyar-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1511.ts
+#EXTINF:-1,Alhurra-Iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1191.ts
+#EXTINF:-1,AlSalam-Iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/725.ts
+#EXTINF:-1,Iraq-Dijla
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1440.ts
+#EXTINF:-1,Iraq-Sport
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/133.ts
+#EXTINF:-1,Asia-Iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1469.ts
+#EXTINF:-1,ANB-Iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1468.ts
+#EXTINF:-1,Kaif-iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1210.ts
+#EXTINF:-1,Iraqna-TV
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1619.ts
+#EXTINF:-1,Al-Anbar-Iraq
+http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/676.ts
+
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8
 #EXTINF:-1,IFILM eng
