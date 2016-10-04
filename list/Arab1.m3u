@@ -278,10 +278,11 @@ http://185.27.116.54:1935/live/anb.stream_360p/chunklist_w163760174.m3u8
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 
-
+#EXTINF:-1,NRT arabic
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
 #EXTINF:-1, قناة الحدث
 rtmp://streamer11.elementssys.com:8080/demo/?hghpl=1250132868/AL_Hadath
-
+#
 http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
 
 #EXTINF:-1,Hadath Iraq TV
@@ -295,8 +296,7 @@ EXTINF:-1 tvg-logo="http://goo.gl/JDbJgS", البغدادية
 rtmp://B2.Streaming.linkdatacenter.net:1935/Baghdadya1/Baghdadya1Stream 
 EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
 rtmp://B1.Streaming.linkdatacenter.net:1935/Baghdadya2/Baghdadya2Stream
-EXTINF:0,Hona Baghdad
-rtmp://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad
+
 
 #EXTINF:-1,Hona Baghdad TV
 http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
@@ -308,7 +308,8 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/8Gtauc",ALSharqia News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-
+#EXTINF:-1,Rafidain TV
+http://stream.ssh101.com:1935/live/rafaa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1,ALTAGHER TV
