@@ -235,6 +235,27 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
+#EXTINF:-1,AR_Annajaf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Sirat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Qamar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2376.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+#EXTINF:-1,AR_Al_Noujaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+#EXTINF:-1,AR_Al_Maaref
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Kawthar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Forat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Fayhaa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Awhad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
 
 #EXTINF:-1,Al-Ghadeer-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -495,6 +516,16 @@ http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
+#EXTINF:-1,AR Mtv 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+#EXTINF:-1,AR Ldc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2055.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR Lbc Libanon - AR Lbc Libanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+#EXTINF:-1,AR Future
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,AR- Aljadeed
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/688.ts
@@ -1526,7 +1557,16 @@ rtmp://149.202.206.50:1935/myapp/974?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
-
+#EXTINF:-1,AR_Ajyal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2445.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR Hod Hod TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR Cartoon network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: Toyor Al Janah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: Spacetoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,AR_FATAFEAT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
