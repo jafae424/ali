@@ -303,6 +303,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 
 #EXTINF:-1,AlSoraat-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Awhad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Forat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Fayhaa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Itejah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 EXTINF:-1,الفرقدين
 plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
