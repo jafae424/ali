@@ -219,11 +219,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-
-
-
-
-
+#EXTINF:0,Animal Planet RO
+http://37.187.159.132:6500/play/a01c
+#EXTINF:0,Cinemax2 RO
+http://37.187.159.132:6500/play/a01h
+#EXTINF:0,Discovery ID RO
+http://37.187.159.132:6500/play/a00p
+#EXTINF:0,Cinemax RO
+http://37.187.159.132:6500/play/a01g
+#EXTINF:0,Discovery Science RO
+http://37.187.159.132:6500/play/a00o
+#EXTINF:0,History RO
+http://37.187.159.132:6500/play/a016
+#EXTINF:0,Discovery RO
+http://37.187.159.132:6500/play/a013
 
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
