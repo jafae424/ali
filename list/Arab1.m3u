@@ -158,6 +158,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN-DISENY-Junior
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+#EXTINF:-1,OSN_Discovery_Science_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,OSN_Animal-Planet_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2545.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN-National-Geo-Wild
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN-ANIMAL-PLANET
@@ -229,6 +234,14 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
+#EXTINF:-1,AR_Al_Maaref
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Kawthar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Noujaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR_Al_Naeem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_Annajaf
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR_Al_Sirat
