@@ -64,6 +64,34 @@ rtmp://149.202.206.50:1935/myapp/995?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,bein 3 france
 rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=1
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , bein Sport 2 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=2
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E5gGBwecb5U/VTEpJgDBB5I/AAAAAAAABDQ/oWWCY_GK50o/s1600/3.png" , bein Sport 3 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=3
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png" , bein Sport 4 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png" , bein Sport 5 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=5
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KFIrJx8Gw30/VTEpUV5LN6I/AAAAAAAABDw/o8Q5kr9GZCs/s1600/6.png" , bein Sport 6 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=6
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png" , bein Sport 7 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=7
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" , bein Sport 8 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YjffVzTg904/VTEpb52ZnQI/AAAAAAAABEI/RosIkm4Yps4/s1600/9.png" , bein Sport 9 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=9
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png" , bein Sport 10 HD
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=10
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png" , bein Sport 11 HD [EN]
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=11
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png" , bein Sport 12 HD [EN]
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=12
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png" ,bein Sport 1 HD [FR]
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=13
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s1600/BeinSportHD2fr.png" ,bein Sport 2 HD [FR]
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=14
 
 #EXTINF:-1,NBCSN
 http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
