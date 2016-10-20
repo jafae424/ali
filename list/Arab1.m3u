@@ -16,15 +16,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
-EXTINF:0,mBC 1 HD
-http://178.18.29.201:9001/1444/slot_6444.m3u8
-EXTINF:0,MBC
-http://178.18.29.201:9001/274/slot_5274.m3u8
-EXTINF:0,MBC Drama HD
-http://178.18.29.201:9001/294/slot_5294.m3u8
 
-EXTINF:0,MBC Masar 2
-http://178.18.29.201:9001/1053/slot_6053.m3u8
 
 
 EXTINF:-1,[COLOR red]MBC1 [/COLOR]
@@ -862,14 +854,7 @@ http://195.12.170.154:8002/play/arrotanakhalijihd
 
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
-EXTINF:0,بانوراما دراما
-http://178.18.29.201:9001/310/slot_5310.m3u8
-EXTINF:0,بانوراما دراما 2
-http://178.18.29.201:9001/640/slot_5640.m3u8
-EXTINF:0,بانوراما فلم
-http://178.18.29.201:9001/422/slot_5422.m3u8
-EXTINF:0,بانوراما فود
-http://178.18.29.201:9001/1437/slot_6437.m3u8
+
 EXTINF:0,AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
 
@@ -1467,22 +1452,7 @@ http://46.166.162.35:9090/load/ b0922f3fa8aa / 42.m3u8
 #EXTINF: -1, ESPN
 http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
 
-EXTINF:0,Animal Plant
-http://178.18.29.201:9001/2488/slot_7488.m3u8
-EXTINF:0,Animal Box
-http://178.18.29.201:9001/744/slot_5744.m3u8
-EXTINF:0,Discovery History
-http://178.18.29.201:9001/2491/slot_7491.m3u8
-EXTINF:0,History
-http://178.18.29.201:9001/787/slot_5787.m3u8
-EXTINF:0,H&H
-http://178.18.29.201:9001/2492/slot_7492.m3u8
-EXTINF:0,SC Discovery
-http://178.18.29.201:9001/2490/slot_7490.m3u8
-EXTINF:0,Turbo
-http://178.18.29.201:9001/2493/slot_7493.m3u8
-EXTINF:0,Discovery
-http://178.18.29.201:9001/2496/slot_7496.m3u8
+
 EXTINF:-1,Arabic: Abu Dhabi Nat Geo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/25.ts
 #EXTINF:-1 , TRT Arabic 
