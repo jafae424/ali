@@ -57,8 +57,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-
-
 EXTINF:-1, MBC 1
 rtmp://5.189.130.147:1935/live/mbc11
 EXTINF:-1,AR-MBC1 HD
@@ -77,8 +75,6 @@ EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBCMasrPlus1
 http://38.99.146.38:7777/MBCMaser_High.flv
 EXTINF:-1,MBCMasrPlus2
 http://216.66.42.84:7777/MBCMasrPlus2_High.flv
-
-
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
