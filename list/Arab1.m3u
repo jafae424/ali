@@ -46,16 +46,8 @@ rtmp://149.202.206.50:1935/myapp/988?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,mbc masar 2
 rtmp://149.202.206.50:1935/myapp/989?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
-#EXTINF:-1,AR: MBC 1
+EXTINF:-1,AR: MBC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: MBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: MBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: MBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,MBC-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -159,10 +151,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 #EXTINF:-1,OSN-DISENY-Junior
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-#EXTINF:-1,OSN_Discovery_Science_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN_Animal-Planet_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2545.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN-National-Geo-Wild
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN-ANIMAL-PLANET
@@ -243,34 +231,8 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
-#EXTINF:-1,AR_Al_Maaref
+EXTINF:-1,AR_Al_Maaref
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Kawthar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Noujaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Naeem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Annajaf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Sirat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Qamar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2376.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,AR_Al_Noujaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,AR_Al_Maaref
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Kawthar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Forat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Fayhaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Awhad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,Al-Ghadeer-TV
@@ -312,14 +274,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 
 #EXTINF:-1,AlSoraat-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Awhad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Forat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Fayhaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR_Al_Itejah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 EXTINF:-1,الفرقدين
 plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
@@ -540,19 +494,7 @@ http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
-#EXTINF:-1,AR Mtv 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-#EXTINF:-1,AR Ldc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2055.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR Lbc Libanon - AR Lbc Libanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,AR Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,AR- Aljadeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/688.ts
 
 #EXTINF:-1,LDC-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -1581,16 +1523,6 @@ rtmp://149.202.206.50:1935/myapp/974?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
-#EXTINF:-1,AR_Ajyal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2445.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR Hod Hod TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR Cartoon network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: Toyor Al Janah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: Spacetoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,AR_FATAFEAT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -1732,156 +1664,4 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
-
-
-#EXTINF:-1,#### Arabe Channels ####
-http://ip.kmsat.info:8000/live/salah/salah/305.ts
-#EXTINF:-1,AR: ZAHRAA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2095.ts
-
-#EXTINF:-1,AR: KARBALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2091.ts
-#EXTINF:-1,AR: IRAQIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2092.ts
-
-#EXTINF:-1,AR: AL SALAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2102.ts
-#EXTINF:-1,AR: AL AQSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2097.ts
-#EXTINF:-1,AR : ART HEKAYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2085.ts
-#EXTINF:-1,AR: ART HEKAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2086.ts
-#EXTINF:-1,AR: ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2087.ts
-
-#EXTINF:-1,AR: SPACETOON
-http://ip.kmsat.info:8000/live/salah/salah/2084.ts
-
-#EXTINF:-1,AR: AL RAFIDAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1778.ts
-#EXTINF:-1,AR: AL KARAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1777.ts
-#EXTINF:-1,AR: AL HURRA IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1774.ts
-#EXTINF:-1,AR: AL FAYHAA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1772.ts
-#EXTINF:-1,AR: AL FADY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1771.ts
-#EXTINF:-1,AR: AL ARABIA HADATH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1768.ts
-#EXTINF:-1,AR: AL AAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1773.ts
-#EXTINF:-1,AR: AJIYAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1767.ts
-#EXTINF:-1,AR: AGHANINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1766.ts
-#EXTINF:-1,AR: ALGERIE NATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1634.ts
-#EXTINF:-1,AR-Samira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1182.ts
-#EXTINF:-1,AR: ZAYTOUNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1619.ts
-#EXTINF:-1,AR: Tounesna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1620.ts
-#EXTINF:-1,AR: ElHiwar Tounsi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1618.ts
-#EXTINF:-1,AR- AL MAYADEEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1552.ts
-#EXTINF:-1,AR- AL JANOUBIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1551.ts
-#EXTINF:-1,AR: Tunisie Nationale 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1477.ts
-#EXTINF:-1,AR: Tunisie Nationale 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1478.ts
-#EXTINF:-1,AR: Toyor Al Janah Children
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1476.ts
-#EXTINF:-1,AR: Hanibal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1480.ts
-#EXTINF:-1,AR: Tunisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1479.ts
-
-
-#EXTINF:-1,AR- Alan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1338.ts
-#EXTINF:-1,AR: AJYAL SAUDI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1339.ts
-#EXTINF:-1,AR- Panorama Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1331.ts
-#EXTINF:-1,AR- Panorama Drama 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1330.ts
-#EXTINF:-1,AR- Panorama Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1332.ts
-#EXTINF:-1,AR-  Alkass-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1334.ts
-#EXTINF:-1,AR-  Alkass-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1335.ts
-#EXTINF:-1,AR-  Alkass-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1336.ts
-#EXTINF:-1,AR-  Alkass-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1337.ts
-#EXTINF:-1,AR- FATAFEAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1270.ts
-#EXTINF:-1,AR: LBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1192.ts
-
-#EXTINF:-1,AR-Sky-News-Arabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1181.ts
-
-#EXTINF:-1,AR-Rotana-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1184.ts
-#EXTINF:-1,AR-Panorama-Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1185.ts
-#EXTINF:-1,AR-Medi-1-Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1188.ts
-#EXTINF:-1,AR: 2M-MONDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1191.ts
-
-#EXTINF:-1,AR-Baraem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/686.ts
-#EXTINF:-1,AR- Aljadeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/688.ts
-#EXTINF:-1,AR: AL ARABIA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/690.ts
-#EXTINF:-1,AR- Aljazeera englisch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/484.ts
-#EXTINF:-1,Aljazeera Mubasher2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/485.ts
-#EXTINF:-1,AR- Aljazeera Balkans:
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/483.ts
-#EXTINF:-1,AR: Mbc Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/460.ts
-#EXTINF:-1,AR- Quran Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/400.ts
-
-#EXTINF:-1,AR-MBC MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1189.ts
-#EXTINF:-1,AR: MBC MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/1190.ts
-#EXTINF:-1,AR- Nile Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/402.ts
-#EXTINF:-1,AR- Nile Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/403.ts|User-Agent=VLC
-#EXTINF:-1,AR- Nile Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/404.ts|User-Agent=VLC
-#EXTINF:-1,AR- Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/405.ts|User-Agent=VLC
-#EXTINF:-1,AR- Echorouk TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/409.ts|User-Agent=VLC
-#EXTINF:-1,AR- Alsharqiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/416.ts|User-Agent=VLC
-#EXTINF:-1,AR- Aljazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/418.ts|User-Agent=VLC
-#EXTINF:-1,AR- OSN MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/320.ts|User-Agent=VLC
-#EXTINF:-1,AR: ART AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/323.ts|User-Agent=VLC
-#EXTINF:-1,AR- Al Nahar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/324.ts|User-Agent=VLC
-#EXTINF:-1,AR: Nessma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/295.ts|User-Agent=VLC
-#EXTINF:-1,AR: ART AFLAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/298.ts|User-Agent=VLC
-#EXTINF:-1,AR: Art-Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/300.ts|User-Agent=VLC
 
