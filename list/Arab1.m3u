@@ -218,60 +218,6 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 
 #EXTINF:0,المهدي 
 http://178.18.29.201:9001/500/slot_5500.m3u8
-#EXTINF:0,الكوثر
-http://178.18.29.201:9001/168/slot_5168.m3u8
-#EXTINF:0, المعارف
-http://178.18.29.201:9001/238/slot_5238.m3u8
-#EXTINF:0,المنار
-http://178.18.29.201:9001/2053/slot_7053.m3u8
-#EXTINF:0,المسلة
-http://178.18.29.201:9001/1814/slot_6814.m3u8
-#EXTINF:0,النجباء
-http://178.18.29.201:9001/2031/slot_7031.m3u8
-#EXTINF:0,الشعائر
-http://178.18.29.201:9001/786/slot_5786.m3u8
-#EXTINF:0,القمر
-http://178.18.29.201:9001/1247/slot_6247.m3u8
-#EXTINF:0,قناة ابو الفضل
-http://178.18.29.201:9001/1715/slot_6715.m3u8
-#EXTINF:0,اهل البيت فارسي
-http://178.18.29.201:9001/830/slot_5830.m3u8
-#EXTINF:0,اهل البيت
-http://178.18.29.201:9001/1593/slot_6593.m3u8
-#EXTINF:0,2 قناة العهد
-http://178.18.29.201:9001/556/slot_5556.m3u8
-#EXTINF:0,الاباء
-http://178.18.29.201:9001/1479/slot_6479.m3u8
-#EXTINF:0,الايمان
-http://178.18.29.201:9001/1836/slot_6836.m3u8
-#EXTINF:0,الفرات 2
-http://178.18.29.201:9001/804/slot_5804.m3u8
-#EXTINF:0,الغدير 2
-http://178.18.29.201:9001/1518/slot_6518.m3u8
-#EXTINF:0,الحجة
-http://178.18.29.201:9001/2331/slot_7331.m3u8 
-#EXTINF:0,الاهواز 
-http://178.18.29.201:9001/2329/slot_7329.m3u8
-#EXTINF:0,المسار 1
-http://178.18.29.201:9001/2507/slot_7507.m3u8 
-#EXTINF:0,الصراط
-http://178.18.29.201:9001/298/slot_5298.m3u8
-#EXTINF:0,الثقلين
-http://178.18.29.201:9001/511/slot_5511.m3u8
-#EXTINF:0,الولاء
-http://178.18.29.201:9001/1799/slot_6799.m3u8
-#EXTINF:0,بينات
-http://178.18.29.201:9001/1705/slot_6705.m3u8
-#EXTINF:0,الاوحد
-http://178.18.29.201:9001/405/slot_5405.m3u8
-#EXTINF:0,Imam Hussain 2
-http://178.18.29.201:9001/1371/slot_6371.m3u8
-#EXTINF:0,Imam Hussain 3
-http://178.18.29.201:9001/834/slot_5834.m3u8
-#EXTINF:0,كربلاء 
-http://178.18.29.201:9001/415/slot_5415.m3u8
-#EXTINF:0,المرجعية 
-http://178.18.29.201:9001/673/slot_5673.m3u8
 
 
 
@@ -372,24 +318,7 @@ rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alfor
 
 
 
-#EXTINF:0,العراقية
-http://178.18.29.201:9001/1014/slot_6014.m3u8
-#EXTINF:0,Aliraqia 1
-http://178.18.29.201:9001/1066/slot_6066.m3u8
-#EXTINF:0,العراقية الرياضية
-http://178.18.29.201:9001/685/slot_5685.m3u8
 
-#EXTINF:0,عشتار 
-http://178.18.29.201:9001/2517/slot_7517.m3u8
-
-#EXTINF:0,كركوك
-http://178.18.29.201:9001/1482/slot_6482.m3u8
-#EXTINF:0,Baghdad
-http://178.18.29.201:9001/1072/slot_6072.m3u8 
-#EXTINF:0,Iraq Almostaqbal
-http://178.18.29.201:9001/1298/slot_6298.m3u8
-#EXTINF:0,سومر نيوز
-http://178.18.29.201:9001/30/slot_5030.m3u8
 
 
 
@@ -800,6 +729,9 @@ http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 #EXTINF:-1,Sada AL Balad Drama
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
+
+#EXTINF:-1,HD Drama
+http://72.88.202.45:9041
 
 
 #EXTINF:-1,Al Hayat (Egypt)
