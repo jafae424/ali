@@ -1,5 +1,42 @@
 <streaminginfos>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>ext,,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2086.ts</title>
+			<location>ext,PT:Benfica_TV_1,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2072.ts</location>
+		</track>
+		<track>
+			<title>ext,PT:Benfica_TV_2,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2073.ts</title>
+			<location>ext,PT:Sporting_TV,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2071.ts</location>
+		</track>
+		<track>
+			<title>ext,PT:Sport_TV_5,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2070.ts</title>
+			<location>ext,PT:Sport_TV_4,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2069.ts</location>
+		</track>
+		<track>
+			<title>ext,PT:Sport_TV_3,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2068.ts</title>
+			<location>ext,PT:Sport_TV_2,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2067.ts</location>
+		</track>
+		<track>
+			<title>ext,PT:Sport_TV_1,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2066.ts</title>
+			<location>ext,PT:PORTO_CANAL,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/3191.ts</location>
+		</track>
+		<track>
+			<title>ext,PT:CHELSEA_TV,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2987.ts</title>
+			<location>ext,PT:REAL_MADRID_TV_HD,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2971.ts</location>
+		</track>
+
+
+	</trackList>
+</playlist>
+
 <items>
+
+
+
+
+
+
 
 <item>
 <title>This list from Jafaer-tv (The Iraqi List ) if you see this list somewhere else it's meant he stole it</title>
