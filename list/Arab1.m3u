@@ -210,6 +210,8 @@ http://37.187.159.132:6500/play/a016
 #EXTINF:0,Discovery RO
 http://37.187.159.132:6500/play/a013
 
+#EXTINF:-1,AR:AD NATGEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 http:jafaertv.com
@@ -383,7 +385,13 @@ http://iphone-streaming.ustream.tv/uhls/22155869/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-
+#EXTINF:-1,AR:IRAQIYA
+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+ 
+#EXTINF:-1,AR:IRAQIYA SPORT
+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2023.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1,Aliraqiya-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
