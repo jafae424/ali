@@ -64,6 +64,41 @@ rtmp://149.202.206.50:1935/myapp/995?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,bein 3 france
 rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
+#EXTINF:-1,FR:BeIN_Sport1_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/473.ts
+#EXTINF:-1,FR:BeIN_Sport2_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/415.ts
+#EXTINF:-1,FR:BeIN_Sport3_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/414.ts
+#EXTINF:-1,FR:Canal_Sport_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/462.ts
+#EXTINF:-1,FR:GOLF_ Plus_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/3209.ts
+#EXTINF:-1,FR:EQUIDIA_LIVE_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2874.ts
+#EXTINF:-1,FR:Equidia_Life
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2873.ts
+#EXTINF:-1,FR:Foot+24/24
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/447.ts
+#EXTINF:-1,FR:GOLF+_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2266.ts
+#EXTINF:-1,FR:Infosport_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/485.ts
+#EXTINF:-1,FR:Motors_TV
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2789.ts
+#EXTINF:-1,FR:OL_TV
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/435.ts
+#EXTINF:-1,FR:OM_tv
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2675.ts
+#EXTINF:-1,FR:Lequipe_21_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2676.ts
+#EXTINF:-1,FR:Eurosport_1HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2790.ts
+#EXTINF:-1,FR:Eurosport2_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/448.ts
+#EXTINF:-1,FR:AB_Moteur_HD
+http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2265.ts
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 HD
 http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=1
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , bein Sport 2 HD
