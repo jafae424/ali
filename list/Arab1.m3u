@@ -217,7 +217,8 @@ http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hd
 EXTINF:-1,AR_Al_Maaref
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-
+#EXTINF:-1,AlMargeaia-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1688.ts
 #EXTINF:-1,Al-Ghadeer-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AlNaeem-TV
@@ -388,7 +389,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,Iraq-Future-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
+#EXTINF:-1,Naynawa-Alghad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1230.ts
 #EXTINF:-1,Baghdad-Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,Hona-Baghdadd
@@ -447,7 +449,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e
 
 #EXTINF:-1,Iraq-Today
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
+#EXTINF:-1,AlFarkdin-Iraq
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/725.ts
+#EXTINF:-1,AlMada-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/600.ts
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8
