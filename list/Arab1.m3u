@@ -484,6 +484,16 @@ http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
+#EXTINF:-1,LBC-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1948.&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Futuer-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,MTV-Lebnan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AlJadeed-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+
 
 #EXTINF:-1,LDC-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
