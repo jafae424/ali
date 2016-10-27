@@ -117,87 +117,9 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
 
 
-#EXTINF:-1,OSN-FOOD-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-E-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-DISENY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-DISENY-Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,OSN-National-Geo-Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-ANIMAL-PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-Discovery-Sc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN-DISCOVERY-ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,STAR-MOVIES-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,STAR-WORLD-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema-9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Home-Cinema10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,CINEMA-ARABIC-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,CINEMA-ARABIC-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,CINEMA-ARABIC-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,CINEMA-ARABIC-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,CINEMA-ARABIC-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,CINEMA-ARABIC-6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ART-AFLAM-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ART-AFLAM-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ART-Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ART-Hekayat-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ART-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-#EXTINF:0,Animal Planet RO
-http://37.187.159.132:6500/play/a01c
-#EXTINF:0,Cinemax2 RO
-http://37.187.159.132:6500/play/a01h
-#EXTINF:0,Discovery ID RO
-http://37.187.159.132:6500/play/a00p
-#EXTINF:0,Cinemax RO
-http://37.187.159.132:6500/play/a01g
-#EXTINF:0,Discovery Science RO
-http://37.187.159.132:6500/play/a00o
-#EXTINF:0,History RO
-http://37.187.159.132:6500/play/a016
-#EXTINF:0,Discovery RO
-http://37.187.159.132:6500/play/a013
+
 
 #EXTINF:-1,AR:AD NATGEO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -217,47 +139,6 @@ http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hd
 EXTINF:-1,AR_Al_Maaref
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tripoli/tripoli/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-#EXTINF:-1,AlMargeaia-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1688.ts
-#EXTINF:-1,Al-Ghadeer-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlNaeem-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlQamar-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlNoujaba-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlFayhaa-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlAqila-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Alkout-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Fedak-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1572.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Afaq-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlMasira-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlMaaref-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlMassar-Aloula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-
-#EXTINF:-1,AlAnwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Al-Anwar-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Al-Ahd-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ALETIHAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlForat-TV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,AlSoraat-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 EXTINF:-1,الفرقدين
 plugin://plugin.video.youtube/?action=play_video&videoid=BJ4bMCypZ_0
@@ -380,79 +261,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdn
 #EXTINF:-1,AR:IRAQIYA SPORT
  
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2023.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,Aliraqiya-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlIraqia-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ISHTAR-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Iraq-Future-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Naynawa-Alghad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1230.ts
-#EXTINF:-1,Baghdad-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Hona-Baghdadd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ALSHARQYA-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AL-SHARQIYA-iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ALSHARQYA-NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AL-RAFIDAIN-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Nilat-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Iraq-Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlDiyar-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Alhurra-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlSalam-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Iraq-Dijla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Iraq-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Asia-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,ANB-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Kaif-iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Iraqna-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Al-Anbar-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,Al-TurkMania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,KARBALA-IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Sumaria-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlMoustakila
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlMawsleya-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlBasra-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Alitejah-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlMargeaia-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlHouria-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-#EXTINF:-1,Iraq-Today
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AlFarkdin-Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/725.ts
-#EXTINF:-1,AlMada-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/600.ts
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8
