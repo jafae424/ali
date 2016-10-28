@@ -28,8 +28,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 #EXTINF:-1,RT US
 http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="thailand - תאילנד" tvg-logo="",FOX
-http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
+
 #EXTINF:0, NEWS MAX TV US
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
 #EXTINF:0,Russia Today America
