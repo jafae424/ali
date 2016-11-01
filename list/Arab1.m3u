@@ -662,14 +662,7 @@ http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 #EXTINF:-1, Ajmaan
 http://77.67.34.22/AJMAN_TV?gmswf=1334683153
 
-#EXTINF:-1,50- albahrin tv
-http://iaa.flashmediacast.com:2387/live/International/chunklist_w564757489.m3u8?v=1334683153
- 
-#EXTINF:-1,51- albahrin 44
-http://iaa.flashmediacast.com:2387/live/Channel-44/chunklist_w1545106196.m3u8?v=1334683153
- 
-#EXTINF:-1,52- albahrin 55
-http://iaa.flashmediacast.com:2387/live/Channel-55/chunklist_w1254468806.m3u8?v=1334683153
+
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
@@ -689,14 +682,7 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
 #EXTINF:-1,kuwait_sport plus
 http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
-#EXTINF:-1,Al Kass 1 HD (Qatar)
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_23s20.m3u8
-#EXTINF:-1,Al Kass 2 HD (Qatar)
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_23s20.m3u8
-#EXTINF:-1,Al Kass 4 HD (Qatar)
-http://alkass-i.akamaihd.net/hls/live/205534/4/live_30s20.m3u8
-#EXTINF:-1,Al Kass 5 HD (Qatar)
-http://alkass-i.akamaihd.net/hls/live/205534/5/live_15s20.m3u8
+
 ###############################################################
 
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
@@ -1142,15 +1128,14 @@ http://jafaer-tv.com
 #EXTINF:-1 tvg-logo="http://theattic.london/wp-content/uploads/2015/07/1426513625569.png", CNN 
 http://149.255.152.110/cnn/index.m3u8
 
-#EXTINF:-1,france 24 arabaic
+EXTINF:-1,france 24 arabaic
 rtmp://149.202.206.50:1935/myapp/972?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-#EXTINF:-1,العربية
+EXTINF:-1,العربية
 rtmp://149.202.206.50:1935/myapp/971?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-#EXTINF:-1,الجزيرة
+EXTINF:-1,الجزيرة
 rtmp://149.202.206.50:1935/myapp/968?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
-#EXTINF:-1,AR-AlJazeera-Mubasher
-http://195.12.170.154:8002/play/araljazeeramubasher 
+
 #EXTINF:-1,AR-AlJazeera
 http://199.167.151.237:1935/live/dub_1_ch1079/index.m3u8
 #EXTINF:-1,Aljazeera Mubashar
@@ -1191,8 +1176,7 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1,ALJAZEERA-Documentary  (QAT)    
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,ALJAZEERA-(Arabia)  (QAT)  
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
+
 #EXTINF:-1,ALJAZEERA-(Arabia)  (QAT)
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
 #EXTINF:-1,BBC ARABIA  (UK-)
@@ -1202,8 +1186,7 @@ http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,8
 #EXTINF:-1,DW Arabic 
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
-#EXTINF:-1,Aljazeera Doc (Qatar)
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
 #EXTINF:-1,Mubasher (Qatar)
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
 
@@ -1491,6 +1474,8 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 rtmp://38.96.148.30/live?v=1334683153/omantv4
 #EXTINF:-1,الجزيرة الوثائقية
 rtmp://149.202.206.50:1935/myapp/967?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Aljazeera Doc (Qatar)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:0 tvg-name="MTA 3 Arabic" tvg-language="Arabic" tvg-country="SA" tvg-id="MTA 3 Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvmak9Kv-uga14Nz52CckcdqTOWm0gyiOgkaOPs4kxeIW9YaR_XrSkVs" group-title="Documentary",MTA 3 Arabic (Documentary) (SA) (Arabic)
 http://mta1-lh.akamaihd.net/i/Arabic_1@123036/master.m3u8
