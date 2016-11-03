@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0,1#1 ★إهانة أب★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9d957a235d364dbc86d0f2710daeb172/b9bd35a48a574148a1228199f591935e/3000030823-txmhd_al-sadma--1--ep---1.mpegts/playlist-48b785b95c199986c3b6fa4babd784b7b1a1b4a3.m3u8
+#EXTINF:0,1#2 ★ الخادمة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/22d408fb0be44339af20176a6beb0795/7c5d072cfe86485594570855df8efa49/3000030824-txmhd_al-sadma--1--ep---2.mpegts/playlist-0868bfb3c7f838337c83e34f2a42923f26eb9bed.m3u8
+#EXTINF:0,1#3 ★متلازمة داون★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/66bc3be38b084b3689418ae2a02ccefa/b3168162f6974ab8a4b2eff37e54ed31/3000030825-txmhd_al-sadma--1--ep---3.mpegts/playlist-49e4fbde3e229277d94a98f6fbe9c1a3a2763473.m3u8
+#EXTINF:0,1#4 ★ سرقة كفيف★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/5424ab4ab6f24383924f50738cae5bb1/2e6446e638c04149a9a75a70016e828e/3000030826-txmhd_al-sadma--1--ep---4.mpegts/playlist-a42b0a4319d2760cf4cd090680545a0b0ad5f08c.m3u8
+#EXTINF:0,1#5 ★ القمامة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/520c3ae44e41451e953f8fbc2eefd843/a152323797904a1e8aaa2a0ae93a3b25/3000030827-txmhd_al-sadma--1--ep---5.mpegts/playlist-72843faed0d1418960a77afed273488c7a04f305.m3u8
+#EXTINF:0,1#6 ★اهانة أم★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/767ebb7ac09b46c9b9453eb58bde60aa/55a6f8a572634e21991c20e17e3d62aa/3000030828-txmhd_al-sadma--1--ep---6.mpegts/playlist-cd8b01aff3119d768e46630863f07bffe814463f.m3u8
+#EXTINF:0,1#7 ★ التحرش★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/d2ac230a3fbf4e3d94abaf6cc8b246a7/360a20e34e654ecd8c8b2e50335bcd92/3000030829-txmhd_al-sadma--1--ep---7.mpegts/playlist-8d3f72a8472057fada3fb355ab9109e3feda5651.m3u8
+#EXTINF:0,1#8 ★اهانة طفل بسبب درجاته ★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9f5e8d51d144464eaa188a0d7de2ca12/83ead91767934bf5a92ba765ed1e6ec3/3000030830-txmhd_al-sadma--1--ep---8.mpegts/playlist-90d1abb9d1d408dafdefd01b6ab1ac7a0196da5c.m3u8
+#EXTINF:0,1#9 ★ التدخين★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9b1257efd6e445b09eac619f1b6ab3bb/7c90dccc496941dca138d39e8a31cf7f/3000030831-txmhd_al-sadma--1--ep---9.mpegts/playlist-4bbe64cef0803ffd6f1eef796ccb19d762e7e4c6.m3u8
+#EXTINF:0,1#10 ★رجل كبير يسرق★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/0e287aa270e541489064a151715c5f59/0cde6b3ab98f42cf82c47827bea85a18/3000030832-txmhd_al-sadma--1--ep--10.mpegts/playlist-c1a81e40affbbcc26bfc0248441cf3c7a209c914.m3u8
+#EXTINF:0,1#11 ★الزوجة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9e7bf59095784c22893cf0a1f15e8180/e894b2b9a791425788913314e7048cca/3000030833-txmhd_al-sadma--1--ep--11.mpegts/playlist-56b7fb811da01e69f7e27aa52d363c29fc9e9e85.m3u8
+#EXTINF:0,1#12 ★تكاليف العلاج★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/344c41afbe6b4704be1aef8fa613c27b/bfc69ca36c69465dbead62e05fc26326/3000030834-txmhd_al-sadma--1--ep--12.mpegts/playlist-4eee4ce692f96a056b81451f5da60d80bbd1adba.m3u8
+#EXTINF:0,1#13 ★قصير القامة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/6d59c030eefc4d8ab2eb27791aa14bd6/6c24238dacae4da38144fb58f6454a29/3000030835-txmhd_al-sadma--1--ep--13.mpegts/playlist-1d4212fa87b75c36e4488dba606b786a823d18ae.m3u8
+#EXTINF:0,1#14 ★الطائفية★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/1a134929d71942729bc36798b17b6f86/d42e81bcc04640b5912a788e85d4ced1/3000030836-txmhd_al-sadma--1--ep--14.mpegts/playlist-983afa98af2199c0f3e39b904428558e737843d2.m3u8
+#EXTINF:0,1#15 ★ طرد مشرد★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/2614739cfadc497ba6d5d88b9410db05/0e218d1dd4fb42b092ba93dbd8d3f0f1/3000030837-txmhd_al-sadma--1--ep--15.mpegts/playlist-6db664d8b1fb73a62b34295d689a94d04204ebb0.m3u8
+#EXTINF:0,1#16 ★خطف طفلة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/be7f0a0b9ac14bc2aeb260f721577598/4708289e0d7643acb2b6938e179d0c8f/3000030840-txmhd_al-sadma--1--ep--18.mpegts/playlist-4d52b4072dae061df2356749590c1a359be7f666.m3u8
+#EXTINF:0,1#17 ★اهانة عامل★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9a21bd0963ab4d1eb20d452d72fd68d5/e7e0c5d4cdd34d17b001833cc02f2fac/3000030839-txmhd_al-sadma--1--ep--17.mpegts/playlist-0ba2c7407476cc1ec5e908e5b1ac7b24973a0f9a.m3u8
+#EXTINF:0,1#18 ★ سرقة لاب توب ★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/21aa903c3fbf4bf09da7c5c497192074/bccbc9c69ce24e26bdf468cffc595252/3000030841-txmhd_al-sadma--1--ep--19.mpegts/playlist-2d965dfc55b772cd429c536d84ab04fc47e524eb.m3u8
+#EXTINF:0,1#19 ★الصدمة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/d7438b15400c436b9cae4ad086d95b1e/d7ba5650bf8e4e08ae6abc6f2be5d881/3000030842-txmhd_al-sadma--1--ep--20.mpegts/playlist-adec2781ab41366a7c026af8d001d89768f9b69d.m3u8
+#EXTINF:0,1#20 ★ اهانة خادمة لطفلة ★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/4c84f8c71f684df1bbdd86ebb03ef344/7ee268a0aa2544398674f190f2338429/3000030838_al_sadma_ep20.mpegts/playlist-56558e727461b27e043af4dda7f4e6bdd1f2f86e.m3u8
+#EXTINF:0,1#21 ★ الحكم على المظهر ★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/cbd8e8319e154a99a071b150c2777e4b/dd8052d9e58d4a8aa9c7b6351bdbd628/3000030843-txmhd_al-sadma--1--ep--21_1.mpegts/playlist-03d0aec9c447078d84df7da6425c3dc0bb49d054.m3u8
+#EXTINF:0,1#22 ★ طفل غير مهذب ★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/4e95d90dc6d047c79ad507bc402de30c/7b71d623560d4f40b11f31eb5c7db991/3000030844-txmhd_al-sadma--1--ep--22.mpegts/playlist-dc8daa0b18fcba40d131a4372e54551ebd7fa6ad.m3u8
+#EXTINF:0,1#23 ★ التوحد★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/0611a4f6a34d4aa3b161a6ed0e74d0c8/323e44709cb04de9a163b6b498fc192b/3000030845-txmhd_al-sadma--1--ep--23.mpegts/playlist-07eeb46d2fc1f149b183916047f98c69c8151d6d.m3u8
+#EXTINF:0,1#24 ★ سرقة محفظة★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/02654fea60e341fd852acefdc454dbe0/cefbeab0024b4c4facc64ca03df61e84/3000030846-txmhd_al-sadma--1--ep--24.mpegts/playlist-f7c571b373f0dc27585787914640c53dda7166cd.m3u8
+#EXTINF:0,1#25 ★الزواج المبكر-زواج القاصرات★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/daea6298ab704b42a0bfe59462c83797/34724ad06ad947ed81372630182dadcc/3000030847-txmhd_al-sadma--1--ep--25_1.mpegts/playlist-511a47a6daa170080a94c5fbc93d85806048014d.m3u8
+#EXTINF:0,1#26 ★تخطي الصف-عربة تسوق★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/7de4f7ffee144e60b1d10c088dacbba3/bdbffa18db2c4ee8902f9000c5f68b74/3000030848-txmhd_al-sadma--1--ep--26.mpegts/playlist-4e856ce588fdc0dc42d379ae3bb3016dcae202dd.m3u8
+#EXTINF:0,1#27 ★شراء لعبة لطفل★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/a311e5d9bc53402b85d8e21e2e7448bf/1bde265d0a084224a90d154fa25a9879/3000030849-txmhd_al-sadma--1--ep--27.mpegts/playlist-da7161c99c8fd89caa49d6ce4636e0203334aee3.m3u8
+#EXTINF:0,1#28 ★ سرقة كاشير ★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/7277f31465a54333823ea6a6a8467152/b9311cfaf0d84b338772b71bbac66609/3000030850-txmhd_al-sadma--1--ep--28.mpegts/playlist-287d3a8e956bfdc59d7edad4ca8b9bc59230cc39.m3u8
+#EXTINF:0,1#29 ★ التلعثم★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/738b319a40d84a5ca88292fc9f26cc70/a8d95924028042f4a6583704f0541be2/3000030851-txmhd_al-sadma--1--ep--29.mpegts/playlist-7db3c6ee0d0db65aca382cf17f6a80be381a3ca5.m3u8
+#EXTINF:0,1#30 ★ الحشرية★
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/c0f324cbe3f64ebfa9c32b6d8f3cd4fb/bd1fc7ad39cf49ccb4671d45e1ee0241/3000030852-txmhd_al-sadma--1--ep--30.mpegts/playlist-67700862107cb2a96497b98576aafd85c21ec3aa.m3u8
