@@ -17,7 +17,7 @@
 <channels>
 
 <channel>
-      <name>[COLOR lime] سمر قند [/COLOR]</name>
+      <name>[COLOR red] سمر قند [/COLOR]</name>
   <thumbnail>https://pbs.twimg.com/profile_images/738503487529459713/KkV5ouRO_400x400.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
@@ -34,7 +34,7 @@
 <channels>
 
 <channel>
-      <name>[COLOR lime] ★★رامز بيلعب بالنار★★ [/COLOR]</name>
+      <name>[COLOR red] ★★رامز بيلعب بالنار★★ [/COLOR]</name>
   <thumbnail>http://shahid.mbc.net/mediaObject/thumbs/Ramez-Bil3ab-Bil-Nar-Thumb/original/Ramez-Bil3ab-Bil-Nar-Thumb.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
@@ -43,3 +43,19 @@
    
 </channel>
   </channels>
+
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR red] ساحرة الجنوب 2 [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+      <externallink></externallink> ##change haider
+
+   
+</channel>
+</channels>
