@@ -1,23 +1,23 @@
-
+#EXTM3U$ExtFilter="RTMP"
 
 
 #EXTM3U
-#EXTINF:0,1#1 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/573c320d958a4d4ba53e35bd1d735953/58428aefd73e4465954f8be41b5fe671/3000030763-txmhd.mpegts/playlist-a7537822fec2c5e62b2ebf2e9fcb017c500f71b0.m3u8
+#EXTINF:0,1#1 ★سمرقند★ الحلقة
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/573c320d958a4d4ba53e35bd1d735953/58428aefd73e4465954f8be41b5fe671/3000030763-txmhd.mpegts/playlist-a7537822fec2c5e62b2ebf2e9fcb017c500f71b0.m3u8|User-Agent=VLC
 #EXTINF:0,1#2 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/1c6a5a40827943ea8ca6c97c51e01f86/b0174586ae3d4634b2e84f50b36c4c72/samarqand_1.mpegts/playlist-4a52a1e1df0b0849a162c30fb8a2919a13652c44.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/1c6a5a40827943ea8ca6c97c51e01f86/b0174586ae3d4634b2e84f50b36c4c72/samarqand_1.mpegts/playlist-4a52a1e1df0b0849a162c30fb8a2919a13652c44.m3u8|User-Agent=VLC
 #EXTINF:0,1#3 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/c09b86141aeb4e3596c5c58989cf5e88/b1dc0721ec3b4c6e915b192e5eed5766/samarqand_s1_ep03_new.mpegts/playlist-acc9fcbe8d6b1b636e4268dfda95858a74ce40b6.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/c09b86141aeb4e3596c5c58989cf5e88/b1dc0721ec3b4c6e915b192e5eed5766/samarqand_s1_ep03_new.mpegts/playlist-acc9fcbe8d6b1b636e4268dfda95858a74ce40b6.m3u8|User-Agent=VLC
 #EXTINF:0,1#4 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/20368c2f06b34325ae2fa239a0ff7fec/2937019c847941fc951ebdfc8d8d8ed4/samarqand_s1_ep04_new.mpegts/playlist-2b70377937104ba345980093b3464c5a6e6a41d1.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/20368c2f06b34325ae2fa239a0ff7fec/2937019c847941fc951ebdfc8d8d8ed4/samarqand_s1_ep04_new.mpegts/playlist-2b70377937104ba345980093b3464c5a6e6a41d1.m3u8|User-Agent=VLC
 #EXTINF:0,1#5 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/64dc2e04656c41bd9fc78052a9a92942/7a1521061fc64059bfed4fce9fa2e06e/3000030768-samarqand_s1_ep05_new.mpegts/playlist-74ac5f5edcb4fe0be8d1e3d82276546f774f2e18.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/64dc2e04656c41bd9fc78052a9a92942/7a1521061fc64059bfed4fce9fa2e06e/3000030768-samarqand_s1_ep05_new.mpegts/playlist-74ac5f5edcb4fe0be8d1e3d82276546f774f2e18.m3u8|User-Agent=VLC
 #EXTINF:0,1#6 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/eade2194bb554b7caa9bfda01282ba43/d20f1dbc60b04715aa28ae0ff9b696d2/3000030768-samarqand_s1_ep06_new.mpegts/playlist-8a27d3546c15e02658cc72323a077ef4d5220a72.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/eade2194bb554b7caa9bfda01282ba43/d20f1dbc60b04715aa28ae0ff9b696d2/3000030768-samarqand_s1_ep06_new.mpegts/playlist-8a27d3546c15e02658cc72323a077ef4d5220a72.m3u8|User-Agent=VLC
 #EXTINF:0,1#7 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/d8d751cf21d4416692966f8f240cb553/83c2b09452fb4b4e93b04a6470d9080f/3000030769-txmhd_samarqand--1--ep---7.mpegts/playlist-fb45f80363c8424f6ec871b7a5a04fe3c5154718.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/d8d751cf21d4416692966f8f240cb553/83c2b09452fb4b4e93b04a6470d9080f/3000030769-txmhd_samarqand--1--ep---7.mpegts/playlist-fb45f80363c8424f6ec871b7a5a04fe3c5154718.m3u8|User-Agent=VLC
 #EXTINF:0,1#8 ★سمرقند★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/8776564e243741c49b77ba5ab150410a/055bda7399b842e09a161a039278d275/3000030770-txmhd_samarqand--1--ep---8.mpegts/playlist-7206f50065a3a1154df9d37b7e248131b1498be2.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/8776564e243741c49b77ba5ab150410a/055bda7399b842e09a161a039278d275/3000030770-txmhd_samarqand--1--ep---8.mpegts/playlist-7206f50065a3a1154df9d37b7e248131b1498be2.m3u8|User-Agent=VLC
 #EXTINF:0,1#9 ★سمرقند★
 http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/20f2523751264145a5f18bd06e41fa06/5e8184f8c8724c5888741269c2d70f5f/3000030771-txmhd_samarqand--1--ep---9.mpegts/playlist-0ac9e82711174ad6f963596ebf344dde8a2dfa2c.m3u8
 #EXTINF:0,1#10 ★سمرقند★
