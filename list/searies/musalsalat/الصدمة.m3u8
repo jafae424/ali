@@ -1,8 +1,10 @@
+#EXTM3U$ExtFilter="RTMP"
+
 #EXTM3U
 #EXTINF:0,1#1 ★إهانة أب★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9d957a235d364dbc86d0f2710daeb172/b9bd35a48a574148a1228199f591935e/3000030823-txmhd_al-sadma--1--ep---1.mpegts/playlist-48b785b95c199986c3b6fa4babd784b7b1a1b4a3.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9d957a235d364dbc86d0f2710daeb172/b9bd35a48a574148a1228199f591935e/3000030823-txmhd_al-sadma--1--ep---1.mpegts/playlist-48b785b95c199986c3b6fa4babd784b7b1a1b4a3.m3u8|User-Agent=VLC
 #EXTINF:0,1#2 ★ الخادمة★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/22d408fb0be44339af20176a6beb0795/7c5d072cfe86485594570855df8efa49/3000030824-txmhd_al-sadma--1--ep---2.mpegts/playlist-0868bfb3c7f838337c83e34f2a42923f26eb9bed.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/22d408fb0be44339af20176a6beb0795/7c5d072cfe86485594570855df8efa49/3000030824-txmhd_al-sadma--1--ep---2.mpegts/playlist-0868bfb3c7f838337c83e34f2a42923f26eb9bed.m3u8|User-Agent=VLC
 #EXTINF:0,1#3 ★متلازمة داون★
 http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/66bc3be38b084b3689418ae2a02ccefa/b3168162f6974ab8a4b2eff37e54ed31/3000030825-txmhd_al-sadma--1--ep---3.mpegts/playlist-49e4fbde3e229277d94a98f6fbe9c1a3a2763473.m3u8
 #EXTINF:0,1#4 ★ سرقة كفيف★
@@ -36,11 +38,11 @@ http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/9a21bd0963ab4d1
 #EXTINF:0,1#18 ★ سرقة لاب توب ★
 http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/21aa903c3fbf4bf09da7c5c497192074/bccbc9c69ce24e26bdf468cffc595252/3000030841-txmhd_al-sadma--1--ep--19.mpegts/playlist-2d965dfc55b772cd429c536d84ab04fc47e524eb.m3u8
 #EXTINF:0,1#19 ★الصدمة★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/d7438b15400c436b9cae4ad086d95b1e/d7ba5650bf8e4e08ae6abc6f2be5d881/3000030842-txmhd_al-sadma--1--ep--20.mpegts/playlist-adec2781ab41366a7c026af8d001d89768f9b69d.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/d7438b15400c436b9cae4ad086d95b1e/d7ba5650bf8e4e08ae6abc6f2be5d881/3000030842-txmhd_al-sadma--1--ep--20.mpegts/playlist-adec2781ab41366a7c026af8d001d89768f9b69d.m3u8|User-Agent=VLC
 #EXTINF:0,1#20 ★ اهانة خادمة لطفلة ★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/4c84f8c71f684df1bbdd86ebb03ef344/7ee268a0aa2544398674f190f2338429/3000030838_al_sadma_ep20.mpegts/playlist-56558e727461b27e043af4dda7f4e6bdd1f2f86e.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/4c84f8c71f684df1bbdd86ebb03ef344/7ee268a0aa2544398674f190f2338429/3000030838_al_sadma_ep20.mpegts/playlist-56558e727461b27e043af4dda7f4e6bdd1f2f86e.m3u8|User-Agent=VLC
 #EXTINF:0,1#21 ★ الحكم على المظهر ★
-http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/cbd8e8319e154a99a071b150c2777e4b/dd8052d9e58d4a8aa9c7b6351bdbd628/3000030843-txmhd_al-sadma--1--ep--21_1.mpegts/playlist-03d0aec9c447078d84df7da6425c3dc0bb49d054.m3u8
+http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/cbd8e8319e154a99a071b150c2777e4b/dd8052d9e58d4a8aa9c7b6351bdbd628/3000030843-txmhd_al-sadma--1--ep--21_1.mpegts/playlist-03d0aec9c447078d84df7da6425c3dc0bb49d054.m3u8|User-Agent=VLC
 #EXTINF:0,1#22 ★ طفل غير مهذب ★
 http://fdmd.shahid.net/media/fd/2fda1d3fd7ab453cad983544e8ed70e4/4e95d90dc6d047c79ad507bc402de30c/7b71d623560d4f40b11f31eb5c7db991/3000030844-txmhd_al-sadma--1--ep--22.mpegts/playlist-dc8daa0b18fcba40d131a4372e54551ebd7fa6ad.m3u8
 #EXTINF:0,1#23 ★ التوحد★
