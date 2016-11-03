@@ -112,10 +112,10 @@
 
 <channel>
       <name>[COLOR green]Jafaer-tv Arabic Series مسلسلات [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/images/kodi/Aflam%20Arabi.png</thumbnail>
+  <thumbnail>http://www.daynewsonline.com/wp-content/uploads/2015/11/0_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA.png</thumbnail>
 <fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink></externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/searies/seariesmain.xml</externallink> ##change haider
    
 </channel>
   </channels>
