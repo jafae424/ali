@@ -81,26 +81,9 @@
   </channels>
 
 
-  <channels>
-
-
-      <name>[COLOR red]Jafaer-tv latino TV List[/COLOR]</name>
-  <thumbnail>http://goo.gl/HJn2sR</thumbnail>
-<fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Latinolist</externallink>   
-   
-
-  
  
-      <name>[COLOR red]Jafaer-tv France TV List[/COLOR]</name>
-  <thumbnail>https://goo.gl/sg3rRq</thumbnail>
-<fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/francelist</externallink>   
 
-
-
+<channels>
 <channel>
       <name>[COLOR green] Jafaer-tv Cartoons [/COLOR]</name>
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
@@ -123,6 +106,19 @@
 </channel>
   </channels>
 
+
+
+<channels>
+
+<channel>
+      <name>[COLOR green]Jafaer-tv Arabic Series مسلسلات [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/images/kodi/Aflam%20Arabi.png</thumbnail>
+<fanart>http://jafaer-tv.com/images/kodi/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink> ##change haider
+   
+</channel>
+  </channels>
 ######
 
 
