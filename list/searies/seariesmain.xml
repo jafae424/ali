@@ -1,0 +1,45 @@
+
+<channels>
+
+<channel>
+      <name>[COLOR lime] Movies Cartoons [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/kids/KidsMovies.xml</externallink> ##change haider
+   
+</channel>
+  </channels>
+
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime] Other Movies Cartoons [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+      <externallink>http://pastebin.com/raw/aZY8QsdY</externallink> ##change haider
+
+   
+</channel>
+  </channels>
+
+
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime] Arabic [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/jafali/haider/master/list/kids/Arabiclist.xml</externallink> ##change haider
+
+   
+</channel>
+  </channels>
