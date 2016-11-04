@@ -222,7 +222,7 @@
 
 
 
-<item>
+
 <title>MBC 1 </title>
 <link>$doregex[final_m3u8]|User-Agent: iPhone</link>
 <regex>
@@ -243,7 +243,7 @@
 
 
 
-<item>
+
 <title>mbc-drama</title>
 <link>$doregex[final_m3u8]|User-Agent: iPhone</link>
 <regex>
