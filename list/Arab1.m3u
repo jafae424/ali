@@ -203,7 +203,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/4351.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,AR : OSN BBC FIRST HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/4355.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
+#EXTINF:-1,AR: OSN YAHALA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/983.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: OSN  Ya Hala! SHABAB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: OSN Movies Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: OSN MOVIE COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AR: NationalGeo AD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 #EXTINF:-1,ART-AFLAM-1
