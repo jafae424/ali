@@ -66,147 +66,51 @@ rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
 
-#EXTINF:-1,AR:beIN_Sports_1_HD,
+EXTINF:-1,AR:beIN_Sports_1_HD,
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_2_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_3_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_4_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_5_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_6_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_7_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_8_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_9_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2288.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_10_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,beIN_Sports_11_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_12_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_13_HD'
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_14_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_15_HD,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:beIN_Sports_16_HD,'
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD1-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD2-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2774.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD3-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2775.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD4-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2776.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD5-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD6-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2778.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD7-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,BeinSport-HD8-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2780.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD9-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2781.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR:BeinSport-HD10-B2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2782.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-
-
-#EXTINF:-1,bein1hd.jsc,AR:BEIN_SPORT1,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,bein2hd.jsc,AR:BEIN_SPORT2,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein3hd.jsc,AR:BEIN_SPORT3,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein4hd.jsc,AR:BEIN_SPORT4,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein5hd.jsc,AR:BEIN_SPORT5,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein6hd.jsc,AR:BEIN_SPORT6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein7hd.jsc,AR:BEIN_SPORT7,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein8hd.jsc,AR:BEIN_SPORT8,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein9hd.jsc,AR:BEIN_SPORT9,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein10hd.jsc,AR:BEIN_SPORT10,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein11hd.jsc,AR:BEIN_SPORT11,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-bein12hd.jsc,AR:BEIN_SPORT12,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:BeIN_Sport1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:BeIN_Sport2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:BeIN_Sport3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Canal_Sport_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:GOLF_ Plus_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/3209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:EQUIDIA_LIVE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2874.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Equidia_Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2873.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Foot+24/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:GOLF+_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Infosport_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Motors_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:OL_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:OM_tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Lequipe_21_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Eurosport_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:Eurosport2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,FR:AB_Moteur_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2265.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png" , bein Sport 1 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=1
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=1|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f9orI2GQtj4/VTEpclGNV_I/AAAAAAAABEE/lhWwYGf-Ry8/s1600/b2.png" , bein Sport 2 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=2
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=2|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-E5gGBwecb5U/VTEpJgDBB5I/AAAAAAAABDQ/oWWCY_GK50o/s1600/3.png" , bein Sport 3 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=3
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=3|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png" , bein Sport 4 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=4
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=4|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png" , bein Sport 5 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=5
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=5|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KFIrJx8Gw30/VTEpUV5LN6I/AAAAAAAABDw/o8Q5kr9GZCs/s1600/6.png" , bein Sport 6 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=6
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=6|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png" , bein Sport 7 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=7
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=7|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" , bein Sport 8 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=8
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YjffVzTg904/VTEpb52ZnQI/AAAAAAAABEI/RosIkm4Yps4/s1600/9.png" , bein Sport 9 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=9
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=9|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png" , bein Sport 10 HD
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=10
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=10|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png" , bein Sport 11 HD [EN]
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=11
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=11|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png" , bein Sport 12 HD [EN]
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=12
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=12|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png" ,bein Sport 1 HD [FR]
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=13
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=13|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s1600/BeinSportHD2fr.png" ,bein Sport 2 HD [FR]
-http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=14
+http://live-k24.rhcloud.com/BeinSport/BeinSport.m3u8?ch=14|User-Agent=VLC
+
 
 #EXTINF:-1,NBCSN
 http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
