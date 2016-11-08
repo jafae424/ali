@@ -489,8 +489,37 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
 
+#EXTINF:-1,Lebanon-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/6656.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4169.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4379.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,FUTURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4218.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,ALJADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4216.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,AL_JADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/6605.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,MTV-LEBANON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4219.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,MTV_Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/6621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,OTV-LEBANON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,ALAan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/3717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,ALMANAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/9015.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,ALMANARA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4215.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,NBN-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4170.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,NBN-TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/101010/101010/4161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
 #EXTINF:-1,LBC-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1948.&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,Futuer-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/attefvgytr/fgffssfgfd/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MTV-Lebnan
