@@ -36,7 +36,20 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 #EXTINF:-1,MBC 1 AR
 http://iptv.monkeycline.com:25461/live/jasne/jasne/6243.m3u8|User-Agent=VLC
-
+#EXTINF:-1,MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2031.ts
+#EXTINF:-1,MBC 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2032.ts
+#EXTINF:-1,MBC 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2033.ts
+#EXTINF:-1,MBC 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2034.ts
+#EXTINF:-1,MBC Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2037.ts
+#EXTINF:-1,MBC Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2036.ts
+#EXTINF:-1,MBC Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2035.ts
 
 
 EXTINF:-1,MBC_1
@@ -326,7 +339,22 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1,Otv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/788.ts
+#EXTINF:-1,NBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/778.ts
+#EXTINF:-1,Mtv-lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/819.ts
+#EXTINF:-1,Lbc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/472.ts
+#EXTINF:-1,Melody-classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/789.ts
+#EXTINF:-1,Manartv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/777.ts
+#EXTINF:-1,Heya-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/779.ts
+#EXTINF:-1,BeurTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/880.ts
 
 
 
