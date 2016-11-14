@@ -34,7 +34,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-
+#EXTINF:-1,MBC 1 AR
+http://iptv.monkeycline.com:25461/live/jasne/jasne/6243.m3u8
 
 
 EXTINF:-1,MBC_1
@@ -101,7 +102,34 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
 
 
-
+#EXTINF:-1,OSN-Movie-kids-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6258.ts
+#EXTINF:-1,OSN-Disney Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6256.ts
+#EXTINF:-1,OSN_MOVIES_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6262.ts
+#EXTINF:-1,OSN_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6261.ts
+#EXTINF:-1,OSN_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6260.ts
+#EXTINF:-1,OSN ON DEMAND EXTRA-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6255.ts
+#EXTINF:-1,OSN ON DEMAND EXTRA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6254.ts
+#EXTINF:-1,OSN ON DEMAND 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6253.ts
+#EXTINF:-1,OSN ON DEMAND 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6252.ts
+#EXTINF:-1,OSN Movies Festilval HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6251.ts
+#EXTINF:-1,OSN Movies Box Office 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6250.ts
+#EXTINF:-1,OSN Movies Box Office 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6249.ts
+#EXTINF:-1,OSN Movies Box Office 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6248.ts
+#EXTINF:-1,OSN Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6247.ts
 
 
 
