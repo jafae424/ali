@@ -220,10 +220,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN FOX ACTION HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN Fix Foxi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,OSN Fine Living
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+
 #EXTINF:-1,OSN ENTERTAINMENT! HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN ITV Choice HD
