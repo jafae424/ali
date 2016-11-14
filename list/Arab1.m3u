@@ -522,8 +522,32 @@ http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 #EXTINF:-1,Sada AL Balad Drama
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
-#EXTINF:-1,HD Drama
-http://72.88.202.45:9041
+
+#EXTINF:-1,masriya 2
+http://185.5.222.231:4242/bysid/5101
+ 
+ 
+#EXTINF:-1,AlNahar
+http://185.5.222.231:4242/bysid/5105
+ 
+#EXTINF:-1,AlNahar Drama
+http://185.5.222.231:4242/bysid/5106
+ 
+#EXTINF:-1,CBC Drama
+http://185.5.222.231:4242/bysid/5107
+ 
+#EXTINF:-1,CBC
+http://185.5.222.231:4242/bysid/5108
+ 
+#EXTINF:-1,CBC+2
+http://185.5.222.231:4242/bysid/5104
+ 
+#EXTINF:-1,CBC Extra
+http://185.5.222.231:4242/bysid/5109
+ 
+#EXTINF:-1,CBC Sofra
+http://185.5.222.231:4242/bysid/5110
+
 
 
 #EXTINF:-1,Al Hayat (Egypt)
