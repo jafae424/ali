@@ -35,7 +35,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 #EXTINF:-1,MBC 1 AR
-http://iptv.monkeycline.com:25461/live/jasne/jasne/6243.m3u8
+http://iptv.monkeycline.com:25461/live/jasne/jasne/6243.m3u8|User-Agent=VLC
+
 
 
 EXTINF:-1,MBC_1
