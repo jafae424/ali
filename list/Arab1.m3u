@@ -35,21 +35,25 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 #EXTINF:-1,MBC 1 AR
-http://iptv.monkeycline.com:25461/live/jasne/jasne/6243.m3u8|User-Agent=VLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2031.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Mbc Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2033.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2034.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2034.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2037.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2036.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,MBC Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2035.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2035.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 EXTINF:-1,MBC_1
@@ -107,7 +111,16 @@ http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1 group-title=”Arab”,MBC MAX
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 
-
+#EXTINF:-1,Art Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Art Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Art Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Art Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,Art Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 #EXTINF:-1, Ajyal هذه القناة تنقل لعبات مباشر
 http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
@@ -117,33 +130,33 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
 
 #EXTINF:-1,OSN-Movie-kids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6258.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6258.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN-Disney Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6256.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6256.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN_MOVIES_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6262.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6261.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6261.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6260.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6260.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN ON DEMAND EXTRA-2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6255.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6255.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN ON DEMAND EXTRA 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6254.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN ON DEMAND 2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6253.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN ON DEMAND 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6252.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6252.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN Movies Festilval HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6251.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN Movies Box Office 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6250.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6250.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN Movies Box Office 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6249.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6249.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN Movies Box Office 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6248.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,OSN Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6247.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
@@ -356,7 +369,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.
 #EXTINF:-1,BeurTv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/880.ts
 
-
+#EXTINF:-1,Future TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/140.ts
+#EXTINF:-1,LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/139.ts
+#EXTINF:-1,Aljadeed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/141.ts
+#EXTINF:-1,Mtv Leb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/137.ts
+#EXTINF:-1,Almanar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/870.ts
 
 EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
@@ -1144,6 +1166,30 @@ http://mta1-lh.akamaihd.net/i/Arabic_1@123036/master.m3u8
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
+
+#EXTINF:-1,Ajyal Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/1648.ts
+#EXTINF:-1,Jeem Eu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/1732.ts
+#EXTINF:-1,Semsem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/1600.ts
+#EXTINF:-1,Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/182.ts
+#EXTINF:-1,CN arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/184.ts
+#EXTINF:-1,Toyor Al Janah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/183.ts
+#EXTINF:-1,Toyor Baby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2472.ts
+#EXTINF:-1,SpaceToon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2030.ts
+
+
+
+
+
+
+
 
 EXTINF:-1,طيور الجنة
 rtmp://149.202.206.50:1935/myapp/974?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
