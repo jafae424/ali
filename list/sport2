@@ -1,42 +1,6 @@
 <streaminginfos>
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
-	<trackList>
-		<track>
-			<title>ext,,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2086.ts</title>
-			<location>ext,PT:Benfica_TV_1,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2072.ts</location>
-		</track>
-		<track>
-			<title>ext,PT:Benfica_TV_2,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2073.ts</title>
-			<location>ext,PT:Sporting_TV,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2071.ts</location>
-		</track>
-		<track>
-			<title>ext,PT:Sport_TV_5,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2070.ts</title>
-			<location>ext,PT:Sport_TV_4,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2069.ts</location>
-		</track>
-		<track>
-			<title>ext,PT:Sport_TV_3,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2068.ts</title>
-			<location>ext,PT:Sport_TV_2,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2067.ts</location>
-		</track>
-		<track>
-			<title>ext,PT:Sport_TV_1,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2066.ts</title>
-			<location>ext,PT:PORTO_CANAL,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/3191.ts</location>
-		</track>
-		<track>
-			<title>ext,PT:CHELSEA_TV,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2987.ts</title>
-			<location>ext,PT:REAL_MADRID_TV_HD,http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2971.ts</location>
-		</track>
-
-
-	</trackList>
-</playlist>
-
-<items>
-
-
-
-
-
-
+	
 
 <item>
 <title>This list from Jafaer-tv (The Iraqi List ) if you see this list somewhere else it's meant he stole it</title>
@@ -216,81 +180,7 @@ sublink:http://149.202.198.114:8000/play/beinshd2#</link>
 
 
 
-<item>
-<title>Bein Sport 3 </title>
-<link>
-sublink:http://80.243.182.106:8080/Bien/Bien3/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd3#</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Bein Sport 4 </title>
-<link>
-sublink:http://80.243.182.106:8080/Bien/Bien4/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd4#</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 5 </title>
-<link>
-sublink:http://80.243.182.106:8080/Bien/Bien5/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd5#</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 6 </title>
-<link>
-sublink:http://149.202.207.8:8080/bhensp-6/counter1/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd6#</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 7 </title>
-<link>
-sublink:http://149.202.207.8:8080/bhensp-7/counter1/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd7#</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 </title>
-<link>
-sublink:http://149.202.207.8:8080/bhensp-8/counter1/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd8#</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 9 </title>
-<link>sublink:http://149.202.207.8:8080/bhensp-9/counter1/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd9#</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 10 </title>
-<link>
-sublink:http://149.202.207.8:8080/bhensp-10/counter1/index.m3u8#
-<link>http://149.202.198.114:8000/play/beinshd10#</link>
-<thumbnail></thumbnail>
-</item>
-item>
-<title>Bein Sport 11 HD </title>
-<link>http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 12 HD  </title>
-<link>
-sublink:http://149.202.207.8:8080/bhensp-12/counter1/index.m3u8#
-sublink:http://149.202.198.114:8000/play/beinshd12#</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
@@ -334,7 +224,8 @@ sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 </regex>
 </item
 <item>
-<title> BEIN 2  ا</title>        
+
+title> BEIN 2  ا</title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -359,7 +250,7 @@ sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 </regex>
 </item>
 <item>
-<title>BEIN 3 </title>        
+title>BEIN 3 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -386,7 +277,7 @@ sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 
 
 <item>
-<title>BEIN 4 </title>        
+title>BEIN 4 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
@@ -412,7 +303,7 @@ sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 </item>
 
 
-<item>
+item>
 <title>BEIN fr 1 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
@@ -439,7 +330,7 @@ sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 </item>
 
 
-<item>
+item>
 <title>BEIN fr 2 </title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
@@ -471,17 +362,6 @@ sublink:http://149.202.198.114:8000/play/beinshd12#</link>
 
 
 
-
-
-<item>
-<title>AR:BEINSPORT 11 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/5046.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item>
-
-<item>
-<title>AR:BEINSPORT 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.248.96:11000/live/ali/ci6I9LPDGy/5047.ts|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</link>
-</item>
 
 
 
