@@ -30,9 +30,27 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 
 
+#EXTINF:-1,Bein 1
+http://149.202.207.8:8080/muKkHiYaa16bhensp-1/Strm/index.m3u8
 
-
-
+#EXTINF:-1,Bein 2
+http://149.202.207.8:8080/muKkHiYaa16bhensp-2/Strm/index.m3u8
+#EXTINF:-1,Bein 3
+http://149.202.207.8:8080/muKkHiYaa16bhensp-3/Strm/index.m3u8
+#EXTINF:-1,Bein 4
+http://149.202.207.8:8080/muKkHiYaa16bhensp-4/Strm/index.m3u8
+#EXTINF:-1,Bein 5
+http://149.202.207.8:8080/muKkHiYaa16bhensp-5/Strm/index.m3u8
+#EXTINF:-1,Bein 6
+http://149.202.207.8:8080/muKkHiYaa16bhensp-6/Strm/index.m3u8
+#EXTINF:-1,Bein 7
+http://149.202.207.8:8080/muKkHiYaa16bhensp-7/Strm/index.m3u8
+#EXTINF:-1,Bein 8
+http://149.202.207.8:8080/muKkHiYaa16bhensp-8/Strm/index.m3u8
+#EXTINF:-1,Bein 9
+http://149.202.207.8:8080/muKkHiYaa16bhensp-9/Strm/index.m3u8
+#EXTINF:-1,Bein 10
+http://149.202.207.8:8080/muKkHiYaa16bhensp-10/Strm/index.m3u8
 
 #EXTINF:-1,bein 1
 rtmp://149.202.206.50:1935/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
