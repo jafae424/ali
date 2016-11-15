@@ -16,13 +16,41 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
+#EXTINF:-1,AR: MBC_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/52.ts
+
+#EXTINF:-1,AR: MBC_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/211.ts
 
 
+#EXTINF:-1,AR: MBC_Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/209.ts
+#EXTINF:-1,AR: MBC_Masr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/210.ts
 
 
+#EXTINF:-1,MBC_MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.ts
+#EXTINF:-1,MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.ts
+#EXTINF:-1,MBC_DRAMA USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1786.ts
+#EXTINF:-1,AR:MBC DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.ts
+#EXTINF:-1,AR:MBC 3 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.ts
+#EXTINF:-1,AR:MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.ts
 
 
-
+#EXTINF:-1,ART_HEKAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1780.ts
+#EXTINF:-1,ART_HEKAYAT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1779.ts
+#EXTINF:-1,ART_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.ts
+#EXTINF:-1,ART_AFLAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.ts
 
 
 
@@ -242,13 +270,6 @@ http://iphone-streaming.ustream.tv/uhls/22155869/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1,AR:IRAQIYA
- 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
- 
-#EXTINF:-1,AR:IRAQIYA SPORT
- 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2023.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
@@ -264,9 +285,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdn
 
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
-http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8
+http://178.32.255.199:1935/live/ifilmar/playlist.m3u8
 #EXTINF:-1,IFILM eng
-http://efusion1-i.akamaihd.net/hls/live/252882/ifilmen/playlist.m3u8
+http://178.32.255.199:1935/live/ifilmen/playlist.m3u8
 
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
@@ -311,8 +332,7 @@ http://195.12.170.154:8002/play/armtvlebanon
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
 
-#EXTINF:-1,Future TV (Lebanon) 
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+
 
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
