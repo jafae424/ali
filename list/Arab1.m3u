@@ -16,6 +16,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
+#EXTINF:-1,MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/49.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/48.ts
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/47.ts
+#EXTINF:-1,MBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/41.ts
+
+
+
 #EXTINF:-1,AR: MBC_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/52.ts
 
