@@ -27,6 +27,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-
 
 
 
+
 #EXTINF:-1,AR: MBC_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/52.ts
 
@@ -62,9 +63,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.ts
 #EXTINF:-1,ART_AFLAM 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.ts
-
-
-
 
 
 
