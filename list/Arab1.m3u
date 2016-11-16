@@ -26,6 +26,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/41.ts
 
 
+#EXTINF:-1,AR: MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17888.ts
+#EXTINF:-1,AR: MBC Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17979.ts
+#EXTINF:-1,AR: MBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17980.ts
+
+
 
 
 #EXTINF:-1,AR: MBC_1
@@ -167,9 +175,11 @@ https://svs.itworkscdn.net/alimanlive/smil:imantv.smil/playlist.m3u8?poqw9waktae
 EXTINF:0,المهدي 
 http://178.18.29.201:9001/500/slot_5500.m3u8
 
+#EXTINF:-1,AR: Al Ghadeer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18119.ts
 
-
-
+#EXTINF:-1,AR: Al Itejah TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18112.ts
 
 #EXTINF:-1, Karbalaa كربلاء
 http://api.new.livestream.com/accounts/11436227/events/3998452?g=HMFVFDHNCADL&hdcore=3.6.0
@@ -225,8 +235,14 @@ rtmp://176.241.91.122:1935/live/ playpath=alahad swfUrl=http://ssl.p.jwpcdn.com/
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
 
 
+#EXTINF:-1,AR: Iraqia Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18004.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
+#EXTINF:-1,AR: Iraqia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18005.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
+#EXTINF:-1,AR: Dijlah TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18034.ts
 
 
 
@@ -308,6 +324,11 @@ http://178.32.255.199:1935/live/ifilmen/playlist.m3u8
 
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
+
+
+
+#EXTINF:-1,AR: Al Alam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18130.ts
 #EXTINF:0, قناة العالم
 rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS?ar.tviraq.net
 
@@ -337,9 +358,21 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
 
+#EXTINF:-1,AR: Lebanon Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17993.ts
+#EXTINF:-1,AR: LDC Backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17994.ts
+#EXTINF:-1,AR: LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17995.ts
+#EXTINF:-1,AR: LBC SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17996.ts
+#EXTINF:-1,AR: LBC Backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17997.ts
 
-
-
+#EXTINF:-1,AR: Future Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18012.ts
+#EXTINF:-1,AR: Funoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18013.ts
 
 
 EXTINF:-1,AR-Otv
@@ -1057,8 +1090,10 @@ rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1895.ts
 #EXTINF:-1,AR-Baraeem
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1896.ts
-
-
+#EXTINF:-1,AR: Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18052.ts
+#EXTINF:-1,AR: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18047.ts
 
 #EXTINF:-1, Taha tv
 rtmp://93.95.207.36:9200/livepkgr/livestream2&autoHideControlBar=true&streamType=live&autoPlay=true&verbose=true
