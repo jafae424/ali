@@ -231,6 +231,47 @@ rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alfor
 
 
 
+#EXTINF:-1,Al Forat
+http://38.99.146.70:7777/AlForat_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Anwar
+http://38.99.146.70:7777/AlAnwar_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Manar
+http://38.99.146.70:7777/AlManar_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Masar
+http://38.99.146.70:7777/AlMasar_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+
+
+#EXTINF:-1,Aliraqia 2
+http://38.99.146.70:7777/AlIraqia2_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Aliraqiya
+http://38.99.146.70:7777/AlIraqiya_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+
+
+
+#EXTINF:-1,Al Sumaria
+http://38.99.146.70:7777/Alsumaria_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Iraqiya Documentary
+http://38.99.146.70:7777/AlIraqAlTarbawiyah_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Sharqiya
+http://38.99.146.70:7777/AlSharqiya_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Sharqiya News
+http://38.99.146.70:7777/AlsharqiyaNews_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,AlBabeleyia
+http://38.99.146.70:7777/AlBabeleyia_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Beladi
+http://38.99.146.70:7777/Beladi_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Aldiyar
+http://38.99.146.70:7777/AldiyarSat_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Dejlah
+http://38.99.146.70:7777/Dejlah_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al-hurra Iraq
+http://38.99.146.70:7777/AlhurraIraq_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Al Fayhaa
+http://38.99.146.70:7777/AlFayhaa_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Ishtar
+http://38.99.146.70:7777/Ishtar_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+
+
 
 
 
@@ -343,7 +384,40 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+
+
+#EXTINF:-1,Al Lubnania
+http://38.99.146.70:7777/AlLubnania_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Aljadeed
+http://38.99.146.70:7777/AlJadeed_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Alan
+http://38.99.146.70:7777/AlAan_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,ANB
+http://38.99.146.70:7777/ANB_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,ANN
+http://38.99.146.70:7777/ANN_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Arabic Tv:Funoon
+http://android.bonradio.com:7777/Funoon_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Funoon
+http://38.99.146.70:7777/Funoon_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Future News
+http://38.99.146.70:7777/FutureNews_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Future TV
+http://38.99.146.70:7777/Future_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,FutureUSA
+http://38.99.146.70:7777/FutureUSA_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Lbc Europe
+http://38.99.146.70:7777/LBC_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,MTV
+http://38.99.146.70:7777/MTVLebanon_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,OTV Lebanon
+http://38.99.146.70:7777/OTV_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Tele Liban
+http://38.99.146.70:7777/TeleLiban_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+
+
+
 
 EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
@@ -1047,7 +1121,36 @@ http://mta1-lh.akamaihd.net/i/Arabic_1@123036/master.m3u8
 http://jafaer-tv.com
 
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+
+#EXTINF:-1,Ajyal
+http://38.99.146.70:7777/AjyalTV_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Aljazeera Children
+http://38.99.146.37:7777/AlJazeeraKid_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Cartoon Network
+http://38.99.146.37:7777/CNArabia_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Atfal wa Mawaheb
+http://38.99.146.37:7777/AtfalwaMawaheb_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Baraem
+http://38.99.146.37:7777/Baraem_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,HodHod
+http://38.99.146.37:7777/HodHod_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Sat7 Kid
+http://38.99.146.37:7777/Sat7Kid_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,SM SM KIDS
+http://38.99.146.37:7777/Semsem_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Space Power
+http://38.99.146.37:7777/SpacePower_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+3EXTINF:-1,Spacetoon
+http://38.99.146.37:7777/SpaceToonArabic_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Taha
+http://38.99.146.37:7777/Taha_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Toyor Al Janah
+http://38.99.146.37:7777/ToyorAlJanah_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Karameesh
+http://38.99.146.37:7777/Karameesh_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
+#EXTINF:-1,Koky Kids
+http://38.99.146.37:7777/Koky_Med.m3u8?session=60a24249189af52fed65298cee6f06edf9432bb4eb9a2b410fe313616fa96fdea299017ce29bf1aa
 
 
 
@@ -1058,7 +1161,10 @@ EXTINF:-1,Baraaem
 rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
-
+#EXTINF:-1,AR-CartoonNetwork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1895.ts
+#EXTINF:-1,AR-Baraeem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1896.ts
 
 
 
