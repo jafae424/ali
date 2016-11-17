@@ -676,82 +676,40 @@ http://lb218.cdn.mangomolo.com/218/smil:218.smil/chunklist_w1981601760_b450000_t
 
 #EXTINF:-1,النهار دراما
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w934305784.m3u8
+#EXTINF:0,AlNahar Drama
+http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
 #EXTINF:-1, النهاراليوم
 http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
 
 #EXTINF:-1,النهار Alnahar
 http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
-
 #EXTINF:-1,Al Nahar Cinema (Egypt)
 http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/index.m3u8
-
-
 #EXTINF:0,Melody aflam
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
 #EXTINF:-1,Melody Drama
 http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m3u8
-
 #EXTINF:-1,Melody Classic
 http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8
 #EXTINF:-1,KolalNas TV
 http://w2.mada.ps:1935/kolalnas/c1/playlist.m3u8
-11111111111111111111111111111111111
-EXTINF:-1,AR-Nile-Comedy
-http://195.12.170.154:8002/play/arnilecomedy
-EXTINF:-1,AR-Rotana-Aflem
-http://195.12.170.154:8002/play/arrotanaaflem
-EXTINF:-1,AR-Melody-classic
-http://195.12.170.154:8002/play/armelodyclassic
-EXTINF:-1,AR-Rotana
-http://195.12.170.154:8002/play/arrotana
-EXTINF:-1,AR-Nile-family
-http://195.12.170.154:8002/play/arnilefamily
-EXTINF:-1,AR-Nile-Drama
-http://195.12.170.154:8002/play/arniledrama
-EXTINF:-1,AR-Rotana Massrya HD
-http://195.12.170.154:8002/play/arrotanamassryahd
-EXTINF:-1,Rotana-classic HD
-http://195.12.170.154:8002/play/arrotanaclassichd
-EXTINF:-1,AR- Rotana Music HD
-http://195.12.170.154:8002/play/arrotanamusichd
-EXTINF:-1,AR-Medi-1TV
-http://195.12.170.154:8002/play/armedi1tv
-EXTINF:-1,AR-Panoram-Drama
-http://195.12.170.154:8002/play/arpanoramadrama
-EXTINF:-1,AR-Panorama-Drama2
-http://195.12.170.154:8002/play/arpanoramadrama2
-EXTINF:-1,AR-Panorama-food
-http://195.12.170.154:8002/play/arpanoramafood
-EXTINF:-1,AR-Star Cin1
-http://195.12.170.154:8002/play/arstarcin1
-EXTINF:-1,AR-Panorama action
-http://195.12.170.154:8002/play/arpanoramaaction
-EXTINF:-1,AR-Panorama-Drama2
-http://195.12.170.154:8002/play/arpanoramadrama2
-EXTINF:-1,AR-Time Film
-http://195.12.170.154:8002/play/artimefilm
-EXTINF:-1,Rotana-classic HD
-http://195.12.170.154:8002/play/arrotanaclassichd
-
-EXTINF:-1,AR-Tvtchad
-http://195.12.170.154:8002/play/artvtchad
-EXTINF:-1,AR-Rotana CLIP
-http://195.12.170.154:8002/play/arrotanaclip
-EXTINF:-1,AR-Time Taxi
-http://195.12.170.154:8002/play/artimetaxi
-EXTINF:-1,AR-Rotana-Cinema HD
-http://195.12.170.154:8002/play/arrotanacinemahd
-EXTINF:-1,AR-Time comedy
-http://195.12.170.154:8002/play/artimecomedy
-EXTINF:-1,AR-RotanaKhaliji HD
-http://195.12.170.154:8002/play/arrotanakhalijihd 
-
-
+#EXTINF:-1,Al Hayat (Egypt)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:-1,Al Hayat 2 (Egypt)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+#EXTINF:-1,El Mehwar TV (Egypt)
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
+#EXTINF:-1,Mekameleen (Egypt)
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
+#EXTINF:-1,Misr 25 (Egypt)
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1,Sat7 1 Arabic (Egypt)
+http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
 
 
-EXTINF:0,AlNahar Drama
-http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
+
+
+
 
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
@@ -901,8 +859,10 @@ http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
 #EXTINF:-1,Echorouk-News
 rtmp://live.metacdn.com/2050C7/bnhtsirgq/echorouk-news_396
-
-
+#EXTINF:-1,Algeria CNA
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+#EXTINF:-1,Dzair News (Algeria)
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_news/hls_video/dzair_news-video=1562800-audio_AACL_und_65200_120=65200.m3u
 
 #EXTINF:-1,Echorouk الشروق
 http://htp.brasilia.me/iptv/ch719?code=460011131604165
@@ -997,6 +957,44 @@ http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1269102975.m3u8
 
 #EXTINF:-1,Musawa
 http://46.43.64.190:1935/musawa/musawa/playlist.m3u8
+
+
+#EXTINF:-1,Kurdistan TV
+http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
+ 
+#EXTINF:-1,NRT 1 HD (Kurdistan)
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/chunklist_w76649285.m3u8
+ 
+#EXTINF:-1,NRT 2 HD (Kurdistan)
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
+ 
+#EXTINF:-1,KNN (Kurdistan)
+http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
+ 
+#EXTINF:-1,Kanal 4 (Kurdistan)
+http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u8
+ 
+#EXTINF:-1,Gem Kurd (Kurdistan)
+http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
+ 
+#EXTINF:-1,TRT Kurdi HD (Kurdistan)
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-b.m3u8?sd=10&rebase=on&hdntl=
+ 
+#EXTINF:-1,ViN TV (Kurdistan)
+http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+ 
+#EXTINF:-1,Waar (Kurdistan)
+http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
+ 
+#EXTINF:-1,Kurdmax HD (Kurdistan)
+http://live.kurdstream.net:1935/liveTrans/myStream_360p/playlist.m3u8
+ 
+#EXTINF:-1,Rudaw HD (Kurdistan)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+
+
+
 
 
 EXTINF:-1,جزائرية 
