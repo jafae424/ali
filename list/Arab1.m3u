@@ -16,15 +16,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
-#EXTINF:-1,AR:MBC 1 HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.m3u8
-
+#EXTINF:-1,MBC 1 HD
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.m3u8|User-Agent=VLC
 #EXTINF:-1,AR:MBC DRAMA HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.m3u8
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.m3u8|User-Agent=VLC
 #EXTINF:-1,MBC_MASR 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.m3u8
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.m3u8|User-Agent=VLC
 #EXTINF:-1,MBC_MASR
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.m3u8
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.m3u8|User-Agent=VLC
 
 #EXTINF:-1,AR:MBC 3 hd
 http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.m3u8
