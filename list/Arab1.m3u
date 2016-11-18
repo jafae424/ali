@@ -16,6 +16,32 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
+#EXTINF:-1,AR:MBC 1 HD
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.m3u8
+
+#EXTINF:-1,AR:MBC DRAMA HD
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.m3u8
+#EXTINF:-1,MBC_MASR 2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.m3u8
+#EXTINF:-1,MBC_MASR
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.m3u8
+
+#EXTINF:-1,AR:MBC 3 hd
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.m3u8
+
+
+
+#EXTINF:-1,ART_HEKAYAT 2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1780.m3u8
+#EXTINF:-1,ART_HEKAYAT 1
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1779.m3u8
+#EXTINF:-1,ART_CINEMA
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.m3u8
+#EXTINF:-1,ART_AFLAM 2
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.m3u8
+
+
+
 #EXTINF:-1,MBC MASR 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/49.ts
 #EXTINF:-1,MBC MASR
@@ -49,28 +75,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.211.201:8888/live/capitan/capitan/210.ts
 
 
-#EXTINF:-1,MBC_MASR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.ts
-#EXTINF:-1,MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.ts
-#EXTINF:-1,MBC_DRAMA USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1786.ts
-#EXTINF:-1,AR:MBC DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.ts
-#EXTINF:-1,AR:MBC 3 hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.ts
-#EXTINF:-1,AR:MBC 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.ts
 
-
-#EXTINF:-1,ART_HEKAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1780.ts
-#EXTINF:-1,ART_HEKAYAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1779.ts
-#EXTINF:-1,ART_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.ts
-#EXTINF:-1,ART_AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.ts
 
 
 
@@ -421,7 +426,6 @@ http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
-
 
 
 #EXTINF:-1,AR: Lebanon Tv
