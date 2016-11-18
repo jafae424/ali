@@ -143,27 +143,12 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
 &amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-#EXTINF:-1,AR: OSN Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsale.info:8889/live/taki/taki/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: OSN Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsale.info:8889/live/taki/taki/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: OSN Movies Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsale.info:8889/live/taki/taki/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: OSN Movies Festival HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsale.info:8889/live/taki/taki/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: OSN Movies Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsale.info:8889/live/taki/taki/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,AR: OSN On Demand
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsale.info:8889/live/taki/taki/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 
 
 
-
-
-
-#EXTINF:-1,AR:AD NATGEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.com/1b9e6gw6/5ufpva27/2148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
