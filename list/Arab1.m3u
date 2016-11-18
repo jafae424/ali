@@ -17,27 +17,23 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 |User-Agent=VLC
 
 #EXTINF:-1,MBC 1 HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.m3u8|User-Agent=VLC
-#EXTINF:-1,AR:MBC DRAMA HD
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.m3u8|User-Agent=VLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.m3u8|User-Agent=VLC
+#EXTINF:-1,MBC DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.m3u8|User-Agent=VLC
 #EXTINF:-1,MBC_MASR 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.m3u8|User-Agent=VLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.m3u8|User-Agent=VLC
 #EXTINF:-1,MBC_MASR
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.m3u8|User-Agent=VLC
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.m3u8|User-Agent=VLC
 #EXTINF:-1,AR:MBC 3 hd
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.m3u8
-
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.m3u8
 #EXTINF:-1,ART_HEKAYAT 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1780.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1780.m3u8
 #EXTINF:-1,ART_HEKAYAT 1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1779.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1779.m3u8
 #EXTINF:-1,ART_CINEMA
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.m3u8
 #EXTINF:-1,ART_AFLAM 2
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.m3u8
 
 
 
