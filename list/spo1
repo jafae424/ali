@@ -29,28 +29,32 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 
 
+#EXTINF:-1,BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1412.ts
+#EXTINF:-1,BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1413.ts
+#EXTINF:-1,BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8679.ts
+#EXTINF:-1,BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8680.ts
+#EXTINF:-1,BEIN SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8681.ts
+#EXTINF:-1,BEIN SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8682.ts
+#EXTINF:-1,BEIN SPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8683.ts
+#EXTINF:-1,BEIN SPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8684.ts
+#EXTINF:-1,BEIN SPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8685.ts
+#EXTINF:-1,BEIN SPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8686.ts
+#EXTINF:-1,BEIN SPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8687.ts
 
-#EXTINF:-1,Bein 1
-http://149.202.207.8:8080/muKkHiYaa16bhensp-1/Strm/index.m3u8
 
-#EXTINF:-1,Bein 2
-http://149.202.207.8:8080/muKkHiYaa16bhensp-2/Strm/index.m3u8
-#EXTINF:-1,Bein 3
-http://149.202.207.8:8080/muKkHiYaa16bhensp-3/Strm/index.m3u8
-#EXTINF:-1,Bein 4
-http://149.202.207.8:8080/muKkHiYaa16bhensp-4/Strm/index.m3u8
-#EXTINF:-1,Bein 5
-http://149.202.207.8:8080/muKkHiYaa16bhensp-5/Strm/index.m3u8
-#EXTINF:-1,Bein 6
-http://149.202.207.8:8080/muKkHiYaa16bhensp-6/Strm/index.m3u8
-#EXTINF:-1,Bein 7
-http://149.202.207.8:8080/muKkHiYaa16bhensp-7/Strm/index.m3u8
-#EXTINF:-1,Bein 8
-http://149.202.207.8:8080/muKkHiYaa16bhensp-8/Strm/index.m3u8
-#EXTINF:-1,Bein 9
-http://149.202.207.8:8080/muKkHiYaa16bhensp-9/Strm/index.m3u8
-#EXTINF:-1,Bein 10
-http://149.202.207.8:8080/muKkHiYaa16bhensp-10/Strm/index.m3u8
+
+
 
 #EXTINF:-1,bein 1
 rtmp://149.202.206.50:1935/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
@@ -83,36 +87,7 @@ rtmp://149.202.206.50:1935/myapp/995?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
-#EXTINF:-1,BEIN-S1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/528.ts
-#EXTINF:-1,BEIN-S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/529.ts
-#EXTINF:-1,BEIN-S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/530.ts
-#EXTINF:-1,BEIN-S4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/531.ts
-#EXTINF:-1,BEIN-S5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/532.ts
-#EXTINF:-1,BEIN-S6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/533.ts
-#EXTINF:-1,BEIN-S7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/534.ts
-#EXTINF:-1,BEIN-S8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/535.ts
-#EXTINF:-1,BEIN-S9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/536.ts
-#EXTINF:-1,BEIN-S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/537.ts
-#EXTINF:-1,BEIN-S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/538.ts
-#EXTINF:-1,BEIN-S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/539.ts
-#EXTINF:-1,BEIN-S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/540.ts
-#EXTINF:-1,BEIN-S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/541.ts
-#EXTINF:-1,BEIN-S16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/enigma2/enigma2/543.ts
+
 EXTINF:-1,AR:beIN_Sports_1_HD,
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
