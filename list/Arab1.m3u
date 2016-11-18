@@ -147,7 +147,88 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 
-
+#EXTINF:0,OSN: YAHALA SHABAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14965.ts
+#EXTINF:0,OSN: Yahala HD Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14966.ts
+#EXTINF:0,OSN: STAR GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14969.ts
+#EXTINF:0,OSN: SPORT AlKASS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14944.ts
+#EXTINF:0,OSN: SPORT AlKASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14942.ts
+#EXTINF:0,OSN: seris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14970.ts
+#EXTINF:0,OSN: ORBIT CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14957.ts
+#EXTINF:0,OSN: ORBIT CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14956.ts
+#EXTINF:0,OSN: ON DEMAND EXTRA-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14951.ts
+#EXTINF:0,OSN: ON DEMAND 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14948.ts
+#EXTINF:0,OSN: NAT GEO ABUDUBAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14943.ts
+#EXTINF:0,OSN: Movies-star-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14971.ts
+#EXTINF:0,OSN: Movies-FESTIVAL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14972.ts
+#EXTINF:0,OSN: Movies-AMC-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14973.ts
+#EXTINF:0,OSN: Movies Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14958.ts
+#EXTINF:0,OSN: MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14946.ts
+#EXTINF:0,OSN: Movies Festilval HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14952.ts
+#EXTINF:0,OSN: MOVIES DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14945.ts
+#EXTINF:0,OSN: Movies Box Office 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14955.ts
+#EXTINF:0,OSN: Movies Box Office 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14954.ts
+#EXTINF:0,OSN: Movies Box Office 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14953.ts
+#EXTINF:0,OSN: Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14974.ts
+#EXTINF:0,OSN: MOVIES ACTION 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14947.ts
+#EXTINF:0,OSN: MOVIES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14960.ts
+#EXTINF:0,OSN: Movie-kids-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14963.ts
+#EXTINF:0,OSN: Movie Premier  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14975.ts
+#EXTINF:0,OSN: FIRST COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14959.ts
+#EXTINF:0,OSN: Fann
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14976.ts
+#EXTINF:0,OSN: Discovery-Science-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14964.ts
+#EXTINF:0,OSN: CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14978.ts
+#EXTINF:0,OSN: CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14977.ts
+#EXTINF:0,OSN: ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14980.ts
+#EXTINF:0,OSN: Art Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14979.ts
+#EXTINF:0,OSN: Art Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14981.ts
+#EXTINF:0,OSN: ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14983.ts
+#EXTINF:0,OSN: ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14982.ts
+#EXTINF:0,OSN: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14967.ts
+#EXTINF:0,OSN: alyoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14984.ts
+#EXTINF:0,OSN-Star-World-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14961.ts
+#EXTINF:0,OSN ON DEMAND EXTRA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14950.ts
+#EXTINF:0,OSN ON DEMAND 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/14949.ts
 
 
 
