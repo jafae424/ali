@@ -14,6 +14,27 @@
 <channels>
 
 
+<item>
+<title>[COLOR darkturquoise]Tutte le sigle dei cartoni animati '70 '80 '90 '00 '10[/COLOR]</title>
+<thumbnail>http://static.televisionando.it/r/845X0/www.televisionando.it/img/sigle-dei-cartoni-animati.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/O5kfMUeXsPA/maxresdefault.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://static.televisionando.it/r/845X0/www.televisionando.it/img/sigle-dei-cartoni-animati.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/O5kfMUeXsPA/maxresdefault.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLgTLZSbwbEZzd6UKkKMZlS8Ymv9mP8nud</page>
+<cookieJar></cookieJar>
+</regex>
+</item>	
+	
+	
+	
 
 <item>
 <title>Donald Duck, Mickey Mouse, Pluto, Goofy Cartoons : 5 HOURS NON-STOP!</title>
