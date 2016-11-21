@@ -16,24 +16,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
-#EXTINF:-1,MBC 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1788.ts|User-Agent=VLC
-#EXTINF:-1,MBC DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1787.ts|User-Agent=VLC
-#EXTINF:-1,MBC_MASR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1777.ts|User-Agent=VLC
-#EXTINF:-1,MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1778.ts|User-Agent=VLC
-#EXTINF:-1,AR:MBC 3 hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1789.ts
-#EXTINF:-1,ART_HEKAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1780.ts
-#EXTINF:-1,ART_HEKAYAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1779.ts
-#EXTINF:-1,ART_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1800.ts
-#EXTINF:-1,ART_AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1799.ts
 
 
 
@@ -1045,10 +1027,14 @@ EXTINF:-1,Baraaem
 rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
-#EXTINF:-1,AR-CartoonNetwork
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1895.ts
-#EXTINF:-1,AR-Baraeem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1896.ts
+
+#EXTINF:-1,Ajyal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/218.ts
+#EXTINF:-1,SPACETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/219.ts
+#EXTINF:-1,KARAMEESH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/239.ts
+
 #EXTINF:-1,AR: Baraem
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18052.ts
 #EXTINF:-1,AR: Cartoon Network
