@@ -29,10 +29,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/41.ts
 
 
+#EXTINF:-1,MBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17888.ts
 
-
-
-
+#EXTINF:-1,Mbc-MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/390.ts
 
 
 
@@ -106,7 +107,48 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-
+#EXTINF:-1,OSN_MOVIES_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1124.ts
+#EXTINF:-1,OSN_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1123.ts
+#EXTINF:-1,OSN_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1122.ts
+#EXTINF:-1,OSN-YAHALA-SHABAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1121.ts
+#EXTINF:-1,OSN-Yahala-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1120.ts
+#EXTINF:-1,OSN-YAHAlA-DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1119.ts
+#EXTINF:-1,OSN-YAHALA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1118.ts
+#EXTINF:-1,OSN-ORBIT-CINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1116.ts
+#EXTINF:-1,OSN-ORBIT-CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1117.ts
+#EXTINF:-1,OSN-On-Demand-Extra-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1114.ts
+#EXTINF:-1,OSN-OFFICBOX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1111.ts
+#EXTINF:-1,OSN-OFFICBOX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1112.ts
+#EXTINF:-1,OSN-Movies-Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1110.ts
+#EXTINF:-1,OSN-Movie-kids-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1109.ts
+#EXTINF:-1,OSN-MBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1108.ts
+#EXTINF:-1,OSN-ELYOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1107.ts
+#EXTINF:-1,OSN-Discovery-Science-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1106.ts
+#EXTINF:-1,OSN-DISCOVERY-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1105.ts
+#EXTINF:-1,OSN-COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1104.ts
+#EXTINF:-1,OSN-Animal-Planet-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1103.ts
+#EXTINF:-1,OSN-ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/1102.ts
 
 
 
@@ -977,6 +1019,40 @@ rtmp://149.202.206.50:1935/myapp/939?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 #EXTINF:-1,EL_HADDAF
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/480.ts
 
+#EXTINF:-1,Tunisia1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/368.ts
+#EXTINF:-1,Tunisia2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/369.ts
+#EXTINF:-1,Ettounisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/370.ts
+#EXTINF:-1,Nessma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/372.ts
+#EXTINF:-1,Hannibal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/371.ts
+#EXTINF:-1,Attessia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/375.ts
+#EXTINF:-1,Tunisna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/374.ts
+#EXTINF:-1,Aljanoubia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/376.ts
+#EXTINF:-1,Tnn-Tunisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/378.ts
+#EXTINF:-1,Almutawasit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/383.ts
+#EXTINF:-1,Zaytouna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/380.ts
+#EXTINF:-1,Telvza-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/373.ts
+#EXTINF:-1,M-tunisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/379.ts
+#EXTINF:-1,Firs-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/377.ts
+
+
+
+
+
+
 
 #####3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4106.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -1027,8 +1103,8 @@ rtmp://149.202.206.50:1935/myapp/974?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 EXTINF:-1,Baraaem
 rtmp://149.202.206.50:1935/myapp/977?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-
-
+#EXTINF:-1,jeem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/18003.ts
 
 #EXTINF:-1,Ajyal
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/218.ts
