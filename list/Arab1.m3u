@@ -39,8 +39,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-
 
 
 
-
-
 EXTINF:-1,MBC_1
 rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 EXTINF:-1,mbc masar 1
@@ -976,6 +974,10 @@ EXTINF:-1,الزيتونة
 rtmp://149.202.206.50:1935/myapp/939?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
+#EXTINF:-1,EL_HADDAF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/480.ts
+
+
 #####3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4106.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
@@ -1039,6 +1041,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18052.ts
 #EXTINF:-1,AR: Cartoon Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18047.ts
+
+#EXTINF:-1,AR: Mody Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/17970.ts
+
 
 #EXTINF:-1, Taha tv
 rtmp://93.95.207.36:9200/livepkgr/livestream2&autoHideControlBar=true&streamType=live&autoPlay=true&verbose=true
