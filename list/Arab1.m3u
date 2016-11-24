@@ -1056,7 +1056,8 @@ rtmp://lb.miplayer.net:1935/goLive/_definst_/looney_jqy5j25e
 #EXTINF:-1,Sat7 Kids (Egypt)
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 
-
+#EXTINF:-1,Old Cartoons tv
+mms://72.13.93.186/animatedfilms
 
 
 
