@@ -29,30 +29,6 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 
 
-#EXTINF:-1,BEIN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1412.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/1413.ts
-#EXTINF:-1,BEIN SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8679.ts
-#EXTINF:-1,BEIN SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8680.ts
-#EXTINF:-1,BEIN SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8681.ts
-#EXTINF:-1,BEIN SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8682.ts
-#EXTINF:-1,BEIN SPORT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8683.ts
-#EXTINF:-1,BEIN SPORT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8684.ts
-#EXTINF:-1,BEIN SPORT 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8685.ts
-#EXTINF:-1,BEIN SPORT 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8686.ts
-#EXTINF:-1,BEIN SPORT 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/8687.ts
-
-
 
 
 
@@ -92,24 +68,47 @@ EXTINF:-1,AR:beIN_Sports_1_HD,
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
-#EXTINF:-1,NBCSN
-http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
-#EXTINF:-1,ESPN
-http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
-#EXTINF:-1,FOX SPORT
-http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
-#EXTINF:-1,FS 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
-#EXTINF:-1,FS 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
-#EXTINF:-1,NBA TV
-http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
-#EXTINF:-1,MLB NETWORK
-http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
-#EXTINF:-1,SPORTS
-http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
-#EXTINF:-1,WWE
-http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
+
+
+#EXTINF:-1,AR: beinHD Sports HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/1.ts
+#EXTINF:-1,AR: beinHD Sports HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/2.ts
+#EXTINF:-1,AR: beinHD Sports HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/3.ts
+#EXTINF:-1,AR: beinHD Sports HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/4.ts
+#EXTINF:-1,AR: beinHD Sports HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/5.ts
+#EXTINF:-1,AR: beinHD Sports HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/6.ts
+#EXTINF:-1,AR: beinHD Sports HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/7.ts
+#EXTINF:-1,AR: beinHD Sports HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/8.ts
+#EXTINF:-1,AR: beinHD Sports HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/9.ts
+#EXTINF:-1,AR: beinHD Sports HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/10.ts
+#EXTINF:-1,AR: beinHD Sports HD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/11.ts
+#EXTINF:-1,AR: beinHD Sports HD12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/12.ts
+#EXTINF:-1,AR: beinHD Sports HD13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/13.ts
+#EXTINF:-1,AR: beinHD Sports HD14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/14.ts
+#EXTINF:-1,AR: beinHD Sports HD15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/15.ts
+#EXTINF:-1,AR: beinHD Sports HD16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/16.ts
+#EXTINF:-1,AR: beinHD Sports HD17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/2837.ts
+
+
+
+
+
 
 
 
