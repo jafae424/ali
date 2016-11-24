@@ -29,7 +29,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-
 #EXTINF:-1,MBC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/525/525/17888.ts
 
-
+#EXTINF:-1,AR: MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/1955.ts
+#EXTINF:-1,AR: Mbc Masr  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/2464.ts
+#EXTINF:-1,AR: MBC  Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/308.ts
 
 
 
