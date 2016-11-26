@@ -128,6 +128,112 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 
 
 
+#EXTINF:-1,AR: OSN YA Shabab HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2259.ts
+#EXTINF:-1,AR: OSN travel channel hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2280.ts
+#EXTINF:-1,AR: OSN STAR WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2275.ts
+#EXTINF:-1,AR: OSN SPORTS2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2281.ts
+#EXTINF:-1,AR: OSN Premier2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2270.ts
+#EXTINF:-1,AR: OSN ONDEMAND1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2271.ts
+#EXTINF:-1,AR: OSN ONDEMAND EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2262.ts
+#EXTINF:-1,AR: OSN On-Deman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2263.ts
+#EXTINF:-1,AR: OSN ON DEMAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2261.ts
+#EXTINF:-1,AR: OSN Movies star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2264.ts
+#EXTINF:-1,AR: OSN Movies Kids HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2265.ts
+#EXTINF:-1,AR: OSN MOVIES FESTIVAL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2269.ts
+#EXTINF:-1,AR: OSN Movies Festilval HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2268.ts
+#EXTINF:-1,AR: OSN Movies Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2266.ts
+#EXTINF:-1,AR: OSN Movies Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2267.ts
+#EXTINF:-1,AR: OSN HAHALA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2260.ts
+#EXTINF:-1,AR: OSN FIRST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2274.ts
+#EXTINF:-1,AR: OSN FIRST COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2273.ts
+#EXTINF:-1,AR: OSN fann
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2258.ts
+#EXTINF:-1,AR: OSN DISNEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2276.ts
+#EXTINF:-1,AR: OSN Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2279.ts
+#EXTINF:-1,AR: OSN cinma1 By 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2282.ts
+#EXTINF:-1,AR: OSN STAR MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2277.ts
+#EXTINF:-1,AR: OSN amc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2278.ts
+#EXTINF:-1,AR: OSN  AR: OSN Movies2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/2272.ts
+#EXTINF:-1,AR: OSN_Yahala_Shabab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1401.ts
+#EXTINF:-1,AR: bein movie1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1397.ts
+#EXTINF:-1,AR: Bein-Movies-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1389.ts
+#EXTINF:-1,AR: bein movie4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1402.ts
+#EXTINF:-1,AR: OSN_Yahala_Drama_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1403.ts
+#EXTINF:-1,AR: MBC Pro Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1396.ts
+#EXTINF:-1,AR: MBC Pro Sport 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1395.ts
+#EXTINF:-1,AR: MBC Pro Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1394.ts
+#EXTINF:-1,AR: Dubai-Racing-3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1393.ts
+#EXTINF:-1,AR: OSN_NAT_GEO_WILD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1390.ts
+#EXTINF:-1,AR: OSN_Movies_Premiere_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1404.ts
+#EXTINF:-1,AR: OSN_Movies_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1405.ts
+#EXTINF:-1,AR: MBC Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1391.ts
+#EXTINF:-1,AR: OSN_Movies_Box_Office_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1410.ts
+#EXTINF:-1,AR: OSN_Movies_Box_Office_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1411.ts
+#EXTINF:-1,AR: OSN_Movies_Box_Office_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1412.ts
+#EXTINF:-1,AR: OSN_Movies_Action_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1406.ts
+#EXTINF:-1,AR: OSN_Movies_Action_2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1407.ts
+#EXTINF:-1,AR: OSN_MBC_Drama_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1408.ts
+#EXTINF:-1,AR: OSN_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1400.ts
+#EXTINF:-1,AR: OSN_Cinema_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1398.ts
+#EXTINF:-1,AR: OSN_Cinema_2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1399.ts
+#EXTINF:-1,AR: OSN_ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1392.ts
+#EXTINF:-1,AR: OSN_Al_youm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/nomi/nomi/1409.ts
+
+
+
+
+
+
+
+
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 http:jafaertv.com
 #EXTINF:0,الايمان
