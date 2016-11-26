@@ -70,45 +70,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-visi
 
 
 
-#EXTINF:-1,AR: beinHD Sports HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/1.ts
-#EXTINF:-1,AR: beinHD Sports HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/2.ts
-#EXTINF:-1,AR: beinHD Sports HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/3.ts
-#EXTINF:-1,AR: beinHD Sports HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/4.ts
-#EXTINF:-1,AR: beinHD Sports HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/5.ts
-#EXTINF:-1,AR: beinHD Sports HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/6.ts
-#EXTINF:-1,AR: beinHD Sports HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/7.ts
-#EXTINF:-1,AR: beinHD Sports HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/8.ts
-#EXTINF:-1,AR: beinHD Sports HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/9.ts
-#EXTINF:-1,AR: beinHD Sports HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/10.ts
-#EXTINF:-1,AR: beinHD Sports HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/11.ts
-#EXTINF:-1,AR: beinHD Sports HD12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/12.ts
-#EXTINF:-1,AR: beinHD Sports HD13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/13.ts
-#EXTINF:-1,AR: beinHD Sports HD14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/14.ts
-#EXTINF:-1,AR: beinHD Sports HD15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/15.ts
-#EXTINF:-1,AR: beinHD Sports HD16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/16.ts
-#EXTINF:-1,AR: beinHD Sports HD17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/george/george/2837.ts
 
-
-
-
-
+#EXTINF:-1,BEIN SPORT HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN SPORT HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN SPORT HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
