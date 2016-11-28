@@ -267,9 +267,6 @@ http://178.32.255.199:1935/live/ifilmen/playlist.m3u8
 http://jafaer-tv.com
 
 
-
-#EXTINF:-1,AR: Al Alam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.29.203:9900/live/Julian/Julian/18130.ts
 #EXTINF:0, قناة العالم
 rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS?ar.tviraq.net
 
@@ -405,6 +402,8 @@ http://38.96.148.30:1935/live/omantv1/playlist.m3u8
 
 #EXTINF:-1,qatar tv
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
+#EXTINF:-1,قطر اليوم
+http://185.5.222.231:4242/bysid/5103
 
 #EXTINF:-1,Kuwait_1
 http://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream/playlist.m3u8
@@ -541,7 +540,6 @@ http://185.5.222.231:4242/bysid/5107
  
 #EXTINF:-1,CBC
 http://185.5.222.231:4242/bysid/5108
- 
 #EXTINF:-1,CBC+2
 http://185.5.222.231:4242/bysid/5104
  
