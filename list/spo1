@@ -118,7 +118,30 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?Vd?u#bt!25
 
 
 
