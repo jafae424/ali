@@ -129,6 +129,19 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1,ART HEKAYAT ZAMANE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/21.ts
+#EXTINF:-1,ART HEKAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/22.ts
+#EXTINF:-1,ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/20.ts
+#EXTINF:-1,ART AFLAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/18.ts
+#EXTINF:-1,ART AFLAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/19.ts
 #EXTINF:-1,Cinema-osn-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/800.ts
 #EXTINF:-1,Cinema-osn2
@@ -339,6 +352,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sof
 #EXTINF:-1,AR: MTV Lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17968.ts
 
+#EXTINF:-1,AR Lbc Libanon 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/2054.ts
+#EXTINF:-1,AR Future
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/2059.ts
 EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
 EXTINF:-1,AR-NBN
