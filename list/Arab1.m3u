@@ -18,26 +18,36 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-#EXTINF:-1,MBC1
+
+
+
+
+
+
+
+
+
+
+EXTINF:-1,MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-#EXTINF:-1,MBC-kIDS
+EXTINF:-1,MBC-kIDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
-#EXTINF:-1,Mbc-MASR
+EXTINF:-1,Mbc-MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Mbc-MASR2
+EXTINF:-1,Mbc-MASR2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-#EXTINF:-1,Mbc-Drama
+EXTINF:-1,Mbc-Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
 
-EXTINF:-1,AR: MBC Variety HD
+#EXTINF:-1,AR: MBC Variety HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17974.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-EXTINF:-1,AR: MBC Drama HD
+#EXTINF:-1,AR: MBC Drama HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17979.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
-EXTINF:-1,AR: MBC 1 HD
+#EXTINF:-1,AR: MBC 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17888.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 
@@ -316,19 +326,19 @@ http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1,Alaan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
-#EXTINF:-1,Otv
+EXTINF:-1,Otv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/788.ts
-#EXTINF:-1,NBN
+EXTINF:-1,NBN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/778.ts
-#EXTINF:-1,Mtv-lebanon
+EXTINF:-1,Mtv-lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/819.ts
-#EXTINF:-1,Lbc
+EXTINF:-1,Lbc
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/472.ts
-EXTINF:-1,AR: NBN
+#EXTINF:-1,AR: NBN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17966.ts
-EXTINF:-1,AR: MTV Lebanon Backup
+#EXTINF:-1,AR: MTV Lebanon Backup
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17967.ts
-EXTINF:-1,AR: MTV Lebanon
+#EXTINF:-1,AR: MTV Lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17968.ts
 
 EXTINF:-1,AR-Otv
@@ -989,9 +999,6 @@ rtmp://149.202.206.50:1935/myapp/938?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 EXTINF:-1,الزيتونة
 rtmp://149.202.206.50:1935/myapp/939?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
-
-#EXTINF:-1,EL_HADDAF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://evolive-tv.com:8000/live/majid/majid/480.ts
 
 
 
