@@ -26,8 +26,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-
-
 EXTINF:-1,MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
