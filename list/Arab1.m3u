@@ -273,17 +273,15 @@ http://stream.joinvisions.net:1935/taglive/taghier/hasbahca.m3u8
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
-rtmp://stream.joinvisions.net/dij//dij
+rtmp://91.134.145.75:1935 playpath=Dijlah?speed=1 swfUrl=http://91.134.145.75:10001/flu/FlussonicAS3.swf?t=1480687434144 pageUrl=http://91.134.145.75:10001/Dijlah/embed.html?dvr=true <objectEncoding>
+
+
 
 #EXTINF:0,الموصلية
 http://iphone-streaming.ustream.tv/uhls/22155869/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-
-
-
 
 
 
