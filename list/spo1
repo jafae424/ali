@@ -80,6 +80,36 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sof
 
 
 
+#EXTINF:-1,BEIN-S1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
+#EXTINF:-1,BEIN-S16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/ge176/ge176/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
 EXTINF:-1,AR: beINSport 1 HD IPTVUltra.com [720x480]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
