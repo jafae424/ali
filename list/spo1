@@ -71,6 +71,98 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-visi
 
 
 
+
+
+#EXTINF:-1,BEIN_SPORTS_1_HD_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/186.ts
+#EXTINF:-1,BEIN_SPORTS_1_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2788.ts
+#EXTINF:-1,BEIN_SPORTS_2_HD_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/188.ts
+#EXTINF:-1,BEIN_SPORTS_2_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2789.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/189.ts
+#EXTINF:-1,BEIN_SPORTS_3_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2790.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/266.ts
+#EXTINF:-1,BEIN_SPORTS_4_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2839.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/267.ts
+#EXTINF:-1,BEIN_SPORTS_5_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2840.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/268.ts
+#EXTINF:-1,BEIN_SPORTS_6_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2841.ts
+#EXTINF:-1,BEIN_SPORTS_HD7_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/7.ts
+#EXTINF:-1,BEIN_SPORTS_7_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2889.ts
+#EXTINF:-1,BEIN_SPORTS_HD8_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/8.ts
+#EXTINF:-1,BEIN_SPORTS_8_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2890.ts
+#EXTINF:-1,BEIN_SPORTS_HD9_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/9.ts
+#EXTINF:-1,BEIN_SPORTS_9_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/2891.ts
+#EXTINF:-1,BEIN_SPORTS_HD10_AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/10.ts
+#EXTINF:-1,beINSPORT11_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/1798.ts
+#EXTINF:-1,beINSPORT12_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/1799.ts
+#EXTINF:-1,BEIN SPORTS 1 HEVC H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/3705.ts
+#EXTINF:-1,BEIN SPORTS 2 HEVC H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/3706.ts
+#EXTINF:-1,BEIN SPORTS 3 HEVC H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/3707.ts
+#EXTINF:-1,BEIN SPORTS 4 HEVC H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/3708.ts
+#EXTINF:-1,BEIN SPORTS 5 HEVC H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/3709.ts
+#EXTINF:-1,BEIN_SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/3882.ts
+#EXTINF:-1,BEINSPORT1_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/388.ts
+#EXTINF:-1,BEINSPORT_2SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/389.ts
+#EXTINF:-1,BEINSPORT_3SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/390.ts
+#EXTINF:-1,BEINSPORT_4SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/391.ts
+#EXTINF:-1,BEINSPORT_5SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/392.ts
+#EXTINF:-1,BEINSPORT_6SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/393.ts
+#EXTINF:-1,BEINSPORT_7SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/394.ts
+#EXTINF:-1,BEINSPORT_8SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/395.ts
+#EXTINF:-1,BEINSPORT9_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/396.ts
+#EXTINF:-1,BEINSPORT_10SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/akdim/akdim/397.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,BEIN SPORT HD9
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 #EXTINF:-1,BEIN SPORT HD8
