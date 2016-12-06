@@ -127,7 +127,6 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 
 
 
-
 #EXTINF:-1,ART HEKAYAT ZAMANE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/21.ts
 #EXTINF:-1,ART HEKAYAT 2
