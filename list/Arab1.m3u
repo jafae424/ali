@@ -22,6 +22,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
+#EXTINF:-1,AR | MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2338.ts
+
 #EXTINF:-1,MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
@@ -154,6 +157,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.t
 
 
 
+#EXTINF:-1,AR | AJYAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2331.ts
+#EXTINF:-1,AR | ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2332.ts
 
 
 
@@ -341,6 +348,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sof
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/2054.ts
 #EXTINF:-1,AR Future
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/2059.ts
+
+#EXTINF:-1,AR | LBC INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2363.ts
+
+
 EXTINF:-1,AR-Otv
 http://195.12.170.154:8002/play/arotv
 EXTINF:-1,AR-NBN
@@ -1096,7 +1108,40 @@ mms://72.13.93.186/animatedfilms
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
-
+#EXTINF:-1,UK: UK Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4212.ts
+#EXTINF:-1,UK: NickToo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4216.ts
+#EXTINF:-1,UK: Cbeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4225.ts
+#EXTINF:-1,uk: CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4226.ts
+#EXTINF:-1,uk: Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/998.ts
+#EXTINF:-1,UK: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/5299.ts
+#EXTINF:-1,uk: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/1028.ts
+#EXTINF:-1,uk: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/1029.ts
+#EXTINF:-1,local: UK NickToons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/935.ts
+#EXTINF:-1,UK: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/197.ts
+#EXTINF:-1,UK: Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/198.ts
+#EXTINF:-1,UK: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/184.ts
+#EXTINF:-1,UK: Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/196.ts
+#EXTINF:-1,UK: Dinseny Channel UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/185.ts
+#EXTINF:-1,UK: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/199.ts
+#EXTINF:-1,local: UK Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/946.ts
+#EXTINF:-1,local: UK Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/936.ts
 ######
 
 
