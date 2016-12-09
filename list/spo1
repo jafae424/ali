@@ -11,15 +11,22 @@
 http://s2.iptvapi.com
 
 
-
+#EXTINF:-1,Abu Dabi Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
 
-#EXTINF:-1,Al-Kass
-http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
 
 
