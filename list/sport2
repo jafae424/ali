@@ -37,7 +37,7 @@ http://</link>
 
 
 <item>
-<title>[COLOR lime]bein sports pack[/COLOR]</title>
+<title>[COLOR lime]bein sports pack قنوات شغالة[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/showsport-tv.com.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://s2.postimg.org/5duygnhcp/Bein_Sports_HD.png</thumbnail>
@@ -161,21 +161,16 @@ item>
 </regex>
 </item>
 
-item>
-<title>Bein Sport 1 </title>
-<link>http://149.202.207.8:8080/bein-1-20616/local/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
-item>
+
+########
 <title>Bein Sport 2 </title>
 <link>
 sublink:http://149.202.207.8:8080/bein-12-20616/local/index.m3u8#
 sublink:http://149.202.198.114:8000/play/beinshd2#</link>
 <thumbnail></thumbnail>
-</item>
 
-
+###########3
 
 
 
