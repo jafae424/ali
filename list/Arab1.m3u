@@ -22,9 +22,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-#EXTINF:-1,AR | MBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2338.ts
-
 #EXTINF:-1,MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
@@ -537,6 +534,19 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
 #EXTINF:-1,kuwait_sport plus
 http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,Abu Dabi Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
 ###############################################################
 
