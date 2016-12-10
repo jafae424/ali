@@ -19,9 +19,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-
-
-
+#EXTINF:-1,MBC-1
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:-1,MBC Variety HD
+http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
 #EXTINF:-1,MBC1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/388.ts|User-Agent=VLC
 
@@ -30,6 +31,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.t
 
 #EXTINF:-1,Mbc-MASR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/390.ts|User-Agent=VLC
+#EXTINF:-1,Mbc-MASR 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/391.ts|User-Agent=VLC
 #EXTINF:-1,Mbc-Drama
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/392.ts|User-Agent=VLC
