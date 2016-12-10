@@ -3614,7 +3614,7 @@ src=[",'].*([".'])
 </regex>
 </item>
 
-<item>
+
 <title> 4</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=mbc4</link>
 <regex>
@@ -3639,27 +3639,7 @@ src=[",'].*([".'])
 
 
 
-<item>
-<title>Honabgdad</title>
-<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=honabgdad</link>
-<regex>
-<name>file</name>
-<expres>video  src="([^"]+)</expres>
-<page>http://hls.alwhdat.net/ios-smil/honabgdad.smil?$doregex[get-epoc]</page>
-<referer>http://alwhdat.net/</referer>
-</regex>
-<regex>
-<name>rtmp</name>
-<expres>meta base="([^"]+)</expres>
-<page>http://hls.alwhdat.net/ios-smil/honabgdad.smil?$doregex[get-epoc]</page>
-<referer>http://alwhdat.net/</referer>
-</regex>
-<regex>
-  <name>get-epoc</name>
-  <expres>$epoctime$</expres>
-  <page></page>
-</regex>
-</item>
+
 
 
 
@@ -3688,21 +3668,7 @@ src=[",'].*([".'])
 
 
 
-<item>
-<title>Youtube Rock Playlist</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[pl-video-title-link.*href="\/watch\?v=(.*?)&.*?>\W*(.*?)\n]]></expres>
-<page>https://www.youtube.com/playlist?list=PL3485902CC4FB6C67</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 
 
 <item>	
