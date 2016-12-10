@@ -17,10 +17,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 |User-Agent=VLC
 
 
-
-
+#EXTINF:-1,MBC drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
 #EXTINF:-1,MBC-1
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:-1,MBC masar 1
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
+#EXTINF:-1,MBC masar 2
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
 #EXTINF:-1,MBC Variety HD
 http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
 #EXTINF:-1,MBC1
