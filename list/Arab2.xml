@@ -3389,12 +3389,12 @@ src=[",'].*([".'])
 
 
 <item>	
-<title>national-geographic-abu-dhabi</title>
+<title>national geographic abu-dhabi</title>
 <link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
 <regex>
 <name>get_url</name>
 <expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
-<page>https://www.arablive-tv.com/video/national-geographic-abu-dhabi-live-streaming-en-direct</page>
+<page>https://livetvhd.net/embed/national-geographic-abu-dhabi-live-streaming-en-direct</page>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
 <referer>https://www.arablive-tv.com/</referer>
 </regex>
