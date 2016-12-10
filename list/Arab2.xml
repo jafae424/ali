@@ -2863,45 +2863,8 @@ src=[",'].*([".'])
 
 
 
-<streaminginfo>
-        <cname>Future TV</cname>
-        <item>
-            <title>Future TV</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=future&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
 
-<streaminginfo>
-        <cname>LBC</cname>
-        <item>
-            <title>LBC</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-          <streaminginfo>
+          
 <streaminginfo>
   <cname>Future TV</cname>
   <item>
@@ -2965,48 +2928,7 @@ src=[",'].*([".'])
 
 
 
-   <streaminginfo>
-        <cname>Aljadeed</cname>
-        <item>
-            <title>Aljadeed<title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
 
-<streamingInfos>
-    
-<streaminginfo>
-        <cname>Dzair tv</cname>
-        <item>
-            <title>Dzair tv</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>http://iptv-planet.com/dzair_tv.php
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/dzair_tv.php</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-</streaminginfo>
-    
  
 <item>
   <title>ميلودي افلام</title>
@@ -3466,8 +3388,17 @@ src=[",'].*([".'])
 
 
 
-
-
+<item>	
+<title>national-geographic-abu-dhabi</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://www.arablive-tv.com/video/national-geographic-abu-dhabi-live-streaming-en-direct</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
 
 
 
