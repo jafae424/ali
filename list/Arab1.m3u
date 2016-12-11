@@ -130,18 +130,6 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
-
-
-#EXTINF:-1,ART HEKAYAT ZAMANE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/21.ts|User-Agent=VLC
-#EXTINF:-1,ART HEKAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/22.ts|User-Agent=VLC
-#EXTINF:-1,ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/20.ts|User-Agent=VLC
-#EXTINF:-1,ART AFLAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/18.ts|User-Agent=VLC
-#EXTINF:-1,ART AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/19.ts|User-Agent=VLC
 #EXTINF:-1,Cinema-osn-1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/800.ts|User-Agent=VLC
 #EXTINF:-1,Cinema-osn2
@@ -346,10 +334,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sof
 #EXTINF:-1,AR: MTV Lebanon
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17968.ts|User-Agent=VLC
 
-#EXTINF:-1,AR Lbc Libanon 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/2054.ts|User-Agent=VLC
-#EXTINF:-1,AR Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/2059.ts|User-Agent=VLC
+
 
 #EXTINF:-1,AR | LBC INT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2363.ts|User-Agent=VLC
@@ -1030,27 +1015,6 @@ rtmp://149.202.206.50:1935/myapp/939?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
 
-#EXTINF:-1,AL OULA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/32.ts|User-Agent=VLC
-#EXTINF:-1,2M MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/31.ts|User-Agent=VLC
-#EXTINF:-1,AR: Medi1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/931.ts|User-Agent=VLC
-#EXTINF:-1,AL OULA LAAYOUNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/666.ts|User-Agent=VLC
-#EXTINF:-1,ARRIADIA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/33.ts|User-Agent=VLC
-#EXTINF:-1,ARRABIA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/34.ts|User-Agent=VLC
-#EXTINF:-1,ALMAGHRIBIA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/35.ts|User-Agent=VLC
-#EXTINF:-1,ASSADISA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/415.ts|User-Agent=VLC
-#EXTINF:-1,AR ALGERIE Tamazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/walid/walid123/941.ts|User-Agent=VLC
-
-
-
 
 #####3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4106.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
@@ -1124,41 +1088,7 @@ mms://72.13.93.186/animatedfilms
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
-#EXTINF:-1,UK: UK Nick JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4212.ts|User-Agent=VLC
-#EXTINF:-1,UK: NickToo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4216.ts|User-Agent=VLC
-#EXTINF:-1,UK: Cbeebies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4225.ts|User-Agent=VLC
-#EXTINF:-1,uk: CBBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/4226.ts|User-Agent=VLC
-#EXTINF:-1,uk: Nick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/998.ts|User-Agent=VLC
-#EXTINF:-1,UK: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/5299.ts|User-Agent=VLC
-#EXTINF:-1,uk: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/1028.ts|User-Agent=VLC
-#EXTINF:-1,uk: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/1029.ts|User-Agent=VLC
-#EXTINF:-1,local: UK NickToons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/935.ts|User-Agent=VLC
-#EXTINF:-1,UK: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/197.ts|User-Agent=VLC
-#EXTINF:-1,UK: Nick Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/198.ts|User-Agent=VLC
-#EXTINF:-1,UK: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/184.ts|User-Agent=VLC
-#EXTINF:-1,UK: Discovery History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/196.ts|User-Agent=VLC
-#EXTINF:-1,UK: Dinseny Channel UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/185.ts|User-Agent=VLC
-#EXTINF:-1,UK: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/199.ts|User-Agent=VLC
-#EXTINF:-1,local: UK Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/946.ts|User-Agent=VLC
-#EXTINF:-1,local: UK Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/saif/saif/936.ts|User-Agent=VLC
-######
+
 
 
 
