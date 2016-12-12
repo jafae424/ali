@@ -562,8 +562,10 @@ http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
 http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8
 #EXTINF:-1,Time Film
 http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
-#EXTINF:-1,Melody Aflam
-http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
+
+#EXTINF:-1,Melody Aflam ميلودي افلام
+http://198.100.156.87/hls/melody_aflam.m3u8?e=1481551590&st=OI-Iv_Qj8i_L6WRRbybFJA 
+
 #EXTINF:-1,Melody Classic
 http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8
 #EXTINF:-1,Musalsalat HD
