@@ -60,34 +60,8 @@ EXTINF:-1,mbc masar 2
 rtmp://149.202.206.50:1935/myapp/989?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
-
-EXTINF:-1, MBC 1
-rtmp://5.189.130.147:1935/live/mbc11
-EXTINF:-1,AR-MBC1 HD
-http://195.12.170.154:8002/play/armbc1hd
-
-EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBC Masr1
-rtmp://5.189.130.147:1935/live/mbcmasr11
-EXTINF:-1,Arabic: MBC Maser
-
-
-EXTINF:-1,[COLOR red]MBC1  [/COLOR]
-http://216.66.42.84:7777/MBC1_High.flv
-
-
-EXTINF:-1 tvg-logo="http://goo.gl/R6WR3o", MBCMasrPlus1
-http://38.99.146.38:7777/MBCMaser_High.flv
-EXTINF:-1,MBCMasrPlus2
-http://216.66.42.84:7777/MBCMasrPlus2_High.flv
-
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
-EXTINF:-1,AR-Mbc2HD
-http://195.12.170.154:8002/play/armbc2hd
-EXTINF:-1,Arabic: MBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/13.ts
-EXTINF:-1,AR-MBC-3 HD
-http://195.12.170.154:8002/play/armbc3hd
 
 
 #EXTINF:-1,MBC 4
@@ -149,10 +123,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.t
 
 
 
-#EXTINF:-1,AR | AJYAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2331.ts|User-Agent=VLC
-#EXTINF:-1,AR | ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2332.ts|User-Agent=VLC
 
 
 
