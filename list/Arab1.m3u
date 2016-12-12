@@ -1062,6 +1062,13 @@ http://mta1-lh.akamaihd.net/i/Arabic_1@123036/master.m3u8
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
 
+
+
+#EXTINF:-1,mbc3
+http://yooanime.com/stream/MBC3_HD/MBC3_High.m3u8?user=sgls4zm0abuainauq0bxqaborcfn&session=18d255f6314069b72a9043b05d1f8b80d952ae1b58c24a624fdbdbaafe26c522bdc509ca2e9e6f424ea4f2df6a3ab12dbdcd668f28b322d8&hlsid=HTTP_ID_6848749&group_id=-1&starttime=20161202T165449.403852
+
+
+
 #EXTINF:-1,AR: Mody Kids
 http://live.softiptv.com:9900/live/3month/3month/17970.m3u8|User-Agent=VLC
 
