@@ -3395,6 +3395,65 @@ src=[",'].*([".'])
 
 
 
+<item>
+  <title>TEST | http://www.20sat.com/new/melodyA.htm</title>
+  <link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=http://yooanime.com/player/jwplayer.flash.swf live=1 pageUrl=http://yooanime.com/free/embed.php?channel=melody_aflam&W=550&H=325</link>
+
+<regex>
+  <name>get-rtmp</name>
+  <expres>var yoo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-path</name>
+  <expres>_popyo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-app</name>
+  <expres>xave.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=melody_aflam</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+	
+<item>
+  <title>TEST | http://www.20sat.com/new/melodyA.htm</title>
+  <link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=http://yooanime.com/player/jwplayer.flash.swf live=1 pageUrl=http://yooanime.com/free/embed.php?channel=lbc&W=550&H=325</link>
+
+<regex>
+  <name>get-rtmp</name>
+  <expres>var yoo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=lbc</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-path</name>
+  <expres>_popyo.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=lbc</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+
+<regex>
+  <name>get-app</name>
+  <expres>xave.*?[",'](.*?)[",']\W</expres>
+  <page>http://yooanime.com/free/embed.php?channel=lbc</page>
+  <referer>http://www.20sat.com/new/melodyA.htm</referer>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 
