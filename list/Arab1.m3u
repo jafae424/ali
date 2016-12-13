@@ -293,7 +293,7 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 
 
 #EXTINF:-1,LBC
-http://yooanime.com/stream/LBC_HD/LBC_High.m3u8?user=sglsn5v1o3zmp5ep3wuquzblb345&session=d9175b9d7107d7f2ab2aa8c69457fc23646bc7f428ea841d305db86e3627e9b57b38b30deb565faff1cfb60a6c40816e69eba4adcfa37a74&hlsid=HTTP_ID_6845756&group_id=-1&starttime=20161108T154059.398120
+http://yooanime.com/stream/LBC_HD/LBC_High.m3u8?user=sglsplgjm455uwziika2vpybar45&session=74c91b778544da06ab2aa8c69457fc23646bc7f428ea841da329dcd63bd21e78195b074b4476cd5fdc14be5f134e3f799dbb095dada8b651&hlsid=HTTP_ID_7118420&group_id=-1&starttime=20161108T154059.398120
 
 #EXTINF:-1,Otv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/788.ts|User-Agent=VLC
@@ -311,9 +311,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.sof
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17968.ts|User-Agent=VLC
 
 
-
-#EXTINF:-1,AR | LBC INT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/marija/marija/2363.ts|User-Agent=VLC
 
 
 EXTINF:-1,AR-Otv
@@ -1035,8 +1032,7 @@ http://jafaer-tv.com
 
 
 #EXTINF:-1,mbc3
-http://yooanime.com/stream/MBC3_HD/MBC3_High.m3u8?user=sgls4zm0abuainauq0bxqaborcfn&session=18d255f6314069b72a9043b05d1f8b80d952ae1b58c24a624fdbdbaafe26c522bdc509ca2e9e6f424ea4f2df6a3ab12dbdcd668f28b322d8&hlsid=HTTP_ID_6848749&group_id=-1&starttime=20161202T165449.403852
-
+http://yooanime.com/stream/MBC3_HD/MBC3_High.m3u8?user=sgls2jskem55lvxd1o55n4lnyozz&session=ecaccb8b784ec9092a9043b05d1f8b80d952ae1b58c24a6265e3b7c701a18f089964ada6a718d44db410b73b1a8160d5bd718aaee5bc0881&hlsid=HTTP_ID_7118635&group_id=-1&starttime=20161202T165449.403852
 
 
 #EXTINF:-1,AR: Mody Kids
