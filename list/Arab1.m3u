@@ -17,7 +17,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 |User-Agent=VLC
 
 #EXTINF:-1,MBC
-http://yooanime.com/stream/MBC1_HD/MBC1_High.m3u8?user=sgls4aylee452cdpko453xpm5t55&session=5b31dec8a5298d293f8c0ca0545ade26d952ae1b58c24a629441b2fe6d7b8d9aa7bbc3995454febd18ad579867fdfe78b0b33ead5a9900d2&hlsid=HTTP_ID_6837994&group_id=-1&starttime=20161108T154059.462141
+http://yooanime.com/stream/MBC1_HD/MBC1_High.m3u8?user=sglseo3qhx45c3a1iv45kioxuxez&session=75420d8bf44968eb3f8c0ca0545ade26d952ae1b58c24a62903765b465c3a504aab1d1c11355942c6133f37f5c59bd8ee534952221b10e64&hlsid=HTTP_ID_7117222&group_id=-1&starttime=20161108T154059.462141
 
 #EXTINF:-1,MBC drama
 http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
