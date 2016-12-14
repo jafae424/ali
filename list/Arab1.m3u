@@ -660,7 +660,8 @@ http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
 http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1,Sat7 1 Arabic (Egypt)
 http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
-
+#EXTINF: -1,Mekameleen (Egypte)
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/media.m3u8
 
 
 
@@ -670,8 +671,68 @@ http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
 
-
-
+#EXTINF:-1,almasria1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/984.ts
+#EXTINF:-1,almasria2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/985.ts
+#EXTINF:-1,I24-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/898.ts
+#EXTINF:-1,Time-Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/436.ts
+#EXTINF:-1,Time-Taxi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/812.ts
+#EXTINF:-1,Star-Cin2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/427.ts
+#EXTINF:-1,Cinema-Shobra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/895.ts
+#EXTINF:-1,Abu-dhabi-yass
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/900.ts
+#EXTINF:-1,Moga-Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/894.ts
+#EXTINF:-1,Time-comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/813.ts
+#EXTINF:-1,Time-cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/814.ts
+#EXTINF:-1,star-Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/425.ts
+#EXTINF:-1,Rotana-masria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/412.ts
+#EXTINF:-1,Rotana-classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/413.ts
+#EXTINF:-1,Rotana-Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/411.ts
+#EXTINF:-1,Rotana-Aflem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/410.ts
+#EXTINF:-1,Melody-Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/881.ts
+#EXTINF:-1,Cbc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/460.ts
+#EXTINF:-1,Cbc-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/461.ts
+#EXTINF:-1,CBC-Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/464.ts
+#EXTINF:-1,CBC-Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/463.ts
+#EXTINF:-1,Cbc-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/462.ts
+#EXTINF:-1,Rotana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/513.ts
+#EXTINF:-1,Cinema-osn-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/800.ts
+#EXTINF:-1,Cinema-osn2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/799.ts
+#EXTINF:-1,Aflam1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/405.ts
+#EXTINF:-1,Aflam2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/406.ts
+#EXTINF:-1,Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/407.ts
+#EXTINF:-1,Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/408.ts
+#EXTINF:-1,Hekayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/409.ts
+#EXTINF:-1,Zee-Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/2014/2014/414.ts
 
 
 
