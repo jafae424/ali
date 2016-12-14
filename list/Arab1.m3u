@@ -18,6 +18,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 #EXTINF:-1,MBC
 http://yooanime.com/stream/MBC1_HD/MBC1_High.m3u8?user=sglseo3qhx45c3a1iv45kioxuxez&session=75420d8bf44968eb3f8c0ca0545ade26d952ae1b58c24a62903765b465c3a504aab1d1c11355942c6133f37f5c59bd8ee534952221b10e64&hlsid=HTTP_ID_7117222&group_id=-1&starttime=20161108T154059.462141
+http://yooanime.com/stream/MBC1_HD.m3u8?user=sglshomswb45b0ojvaia0g0535fo&session=43f2a63a4c468b4e3f8c0ca0545ade26d952ae1b58c24a62d94fa94414bf84deb3b2b987e452a63365f05e93f0a641ce1c28556320dc4418
 
 #EXTINF:-1,MBC drama
 http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
@@ -517,8 +518,8 @@ http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 http://jafaer-tv.com
 
 
-
-
+#EXTINF:-1,Rotana
+http://yooanime.com/stream/RotanaCinema_HD.m3u8?user=sglse405ld55k5xafyfwhqjq5n45&session=e3e62fc322515d5a05de3bc032a7b83228d8feeed91d4a9fd952ae1b58c24a628f952865a6b93cf71c0d6bda58931e99ddcf94c4ae239c631dc89cf46058db75
 
 
 
