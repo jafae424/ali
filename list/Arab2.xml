@@ -59,7 +59,34 @@
 </item>
 
 
-
+<item>
+<title>[COLOR green]MBC1 [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_2</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_2</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_2</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=mbc_2&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 
@@ -3476,20 +3503,35 @@ src=[",'].*([".'])
 <item>	<title>SM SM KIDS</title><link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link><item>
 
 
+
+
+
 <item>
-<title>MBC 2 RegEx </title>
+<title>YooAnime MakeList **http://yooanime.com**</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
 <link>$doregex[getM3U8]</link>
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a href="#!(.*?)".*?img src="(.*?)".*?\s.*?alt=".*?> (.*?)<]]></expres>
+<page>http://yooanime.com</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <regex>
 <name>getIP</name>
 <expres>ip:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=mbc_2</page>
+<page>http://yooanime.com/free/embed.php?channel=[makelist.param1]</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getToken</name>
 <expres>token:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=mbc_2</page>
+<page>http://yooanime.com/free/embed.php?channel=[makelist.param1]</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -3497,13 +3539,11 @@ src=[",'].*([".'])
 <name>getM3U8</name>
 <expres>url : '(.*?)'</expres>
 <page>http://yooanime.com/free/access.php</page>
-<referer>http://yooanime.com/free/embed.php?channel=mbc_2</referer>
+<referer>http://yooanime.com/free/embed.php?channel=[makelist.param1]</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<rawpost>channel=mbc_2&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<rawpost>channel=[makelist.param1]&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
 <x-req>XMLHttpRequest</x-req>
 <cookieJar></cookieJar>
 </regex>
 </item>
-
-
 </streamingInfos>
