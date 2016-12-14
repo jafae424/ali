@@ -17,9 +17,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 |User-Agent=VLC
 
 #EXTINF:-1,MBC
-http://yooanime.com/stream/MBC1_HD/MBC1_High.m3u8?user=sglseo3qhx45c3a1iv45kioxuxez&session=75420d8bf44968eb3f8c0ca0545ade26d952ae1b58c24a62903765b465c3a504aab1d1c11355942c6133f37f5c59bd8ee534952221b10e64&hlsid=HTTP_ID_7117222&group_id=-1&starttime=20161108T154059.462141
-http://yooanime.com/stream/MBC1_HD.m3u8?user=sglshomswb45b0ojvaia0g0535fo&session=43f2a63a4c468b4e3f8c0ca0545ade26d952ae1b58c24a62d94fa94414bf84deb3b2b987e452a63365f05e93f0a641ce1c28556320dc4418
-
+http://yooanime.com/stream/MBC1_HD/MBC1_High.m3u8?user=sglscre0h3vlnfrjvo45fb3ws3jk&session=ca7c00446563dc3f3f8c0ca0545ade26d952ae1b58c24a62e5cabd92213838610fe359fa61a82bd55d91421bfcb4521af70153eb5206c845&hlsid=HTTP_ID_7185737&group_id=-1&starttime=20161108T154059.462141 
 #EXTINF:-1,MBC drama
 http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
 #EXTINF:-1,MBC-1
@@ -518,8 +516,7 @@ http://jafaer-tv.com
 
 
 #EXTINF:-1,Rotana
-http://yooanime.com/stream/RotanaCinema_HD.m3u8?user=sglse405ld55k5xafyfwhqjq5n45&session=e3e62fc322515d5a05de3bc032a7b83228d8feeed91d4a9fd952ae1b58c24a628f952865a6b93cf71c0d6bda58931e99ddcf94c4ae239c631dc89cf46058db75
-
+http://yooanime.com/stream/RotanaCinema_HD/RotanaCinema_High.m3u8?user=sglsbtiug3ym1pmiihi3c452kyfl&session=f6fc8c08a155e8db05de3bc032a7b83228d8feeed91d4a9fd952ae1b58c24a62372f2d62345f572171d95860d8b6ca21eddd49ea1305d2f750fb6fe0731de1f3&hlsid=HTTP_ID_7186293&group_id=-1&starttime=20161108T154059.400121
 
 
 #EXTINF:-1,Rotana Aflam
@@ -1084,8 +1081,7 @@ http://jafaer-tv.com
 
 
 #EXTINF:-1,mbc3
-http://yooanime.com/stream/MBC3_HD/MBC3_High.m3u8?user=sgls2jskem55lvxd1o55n4lnyozz&session=ecaccb8b784ec9092a9043b05d1f8b80d952ae1b58c24a6265e3b7c701a18f089964ada6a718d44db410b73b1a8160d5bd718aaee5bc0881&hlsid=HTTP_ID_7118635&group_id=-1&starttime=20161202T165449.403852
-
+http://yooanime.com/stream/MBC3_HD/MBC3_High.m3u8?user=sglspltqhx55kg51x4rbim0rnwmg&session=a48272b62adbee292a9043b05d1f8b80d952ae1b58c24a62cd8eb26e5d570dde845565f0ff946f8bff2307ce61353f8625a86d67f9d23363&hlsid=HTTP_ID_7186629&group_id=-1&starttime=20161202T165449.403852 
 
 #EXTINF:-1,AR: Mody Kids
 http://live.softiptv.com:9900/live/3month/3month/17970.m3u8|User-Agent=VLC
