@@ -3487,6 +3487,34 @@ src=[",'].*([".'])
 
 
 
+<item>
+<title>MBC 3</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_3</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_3</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_3</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=mbc_3&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
 <item>	
 <title>cartoon network arabic</title>
 <link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
@@ -3506,44 +3534,5 @@ src=[",'].*([".'])
 
 
 
-<item>
-<title>YooAnime MakeList **http://yooanime.com**</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[getM3U8]</link>
-<thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[a href="#!(.*?)".*?img src="(.*?)".*?\s.*?alt=".*?> (.*?)<]]></expres>
-<page>http://yooanime.com</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getIP</name>
-<expres>ip:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getToken</name>
-<expres>token:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getM3U8</name>
-<expres>url : '(.*?)'</expres>
-<page>http://yooanime.com/free/access.php</page>
-<referer>http://yooanime.com/free/embed.php?channel=[makelist.param1]</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<rawpost>channel=[makelist.param1]&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
-<x-req>XMLHttpRequest</x-req>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 </streamingInfos>
