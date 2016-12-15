@@ -20,13 +20,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Jafaer</cname>
-	<item>
-	<title>[COLOR green]Help us by donation to------ PayPal.Me/jafaertv------[/COLOR]</title>
-	<link>http://win15.yayin.com</link>
-	</item>
-</streaminginfo>
+
 
 
 
@@ -94,19 +88,19 @@
 </item>
 
 <item>
-<title>[COLOR green]mbc_drama [/COLOR]</title>
+<title>[COLOR green]mbc_masr2 [/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getIP</name>
 <expres>ip:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=mbc_drama</page>
+<page>http://yooanime.com/free/embed.php?channel=mbc_masr2</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getToken</name>
 <expres>token:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=mbc_drama</page>
+<page>http://yooanime.com/free/embed.php?channel=mbc_masr2</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -114,14 +108,14 @@
 <name>getM3U8</name>
 <expres>url : '(.*?)'</expres>
 <page>http://yooanime.com/free/access.php</page>
-<referer>http://yooanime.com/free/embed.php?channel=mbc_drama</referer>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_masr2</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<rawpost>channel=mbc_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<rawpost>channel=mbc_masr2&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
 <x-req>XMLHttpRequest</x-req>
 <cookieJar></cookieJar>
 </regex>
 </item>
-mbc_masr
+
 
 
 <item>
