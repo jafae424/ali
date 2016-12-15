@@ -4412,7 +4412,7 @@ src=[",'].*([".'])
 
 
 <item>	
-<title>national geographic abu-dhabi</title>
+<title>[COLOR green]national geographic abu-dhabi [/COLOR]</title>
 <link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
 <regex>
 <name>get_url</name>
@@ -4429,7 +4429,8 @@ src=[",'].*([".'])
 
 
 <item>
-<title>MBC 3</title>
+
+<title>[COLOR green]MBC 3 [/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getIP</name>
@@ -4456,11 +4457,12 @@ src=[",'].*([".'])
 <cookieJar></cookieJar>
 </regex>
 </item>
-http://yooanime.com/free/embed.php?channel=taha	
+
 
 	
 <item>
-<title>Taha</title>
+	
+<title>[COLOR green]Taha [/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getIP</name>
@@ -4490,8 +4492,9 @@ http://yooanime.com/free/embed.php?channel=taha
 	
 spacetoon	
 	
-	<item>
-<title>spacetoon</title>
+<item>
+	
+<title>[COLOR green]spacetoon [/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getIP</name>
@@ -4520,8 +4523,9 @@ spacetoon
 </item>
 
 	
-		<item>
-<title>baraem</title>
+<item>
+	
+<title>[COLOR green]baraem [/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getIP</name>
@@ -4550,7 +4554,8 @@ spacetoon
 </item>
 	
 <item>	
-<title>cartoon network arabic</title>
+
+<title>[COLOR green]cartoon network arabic [/COLOR]</title>
 <link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
 <regex>
 <name>get_url</name>
