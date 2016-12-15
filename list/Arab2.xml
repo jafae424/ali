@@ -3211,39 +3211,7 @@ src=[",'].*([".'])
 
     
    
- 
   
-    
- 
-
-
-<streaminginfo>
-        <cname>Aljazeera Doc</cname>
-	<item>
-	<title>Aljazeera Doc</title>
-	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
-	</item>
-</streaminginfo>
-    
-    
-    
-    
-    
- 
-  
-
-
-
-<item>
-<title>Sponge Bob</title>
-<link>plugin://plugin.video.veetle/?channel=50686cb1bbaa9</link>
-<thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/01/SPONGEBOB.jpg</thumbnail>
-</item> 
-
-
-
-
-   
 
 
 
@@ -3313,7 +3281,7 @@ src=[",'].*([".'])
 </regex>
 </item>
 
-<item>
+
 <title>SUDAN TV*</title>
 <link>$doregex[m3u8]|User-Agent=iPhone</link>
 <regex>
@@ -3327,7 +3295,7 @@ src=[",'].*([".'])
   <x-req>XMLHttpRequest</x-req>
   <cookieJar></cookieJar>
 </regex>
-</item>
+
 
 
 
@@ -3375,7 +3343,7 @@ src=[",'].*([".'])
 
 
 
-<item>
+
 <item>
 <title>mbc2</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://alwhdat.net/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/embed.php?cid=mbc2</link>
@@ -3396,7 +3364,7 @@ src=[",'].*([".'])
   <expres>$epoctime$</expres>
   <page></page>
 </regex>
-</item>
+
 
 
 <title> 4</title>
@@ -3422,7 +3390,7 @@ src=[",'].*([".'])
 
 
 
-<item>
+
   <title>TEST | http://www.20sat.com/new/melodyA.htm</title>
   <link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=http://yooanime.com/player/jwplayer.flash.swf live=1 pageUrl=http://yooanime.com/free/embed.php?channel=melody_aflam&W=550&H=325</link>
 
@@ -3450,7 +3418,7 @@ src=[",'].*([".'])
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
 </regex>
 <thumbnail></thumbnail>
-</item>
+
 	
 
 
@@ -3463,7 +3431,13 @@ src=[",'].*([".'])
 
 
 
-
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>Aljazeera Doc</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
 
 
 
