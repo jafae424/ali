@@ -1141,137 +1141,245 @@ item>
 <thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
 </item>
     
+##############################################yoo
 
-
- <streaminginfo>
-        <cname>Cairo Cinema</cname>
-        <item>
-            <title>Cairo Cinema</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cc&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Cairo Drama</cname>
-        <item>
-            <title>Cairo Drama</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>CBC</cname>
-        <item>
-            <title>CBC</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    
-    <item>
-<title>cima</title>
-<link>rtmp://www.teledunet.net:1935/live?idu=$doregex[idupath]/ playpath=cima swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=1 live=1 timeout=60 pageUrl=http://www.watcharab.com/tv/teledunet.php?file=cima</link>
+<item>
+<title>[COLOR green]rotana_cinema [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
 <regex>
-<name>idupath</name>
-<expres>idu=([^"]+)\/</expres>
-<page>http://www.watcharab.com/tv/teledunet/idu.php</page>
-<rawpost>id=cima</rawpost>
-<referer>http://www.watcharab.com/tv/teledunet.php?file=cima</referer>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=rotana_cinema</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=rotana_cinema</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=rotana_cinema</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=rotana_cinema&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
 <x-req>XMLHttpRequest</x-req>
-<accept>*/*</accept>
+<cookieJar></cookieJar>
 </regex>
 </item>
-    <streaminginfo>
-        <cname>CBC 2</cname>
-        <item>
-            <title>CBC 2</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>CBC Drama</cname>
-        <item>
-            <title>CBC Drama</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
+<item>
+<title>[COLOR green]panorama_drama [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=panorama_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=panorama_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=panorama_drama</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=panorama_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR green]panorama_film [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=panorama_film</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=panorama_film</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=panorama_film</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=panorama_film&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR green]rotana_aflam [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=rotana_aflam</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=rotana_aflam</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=rotana_aflam</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=rotana_aflam&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR green]cima [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=cima</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=cima</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=cima</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=cima&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green]cbc_drama [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=cbc_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=cbc_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=cbc_drama</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=cbc_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR green]moga_cinema [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=moga_cinema</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=moga_cinema</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=moga_cinema</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=moga_cinema&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR green]cairo_drama [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=cairo_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=cairo_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=cairo_drama</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=cairo_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
   
-    <streaminginfo>
-        <cname>Cima</cname>
-        <item>
-            <title>Cima</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cima&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
  
 
 #######################################3
