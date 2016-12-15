@@ -1715,7 +1715,129 @@ item>
 </regex>
 </item>
 
+nahar
 
+
+
+<item>
+<title>[COLOR green]nahar [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=nahar</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=nahar&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR green]nahar 2[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar2</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar2</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=nahar2</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=nahar2&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR green]nahar_movie[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar_movie</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar_movie</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=nahar_movie</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=nahar_movie&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR green]Nahar_drama[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nahar_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=nahar_drama</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=nahar_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 
