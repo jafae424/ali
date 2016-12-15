@@ -33,30 +33,6 @@
 ###############################################33
 
 
-<item>	
-<title>Mbc-drama test</title>
-<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
-<regex>
-<name>get_url</name>
-<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
-<page>https://livetvhd.net/video/drama/mbc-drama-live-streaming-en-direct</page>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
-<referer>https://livetvhd.net/</referer>
-</regex>
-</item>
-
-
-<item>	
-<title>mbc-masr</title>
-<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
-<regex>
-<name>get_url</name>
-<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
-<page>https://livetvhd.net/video/generalistes/mbc-masr-live-streaming-en-direct</page>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
-<referer>hhttps://livetvhd.net</referer>
-</regex>
-</item>
 
 
 <item>
@@ -65,14 +41,14 @@
 <regex>
 <name>getIP</name>
 <expres>ip:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=mbc_2</page>
+<page>http://yooanime.com/free/embed.php?channel=mbc_1</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getToken</name>
 <expres>token:'(.*?)'</expres>
-<page>http://yooanime.com/free/embed.php?channel=mbc_2</page>
+<page>http://yooanime.com/free/embed.php?channel=mbc_1</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -80,15 +56,102 @@
 <name>getM3U8</name>
 <expres>url : '(.*?)'</expres>
 <page>http://yooanime.com/free/access.php</page>
-<referer>http://yooanime.com/free/embed.php?channel=mbc_2</referer>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_1</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-<rawpost>channel=mbc_2&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<rawpost>channel=mbc_1&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
 <x-req>XMLHttpRequest</x-req>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
+<item>
+<title>[COLOR green]mbc_drama [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_drama</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=mbc_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
+<item>
+<title>[COLOR green]mbc_drama [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_drama</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_drama</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=mbc_drama&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+mbc_masr
+
+
+<item>
+<title>[COLOR green]mbc_masr [/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_masr</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=mbc_masr</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=mbc_masr</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=mbc_masr&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <item>
 <title>MBC Drama G</title>
