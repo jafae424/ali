@@ -2287,28 +2287,415 @@ nahar
 src=[",'].*([".'])
 
 
-   
-    <streaminginfo>
-        <cname>Al oula Maroc</cname>
-        <item>
-            <title>Al oula Maroc</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=594&amp;height=404 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=594&amp;height=404</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=594&amp;height=404</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
+	
+	
+	
+<item>
+<title>[COLOR green]maghribia[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=maghribia</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=maghribia</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=maghribia</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=maghribia&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>	
+	
+
+<item>
+<title>[COLOR green]tamazight[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=tamazight</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=tamazight</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=tamazight</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=tamazight&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>		
+	
+	
+	
+	
+
+<item>
+<title>[COLOR green]assadisa[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=assadisa</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=assadisa</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=assadisa</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=assadisa&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>			
+	
+
+	
+	
+
+<item>
+<title>[COLOR green]2m[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=2m</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=2m</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=2m</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=2m&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>		
+	
+	
+	
+	
+<item>
+<title>[COLOR green]samira[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=samira</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=samira</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=samira</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=samira&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>		
+	
+	
+	
+	
+
+<item>
+<title>[COLOR green]algerie[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=algerie</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=algerie</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=algerie</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=algerie&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>		
+	
+	
+	
+	
+	
+
+	
+	
+
+<item>
+<title>[COLOR green]Hanibal[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=hanibal</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=hanibal</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=hanibal</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=hanibal&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>			
+	
+	
+	
+
+	
+	
+
+<item>
+<title>[COLOR green]tounesna[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=tounesna</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=tounesna</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=tounesna</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=htounesna&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>			
+	
+	
+	
+<item>
+<title>[COLOR green]tunisia_1[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=tunisia_1</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=tunisia_1</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=tunisia_1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=tunisia_1&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>			
+		
+	
+	
+	
+<item>
+<title>[COLOR green]nessma[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nessma</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=nessma</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=nessma</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=nessma&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>		
+	
+	
+
+	
+<item>
+<title>[COLOR green]a3[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=a3</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=a3</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=a3</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=a3&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>	
+	
+	
+	
+	
+<item>
+<title>[COLOR green]hiwar_tounsi[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getIP</name>
+<expres>ip:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=hiwar_tounsi</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getToken</name>
+<expres>token:'(.*?)'</expres>
+<page>http://yooanime.com/free/embed.php?channel=hiwar_tounsi</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>url : '(.*?)'</expres>
+<page>http://yooanime.com/free/access.php</page>
+<referer>http://yooanime.com/free/embed.php?channel=hiwar_tounsi</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<rawpost>channel=hiwar_tounsi&amp;token=$doregex[getToken]&amp;ip=$doregex[getIP]</rawpost>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+</regex>
+</item>		
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     
-    <item>
+ <item>
 <title>التاسعة Attasi3a</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_attassia&amp;width=594&amp;height=404 live=1 swfVfy=1</link>
 <regex>
