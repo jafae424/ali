@@ -16,8 +16,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 |User-Agent=VLC
 
-#EXTINF:-1,MBC
-http://yooanime.com/stream/MBC1_HD/MBC1_High.m3u8?user=sglscre0h3vlnfrjvo45fb3ws3jk&session=ca7c00446563dc3f3f8c0ca0545ade26d952ae1b58c24a62e5cabd92213838610fe359fa61a82bd55d91421bfcb4521af70153eb5206c845&hlsid=HTTP_ID_7185737&group_id=-1&starttime=20161108T154059.462141 
+
 #EXTINF:-1,MBC drama
 http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
 #EXTINF:-1,MBC-1
