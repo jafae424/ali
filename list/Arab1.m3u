@@ -123,8 +123,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.t
 
 
 
-
-
+#EXTINF:-1,National Geographic AD
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 http:jafaertv.com
@@ -878,6 +878,13 @@ http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
 http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8
 #EXTINF:-1,El Bilad TV (Algeria)
 http://elbilad.streamakaci.com/elbilad/elbilad.stream/playlist.m3u8
+#EXTINF:-1,Wataniya 1
+http://s3.live-tv-direct.com:8005/WATANIYA1/playlist.m3u8
+#EXTINF:-1,Wataniya 2
+http://s3.live-tv-direct.com:8005/WATANIYA2/playlist.m3u8
+#EXTINF:-1,El Hiwar Ettounsi TV
+http://s3.live-tv-direct.com:8005/EL_HIWAR_ETTOUNSSI/playlist.m3u8
+
 
 
 #EXTINF:-1, المغربية 5
