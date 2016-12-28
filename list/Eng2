@@ -2,7 +2,1796 @@
 
 
 
+((((((((((((((((((((
 
+
+
+<item>
+<title>AMC</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/AMC.png</thumbnail>
+</item>
+
+<item>
+<title>FOX</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/fox.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/fox.png</thumbnail>
+</item>
+
+<item>
+<title>FX</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/fx.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/fx.png</thumbnail>
+</item>
+
+<item>
+<title>HBO</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/hbo.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/HBO.png</thumbnail>
+</item>
+
+
+<item>
+<title>HBO HD</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/hbohd.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/HBO.png</thumbnail>
+</item>
+
+<item>
+<title>FX</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/fx.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/FX.png</thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/axn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/AXN.png</thumbnail>
+</item>
+
+<item>
+<title>Syfy</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/syfy.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Syfy%20UK.png</thumbnail>
+</item>
+
+<item>
+<title>ABC</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/abc.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/abc.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>ABC Family</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/abcfamily.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/abcfamily.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>CBS</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/cbs.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/cbs.png</thumbnail>
+</item>
+
+
+<item>
+<title>USA NETWORK</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/usanetwork.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/usanetwork.png</thumbnail>
+</item>
+
+<item>
+<title>Times Now</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/timesnow.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/history.png</thumbnail>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxnews.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/foxnews.png</thumbnail>
+</item>
+
+<item>
+<title>CNN News</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/cnn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/cnn.png</thumbnail>
+</item>
+
+<item>
+<title>NBC</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbc.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/nbc.png</thumbnail>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/msnbc.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/msnbc.png</thumbnail>
+</item>
+
+<item>
+<title>CNBC TV18</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/cnbctv18.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/cnbctv18.png</thumbnail>
+</item>
+
+<item>
+<title>CNBC TV18 Prime</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/cnbctv18primehd.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/cnbctv18primehd.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/discovery.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/discovery.png</thumbnail>
+</item>
+
+
+<item>
+<title>Discovery HD</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/discoveryhd.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/discoveryhd.png</thumbnail>
+</item>
+
+
+<item>
+<title>History</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/history.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/history.png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/cartoonnetwork.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/cartoonnetwork.png</thumbnail>
+</item>
+
+
+<item>
+<title>Nickelodeon</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nick.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/nick.png</thumbnail>
+</item>
+
+
+<item>
+<title>Disney Channel</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/disneychannel.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/disneychannel.png</thumbnail>
+</item>
+
+<item>
+<title>Disney XD</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/disneyxd.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/disneyxd.png</thumbnail>
+</item>
+
+
+<item>
+<title>Disney Junior</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/disneyjunior.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/disneyjunior.png</thumbnail>
+</item>
+
+<item>
+<title>Sony SIX</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sonysix.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/sonysix.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Ten Sports</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tensports.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/tensports.png</thumbnail>
+</item>
+
+
+<item>
+<title>NBA TV</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbatv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/nbatv.png</thumbnail>
+</item>
+
+<item>
+<title>TSN</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/tsn.png</thumbnail>
+</item>
+
+
+<item>
+<title>TSN2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tsn2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/tsn2.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_4500k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NFL Network (Not geo Blocked)</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nflnetwork.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/nflnetwork.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>PTV Sports</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/ptvsports.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/ptvsports.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>NBCSN</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbcsn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/nbcsn.png</thumbnail>
+</item>
+
+<item>
+<title>GEO Super</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/geosuper.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/geosuper.png</thumbnail>
+</item>
+
+
+<item>
+<title>Ten Cricket</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tencricket.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/tencricket.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Ten Action</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tenaction.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/tenaction.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Star Sports</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/starsports.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/starsports.png</thumbnail>
+</item>
+
+
+<item>
+<title>Star Cricket</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/starcricket.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/starcricket.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Sportnet World</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetworld.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/sportsnetworld.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Sportsnet ONE</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetone.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/sportsnetone.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sportsnet Otario</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetontario.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/sportsnetontario.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>CW TV</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/cwtv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/cwtv.png</thumbnail>
+</item>
+
+<item>
+<title>TNT</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/tnt.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/TNT.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/animalplanet.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Animal%20Planet%20UK.png</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;streamtype=TSDOWNLOADER;name=Disney Channel</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/disneychannel.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Disney%20Channel.png</thumbnail>
+</item>
+
+<item>
+<title>beIN Movies 1</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinmovies1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinmovies1.png</thumbnail>
+</item>
+
+
+<item>
+<title>beIN Movies 2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinmovies2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinmovies2.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>beIN Movies 3</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinmovies3.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/beinmovies3.png</thumbnail>
+</item>
+
+
+<item>
+<title>Russia Today (RT U.S)</title>
+<link>http://rt.api.visionip.tv/live/ASHTTP/RT_America-HD/playlist.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Russia%20Today.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>TWIT Tech News</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/TWIT%20News.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>FOX News</title>
+<link>http://iliketot.dyndns.tv/tot/web/1e2041858ca543fa90ec95d28197e907.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Fox%20News.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>Bloomberg News (U.S)</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Bloomberg.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+
+<item>
+<title>CBSN (U.S)</title>
+<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/CBSN.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>GLOBAL BC NEWS (U.S)</title>
+<link>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Global%20BC%20News.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>City of Boston News (U.S)</title>
+<link>rtmp://streaming.cityofboston.gov/live/cable</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/City%20of%20boston%20news.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+
+<item>
+<title>ESPN</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/espn.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/ESPN.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Arizona</title>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8?</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Arizona.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Bay Area</title>
+<link>http://xrxs.net/video/live-p12baya-1164.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Bay%20Area.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 L.A</title>
+<link>http://xrxs.net/video/live-p12losa-1164.m3u8?</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Los%20Angeles.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Mountian</title>
+<link>http://xrxs.net/video/live-p12moun-1164.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Mountain.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 origon</title>
+<link>http://xrxs.net/video/live-p12oreg-1164.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Oregon.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 washington</title>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8?</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Washington.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Network</title>
+<link>http://xrxs.net/video/live-p12netw-1164.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/PAC-12%20Network.png</thumbnail>
+</item>
+
+
+------------------------------------------------------------------------------------------
+
+<item>
+<title>Super Sport 1</title>
+<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Super%20Sport%201.png</thumbnail>
+</item>
+
+<item>
+<title>Super Sport 2</title>
+<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Super%20Sport%202.png</thumbnail>
+</item>
+
+<item>
+<title>Super Sport 3</title>
+<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Super%20Sport%203.png</thumbnail>
+</item>
+
+<item>
+<title>Super Sport 4</title>
+<link>http://81.7.13.162/hls/ss4/index.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Super%20Sport%204.png</thumbnail>
+</item>
+
+------------------------------------------------------------------------------------------
+
+<item>
+<title>Poker Central</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Poker%20Central.png</thumbnail>
+</item>
+
+<item>
+<title>Red Bull TV</title>
+<link>http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_fb1660.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/Red%20Bull%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>WWE TV</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/wwetv.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/WWE%20Network.png</thumbnail>
+</item>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>NASA TV</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/NASA%20HD.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>HSN 1</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/HSN1.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+<item>
+<title>HSN 2</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31</link>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvlogos/HSN2.png</thumbnail>
+<fanart>https://i.imgsafe.org/eec4f53efa.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>3ABN English</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=291</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>3ABN Latino</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=293</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>3ABN Proclaim TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=119</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>AAB Corp</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=316</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ABC</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=451</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Acrobatic Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=588</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Ahlubayt TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=233</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Alkarma TV North America</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=306</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Animal Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=583</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ATV Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=620</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Beauty Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=560</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Bicycles</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=619</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Bikes Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=618</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Boat TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=626</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>CBS</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=452</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Cheerleaders Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=600</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Cisco Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=593</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Computer Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=629</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Cornerstone TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=300</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>Countries of the World TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=567</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>CTN</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=123</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title></title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=567</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>CYC</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=330</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Dance Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=575</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Day star</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=109</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>D.I.Y Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=597</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Documentary TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=568</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Electronics Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=595</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Enlance TV Latino</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=333</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Epic Fails</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=570</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Fashion M</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=606</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Fashion W</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=605</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Fitness M</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=607</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Fitness W</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=608</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Game PC</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=625</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Gaming Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=569</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Garden Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=624</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Giniko cooking</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=555</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Goofs and Spoofs</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=563</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Guide US TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=385</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Gymnastics TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=585</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Handguns Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=621</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Health and wellness TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=576</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Home channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=596</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Hunting Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=589</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Impact TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=236</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Juce TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=299</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Knife Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=622</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Lao Thai TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=240</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Linux Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=592</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>LLBN Latino</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=332</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Luxury cars Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=571</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Luxury Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=573</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Luxury Homes Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=572</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Luxury Yachts Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=574</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Mexican Food Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=586</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Miami TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=95</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Miami TV Life</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=321</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Miami TV Music</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=322</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title></title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=236</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Military Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=591</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Modern Dance</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=599</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Money Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=616</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Music Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=579</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Off road Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=587</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>OTT TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=628</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Programming Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=594</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Real Estate Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=614</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Reak eastate I channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=615</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Rev'N tv</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=279</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>SBN</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=331</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Server TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=627</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Smart Lifestyle TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=294</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Smile of a child</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=289</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>TA TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=242</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>TBN TV</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=301</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Ted Talks</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=598</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Yoga Channel</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>autoplay="true".*\s.*src="(.*?)"<expres>
+<page>http://www.giniko.com/watch.php?id=558</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+))))))))))))))))))))))))))))))))))))))))))))
 
 <item>
 <title>Al Jazeera Eng</title>
