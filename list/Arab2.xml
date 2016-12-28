@@ -4358,7 +4358,7 @@ src=[",'].*([".'])
 
 
 
-  <title>TEST | http://www.20sat.com/new/melodyA.htm</title>
+  <title>TEST | 20sat</title>
   <link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=http://yooanime.com/player/jwplayer.flash.swf live=1 pageUrl=http://yooanime.com/free/embed.php?channel=melody_aflam&W=550&H=325</link>
 
 <regex>
@@ -4389,6 +4389,518 @@ src=[",'].*([".'])
 	
 
 
+<item>	
+<title>Dubai Sports 3</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/dubai-sports-3-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Al hayat 2</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/al-hayat-2-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Nile Sport</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/nile-sport-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>On Sport</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/on-sport-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+
+<item>	
+<title>Maroc 3 arryadia</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/maroc-3-arryadia-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+-----------------------------------------------------
+
+<item>	
+<title>Arte Live</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/arte-tv-live-straming-en-direct</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>5 Monde</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/tv5-monde-europe-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>National Geographic Abu dhabi</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/national-geographic-abu-dhabi-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+---------------------------------------------------------
+
+<item>	
+<title>Rotana Music</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/rotana-music-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Rotana Clip</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/rotana-clip-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Aghania music</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/aghanina-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>NRJ TV</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/nrj-tv-(energy)-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Karameesh</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/karameesh-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+
+<item>	
+<title>MTV Lebanon</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/mtv-lebanon-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Music Now</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/music-now-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+---------------------------------------------------------------------------------------
+
+<item>	
+<title>France 2</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/france-2-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Rotana Masriya Egypt</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/rotana-masriya-egypt-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>MBC 1</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/mbc-1-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Rotana Khalijia</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/rotana-khalijia-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Zitouna TV</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/zitouna-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Al Jadeed</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/al-jadeed-new-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>NBN HD</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/nbn-tv-lebnanon-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Tele Liban</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/tele-liban-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Maroc 8 Tamazight</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/maroc-8-tamazight-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Maroc 4 Arrabiaa</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/maroc-4-arrabiaa-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Syria TV</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/syria-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+
+<item>	
+<title>Al Moustakillah</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/al-moustakillah-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Medi 1 Sat</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/medi1sat-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Dubai TV Al Oula</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/dubai-tv-al-oula-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Alg rie TV 4</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/algerie-tv-4-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>KSA Saudia 1</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/ksa-1-saudia-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>KSA Saudia 2</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/ksa-2-saudia-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>MBC Masr</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/mbc-masr-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>AL Hayat</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/al-hayat-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Al masriya</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/al-masriya-live-streaming-en-direct#!!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Moga Comedy</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/moga-comedy-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+
+<item>	
+<title>Panorama Food</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/panorama-food-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Hannibal TV</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/hannibal-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Nile Comedy</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/nile-comedy-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Al araby</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/al-araby-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Algerie 3 Thalitha TV</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/algerie-3-thalitha-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>2M Maroc</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/2m-maroc-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
 
 
 
@@ -4570,6 +5082,137 @@ spacetoon
 <item>	<title>SM SM KIDS</title><link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link><item>
 
 
+<item>	
+<title>Cartoon Network</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/cartoon-network-arabic-live-streaming-en-direct</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Taha kids</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/taha-kids-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Baraem Kids</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/baraem-kids-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Mody Kids</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/mody-kids-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>SemSem</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/semsem-kids-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Magid Kids</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/majid-kids-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Ajyal Saudi TV</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/ajyal-saudi-tv-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Toyor Al Janah</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/toyor-al-janah-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>MBC 3</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/mbc-3-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>Karameesh</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/karameesh-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
+
+<item>	
+<title>SpaceToon</title>
+<link>$doregex[get_url]|User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/23.0.0.207&amp;Accept=*/*</link>
+<regex>
+<name>get_url</name>
+<expres><![CDATA[source src="(.*?playlist.*?)"]]></expres>
+<page>https://livetvhd.net/embed/space-toon-live-streaming-en-direct#!</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<referer>https://www.arablive-tv.com/</referer>
+</regex>
+</item>
 
 
 
