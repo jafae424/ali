@@ -29,18 +29,7 @@ http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
 http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
 #EXTINF:-1,MBC Variety HD
 http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
-#EXTINF:-1,MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/388.ts|User-Agent=VLC
 
-#EXTINF:-1,MBC3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/504.ts|User-Agent=VLC
-
-#EXTINF:-1,Mbc-MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/390.ts|User-Agent=VLC
-#EXTINF:-1,Mbc-MASR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/391.ts|User-Agent=VLC
-#EXTINF:-1,Mbc-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/392.ts|User-Agent=VLC
 
 
 
@@ -739,7 +728,7 @@ rtmp://149.202.206.50:1935/myapp/972?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 EXTINF:-1,العربية
 rtmp://149.202.206.50:1935/myapp/971?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 EXTINF:-1,الجزيرة
-rtmp://149.202.206.50:1935/myapp/968?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+https://live01.cdn.web.tv/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8?st=IHypq9RVa0Tak7r_rfAgzQ&e=1483466212
 
 
 #EXTINF:-1,AR-AlJazeera
@@ -763,7 +752,6 @@ http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1 group-title=”ARABIC”,AL HADATH الحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
 
 
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
