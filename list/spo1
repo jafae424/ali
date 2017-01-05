@@ -71,6 +71,37 @@ rtmp://149.202.206.50:1935/myapp/996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
 
+
+
+#EXTINF:-1,BEIN_SPORTS_1
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/1.m3u8
+#EXTINF:-1,BEIN_SPORTS_2
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/2.m3u8
+
+#EXTINF:-1,BEIN_SPORTS_3
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/3.m3u8
+
+#EXTINF:-1,BEIN_SPORTS_4
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/4.m3u8
+
+#EXTINF:-1,BEIN_SPORTS_5
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/5.m3u8
+
+#EXTINF:-1,BEIN_SPORTS_6
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/6.m3u8
+
+#EXTINF:-1,BEIN_SPORTS_7
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/7.m3u8
+#EXTINF:-1,BEIN_SPORTS 8
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/8.m3u8
+#EXTINF:-1,BEIN_SPORTS 9
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/9.m3u8
+#EXTINF:-1,BEIN_SPORTS10
+http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/10.m3u8
+
+
+
+
 EXTINF:-1,AR:beIN_Sports_1_HD,
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jafaer-tv
 
