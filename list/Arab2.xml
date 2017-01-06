@@ -60,10 +60,27 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>mbcaction test</title>
+<link>rtmp://web6.iptv-planet.com:1937/live2 app=live2 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&width=594&height=404&key2=1120 live=1 playpath=$doregex[get-playpath] flashVer=WIN\2019,0,0,245 swfVfy=1</link>
 
+<regex>
+<name>getrtmp</name>
+<expres>streamer="(.*?)";</expres>
+<referer>http://iptv-planet.com/mbcaction.html</referer>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&width=594&height=404&key2=1120</page>
+</regex>
+<regex>
+<name>get-playpath</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&width=594&height=404&key2=1120</page>
 
+<referer>http://iptv-planet.com/mbcaction.html</referer>
 
-
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
