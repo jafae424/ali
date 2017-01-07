@@ -33,20 +33,14 @@ http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
 
 
 
-#EXTINF:-1,AR: MBC Variety HD
+EXTINF:-1,AR: MBC Variety HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17974.ts|User-Agent=VLC
-#EXTINF:-1,AR: MBC Drama HD
+EXTINF:-1,AR: MBC Drama HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17979.ts|User-Agent=VLC
-#EXTINF:-1,AR: MBC 1 HD
+EXTINF:-1,AR: MBC 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17888.ts|User-Agent=VLC
 
 
-EXTINF:-1,MBC_1
-rtmp://149.202.206.50:1935/myapp/984?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-EXTINF:-1,mbc masar 1
-rtmp://149.202.206.50:1935/myapp/988?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
-EXTINF:-1,mbc masar 2
-rtmp://149.202.206.50:1935/myapp/989?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
 
 
 #EXTINF:-1,MBC 2
@@ -95,20 +89,7 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,Cinema-osn-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/800.ts|User-Agent=VLC
-#EXTINF:-1,Cinema-osn2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/799.ts|User-Agent=VLC
-#EXTINF:-1,Aflam1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/405.ts|User-Agent=VLC
-#EXTINF:-1,Aflam2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/406.ts|User-Agent=VLC
-#EXTINF:-1,Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/407.ts|User-Agent=VLC
-#EXTINF:-1,Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/408.ts|User-Agent=VLC
-#EXTINF:-1,Hekayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/409.ts|User-Agent=VLC
+
 
 
 
@@ -291,14 +272,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.t
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/819.ts|User-Agent=VLC
 #EXTINF:-1,Lbc
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esiptv.tn:7500/live/ge101/ge101/472.ts|User-Agent=VLC
-#EXTINF:-1,AR: NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17966.ts|User-Agent=VLC
-#EXTINF:-1,AR: MTV Lebanon Backup
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17967.ts|User-Agent=VLC
-#EXTINF:-1,AR: MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/17968.ts|User-Agent=VLC
-
-
 
 
 EXTINF:-1,AR-Otv
