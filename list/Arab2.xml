@@ -53,7 +53,13 @@ algerie 3
 </item>
 
 
-
+<item>
+<title>CBC SOFRA</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/cbcsofra/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-DDZNkf1PP1Y/AAAAAAAAAAI/AAAAAAAAAAA/NW_oYe4k1L0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-DDZNkf1PP1Y/AAAAAAAAAAI/AAAAAAAAAAA/NW_oYe4k1L0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+</item>
 
 
 
