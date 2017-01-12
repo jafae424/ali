@@ -21,6 +21,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
+#EXTINF:-1, [COLOR green]  واضغط على التحديث سيخذ بعض الوقت للتحميل[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+
+#EXTINF:-1, [COLOR green]  بعد الانتهاء افصل الكهرباء من الجهاز وقم بتشغيله مرة اخرئ[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+
+
+#EXTINF:-1, [COLOR green]  يمكنكم الاتصال بنا على الفيس بوك[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+
+#EXTINF:-1, [COLOR green]  https://www.facebook.com/JafaerTv/[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
