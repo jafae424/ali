@@ -13,6 +13,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
+#EXTINF:-1, [COLOR green] لتحديث القنوات اذهب الى Myaddon[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+
+#EXTINF:-1, [COLOR green] ومن بعدها ابحث عن صورة مكتوب عليها في العربي انا عراقي[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
