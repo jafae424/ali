@@ -1,5 +1,25 @@
 
 
+
+
+
+
+
+
+<item>لجلب من جميع القنوات
+<title>test3</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>[makelist.param2]</link>
+]]></listrepeat>
+<expres>.*?channel_title":"(.*?)".*?channel_url":"(.*?)"</expres>
+<page>http://ctnovallc.com/livetv_web_services_free/api.php?cat_id=1&action=get_video_list</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
 ###### from web.tv#######
 <streaminginfo>
 	<cname>Rai sport 2</cname>
@@ -21,25 +41,7 @@
 #########################
 
 
-<streaminginfo>
-        <cname>Zee Aflam</cname>
-        <item>
-            <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
 
 
 ########################
